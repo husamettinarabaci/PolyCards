@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/language_data.dart';
 import '../models/word.dart';
 import '../services/locale_service.dart';
+import '../services/word_description_service.dart';
 
 class WordCardsScreen extends StatefulWidget {
   final String languageCode;
@@ -32,6 +33,9 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
 
   Future<void> _loadLanguageData() async {
     try {
+      // Load word descriptions first
+      await WordDescriptionService.loadWordDescriptions();
+      
       final data = await LocaleService.loadLanguage(widget.languageCode);
       setState(() {
         _languageData = data;
@@ -138,7 +142,7 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
                 ),
               ),
               Text(
-                'Category: ${word.category}',
+                'Category: ${WordDescriptionService.getCategory(word.id) ?? 'N/A'}',
                 style: textTheme.bodyMedium?.copyWith(
                   color: colorScheme.primary,
                   fontWeight: FontWeight.bold,
@@ -174,7 +178,7 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
                       ),
                       const SizedBox(height: 16),
                       Text(
-                        word.word,
+                        word.translation,
                         style: textTheme.displayMedium?.copyWith(
                           color: colorScheme.onSurface,
                           fontWeight: FontWeight.bold,

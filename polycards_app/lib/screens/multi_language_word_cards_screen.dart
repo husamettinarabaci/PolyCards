@@ -7,6 +7,7 @@ import '../models/word.dart';
 import '../providers/settings_provider.dart';
 import '../services/locale_service.dart';
 import '../services/text_to_speech_service.dart';
+import '../services/word_description_service.dart';
 
 class MultiLanguageWordCardsScreen extends StatefulWidget {
   final int? initialWordIndex;
@@ -24,6 +25,7 @@ class MultiLanguageWordCardsScreen extends StatefulWidget {
 class _MultiLanguageWordCardsScreenState
     extends State<MultiLanguageWordCardsScreen> {
   Map<String, LanguageData> _languagesData = {};
+  Map<String, String> _wordDescriptions = {};
   bool _isLoading = true;
   String? _errorMessage;
   int _currentIndex = 0;
@@ -48,6 +50,19 @@ class _MultiLanguageWordCardsScreenState
       final activeLanguages = settingsProvider.settings.activeLanguages;
 
       final Map<String, LanguageData> loadedData = {};
+
+      // Load word descriptions first
+      await WordDescriptionService.loadWordDescriptions();
+
+      // Load word descriptions
+      try {
+        final descriptions = await LocaleService.loadWordDescriptions();
+        setState(() {
+          _wordDescriptions = descriptions;
+        });
+      } catch (e) {
+        print('Error loading word descriptions: $e');
+      }
 
       for (final langCode in activeLanguages) {
         try {
@@ -199,7 +214,7 @@ class _MultiLanguageWordCardsScreenState
                   borderRadius: BorderRadius.circular(16),
                 ),
                 child: Text(
-                  englishWord.category.toUpperCase(),
+                  (WordDescriptionService.getCategory(englishWord.id) ?? 'N/A').toUpperCase(),
                   style: textTheme.bodySmall?.copyWith(
                     color: colorScheme.onPrimaryContainer,
                     fontWeight: FontWeight.bold,
@@ -236,7 +251,7 @@ class _MultiLanguageWordCardsScreenState
                         children: [
                           Flexible(
                             child: Text(
-                              englishWord.word,
+                              englishWord.translation,
                               style: textTheme.displaySmall?.copyWith(
                                 color: colorScheme.primary,
                                 fontWeight: FontWeight.bold,
@@ -249,7 +264,7 @@ class _MultiLanguageWordCardsScreenState
                             icon: const Icon(Icons.volume_up),
                             color: colorScheme.primary,
                             onPressed: () async {
-                              final success = await _ttsService.speak(englishWord.word, 'en');
+                              final success = await _ttsService.speak(englishWord.translation, 'en');
                               if (!success && mounted) {
                                 ScaffoldMessenger.of(context).showSnackBar(
                                   const SnackBar(
@@ -275,6 +290,27 @@ class _MultiLanguageWordCardsScreenState
                             fontStyle: FontStyle.italic,
                           ),
                           textAlign: TextAlign.center,
+                        ),
+                      ),
+                    ],
+                    
+                    // English description
+                    if (_wordDescriptions.containsKey(englishWord.id)) ...[
+                      const SizedBox(height: 8),
+                      Center(
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                          decoration: BoxDecoration(
+                            color: colorScheme.secondaryContainer.withOpacity(0.3),
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                          child: Text(
+                            _wordDescriptions[englishWord.id]!,
+                            style: textTheme.bodyMedium?.copyWith(
+                              color: colorScheme.onSecondaryContainer,
+                            ),
+                            textAlign: TextAlign.center,
+                          ),
                         ),
                       ),
                     ],
@@ -491,7 +527,7 @@ class _MultiLanguageWordCardsScreenState
             children: [
               Expanded(
                 child: Text(
-                  word.word,
+                  word.translation,
                   style: textTheme.headlineSmall?.copyWith(
                     fontWeight: FontWeight.bold,
                   ),
@@ -501,7 +537,7 @@ class _MultiLanguageWordCardsScreenState
                 icon: const Icon(Icons.volume_up),
                 color: colorScheme.primary,
                 onPressed: () async {
-                  final success = await _ttsService.speak(word.word, languageCode);
+                  final success = await _ttsService.speak(word.translation, languageCode);
                   if (!success && mounted) {
                     ScaffoldMessenger.of(context).showSnackBar(
                       SnackBar(

@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "word_0001",
+    "description": "A word used before nouns to indicate a specific person, place, or thing already known or mentioned.",
+    "category": "article"
+  },
+  {
+    "id": "word_0002",
+    "description": "To exist or live in a particular state or condition.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0003",
+    "description": "A word indicating direction, position, or recipient of an action.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0004",
+    "description": "A word indicating belonging, origin, or relationship.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0005",
+    "description": "A word connecting words, phrases, or clauses together.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0006",
+    "description": "A word used before singular nouns to indicate one unspecified person, place, or thing.",
+    "category": "article"
+  },
+  {
+    "id": "word_0007",
+    "description": "A word indicating position within or inside something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0008",
+    "description": "A word introducing a subordinate clause or indicating something specific.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0009",
+    "description": "To possess, own, or hold something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0010",
+    "description": "A word substituting for a noun.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0011",
+    "description": "A word referring to a thing previously mentioned or easily identified.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0012",
+    "description": "A word indicating purpose, benefit, or duration.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0013",
+    "description": "A word expressing negation or denial.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0014",
+    "description": "A word indicating position touching or supported by a surface.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0015",
+    "description": "A word indicating accompaniment or means.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0016",
+    "description": "A word referring to a male person previously mentioned.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0017",
+    "description": "A word indicating similarity, manner, or time.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0018",
+    "description": "A word referring to the person being addressed.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0019",
+    "description": "To perform or carry out an action or task.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0020",
+    "description": "A word indicating a specific location or time.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0021",
+    "description": "A word indicating something near in place or time.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0022",
+    "description": "A word introducing a contrast or exception.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0023",
+    "description": "A word indicating possession by a male person.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0024",
+    "description": "A word indicating agency, means, or proximity.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0025",
+    "description": "A word indicating origin, source, or starting point.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0026",
+    "description": "A word referring to people or things previously mentioned.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0027",
+    "description": "A word referring to the speaker together with others.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0028",
+    "description": "To speak or express words or thoughts.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0029",
+    "description": "A word referring to a female person as object or showing possession.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0030",
+    "description": "A word referring to a female person previously mentioned.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0031",
+    "description": "A word connecting alternatives or choices.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0032",
+    "description": "A word used before words beginning with a vowel sound to indicate one unspecified thing.",
+    "category": "article"
+  },
+  {
+    "id": "word_0033",
+    "description": "To perform the action of will.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0034",
+    "description": "A word indicating possession by the speaker.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0035",
+    "description": "The number 1.",
+    "category": "number"
+  },
+  {
+    "id": "word_0036",
+    "description": "A word indicating the whole quantity or extent.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0037",
+    "description": "To perform the action of would.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0038",
+    "description": "A word indicating existence or position at a distance.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0039",
+    "description": "A word indicating possession by people or things.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0040",
+    "description": "A word asking about or referring to a thing.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0041",
+    "description": "A word indicating degree or manner.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0042",
+    "description": "A word indicating movement to a higher position.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0043",
+    "description": "A word indicating movement away from inside.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0044",
+    "description": "A word introducing a conditional situation.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0045",
+    "description": "A word indicating the subject or topic of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0046",
+    "description": "A word asking about or referring to a person.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0047",
+    "description": "To obtain, receive, or acquire something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0048",
+    "description": "A word asking about or indicating a choice between alternatives.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0049",
+    "description": "To move or travel from one place to another.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0050",
+    "description": "A word referring to oneself as the object of a verb.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0051",
+    "description": "A word indicating the time at which something happens.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0052",
+    "description": "To create, produce, or cause something to exist.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0053",
+    "description": "To perform the action of can.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0054",
+    "description": "To perform the action of like.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0055",
+    "description": "The indefinite continued progress of events occurring in sequence.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0056",
+    "description": "A negative response.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0057",
+    "description": "A word indicating exactness or very recently.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0058",
+    "description": "A word referring to a male person as the object of a verb.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0059",
+    "description": "To have information, understanding, or awareness about something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0060",
+    "description": "To grasp, carry, or remove something from its place.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0061",
+    "description": "Human beings in general or as a group.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0062",
+    "description": "A word indicating movement toward the inside of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0063",
+    "description": "A period of twelve months or 365 days.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0064",
+    "description": "A word indicating possession by the person addressed.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0065",
+    "description": "Having desirable or positive qualities.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0066",
+    "description": "A word indicating an unspecified amount or number.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0067",
+    "description": "To perform the action of could.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0068",
+    "description": "A word referring to people or things as the object of a verb.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0069",
+    "description": "To perceive with the eyes or become aware of something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0070",
+    "description": "A word indicating something different or additional.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0071",
+    "description": "A word used in comparisons between two things.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0072",
+    "description": "A word indicating time after something or as a result.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0073",
+    "description": "A word indicating the present time.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0074",
+    "description": "To direct the eyes in order to see something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0075",
+    "description": "A word indicating exclusiveness or nothing more than.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0076",
+    "description": "To move toward or arrive at a place.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0077",
+    "description": "A word indicating possession by a thing.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0078",
+    "description": "A word indicating position above or across something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0079",
+    "description": "To use the mind to form ideas, opinions, or judgments.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0080",
+    "description": "A word indicating addition or inclusion.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0081",
+    "description": "A word indicating return to a previous position.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0082",
+    "description": "A word indicating a later time or following something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0083",
+    "description": "To employ something for a purpose or put into service.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0084",
+    "description": "The number 2.",
+    "category": "number"
+  },
+  {
+    "id": "word_0085",
+    "description": "A word asking about manner or condition.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0086",
+    "description": "A word indicating possession by the speaker and others.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0087",
+    "description": "Activity involving effort or a place of employment.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0088",
+    "description": "Coming before all others in time or order.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0089",
+    "description": "A word indicating good manner or satisfactory state.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0090",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0091",
+    "description": "A word emphasizing something unexpected or level.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0092",
+    "description": "Recently made, discovered, or created.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0093",
+    "description": "To have a desire or wish for something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0094",
+    "description": "A word giving the reason for something.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0095",
+    "description": "A word indicating one or more without specification.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0096",
+    "description": "Plural of this, indicating nearby things.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0097",
+    "description": "To transfer possession of something to someone else.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0098",
+    "description": "A period of twenty-four hours.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0099",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0100",
+    "description": "The objective case of we.",
+    "category": "pronoun"
+  },
+  {
+    "id": "word_0101",
+    "description": "Third person singular present of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0102",
+    "description": "Past tense of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0103",
+    "description": "Second person or plural present of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0104",
+    "description": "Past participle of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0105",
+    "description": "Third person singular of have.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0106",
+    "description": "Past tense of have.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0107",
+    "description": "Past tense plural of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0108",
+    "description": "Past tense of say.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0109",
+    "description": "Past tense of do.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0110",
+    "description": "Present participle of have.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0111",
+    "description": "Expressing possibility or permission.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0112",
+    "description": "Indicating obligation or advice.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0113",
+    "description": "Expressing necessity or obligation.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0114",
+    "description": "First person singular present of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0115",
+    "description": "Expressing possibility.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0116",
+    "description": "Present participle of be.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0117",
+    "description": "Third person singular of do.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0118",
+    "description": "Past participle of do.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0119",
+    "description": "Present participle of do.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0120",
+    "description": "Past tense of make.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0121",
+    "description": "Third person singular of make.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0122",
+    "description": "Present participle of make.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0123",
+    "description": "Past tense of go.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0124",
+    "description": "Present participle of go.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0125",
+    "description": "Third person singular of go.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0126",
+    "description": "Past tense of come.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0127",
+    "description": "Present participle of come.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0128",
+    "description": "Third person singular of come.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0129",
+    "description": "Past tense of see.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0130",
+    "description": "Past participle of see.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0131",
+    "description": "Present participle of see.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0132",
+    "description": "Third person singular of see.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0133",
+    "description": "Past tense of know.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0134",
+    "description": "Past participle of know.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0135",
+    "description": "Present participle of know.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0136",
+    "description": "Third person singular of know.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0137",
+    "description": "Past tense of take.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0138",
+    "description": "Past participle of take.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0139",
+    "description": "Present participle of take.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0140",
+    "description": "Third person singular of take.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0141",
+    "description": "Past tense of get.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0142",
+    "description": "Past participle of get.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0143",
+    "description": "Present participle of get.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0144",
+    "description": "Third person singular of get.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0145",
+    "description": "Past tense of think.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0146",
+    "description": "Present participle of think.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0147",
+    "description": "Third person singular of think.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0148",
+    "description": "Past tense of look.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0149",
+    "description": "Present participle of look.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0150",
+    "description": "Third person singular of look or appearance.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0151",
+    "description": "A greeting used when meeting someone.",
+    "category": "greeting"
+  },
+  {
+    "id": "word_0152",
+    "description": "A farewell said when parting.",
+    "category": "greeting"
+  },
+  {
+    "id": "word_0153",
+    "description": "An affirmative response.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0154",
+    "description": "A polite word used when requesting.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0155",
+    "description": "To express gratitude.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0156",
+    "description": "Expressing regret or apology.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0157",
+    "description": "To seek forgiveness or permission.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0158",
+    "description": "A greeting to someone arriving.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0159",
+    "description": "The period of time between midnight and noon.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0160",
+    "description": "The period of time between noon and evening.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0161",
+    "description": "The period of time at the end of the day.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0162",
+    "description": "The period of darkness between sunset and sunrise.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0163",
+    "description": "A word indicating the current day.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0164",
+    "description": "A word indicating the day after today.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0165",
+    "description": "A word indicating the day before today.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0166",
+    "description": "A period of seven days.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0167",
+    "description": "One of twelve divisions of a year.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0168",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0169",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0170",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0171",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0172",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0173",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0174",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0175",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0176",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0177",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0178",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0179",
+    "description": "Expressing possibility or permission.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0180",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0181",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0182",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0183",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0184",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0185",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0186",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0187",
+    "description": "The season between winter and summer when plants begin to grow.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0188",
+    "description": "The warmest season of the year between spring and autumn.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0189",
+    "description": "The season between summer and winter when leaves fall.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0190",
+    "description": "The coldest season of the year.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0191",
+    "description": "An adult human male.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0192",
+    "description": "An adult human female.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0193",
+    "description": "A young human being below the age of puberty.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0194",
+    "description": "A male child or young man.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0195",
+    "description": "A female child or young woman.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0196",
+    "description": "A very young child or infant.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0197",
+    "description": "An individual human being.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0198",
+    "description": "A group of people related by blood or marriage.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0199",
+    "description": "A person with whom one has a bond of mutual affection.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0200",
+    "description": "A female parent.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0201",
+    "description": "A male parent.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0202",
+    "description": "A person who has a child.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0203",
+    "description": "A male who shares the same parents as another.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0204",
+    "description": "A female who shares the same parents as another.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0205",
+    "description": "A male child in relation to parents.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0206",
+    "description": "A female child in relation to parents.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0207",
+    "description": "A married man in relation to his spouse.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0208",
+    "description": "A married woman in relation to her spouse.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0209",
+    "description": "A word by which a person or thing is known.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0210",
+    "description": "The end part of the arm with fingers.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0211",
+    "description": "The organ of sight.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0212",
+    "description": "The upper part of the body containing the brain.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0213",
+    "description": "The front part of the head.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0214",
+    "description": "The physical structure of a person or animal.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0215",
+    "description": "The lower extremity of the leg below the ankle.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0216",
+    "description": "The organ that pumps blood or the center of emotions.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0217",
+    "description": "A building for human habitation.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0218",
+    "description": "The place where one lives permanently.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0219",
+    "description": "A space within a building enclosed by walls.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0220",
+    "description": "A hinged barrier at the entrance to a room or building.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0221",
+    "description": "An opening in a wall fitted with glass.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0222",
+    "description": "A piece of furniture with a flat top and legs.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0223",
+    "description": "A seat for one person with a back.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0224",
+    "description": "A piece of furniture for sleeping.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0225",
+    "description": "An institution for education.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0226",
+    "description": "A group of students or a category.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0227",
+    "description": "A person who teaches, especially in a school.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0228",
+    "description": "A person who is learning at a school or university.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0229",
+    "description": "Written or printed pages bound together.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0230",
+    "description": "An instrument for writing with ink.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0231",
+    "description": "Material made from wood pulp for writing or printing.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0232",
+    "description": "A table for reading or writing.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0233",
+    "description": "A room or building where business work is done.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0234",
+    "description": "A paid position of employment.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0235",
+    "description": "A particular position, point, or area.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0236",
+    "description": "A large human settlement.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0237",
+    "description": "A nation with its own government.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0238",
+    "description": "A public road in a city or town.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0239",
+    "description": "A wide way for vehicles and people to travel.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0240",
+    "description": "A road vehicle with four wheels powered by an engine.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0241",
+    "description": "A large motor vehicle for carrying passengers.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0242",
+    "description": "A connected line of railway cars.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0243",
+    "description": "An aircraft with fixed wings.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0244",
+    "description": "A building where goods are sold.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0245",
+    "description": "A retail establishment selling items.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0246",
+    "description": "A place where goods are bought and sold.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0247",
+    "description": "A medium of exchange in the form of coins or notes.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0248",
+    "description": "Any nutritious substance consumed for nourishment.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0249",
+    "description": "A clear liquid essential for life.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0250",
+    "description": "A baked food made from flour and water.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0251",
+    "description": "The flesh of animals used as food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0252",
+    "description": "An aquatic animal or its flesh used as food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0253",
+    "description": "Grains from a cereal plant used as food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0254",
+    "description": "A plant grown for food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0255",
+    "description": "The seed-bearing part of a plant used as food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0256",
+    "description": "A round fruit with red or green skin.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0257",
+    "description": "An oval reproductive body laid by birds.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0258",
+    "description": "A white liquid produced by mammals.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0259",
+    "description": "A hot drink made from roasted beans.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0260",
+    "description": "A hot drink made by infusing dried leaves.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0261",
+    "description": "The first meal of the day.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0262",
+    "description": "A meal eaten in the middle of the day.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0263",
+    "description": "The main meal of the day, eaten in the evening.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0264",
+    "description": "An occasion when food is eaten.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0265",
+    "description": "A liquid for swallowing.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0266",
+    "description": "A small container for drinking.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0267",
+    "description": "A drinking container made of transparent material.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0268",
+    "description": "A flat dish for holding food.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0269",
+    "description": "A cutting instrument with a sharp blade.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0270",
+    "description": "An eating utensil with prongs.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0271",
+    "description": "An eating utensil with a bowl-shaped end.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0272",
+    "description": "Items worn to cover the body.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0273",
+    "description": "A garment for the upper body.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0274",
+    "description": "A garment covering the legs.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0275",
+    "description": "A one-piece garment for women.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0276",
+    "description": "A covering for the foot.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0277",
+    "description": "A covering for the head.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0278",
+    "description": "An outdoor garment with sleeves.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0279",
+    "description": "The property of an object producing different visual sensations.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0280",
+    "description": "The color of blood or a ripe tomato.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0281",
+    "description": "The color of the clear sky.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0282",
+    "description": "The color of growing grass.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0283",
+    "description": "The color of the sun or gold.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0284",
+    "description": "The color of milk or snow.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0285",
+    "description": "The darkest color, absence of light.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0286",
+    "description": "Of considerable size or extent.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0287",
+    "description": "Little in size or amount.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0288",
+    "description": "Of considerable or great size.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0289",
+    "description": "Small in size or amount.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0290",
+    "description": "Measuring a great distance from end to end.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0291",
+    "description": "Having little length or not lasting long.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0292",
+    "description": "Extending far upward or having great vertical dimension.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0293",
+    "description": "Not high or situated below normal height.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0294",
+    "description": "Having a high temperature.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0295",
+    "description": "Having a low temperature.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0296",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0297",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0298",
+    "description": "Having lived or existed for a long time.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0299",
+    "description": "Having lived for only a short time.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0300",
+    "description": "Feeling pleasure or contentment.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0301",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0302",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0303",
+    "description": "In need of sleep or rest.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0304",
+    "description": "Affected by physical illness.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0305",
+    "description": "In good physical or mental condition.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0306",
+    "description": "Moving or capable of moving at high speed.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0307",
+    "description": "Not moving quickly or taking a long time.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0308",
+    "description": "Not difficult or requiring little effort.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0309",
+    "description": "Solid, firm, or difficult to accomplish.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0310",
+    "description": "Correct, appropriate, or on the side opposite of left.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0311",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0312",
+    "description": "In accordance with fact or reality.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0313",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0314",
+    "description": "Identical or not different.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0315",
+    "description": "Not the same as another or not alike.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0316",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0317",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0318",
+    "description": "Happening near the beginning of a period.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0319",
+    "description": "Happening after the expected time.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0320",
+    "description": "Coming immediately after the present one.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0321",
+    "description": "Coming after all others in time or order.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0322",
+    "description": "Containing as much as possible.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0323",
+    "description": "Containing nothing or having no occupants.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0324",
+    "description": "Free from dirt or impurities.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0325",
+    "description": "Not clean or covered with dirt.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0326",
+    "description": "Protected from danger or harm.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0327",
+    "description": "Able or likely to cause harm.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0328",
+    "description": "Pleasing to the senses or aesthetically attractive.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0329",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0330",
+    "description": "Pleasant, enjoyable, or kind.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0331",
+    "description": "Of poor quality or undesirable.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0332",
+    "description": "Of higher quality or more suitable.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0333",
+    "description": "Of the highest quality or most suitable.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0334",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0335",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0336",
+    "description": "Of great significance or value.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0337",
+    "description": "Arousing curiosity or attention.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0338",
+    "description": "Requiring effort or skill to accomplish.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0339",
+    "description": "Able to happen or be done.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0340",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0341",
+    "description": "Required or needed.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0342",
+    "description": "Better, greater, or different from usual.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0343",
+    "description": "Certain or confident about something.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0344",
+    "description": "Easy to perceive or understand.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0345",
+    "description": "Prepared or willing to do something.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0346",
+    "description": "Easy to understand or not complicated.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0347",
+    "description": "Having much to do or actively occupied.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0348",
+    "description": "Not under control or costing nothing.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0349",
+    "description": "Making little or no noise.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0350",
+    "description": "Making or marked by intense sound.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0351",
+    "description": "Having little or no light.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0352",
+    "description": "Not heavy or having much illumination.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0353",
+    "description": "Of great weight or force.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0354",
+    "description": "Not hard or yielding easily to pressure.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0355",
+    "description": "Having great physical power or intensity.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0356",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0357",
+    "description": "Having much money or valuable resources.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0358",
+    "description": "Lacking money or of low quality.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0359",
+    "description": "Low in price or of poor quality.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0360",
+    "description": "Costing a lot of money.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0361",
+    "description": "Covered with or containing liquid.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0362",
+    "description": "Free from moisture or liquid.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0363",
+    "description": "To move something to create an entrance or access.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0364",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0365",
+    "description": "Having a great distance between sides.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0366",
+    "description": "Having a small width.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0367",
+    "description": "Extending far down or inward.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0368",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0369",
+    "description": "Having a large distance between opposite sides.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0370",
+    "description": "Having little thickness or not dense.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0371",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0372",
+    "description": "Feeling the need for food.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0373",
+    "description": "Feeling the need for drink.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0374",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0375",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0376",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0377",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0378",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0379",
+    "description": "Only one or not married.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0380",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0381",
+    "description": "A word indicating union or company with others.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0382",
+    "description": "To perform the action of eat.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0383",
+    "description": "To perform the action of sleep.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0384",
+    "description": "To perform the action of wake.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0385",
+    "description": "To move at a regular pace by lifting and setting down each foot.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0386",
+    "description": "To move rapidly on foot with a swift pace.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0387",
+    "description": "To rest with the body supported on the buttocks.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0388",
+    "description": "To be in an upright position on the feet.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0389",
+    "description": "To perform the action of lie.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0390",
+    "description": "To look at and comprehend written or printed words.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0391",
+    "description": "To form letters or words on a surface with a pen or pencil.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0392",
+    "description": "To utter words or express thoughts verbally.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0393",
+    "description": "To speak or communicate with words.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0394",
+    "description": "To perform the action of listen.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0395",
+    "description": "To perceive sound with the ears.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0396",
+    "description": "To observe or look at something attentively.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0397",
+    "description": "To engage in activity for enjoyment or recreation.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0398",
+    "description": "To obtain something in exchange for money.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0399",
+    "description": "To exchange goods or services for money.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0400",
+    "description": "To give money in exchange for goods or services.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0401",
+    "description": "To perform the action of cost.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0402",
+    "description": "Near in space, time, or relationship.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0403",
+    "description": "To begin an action, process, or journey.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0404",
+    "description": "To cease movement or action.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0405",
+    "description": "To perform the action of finish.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0406",
+    "description": "To discover or locate something that was lost or unknown.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0407",
+    "description": "To no longer have or be unable to find something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0408",
+    "description": "To achieve victory in a contest or competition.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0409",
+    "description": "To make an attempt or effort to do something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0410",
+    "description": "To require something essential or necessary.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0411",
+    "description": "To assist or aid someone in doing something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0412",
+    "description": "To speak loudly to get attention or to telephone someone.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0413",
+    "description": "To request information or a response from someone.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0414",
+    "description": "To communicate information or a story to someone.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0415",
+    "description": "To perform the action of answer.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0416",
+    "description": "To experience a physical sensation or emotion.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0417",
+    "description": "To begin to be or undergo a change into something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0418",
+    "description": "To depart from a place or abandon something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0419",
+    "description": "To carry or transport something to a place.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0420",
+    "description": "To occur or take place as an event.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0421",
+    "description": "To make visible or display something to others.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0422",
+    "description": "To allow or permit someone to do something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0423",
+    "description": "To retain possession of or continue to have something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0424",
+    "description": "To start or commence an action or process.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0425",
+    "description": "To appear to be or give the impression of being.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0426",
+    "description": "To come into the presence of someone for the first time or by arrangement.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0427",
+    "description": "To acquire knowledge or skills through study or experience.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0428",
+    "description": "To perform the action of teach.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0429",
+    "description": "To perform the action of study.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0430",
+    "description": "To comprehend the meaning or nature of something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0431",
+    "description": "To recall or bring back to mind from memory.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0432",
+    "description": "To perform the action of forget.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0433",
+    "description": "To stay in a place until an expected event happens.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0434",
+    "description": "To remain in a place or continue to be in a condition.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0435",
+    "description": "To have life or exist in a particular place.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0436",
+    "description": "To cease living or come to the end of life.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0437",
+    "description": "To have a deep affection or care for someone or something.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0438",
+    "description": "To perform the action of hate.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0439",
+    "description": "To perform the action of hope.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0440",
+    "description": "To perform the action of wish.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0441",
+    "description": "To accept something as true or have faith in.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0442",
+    "description": "To make a choice or come to a conclusion.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0443",
+    "description": "To perform the action of choose.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0444",
+    "description": "To cause something to go or be taken to a destination.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0445",
+    "description": "To perform the action of receive.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0446",
+    "description": "To place or position something in a specific location.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0447",
+    "description": "To perform the action of hold.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0448",
+    "description": "To perform the action of catch.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0449",
+    "description": "To perform the action of throw.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0450",
+    "description": "To perform the action of push.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0451",
+    "description": "To apply force to move something toward oneself.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0452",
+    "description": "To perform the action of break.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0453",
+    "description": "To make an opening or divide something with a sharp tool.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0454",
+    "description": "To perform the action of wash.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0455",
+    "description": "To perform the action of cook.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0456",
+    "description": "To perform the action of wear.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0457",
+    "description": "To construct something by assembling materials.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0458",
+    "description": "To increase in size, number, or develop.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0459",
+    "description": "To make or become different from what was before.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0460",
+    "description": "To rotate or change direction or position.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0461",
+    "description": "To change position or location.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0462",
+    "description": "To perform the action of carry.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0463",
+    "description": "To perform the action of drive.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0464",
+    "description": "To perform the action of ride.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0465",
+    "description": "To perform the action of fly.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0466",
+    "description": "To perform the action of swim.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0467",
+    "description": "To perform the action of sing.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0468",
+    "description": "To perform the action of dance.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0469",
+    "description": "To perform the action of laugh.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0470",
+    "description": "To perform the action of cry.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0471",
+    "description": "To perform the action of smile.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0472",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0473",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0474",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0475",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0476",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0477",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0478",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0479",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0480",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0481",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0482",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0483",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0484",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0485",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0486",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0487",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0488",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0489",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0490",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0491",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0492",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0493",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0494",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0495",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0496",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0497",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0498",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0499",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0500",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0501",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0502",
+    "description": "A sixtieth part of a minute.",
+    "category": "number"
+  },
+  {
+    "id": "word_0503",
+    "description": "A numerical value or quantity.",
+    "category": "number"
+  },
+  {
+    "id": "word_0504",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0505",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0506",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0507",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0508",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0509",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0510",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0511",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0512",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0513",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0514",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0515",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0516",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0517",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0518",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0519",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0520",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0521",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0522",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0523",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0524",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0525",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0526",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0527",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0528",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0529",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0530",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0531",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0532",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0533",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0534",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0535",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0536",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0537",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0538",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0539",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0540",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0541",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0542",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0543",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0544",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0545",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0546",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0547",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0548",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0549",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0550",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0551",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0552",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0553",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0554",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0555",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0556",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0557",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0558",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0559",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0560",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0561",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0562",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0563",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0564",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0565",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0566",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0567",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0568",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0569",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0570",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0571",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0572",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0573",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0574",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0575",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0576",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0577",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0578",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0579",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0580",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0581",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0582",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0583",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0584",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0585",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0586",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0587",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0588",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0589",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0590",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0591",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0592",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0593",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0594",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0595",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0596",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0597",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0598",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0599",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0600",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0601",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0602",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0603",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0604",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0605",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0606",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0607",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0608",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0609",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0610",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0611",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0612",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0613",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0614",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0615",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0616",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0617",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0618",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0619",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0620",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0621",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0622",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0623",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0624",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0625",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0626",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0627",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0628",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0629",
+    "description": "A period of sixty seconds.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0630",
+    "description": "A period of sixty minutes.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0631",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0632",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0633",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0634",
+    "description": "Gone by in time or no longer current.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0635",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0636",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0637",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0638",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0639",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0640",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0641",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0642",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0643",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0644",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0645",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0646",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0647",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0648",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0649",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0650",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0651",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0652",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0653",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0654",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0655",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0656",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0657",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0658",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0659",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0660",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0661",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0662",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0663",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0664",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0665",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0666",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0667",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0668",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0669",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0670",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0671",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0672",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0673",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0674",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0675",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0676",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0677",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0678",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0679",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0680",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0681",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0682",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0683",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0684",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0685",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0686",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0687",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0688",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0689",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0690",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0691",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0692",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0693",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0694",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0695",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0696",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0697",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0698",
+    "description": "A word indicating position higher than something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0699",
+    "description": "A word indicating position lower than something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0700",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0701",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0702",
+    "description": "A word indicating position in the middle of two things.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0703",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0704",
+    "description": "A word indicating movement from one side to the other.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0705",
+    "description": "A word indicating movement from one side to the other.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0706",
+    "description": "A word indicating the time when something happens.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0707",
+    "description": "A word indicating an earlier time or in front of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0708",
+    "description": "A word indicating time from a past point or giving a reason.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0709",
+    "description": "A word indicating time up to a certain point.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0710",
+    "description": "A word indicating simultaneous actions or contrasting ideas.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0711",
+    "description": "A word introducing a contrasting fact or idea.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0712",
+    "description": "A word introducing a contrast or opposite idea.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0713",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0714",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0715",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0716",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0717",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0718",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0719",
+    "description": "A word connecting clauses or sentences.",
+    "category": "conjunction"
+  },
+  {
+    "id": "word_0720",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0721",
+    "description": "A word indicating the absence of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0722",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0723",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0724",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0725",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0726",
+    "description": "A word indicating separation or removal from something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0727",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0728",
+    "description": "A word indicating position on all sides of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0729",
+    "description": "A word indicating position beside or following the length of something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0730",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0731",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0732",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0733",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0734",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0735",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0736",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0737",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0738",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0739",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0740",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0741",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0742",
+    "description": "A word expressing spatial or temporal relation.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0743",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0744",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0745",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0746",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0747",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0748",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0749",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0750",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0751",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0752",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0753",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0754",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0755",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0756",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0757",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0758",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0759",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0760",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0761",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0762",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0763",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0764",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0765",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0766",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0767",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0768",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0769",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0770",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0771",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0772",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0773",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0774",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0775",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0776",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0777",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0778",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0779",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0780",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0781",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0782",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0783",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0784",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0785",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0786",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0787",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0788",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0789",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0790",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0791",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0792",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0793",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0794",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0795",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0796",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0797",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0798",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0799",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0800",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0801",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0802",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0803",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0804",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0805",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0806",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0807",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0808",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0809",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0810",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0811",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0812",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0813",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0814",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0815",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0816",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0817",
+    "description": "A word indicating direction toward the front.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0818",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0819",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0820",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0821",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0822",
+    "description": "A word indicating position at this place.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0823",
+    "description": "A word indicating the place at which something happens.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0824",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0825",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0826",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0827",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0828",
+    "description": "A word indicating at all times or on every occasion.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0829",
+    "description": "A word indicating not at any time.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0830",
+    "description": "A word indicating occasional occurrence.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0831",
+    "description": "A word indicating frequency or many times.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0832",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0833",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0834",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0835",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0836",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0837",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0838",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0839",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0840",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0841",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0842",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0843",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0844",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0845",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0846",
+    "description": "A word indicating rapidity or fast manner.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0847",
+    "description": "A word indicating low speed or gradual manner.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0848",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0849",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0850",
+    "description": "A word indicating in the near future.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0851",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0852",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0853",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0854",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0855",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0856",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0857",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0858",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0859",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0860",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0861",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0862",
+    "description": "A word indicating almost but not quite.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0863",
+    "description": "A word indicating nearly but not completely.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0864",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0865",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0866",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0867",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0868",
+    "description": "A word emphasizing degree or extent.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0869",
+    "description": "A word indicating excess or addition.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0870",
+    "description": "A word indicating a sufficient degree or quantity.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0871",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0872",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0873",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0874",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0875",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0876",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0877",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0878",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0879",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0880",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0881",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0882",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0883",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0884",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0885",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0886",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0887",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0888",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0889",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0890",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0891",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0892",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0893",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0894",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0895",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0896",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0897",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0898",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0899",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0900",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0901",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0902",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0903",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0904",
+    "description": "A word indicating likelihood or high probability.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0905",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0906",
+    "description": "A word indicating possibility or uncertainty.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0907",
+    "description": "A word indicating possibility or uncertainty.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0908",
+    "description": "Probable or expected to happen.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0909",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0910",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0911",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0912",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0913",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0914",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0915",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0916",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0917",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0918",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0919",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0920",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0921",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0922",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0923",
+    "description": "Modifying a verb, adjective, or other adverb.",
+    "category": "adverb"
+  },
+  {
+    "id": "word_0924",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0925",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0926",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0927",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0928",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0929",
+    "description": "A word with meaning oh.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0930",
+    "description": "A word with meaning ah.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0931",
+    "description": "A word with meaning hey.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0932",
+    "description": "A word with meaning wow.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0933",
+    "description": "A word with meaning oops.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0934",
+    "description": "A word with meaning ouch.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0935",
+    "description": "A word with meaning hooray.",
+    "category": "interjection"
+  },
+  {
+    "id": "word_0936",
+    "description": "A word indicating position below or beneath something.",
+    "category": "preposition"
+  },
+  {
+    "id": "word_0937",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0938",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0939",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0940",
+    "description": "To perform the action of text.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0941",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0942",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0943",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0944",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0945",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0946",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0947",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0948",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0949",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0950",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0951",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0952",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0953",
+    "description": "To perform the action of travel.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0954",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0955",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0956",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0957",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0958",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0959",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0960",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0961",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0962",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0963",
+    "description": "Providing physical ease and relaxation.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0964",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0965",
+    "description": "Not interesting or tedious.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0966",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0967",
+    "description": "To perform the action of practice.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0968",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0969",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0970",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0971",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0972",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0973",
+    "description": "To perform the action of visit.",
+    "category": "verb"
+  },
+  {
+    "id": "word_0974",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0975",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0976",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0977",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0978",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0979",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0980",
+    "description": "Describing a quality or characteristic.",
+    "category": "adjective"
+  },
+  {
+    "id": "word_0981",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0982",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0983",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0984",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0985",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0986",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0987",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0988",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0989",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0990",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0991",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0992",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0993",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0994",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0995",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0996",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0997",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0998",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_0999",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  },
+  {
+    "id": "word_1000",
+    "description": "A person, place, thing, or concept.",
+    "category": "noun"
+  }
+]

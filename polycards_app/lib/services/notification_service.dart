@@ -189,7 +189,7 @@ class NotificationService {
     await _notifications.zonedSchedule(
       id,
       'Learn a New Word! 📚',
-      word != null ? '"${word.word}" - Tap to learn more' : 'Tap to learn new words',
+      word != null ? '"${word.translation}" - Tap to learn more' : 'Tap to learn new words',
       scheduledDate,
       NotificationDetails(
         android: AndroidNotificationDetails(
@@ -301,7 +301,7 @@ class NotificationService {
     await _notifications.show(
       999, // Test notification ID
       'Test Notification - Learn a New Word! 📚',
-      word != null ? '"${word.word}" - ${word.translation}' : 'Tap to learn new words',
+      word != null ? '"${word.translation}" - ${word.translation}' : 'Tap to learn new words',
       const NotificationDetails(
         android: AndroidNotificationDetails(
           'daily_word_reminders',
