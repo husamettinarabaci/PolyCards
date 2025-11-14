@@ -1,0 +1,86 @@
+{
+  "language_name": "Kurdî",
+  "language_code": "ku",
+  "words": [
+    {
+      "id": "word_0001",
+      "word": "(amraza diyarkirî)",
+      "translation": "(amraza diyarkirî)",
+      "phonetic": "(no direct equivalent)",
+      "example": "Roj geş e.",
+      "category": "article"
+    },
+    {
+      "id": "word_0002",
+      "word": "bûn",
+      "translation": "bûn",
+      "phonetic": "būn",
+      "example": "Ez dixwazim kêfxweş bim.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0003",
+      "word": "bo, ji",
+      "translation": "bo, ji",
+      "phonetic": "bo, ji",
+      "example": "Ez diçim dibistanê.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0004",
+      "word": "yê/ya (xwedîtî)",
+      "translation": "yê/ya (xwedîtî)",
+      "phonetic": "yê/ya",
+      "example": "Rengê ezmanî.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0005",
+      "word": "û",
+      "translation": "û",
+      "phonetic": "û",
+      "example": "Nan û rûn.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0006",
+      "word": "yek (nediyarkirî)",
+      "translation": "yek (nediyarkirî)",
+      "phonetic": "yek",
+      "example": "Min kutekî dît.",
+      "category": "article"
+    },
+    {
+      "id": "word_0007",
+      "word": "di...de (cîh)",
+      "translation": "di...de (cîh)",
+      "phonetic": "di...de",
+      "example": "Ew di odeyê de ye.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0008",
+      "word": "ku, ew",
+      "translation": "ku, ew",
+      "phonetic": "ku, ew",
+      "example": "Ez difikrim ku tu rast dibêjî.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0009",
+      "word": "hebûn, xwedî bûn",
+      "translation": "hebûn, xwedî bûn",
+      "phonetic": "hebûn, xwedî būn",
+      "example": "Min du pisîk hene.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0010",
+      "word": "ez",
+      "translation": "ez",
+      "phonetic": "ez",
+      "example": "Ez li vir im.",
+      "category": "pronoun"
+    }
+  ]
+}

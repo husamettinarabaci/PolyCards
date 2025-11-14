@@ -1,0 +1,20 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" rx="180" fill="#4A90E2"/>
+  
+  <!-- Card stack effect -->
+  <rect x="180" y="220" width="600" height="400" rx="20" fill="#5BA3F5" opacity="0.3"/>
+  <rect x="160" y="240" width="600" height="400" rx="20" fill="#6BB6FF" opacity="0.5"/>
+  
+  <!-- Main card -->
+  <rect x="140" y="260" width="600" height="400" rx="20" fill="#FFFFFF"/>
+  
+  <!-- Language symbols on card -->
+  <text x="440" y="400" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#4A90E2" text-anchor="middle">A</text>
+  <text x="340" y="520" font-family="Arial, sans-serif" font-size="80" fill="#7B68EE" text-anchor="middle">字</text>
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="80" fill="#FF6B6B" text-anchor="middle">ع</text>
+  
+  <!-- Decorative lines -->
+  <line x1="200" y1="340" x2="680" y2="340" stroke="#E0E0E0" stroke-width="3"/>
+  <line x1="200" y1="580" x2="680" y2="580" stroke="#E0E0E0" stroke-width="3"/>
+</svg>

@@ -1,0 +1,86 @@
+{
+  "language_name": "简体中文",
+  "language_code": "zh",
+  "words": [
+    {
+      "id": "word_0001",
+      "word": "这个/那个 (定冠词)",
+      "translation": "这个/那个 (定冠词)",
+      "phonetic": "zhège/nàge",
+      "example": "太阳很明亮。",
+      "category": "article"
+    },
+    {
+      "id": "word_0002",
+      "word": "是",
+      "translation": "是",
+      "phonetic": "shì",
+      "example": "我想要快乐。",
+      "category": "verb"
+    },
+    {
+      "id": "word_0003",
+      "word": "到/向",
+      "translation": "到/向",
+      "phonetic": "dào/xiàng",
+      "example": "我去学校。",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0004",
+      "word": "的 (所属)",
+      "translation": "的 (所属)",
+      "phonetic": "de",
+      "example": "天空的颜色。",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0005",
+      "word": "和",
+      "translation": "和",
+      "phonetic": "hé",
+      "example": "面包和黄油。",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0006",
+      "word": "一个 (不定冠词)",
+      "translation": "一个 (不定冠词)",
+      "phonetic": "yī gè",
+      "example": "我看到一只狗。",
+      "category": "article"
+    },
+    {
+      "id": "word_0007",
+      "word": "在...里",
+      "translation": "在...里",
+      "phonetic": "zài...lǐ",
+      "example": "他在房间里。",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0008",
+      "word": "那 (连词)",
+      "translation": "那 (连词)",
+      "phonetic": "nà",
+      "example": "我认为你是对的。",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0009",
+      "word": "有",
+      "translation": "有",
+      "phonetic": "yǒu",
+      "example": "我有两只猫。",
+      "category": "verb"
+    },
+    {
+      "id": "word_0010",
+      "word": "我",
+      "translation": "我",
+      "phonetic": "wǒ",
+      "example": "我在这里。",
+      "category": "pronoun"
+    }
+  ]
+}

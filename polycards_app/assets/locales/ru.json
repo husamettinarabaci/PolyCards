@@ -1,0 +1,86 @@
+{
+  "language_name": "Русский",
+  "language_code": "ru",
+  "words": [
+    {
+      "id": "word_0001",
+      "word": "(определённый артикль)",
+      "translation": "(определённый артикль)",
+      "phonetic": "(no direct equivalent)",
+      "example": "Солнце яркое.",
+      "category": "article"
+    },
+    {
+      "id": "word_0002",
+      "word": "быть",
+      "translation": "быть",
+      "phonetic": "byt'",
+      "example": "Я хочу быть счастливым.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0003",
+      "word": "к, в (направление)",
+      "translation": "к, в (направление)",
+      "phonetic": "k, v",
+      "example": "Я иду в школу.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0004",
+      "word": "из, от (родительный падеж)",
+      "translation": "из, от (родительный падеж)",
+      "phonetic": "iz, ot",
+      "example": "Цвет неба.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0005",
+      "word": "и",
+      "translation": "и",
+      "phonetic": "i",
+      "example": "Хлеб и масло.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0006",
+      "word": "один, некий (неопределённый артикль)",
+      "translation": "один, некий (неопределённый артикль)",
+      "phonetic": "odin, nekiy",
+      "example": "Я видел собаку.",
+      "category": "article"
+    },
+    {
+      "id": "word_0007",
+      "word": "в (предложный падеж)",
+      "translation": "в (предложный падеж)",
+      "phonetic": "v",
+      "example": "Он в комнате.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0008",
+      "word": "что, который",
+      "translation": "что, который",
+      "phonetic": "chto, kotoryy",
+      "example": "Я думаю, что ты прав.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0009",
+      "word": "иметь",
+      "translation": "иметь",
+      "phonetic": "imet'",
+      "example": "У меня есть две кошки.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0010",
+      "word": "я",
+      "translation": "я",
+      "phonetic": "ya",
+      "example": "Я здесь.",
+      "category": "pronoun"
+    }
+  ]
+}

@@ -1,0 +1,7016 @@
+{
+  "language_name": "English",
+  "language_code": "en",
+  "words": [
+    {
+      "id": "word_0001",
+      "word": "the",
+      "translation": "the",
+      "phonetic": "/ðə/ or /ðiː/",
+      "example": "The sun is bright.",
+      "category": "article"
+    },
+    {
+      "id": "word_0002",
+      "word": "be",
+      "translation": "be",
+      "phonetic": "/biː/",
+      "example": "I want to be happy.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0003",
+      "word": "to",
+      "translation": "to",
+      "phonetic": "/tuː/ or /tə/",
+      "example": "I'm going to school.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0004",
+      "word": "of",
+      "translation": "of",
+      "phonetic": "/ɒv/ or /əv/",
+      "example": "The color of the sky.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0005",
+      "word": "and",
+      "translation": "and",
+      "phonetic": "/ænd/ or /ənd/",
+      "example": "Bread and butter.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0006",
+      "word": "a",
+      "translation": "a",
+      "phonetic": "/eɪ/ or /ə/",
+      "example": "I saw a dog.",
+      "category": "article"
+    },
+    {
+      "id": "word_0007",
+      "word": "in",
+      "translation": "in",
+      "phonetic": "/ɪn/",
+      "example": "He is in the room.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0008",
+      "word": "that",
+      "translation": "that",
+      "phonetic": "/ðæt/",
+      "example": "I think that you're right.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0009",
+      "word": "have",
+      "translation": "have",
+      "phonetic": "/hæv/",
+      "example": "I have two cats.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0010",
+      "word": "I",
+      "translation": "I",
+      "phonetic": "/aɪ/",
+      "example": "I am here.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0011",
+      "word": "it",
+      "translation": "it",
+      "example": "It is cold today.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0012",
+      "word": "for",
+      "translation": "for",
+      "example": "This is for you.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0013",
+      "word": "not",
+      "translation": "not",
+      "example": "I'm not ready.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0014",
+      "word": "on",
+      "translation": "on",
+      "example": "Put it on the desk.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0015",
+      "word": "with",
+      "translation": "with",
+      "example": "Come with me.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0016",
+      "word": "he",
+      "translation": "he",
+      "example": "He is tall.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0017",
+      "word": "as",
+      "translation": "as",
+      "example": "Smart as a fox.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0018",
+      "word": "you",
+      "translation": "you",
+      "example": "You are kind.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0019",
+      "word": "do",
+      "translation": "do",
+      "example": "I do my best.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0020",
+      "word": "at",
+      "translation": "at",
+      "example": "Meet me at noon.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0021",
+      "word": "this",
+      "translation": "this",
+      "example": "This is mine.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0022",
+      "word": "but",
+      "translation": "but",
+      "example": "Small but strong.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0023",
+      "word": "his",
+      "translation": "his",
+      "example": "His car is red.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0024",
+      "word": "by",
+      "translation": "by",
+      "example": "Made by hand.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0025",
+      "word": "from",
+      "translation": "from",
+      "example": "I'm from Canada.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0026",
+      "word": "they",
+      "translation": "they",
+      "example": "They are coming.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0027",
+      "word": "we",
+      "translation": "we",
+      "example": "We are ready.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0028",
+      "word": "say",
+      "translation": "say",
+      "example": "Don't say that.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0029",
+      "word": "her",
+      "translation": "her",
+      "example": "Her smile is beautiful.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0030",
+      "word": "she",
+      "translation": "she",
+      "example": "She runs fast.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0031",
+      "word": "or",
+      "translation": "or",
+      "example": "Left or right?",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0032",
+      "word": "an",
+      "translation": "an",
+      "example": "An apple a day.",
+      "category": "article"
+    },
+    {
+      "id": "word_0033",
+      "word": "will",
+      "translation": "will",
+      "example": "I will try.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0034",
+      "word": "my",
+      "translation": "my",
+      "example": "My name is John.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0035",
+      "word": "one",
+      "translation": "one",
+      "example": "One more time.",
+      "category": "number"
+    },
+    {
+      "id": "word_0036",
+      "word": "all",
+      "translation": "all",
+      "example": "All people welcome.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0037",
+      "word": "would",
+      "translation": "would",
+      "example": "Would you like tea?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0038",
+      "word": "there",
+      "translation": "there",
+      "example": "There it is!",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0039",
+      "word": "their",
+      "translation": "their",
+      "example": "Their dog barks.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0040",
+      "word": "what",
+      "translation": "what",
+      "example": "What is this?",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0041",
+      "word": "so",
+      "translation": "so",
+      "example": "I'm tired, so I'll sleep.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0042",
+      "word": "up",
+      "translation": "up",
+      "example": "Wake up early.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0043",
+      "word": "out",
+      "translation": "out",
+      "example": "Get out now.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0044",
+      "word": "if",
+      "translation": "if",
+      "example": "If you want, come.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0045",
+      "word": "about",
+      "translation": "about",
+      "example": "Talk about life.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0046",
+      "word": "who",
+      "translation": "who",
+      "example": "Who are you?",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0047",
+      "word": "get",
+      "translation": "get",
+      "example": "Get some rest.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0048",
+      "word": "which",
+      "translation": "which",
+      "example": "Which one is yours?",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0049",
+      "word": "go",
+      "translation": "go",
+      "example": "Let's go home.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0050",
+      "word": "me",
+      "translation": "me",
+      "example": "Tell me more.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0051",
+      "word": "when",
+      "translation": "when",
+      "example": "When did you arrive?",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0052",
+      "word": "make",
+      "translation": "make",
+      "example": "Make a wish.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0053",
+      "word": "can",
+      "translation": "can",
+      "example": "I can help you.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0054",
+      "word": "like",
+      "translation": "like",
+      "example": "I like music.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0055",
+      "word": "time",
+      "translation": "time",
+      "example": "Time flies fast.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0056",
+      "word": "no",
+      "translation": "no",
+      "example": "No problem.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0057",
+      "word": "just",
+      "translation": "just",
+      "example": "Just do it.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0058",
+      "word": "him",
+      "translation": "him",
+      "example": "I told him.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0059",
+      "word": "know",
+      "translation": "know",
+      "example": "I know you.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0060",
+      "word": "take",
+      "translation": "take",
+      "example": "Take your time.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0061",
+      "word": "people",
+      "translation": "people",
+      "example": "People are waiting.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0062",
+      "word": "into",
+      "translation": "into",
+      "example": "Jump into water.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0063",
+      "word": "year",
+      "translation": "year",
+      "example": "Happy new year!",
+      "category": "noun"
+    },
+    {
+      "id": "word_0064",
+      "word": "your",
+      "translation": "your",
+      "example": "Your turn now.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0065",
+      "word": "good",
+      "translation": "good",
+      "example": "Good morning!",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0066",
+      "word": "some",
+      "translation": "some",
+      "example": "Some people agree.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0067",
+      "word": "could",
+      "translation": "could",
+      "example": "Could you wait?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0068",
+      "word": "them",
+      "translation": "them",
+      "example": "I like them.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0069",
+      "word": "see",
+      "translation": "see",
+      "example": "I see clearly.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0070",
+      "word": "other",
+      "translation": "other",
+      "example": "Other options exist.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0071",
+      "word": "than",
+      "translation": "than",
+      "example": "Better than before.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0072",
+      "word": "then",
+      "translation": "then",
+      "example": "Then we left.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0073",
+      "word": "now",
+      "translation": "now",
+      "example": "Come here now.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0074",
+      "word": "look",
+      "translation": "look",
+      "example": "Look both ways.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0075",
+      "word": "only",
+      "translation": "only",
+      "example": "Only one left.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0076",
+      "word": "come",
+      "translation": "come",
+      "example": "Come with us.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0077",
+      "word": "its",
+      "translation": "its",
+      "example": "The dog wagged its tail.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0078",
+      "word": "over",
+      "translation": "over",
+      "example": "Over the rainbow.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0079",
+      "word": "think",
+      "translation": "think",
+      "example": "Think before speaking.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0080",
+      "word": "also",
+      "translation": "also",
+      "example": "I also agree.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0081",
+      "word": "back",
+      "translation": "back",
+      "example": "Come back soon.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0082",
+      "word": "after",
+      "translation": "after",
+      "example": "After lunch.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0083",
+      "word": "use",
+      "translation": "use",
+      "example": "Use this pen.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0084",
+      "word": "two",
+      "translation": "two",
+      "example": "Two is enough.",
+      "category": "number"
+    },
+    {
+      "id": "word_0085",
+      "word": "how",
+      "translation": "how",
+      "example": "How are you?",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0086",
+      "word": "our",
+      "translation": "our",
+      "example": "Our family is big.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0087",
+      "word": "work",
+      "translation": "work",
+      "example": "Hard work pays.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0088",
+      "word": "first",
+      "translation": "first",
+      "example": "First place winner.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0089",
+      "word": "well",
+      "translation": "well",
+      "example": "Sleep well tonight.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0090",
+      "word": "way",
+      "translation": "way",
+      "example": "This way please.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0091",
+      "word": "even",
+      "translation": "even",
+      "example": "Even better now.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0092",
+      "word": "new",
+      "translation": "new",
+      "example": "New phone today.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0093",
+      "word": "want",
+      "translation": "want",
+      "example": "I want peace.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0094",
+      "word": "because",
+      "translation": "because",
+      "example": "Because I said so.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0095",
+      "word": "any",
+      "translation": "any",
+      "example": "Any questions?",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0096",
+      "word": "these",
+      "translation": "these",
+      "example": "These are fresh.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0097",
+      "word": "give",
+      "translation": "give",
+      "example": "Give me strength.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0098",
+      "word": "day",
+      "translation": "day",
+      "example": "Beautiful day today.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0099",
+      "word": "most",
+      "translation": "most",
+      "example": "Most students passed.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0100",
+      "word": "us",
+      "translation": "us",
+      "example": "Join us please.",
+      "category": "pronoun"
+    },
+    {
+      "id": "word_0101",
+      "word": "is",
+      "translation": "is",
+      "example": "She is happy.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0102",
+      "word": "was",
+      "translation": "was",
+      "example": "It was great.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0103",
+      "word": "are",
+      "translation": "are",
+      "example": "We are friends.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0104",
+      "word": "been",
+      "translation": "been",
+      "example": "Have you been there?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0105",
+      "word": "has",
+      "translation": "has",
+      "example": "She has arrived.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0106",
+      "word": "had",
+      "translation": "had",
+      "example": "He had left.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0107",
+      "word": "were",
+      "translation": "were",
+      "example": "They were late.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0108",
+      "word": "said",
+      "translation": "said",
+      "example": "He said nothing.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0109",
+      "word": "did",
+      "translation": "did",
+      "example": "I did it.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0110",
+      "word": "having",
+      "translation": "having",
+      "example": "Having fun today.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0111",
+      "word": "may",
+      "translation": "may",
+      "example": "May I help?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0112",
+      "word": "should",
+      "translation": "should",
+      "example": "You should try.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0113",
+      "word": "must",
+      "translation": "must",
+      "example": "We must go.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0114",
+      "word": "am",
+      "translation": "am",
+      "example": "I am ready.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0115",
+      "word": "might",
+      "translation": "might",
+      "example": "It might rain.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0116",
+      "word": "being",
+      "translation": "being",
+      "example": "Being honest matters.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0117",
+      "word": "does",
+      "translation": "does",
+      "example": "She does yoga.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0118",
+      "word": "done",
+      "translation": "done",
+      "example": "Work is done.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0119",
+      "word": "doing",
+      "translation": "doing",
+      "example": "What are you doing?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0120",
+      "word": "made",
+      "translation": "made",
+      "example": "I made cookies.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0121",
+      "word": "makes",
+      "translation": "makes",
+      "example": "Practice makes perfect.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0122",
+      "word": "making",
+      "translation": "making",
+      "example": "Making progress daily.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0123",
+      "word": "went",
+      "translation": "went",
+      "example": "We went shopping.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0124",
+      "word": "going",
+      "translation": "going",
+      "example": "I'm going home.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0125",
+      "word": "goes",
+      "translation": "goes",
+      "example": "Time goes fast.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0126",
+      "word": "came",
+      "translation": "came",
+      "example": "She came yesterday.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0127",
+      "word": "coming",
+      "translation": "coming",
+      "example": "Winter is coming.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0128",
+      "word": "comes",
+      "translation": "comes",
+      "example": "Help comes soon.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0129",
+      "word": "saw",
+      "translation": "saw",
+      "example": "I saw you.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0130",
+      "word": "seen",
+      "translation": "seen",
+      "example": "Have you seen this?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0131",
+      "word": "seeing",
+      "translation": "seeing",
+      "example": "Seeing is believing.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0132",
+      "word": "sees",
+      "translation": "sees",
+      "example": "Everyone sees it.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0133",
+      "word": "knew",
+      "translation": "knew",
+      "example": "I knew that.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0134",
+      "word": "known",
+      "translation": "known",
+      "example": "Well known fact.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0135",
+      "word": "knowing",
+      "translation": "knowing",
+      "example": "Knowing helps learning.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0136",
+      "word": "knows",
+      "translation": "knows",
+      "example": "Nobody knows why.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0137",
+      "word": "took",
+      "translation": "took",
+      "example": "She took notes.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0138",
+      "word": "taken",
+      "translation": "taken",
+      "example": "All seats taken.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0139",
+      "word": "taking",
+      "translation": "taking",
+      "example": "Taking a break.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0140",
+      "word": "takes",
+      "translation": "takes",
+      "example": "It takes time.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0141",
+      "word": "got",
+      "translation": "got",
+      "example": "I got it.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0142",
+      "word": "gotten",
+      "translation": "gotten",
+      "example": "Have you gotten news?",
+      "category": "verb"
+    },
+    {
+      "id": "word_0143",
+      "word": "getting",
+      "translation": "getting",
+      "example": "Getting better daily.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0144",
+      "word": "gets",
+      "translation": "gets",
+      "example": "She gets results.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0145",
+      "word": "thought",
+      "translation": "thought",
+      "example": "I thought so.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0146",
+      "word": "thinking",
+      "translation": "thinking",
+      "example": "Keep thinking positive.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0147",
+      "word": "thinks",
+      "translation": "thinks",
+      "example": "He thinks differently.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0148",
+      "word": "looked",
+      "translation": "looked",
+      "example": "I looked everywhere.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0149",
+      "word": "looking",
+      "translation": "looking",
+      "example": "Looking for answers.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0150",
+      "word": "looks",
+      "translation": "looks",
+      "example": "It looks good.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0151",
+      "word": "hello",
+      "translation": "hello",
+      "example": "Hello, nice to meet you!",
+      "category": "greeting"
+    },
+    {
+      "id": "word_0152",
+      "word": "goodbye",
+      "translation": "goodbye",
+      "example": "Goodbye, see you tomorrow.",
+      "category": "greeting"
+    },
+    {
+      "id": "word_0153",
+      "word": "yes",
+      "translation": "yes",
+      "example": "Yes, I agree.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0154",
+      "word": "please",
+      "translation": "please",
+      "example": "Please help me.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0155",
+      "word": "thank",
+      "translation": "thank",
+      "example": "Thank you very much.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0156",
+      "word": "sorry",
+      "translation": "sorry",
+      "example": "I'm very sorry.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0157",
+      "word": "excuse",
+      "translation": "excuse",
+      "example": "Excuse me please.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0158",
+      "word": "welcome",
+      "translation": "welcome",
+      "example": "You are welcome here.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0159",
+      "word": "morning",
+      "translation": "morning",
+      "example": "Good morning everyone!",
+      "category": "noun"
+    },
+    {
+      "id": "word_0160",
+      "word": "afternoon",
+      "translation": "afternoon",
+      "example": "Good afternoon sir.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0161",
+      "word": "evening",
+      "translation": "evening",
+      "example": "Good evening madam.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0162",
+      "word": "night",
+      "translation": "night",
+      "example": "Good night sleep well.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0163",
+      "word": "today",
+      "translation": "today",
+      "example": "Today is special.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0164",
+      "word": "tomorrow",
+      "translation": "tomorrow",
+      "example": "See you tomorrow.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0165",
+      "word": "yesterday",
+      "translation": "yesterday",
+      "example": "Yesterday was fun.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0166",
+      "word": "week",
+      "translation": "week",
+      "example": "Next week Monday.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0167",
+      "word": "month",
+      "translation": "month",
+      "example": "Last month March.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0168",
+      "word": "Monday",
+      "translation": "Monday",
+      "example": "Monday is busy.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0169",
+      "word": "Tuesday",
+      "translation": "Tuesday",
+      "example": "Tuesday meeting scheduled.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0170",
+      "word": "Wednesday",
+      "translation": "Wednesday",
+      "example": "Wednesday is midweek.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0171",
+      "word": "Thursday",
+      "translation": "Thursday",
+      "example": "Thursday almost weekend.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0172",
+      "word": "Friday",
+      "translation": "Friday",
+      "example": "Friday night fun.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0173",
+      "word": "Saturday",
+      "translation": "Saturday",
+      "example": "Saturday no work.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0174",
+      "word": "Sunday",
+      "translation": "Sunday",
+      "example": "Sunday rest day.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0175",
+      "word": "January",
+      "translation": "January",
+      "example": "January is cold.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0176",
+      "word": "February",
+      "translation": "February",
+      "example": "February short month.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0177",
+      "word": "March",
+      "translation": "March",
+      "example": "March brings spring.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0178",
+      "word": "April",
+      "translation": "April",
+      "example": "April has rain.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0179",
+      "word": "May",
+      "translation": "May",
+      "example": "May flowers bloom.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0180",
+      "word": "June",
+      "translation": "June",
+      "example": "June is warm.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0181",
+      "word": "July",
+      "translation": "July",
+      "example": "July very hot.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0182",
+      "word": "August",
+      "translation": "August",
+      "example": "August vacation time.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0183",
+      "word": "September",
+      "translation": "September",
+      "example": "September school starts.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0184",
+      "word": "October",
+      "translation": "October",
+      "example": "October leaves fall.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0185",
+      "word": "November",
+      "translation": "November",
+      "example": "November getting cold.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0186",
+      "word": "December",
+      "translation": "December",
+      "example": "December winter month.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0187",
+      "word": "spring",
+      "translation": "spring",
+      "example": "Spring brings flowers.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0188",
+      "word": "summer",
+      "translation": "summer",
+      "example": "Summer is hot.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0189",
+      "word": "autumn",
+      "translation": "autumn",
+      "example": "Autumn leaves beautiful.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0190",
+      "word": "winter",
+      "translation": "winter",
+      "example": "Winter is cold.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0191",
+      "word": "man",
+      "translation": "man",
+      "example": "The man walks.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0192",
+      "word": "woman",
+      "translation": "woman",
+      "example": "That woman smiles.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0193",
+      "word": "child",
+      "translation": "child",
+      "example": "The child plays.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0194",
+      "word": "boy",
+      "translation": "boy",
+      "example": "A boy runs.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0195",
+      "word": "girl",
+      "translation": "girl",
+      "example": "The girl studies.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0196",
+      "word": "baby",
+      "translation": "baby",
+      "example": "Baby is sleeping.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0197",
+      "word": "person",
+      "translation": "person",
+      "example": "Nice person here.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0198",
+      "word": "family",
+      "translation": "family",
+      "example": "My family loves me.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0199",
+      "word": "friend",
+      "translation": "friend",
+      "example": "Best friend forever.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0200",
+      "word": "mother",
+      "translation": "mother",
+      "example": "My mother cooks.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0201",
+      "word": "father",
+      "translation": "father",
+      "example": "His father works.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0202",
+      "word": "parent",
+      "translation": "parent",
+      "example": "Every parent cares.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0203",
+      "word": "brother",
+      "translation": "brother",
+      "example": "My brother plays.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0204",
+      "word": "sister",
+      "translation": "sister",
+      "example": "Her sister sings.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0205",
+      "word": "son",
+      "translation": "son",
+      "example": "Their son studies.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0206",
+      "word": "daughter",
+      "translation": "daughter",
+      "example": "My daughter reads.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0207",
+      "word": "husband",
+      "translation": "husband",
+      "example": "Her husband drives.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0208",
+      "word": "wife",
+      "translation": "wife",
+      "example": "His wife teaches.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0209",
+      "word": "name",
+      "translation": "name",
+      "example": "What's your name?",
+      "category": "noun"
+    },
+    {
+      "id": "word_0210",
+      "word": "hand",
+      "translation": "hand",
+      "example": "Raise your hand.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0211",
+      "word": "eye",
+      "translation": "eye",
+      "example": "Close your eyes.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0212",
+      "word": "head",
+      "translation": "head",
+      "example": "Nod your head.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0213",
+      "word": "face",
+      "translation": "face",
+      "example": "Wash your face.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0214",
+      "word": "body",
+      "translation": "body",
+      "example": "Healthy body important.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0215",
+      "word": "foot",
+      "translation": "foot",
+      "example": "My foot hurts.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0216",
+      "word": "heart",
+      "translation": "heart",
+      "example": "Kind heart matters.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0217",
+      "word": "house",
+      "translation": "house",
+      "example": "Big house nearby.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0218",
+      "word": "home",
+      "translation": "home",
+      "example": "Going home now.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0219",
+      "word": "room",
+      "translation": "room",
+      "example": "Clean room daily.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0220",
+      "word": "door",
+      "translation": "door",
+      "example": "Open the door.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0221",
+      "word": "window",
+      "translation": "window",
+      "example": "Close the window.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0222",
+      "word": "table",
+      "translation": "table",
+      "example": "Set the table.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0223",
+      "word": "chair",
+      "translation": "chair",
+      "example": "Sit on chair.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0224",
+      "word": "bed",
+      "translation": "bed",
+      "example": "Make your bed.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0225",
+      "word": "school",
+      "translation": "school",
+      "example": "School starts Monday.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0226",
+      "word": "class",
+      "translation": "class",
+      "example": "English class today.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0227",
+      "word": "teacher",
+      "translation": "teacher",
+      "example": "Teacher explains well.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0228",
+      "word": "student",
+      "translation": "student",
+      "example": "Every student learns.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0229",
+      "word": "book",
+      "translation": "book",
+      "example": "Read this book.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0230",
+      "word": "pen",
+      "translation": "pen",
+      "example": "Use blue pen.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0231",
+      "word": "paper",
+      "translation": "paper",
+      "example": "Write on paper.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0232",
+      "word": "desk",
+      "translation": "desk",
+      "example": "Clean your desk.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0233",
+      "word": "office",
+      "translation": "office",
+      "example": "Office opens early.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0234",
+      "word": "work",
+      "translation": "work",
+      "example": "Finish your work.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0235",
+      "word": "job",
+      "translation": "job",
+      "example": "Good job today.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0236",
+      "word": "place",
+      "translation": "place",
+      "example": "Nice place here.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0237",
+      "word": "city",
+      "translation": "city",
+      "example": "Big city life.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0238",
+      "word": "country",
+      "translation": "country",
+      "example": "Beautiful country landscape.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0239",
+      "word": "street",
+      "translation": "street",
+      "example": "Cross the street.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0240",
+      "word": "road",
+      "translation": "road",
+      "example": "Long road ahead.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0241",
+      "word": "car",
+      "translation": "car",
+      "example": "New car bought.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0242",
+      "word": "bus",
+      "translation": "bus",
+      "example": "Take the bus.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0243",
+      "word": "train",
+      "translation": "train",
+      "example": "Catch the train.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0244",
+      "word": "plane",
+      "translation": "plane",
+      "example": "Plane flies high.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0245",
+      "word": "shop",
+      "translation": "shop",
+      "example": "Visit the shop.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0246",
+      "word": "store",
+      "translation": "store",
+      "example": "Store sells everything.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0247",
+      "word": "market",
+      "translation": "market",
+      "example": "Farmer's market Saturday.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0248",
+      "word": "money",
+      "translation": "money",
+      "example": "Save your money.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0249",
+      "word": "food",
+      "translation": "food",
+      "example": "Healthy food important.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0250",
+      "word": "water",
+      "translation": "water",
+      "example": "Drink clean water.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0251",
+      "word": "bread",
+      "translation": "bread",
+      "example": "Fresh bread daily.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0252",
+      "word": "meat",
+      "translation": "meat",
+      "example": "Cook the meat.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0253",
+      "word": "fish",
+      "translation": "fish",
+      "example": "Eat fresh fish.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0254",
+      "word": "rice",
+      "translation": "rice",
+      "example": "Cook white rice.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0255",
+      "word": "vegetable",
+      "translation": "vegetable",
+      "example": "Eat more vegetables.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0256",
+      "word": "fruit",
+      "translation": "fruit",
+      "example": "Fresh fruit healthy.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0257",
+      "word": "apple",
+      "translation": "apple",
+      "example": "Red apple sweet.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0258",
+      "word": "egg",
+      "translation": "egg",
+      "example": "Boil the egg.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0259",
+      "word": "milk",
+      "translation": "milk",
+      "example": "Drink cold milk.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0260",
+      "word": "coffee",
+      "translation": "coffee",
+      "example": "Hot coffee morning.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0261",
+      "word": "tea",
+      "translation": "tea",
+      "example": "Green tea healthy.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0262",
+      "word": "breakfast",
+      "translation": "breakfast",
+      "example": "Eat good breakfast.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0263",
+      "word": "lunch",
+      "translation": "lunch",
+      "example": "Lunch break noon.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0264",
+      "word": "dinner",
+      "translation": "dinner",
+      "example": "Family dinner together.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0265",
+      "word": "meal",
+      "translation": "meal",
+      "example": "Healthy meal important.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0266",
+      "word": "drink",
+      "translation": "drink",
+      "example": "Cold drink refreshing.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0267",
+      "word": "cup",
+      "translation": "cup",
+      "example": "Fill the cup.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0268",
+      "word": "glass",
+      "translation": "glass",
+      "example": "Glass of water.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0269",
+      "word": "plate",
+      "translation": "plate",
+      "example": "Clean empty plate.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0270",
+      "word": "knife",
+      "translation": "knife",
+      "example": "Sharp knife careful.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0271",
+      "word": "fork",
+      "translation": "fork",
+      "example": "Use the fork.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0272",
+      "word": "spoon",
+      "translation": "spoon",
+      "example": "Eat with spoon.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0273",
+      "word": "clothes",
+      "translation": "clothes",
+      "example": "Wash your clothes.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0274",
+      "word": "shirt",
+      "translation": "shirt",
+      "example": "White shirt clean.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0275",
+      "word": "pants",
+      "translation": "pants",
+      "example": "Blue pants comfortable.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0276",
+      "word": "dress",
+      "translation": "dress",
+      "example": "Beautiful dress red.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0277",
+      "word": "shoe",
+      "translation": "shoe",
+      "example": "Tie your shoe.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0278",
+      "word": "hat",
+      "translation": "hat",
+      "example": "Wear sun hat.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0279",
+      "word": "coat",
+      "translation": "coat",
+      "example": "Warm winter coat.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0280",
+      "word": "color",
+      "translation": "color",
+      "example": "Favorite color blue.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0281",
+      "word": "red",
+      "translation": "red",
+      "example": "Red rose beautiful.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0282",
+      "word": "blue",
+      "translation": "blue",
+      "example": "Blue sky clear.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0283",
+      "word": "green",
+      "translation": "green",
+      "example": "Green grass fresh.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0284",
+      "word": "yellow",
+      "translation": "yellow",
+      "example": "Yellow sun bright.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0285",
+      "word": "white",
+      "translation": "white",
+      "example": "White snow pure.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0286",
+      "word": "black",
+      "translation": "black",
+      "example": "Black coffee strong.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0287",
+      "word": "big",
+      "translation": "big",
+      "example": "Big house spacious.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0288",
+      "word": "small",
+      "translation": "small",
+      "example": "Small room cozy.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0289",
+      "word": "large",
+      "translation": "large",
+      "example": "Large pizza shared.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0290",
+      "word": "little",
+      "translation": "little",
+      "example": "Little baby cute.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0291",
+      "word": "long",
+      "translation": "long",
+      "example": "Long road endless.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0292",
+      "word": "short",
+      "translation": "short",
+      "example": "Short break quick.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0293",
+      "word": "high",
+      "translation": "high",
+      "example": "High mountain tall.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0294",
+      "word": "low",
+      "translation": "low",
+      "example": "Low price affordable.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0295",
+      "word": "hot",
+      "translation": "hot",
+      "example": "Hot summer day.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0296",
+      "word": "cold",
+      "translation": "cold",
+      "example": "Cold winter night.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0297",
+      "word": "warm",
+      "translation": "warm",
+      "example": "Warm sunny weather.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0298",
+      "word": "cool",
+      "translation": "cool",
+      "example": "Cool spring breeze.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0299",
+      "word": "old",
+      "translation": "old",
+      "example": "Old wise man.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0300",
+      "word": "young",
+      "translation": "young",
+      "example": "Young energetic child.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0301",
+      "word": "happy",
+      "translation": "happy",
+      "example": "Happy smiling face.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0302",
+      "word": "sad",
+      "translation": "sad",
+      "example": "Sad tears falling.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0303",
+      "word": "angry",
+      "translation": "angry",
+      "example": "Angry red face.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0304",
+      "word": "tired",
+      "translation": "tired",
+      "example": "Tired sleepy eyes.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0305",
+      "word": "sick",
+      "translation": "sick",
+      "example": "Sick in bed.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0306",
+      "word": "healthy",
+      "translation": "healthy",
+      "example": "Healthy strong body.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0307",
+      "word": "fast",
+      "translation": "fast",
+      "example": "Fast running speed.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0308",
+      "word": "slow",
+      "translation": "slow",
+      "example": "Slow walking pace.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0309",
+      "word": "easy",
+      "translation": "easy",
+      "example": "Easy simple task.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0310",
+      "word": "hard",
+      "translation": "hard",
+      "example": "Hard difficult problem.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0311",
+      "word": "right",
+      "translation": "right",
+      "example": "Right correct answer.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0312",
+      "word": "wrong",
+      "translation": "wrong",
+      "example": "Wrong incorrect choice.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0313",
+      "word": "true",
+      "translation": "true",
+      "example": "True honest statement.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0314",
+      "word": "false",
+      "translation": "false",
+      "example": "False untrue claim.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0315",
+      "word": "same",
+      "translation": "same",
+      "example": "Same identical twin.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0316",
+      "word": "different",
+      "translation": "different",
+      "example": "Different unique style.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0317",
+      "word": "near",
+      "translation": "near",
+      "example": "Near close distance.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0318",
+      "word": "far",
+      "translation": "far",
+      "example": "Far distant place.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0319",
+      "word": "early",
+      "translation": "early",
+      "example": "Early morning sunrise.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0320",
+      "word": "late",
+      "translation": "late",
+      "example": "Late night arrival.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0321",
+      "word": "next",
+      "translation": "next",
+      "example": "Next following step.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0322",
+      "word": "last",
+      "translation": "last",
+      "example": "Last final chance.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0323",
+      "word": "full",
+      "translation": "full",
+      "example": "Full complete tank.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0324",
+      "word": "empty",
+      "translation": "empty",
+      "example": "Empty vacant room.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0325",
+      "word": "clean",
+      "translation": "clean",
+      "example": "Clean spotless floor.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0326",
+      "word": "dirty",
+      "translation": "dirty",
+      "example": "Dirty muddy shoes.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0327",
+      "word": "safe",
+      "translation": "safe",
+      "example": "Safe secure place.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0328",
+      "word": "dangerous",
+      "translation": "dangerous",
+      "example": "Dangerous risky situation.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0329",
+      "word": "beautiful",
+      "translation": "beautiful",
+      "example": "Beautiful pretty flower.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0330",
+      "word": "ugly",
+      "translation": "ugly",
+      "example": "Ugly unattractive building.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0331",
+      "word": "nice",
+      "translation": "nice",
+      "example": "Nice kind person.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0332",
+      "word": "bad",
+      "translation": "bad",
+      "example": "Bad terrible weather.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0333",
+      "word": "better",
+      "translation": "better",
+      "example": "Better improved version.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0334",
+      "word": "best",
+      "translation": "best",
+      "example": "Best top quality.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0335",
+      "word": "worse",
+      "translation": "worse",
+      "example": "Worse declining condition.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0336",
+      "word": "worst",
+      "translation": "worst",
+      "example": "Worst poorest performance.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0337",
+      "word": "important",
+      "translation": "important",
+      "example": "Important crucial matter.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0338",
+      "word": "interesting",
+      "translation": "interesting",
+      "example": "Interesting fascinating story.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0339",
+      "word": "difficult",
+      "translation": "difficult",
+      "example": "Difficult challenging task.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0340",
+      "word": "possible",
+      "translation": "possible",
+      "example": "Possible achievable goal.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0341",
+      "word": "impossible",
+      "translation": "impossible",
+      "example": "Impossible unattainable dream.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0342",
+      "word": "necessary",
+      "translation": "necessary",
+      "example": "Necessary essential item.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0343",
+      "word": "special",
+      "translation": "special",
+      "example": "Special unique moment.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0344",
+      "word": "sure",
+      "translation": "sure",
+      "example": "Sure certain fact.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0345",
+      "word": "clear",
+      "translation": "clear",
+      "example": "Clear transparent water.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0346",
+      "word": "ready",
+      "translation": "ready",
+      "example": "Ready prepared state.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0347",
+      "word": "simple",
+      "translation": "simple",
+      "example": "Simple uncomplicated plan.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0348",
+      "word": "busy",
+      "translation": "busy",
+      "example": "Busy hectic schedule.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0349",
+      "word": "free",
+      "translation": "free",
+      "example": "Free available time.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0350",
+      "word": "quiet",
+      "translation": "quiet",
+      "example": "Quiet silent room.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0351",
+      "word": "loud",
+      "translation": "loud",
+      "example": "Loud noisy music.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0352",
+      "word": "dark",
+      "translation": "dark",
+      "example": "Dark moonless night.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0353",
+      "word": "light",
+      "translation": "light",
+      "example": "Light bright day.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0354",
+      "word": "heavy",
+      "translation": "heavy",
+      "example": "Heavy weighted box.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0355",
+      "word": "soft",
+      "translation": "soft",
+      "example": "Soft fluffy pillow.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0356",
+      "word": "hard",
+      "translation": "hard",
+      "example": "Hard solid rock.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0357",
+      "word": "strong",
+      "translation": "strong",
+      "example": "Strong powerful muscle.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0358",
+      "word": "weak",
+      "translation": "weak",
+      "example": "Weak feeble attempt.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0359",
+      "word": "rich",
+      "translation": "rich",
+      "example": "Rich wealthy person.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0360",
+      "word": "poor",
+      "translation": "poor",
+      "example": "Poor impoverished family.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0361",
+      "word": "cheap",
+      "translation": "cheap",
+      "example": "Cheap affordable price.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0362",
+      "word": "expensive",
+      "translation": "expensive",
+      "example": "Expensive costly item.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0363",
+      "word": "wet",
+      "translation": "wet",
+      "example": "Wet rainy clothes.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0364",
+      "word": "dry",
+      "translation": "dry",
+      "example": "Dry arid desert.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0365",
+      "word": "open",
+      "translation": "open",
+      "example": "Open accessible door.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0366",
+      "word": "closed",
+      "translation": "closed",
+      "example": "Closed locked gate.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0367",
+      "word": "wide",
+      "translation": "wide",
+      "example": "Wide broad street.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0368",
+      "word": "narrow",
+      "translation": "narrow",
+      "example": "Narrow tight alley.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0369",
+      "word": "deep",
+      "translation": "deep",
+      "example": "Deep ocean floor.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0370",
+      "word": "shallow",
+      "translation": "shallow",
+      "example": "Shallow pool water.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0371",
+      "word": "thick",
+      "translation": "thick",
+      "example": "Thick dense forest.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0372",
+      "word": "thin",
+      "translation": "thin",
+      "example": "Thin slim figure.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0373",
+      "word": "fat",
+      "translation": "fat",
+      "example": "Fat plump cat.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0374",
+      "word": "hungry",
+      "translation": "hungry",
+      "example": "Hungry empty stomach.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0375",
+      "word": "thirsty",
+      "translation": "thirsty",
+      "example": "Thirsty dry throat.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0376",
+      "word": "sleepy",
+      "translation": "sleepy",
+      "example": "Sleepy drooping eyes.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0377",
+      "word": "awake",
+      "translation": "awake",
+      "example": "Awake alert mind.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0378",
+      "word": "alive",
+      "translation": "alive",
+      "example": "Alive living being.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0379",
+      "word": "dead",
+      "translation": "dead",
+      "example": "Dead lifeless body.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0380",
+      "word": "married",
+      "translation": "married",
+      "example": "Married happy couple.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0381",
+      "word": "single",
+      "translation": "single",
+      "example": "Single independent person.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0382",
+      "word": "alone",
+      "translation": "alone",
+      "example": "Alone solitary figure.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0383",
+      "word": "together",
+      "translation": "together",
+      "example": "Together united group.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0384",
+      "word": "eat",
+      "translation": "eat",
+      "example": "Eat healthy food.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0385",
+      "word": "drink",
+      "translation": "drink",
+      "example": "Drink pure water.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0386",
+      "word": "sleep",
+      "translation": "sleep",
+      "example": "Sleep well tonight.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0387",
+      "word": "wake",
+      "translation": "wake",
+      "example": "Wake up early.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0388",
+      "word": "walk",
+      "translation": "walk",
+      "example": "Walk in park.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0389",
+      "word": "run",
+      "translation": "run",
+      "example": "Run fast race.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0390",
+      "word": "sit",
+      "translation": "sit",
+      "example": "Sit down please.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0391",
+      "word": "stand",
+      "translation": "stand",
+      "example": "Stand up straight.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0392",
+      "word": "lie",
+      "translation": "lie",
+      "example": "Lie down rest.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0393",
+      "word": "read",
+      "translation": "read",
+      "example": "Read good books.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0394",
+      "word": "write",
+      "translation": "write",
+      "example": "Write clear notes.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0395",
+      "word": "speak",
+      "translation": "speak",
+      "example": "Speak slowly please.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0396",
+      "word": "talk",
+      "translation": "talk",
+      "example": "Talk about life.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0397",
+      "word": "listen",
+      "translation": "listen",
+      "example": "Listen carefully now.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0398",
+      "word": "hear",
+      "translation": "hear",
+      "example": "Hear the music.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0399",
+      "word": "watch",
+      "translation": "watch",
+      "example": "Watch the movie.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0400",
+      "word": "play",
+      "translation": "play",
+      "example": "Play outside children.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0401",
+      "word": "buy",
+      "translation": "buy",
+      "example": "Buy fresh vegetables.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0402",
+      "word": "sell",
+      "translation": "sell",
+      "example": "Sell old items.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0403",
+      "word": "pay",
+      "translation": "pay",
+      "example": "Pay the bill.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0404",
+      "word": "cost",
+      "translation": "cost",
+      "example": "Cost too much.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0405",
+      "word": "open",
+      "translation": "open",
+      "example": "Open the window.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0406",
+      "word": "close",
+      "translation": "close",
+      "example": "Close the book.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0407",
+      "word": "start",
+      "translation": "start",
+      "example": "Start the engine.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0408",
+      "word": "stop",
+      "translation": "stop",
+      "example": "Stop the car.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0409",
+      "word": "finish",
+      "translation": "finish",
+      "example": "Finish your homework.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0410",
+      "word": "find",
+      "translation": "find",
+      "example": "Find the answer.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0411",
+      "word": "lose",
+      "translation": "lose",
+      "example": "Lose your way.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0412",
+      "word": "win",
+      "translation": "win",
+      "example": "Win the game.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0413",
+      "word": "try",
+      "translation": "try",
+      "example": "Try your best.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0414",
+      "word": "need",
+      "translation": "need",
+      "example": "Need some help.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0415",
+      "word": "help",
+      "translation": "help",
+      "example": "Help each other.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0416",
+      "word": "call",
+      "translation": "call",
+      "example": "Call me tomorrow.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0417",
+      "word": "ask",
+      "translation": "ask",
+      "example": "Ask any questions.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0418",
+      "word": "tell",
+      "translation": "tell",
+      "example": "Tell me story.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0419",
+      "word": "answer",
+      "translation": "answer",
+      "example": "Answer the phone.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0420",
+      "word": "feel",
+      "translation": "feel",
+      "example": "Feel much better.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0421",
+      "word": "become",
+      "translation": "become",
+      "example": "Become a teacher.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0422",
+      "word": "leave",
+      "translation": "leave",
+      "example": "Leave right now.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0423",
+      "word": "bring",
+      "translation": "bring",
+      "example": "Bring your friend.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0424",
+      "word": "happen",
+      "translation": "happen",
+      "example": "Happen very suddenly.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0425",
+      "word": "show",
+      "translation": "show",
+      "example": "Show me how.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0426",
+      "word": "let",
+      "translation": "let",
+      "example": "Let me try.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0427",
+      "word": "keep",
+      "translation": "keep",
+      "example": "Keep it safe.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0428",
+      "word": "begin",
+      "translation": "begin",
+      "example": "Begin the lesson.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0429",
+      "word": "seem",
+      "translation": "seem",
+      "example": "Seem very nice.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0430",
+      "word": "meet",
+      "translation": "meet",
+      "example": "Meet new people.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0431",
+      "word": "learn",
+      "translation": "learn",
+      "example": "Learn every day.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0432",
+      "word": "teach",
+      "translation": "teach",
+      "example": "Teach with patience.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0433",
+      "word": "study",
+      "translation": "study",
+      "example": "Study hard always.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0434",
+      "word": "understand",
+      "translation": "understand",
+      "example": "Understand the concept.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0435",
+      "word": "remember",
+      "translation": "remember",
+      "example": "Remember important dates.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0436",
+      "word": "forget",
+      "translation": "forget",
+      "example": "Forget bad memories.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0437",
+      "word": "wait",
+      "translation": "wait",
+      "example": "Wait your turn.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0438",
+      "word": "stay",
+      "translation": "stay",
+      "example": "Stay here please.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0439",
+      "word": "live",
+      "translation": "live",
+      "example": "Live happy life.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0440",
+      "word": "die",
+      "translation": "die",
+      "example": "Die peacefully someday.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0441",
+      "word": "love",
+      "translation": "love",
+      "example": "Love your family.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0442",
+      "word": "like",
+      "translation": "like",
+      "example": "Like good music.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0443",
+      "word": "hate",
+      "translation": "hate",
+      "example": "Hate cruel behavior.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0444",
+      "word": "hope",
+      "translation": "hope",
+      "example": "Hope for best.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0445",
+      "word": "wish",
+      "translation": "wish",
+      "example": "Wish upon star.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0446",
+      "word": "believe",
+      "translation": "believe",
+      "example": "Believe in yourself.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0447",
+      "word": "think",
+      "translation": "think",
+      "example": "Think positive thoughts.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0448",
+      "word": "decide",
+      "translation": "decide",
+      "example": "Decide right now.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0449",
+      "word": "choose",
+      "translation": "choose",
+      "example": "Choose wisely always.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0450",
+      "word": "send",
+      "translation": "send",
+      "example": "Send the message.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0451",
+      "word": "receive",
+      "translation": "receive",
+      "example": "Receive warm welcome.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0452",
+      "word": "give",
+      "translation": "give",
+      "example": "Give with love.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0453",
+      "word": "take",
+      "translation": "take",
+      "example": "Take good care.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0454",
+      "word": "put",
+      "translation": "put",
+      "example": "Put it there.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0455",
+      "word": "hold",
+      "translation": "hold",
+      "example": "Hold my hand.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0456",
+      "word": "catch",
+      "translation": "catch",
+      "example": "Catch the ball.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0457",
+      "word": "throw",
+      "translation": "throw",
+      "example": "Throw it away.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0458",
+      "word": "push",
+      "translation": "push",
+      "example": "Push the door.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0459",
+      "word": "pull",
+      "translation": "pull",
+      "example": "Pull the rope.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0460",
+      "word": "break",
+      "translation": "break",
+      "example": "Break the record.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0461",
+      "word": "cut",
+      "translation": "cut",
+      "example": "Cut the cake.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0462",
+      "word": "wash",
+      "translation": "wash",
+      "example": "Wash your hands.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0463",
+      "word": "clean",
+      "translation": "clean",
+      "example": "Clean the house.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0464",
+      "word": "cook",
+      "translation": "cook",
+      "example": "Cook delicious meal.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0465",
+      "word": "wear",
+      "translation": "wear",
+      "example": "Wear warm clothes.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0466",
+      "word": "build",
+      "translation": "build",
+      "example": "Build strong foundation.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0467",
+      "word": "grow",
+      "translation": "grow",
+      "example": "Grow tall trees.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0468",
+      "word": "change",
+      "translation": "change",
+      "example": "Change for better.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0469",
+      "word": "turn",
+      "translation": "turn",
+      "example": "Turn right here.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0470",
+      "word": "move",
+      "translation": "move",
+      "example": "Move forward slowly.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0471",
+      "word": "carry",
+      "translation": "carry",
+      "example": "Carry heavy load.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0472",
+      "word": "drive",
+      "translation": "drive",
+      "example": "Drive safely always.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0473",
+      "word": "ride",
+      "translation": "ride",
+      "example": "Ride your bicycle.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0474",
+      "word": "fly",
+      "translation": "fly",
+      "example": "Fly like bird.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0475",
+      "word": "swim",
+      "translation": "swim",
+      "example": "Swim in ocean.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0476",
+      "word": "sing",
+      "translation": "sing",
+      "example": "Sing beautiful song.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0477",
+      "word": "dance",
+      "translation": "dance",
+      "example": "Dance with joy.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0478",
+      "word": "laugh",
+      "translation": "laugh",
+      "example": "Laugh out loud.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0479",
+      "word": "cry",
+      "translation": "cry",
+      "example": "Cry when sad.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0480",
+      "word": "smile",
+      "translation": "smile",
+      "example": "Smile every day.",
+      "category": "verb"
+    },
+    {
+      "id": "word_0481",
+      "word": "number",
+      "translation": "number",
+      "example": "Lucky number seven.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0482",
+      "word": "zero",
+      "translation": "zero",
+      "example": "Start from zero.",
+      "category": "number"
+    },
+    {
+      "id": "word_0483",
+      "word": "one",
+      "translation": "one",
+      "example": "One is enough.",
+      "category": "number"
+    },
+    {
+      "id": "word_0484",
+      "word": "two",
+      "translation": "two",
+      "example": "Two hands have.",
+      "category": "number"
+    },
+    {
+      "id": "word_0485",
+      "word": "three",
+      "translation": "three",
+      "example": "Three little pigs.",
+      "category": "number"
+    },
+    {
+      "id": "word_0486",
+      "word": "four",
+      "translation": "four",
+      "example": "Four seasons yearly.",
+      "category": "number"
+    },
+    {
+      "id": "word_0487",
+      "word": "five",
+      "translation": "five",
+      "example": "Five fingers hand.",
+      "category": "number"
+    },
+    {
+      "id": "word_0488",
+      "word": "six",
+      "translation": "six",
+      "example": "Six sides cube.",
+      "category": "number"
+    },
+    {
+      "id": "word_0489",
+      "word": "seven",
+      "translation": "seven",
+      "example": "Seven days week.",
+      "category": "number"
+    },
+    {
+      "id": "word_0490",
+      "word": "eight",
+      "translation": "eight",
+      "example": "Eight hours sleep.",
+      "category": "number"
+    },
+    {
+      "id": "word_0491",
+      "word": "nine",
+      "translation": "nine",
+      "example": "Nine lives cat.",
+      "category": "number"
+    },
+    {
+      "id": "word_0492",
+      "word": "ten",
+      "translation": "ten",
+      "example": "Ten toes total.",
+      "category": "number"
+    },
+    {
+      "id": "word_0493",
+      "word": "eleven",
+      "translation": "eleven",
+      "example": "Eleven players team.",
+      "category": "number"
+    },
+    {
+      "id": "word_0494",
+      "word": "twelve",
+      "translation": "twelve",
+      "example": "Twelve months year.",
+      "category": "number"
+    },
+    {
+      "id": "word_0495",
+      "word": "thirteen",
+      "translation": "thirteen",
+      "example": "Thirteen unlucky number.",
+      "category": "number"
+    },
+    {
+      "id": "word_0496",
+      "word": "fourteen",
+      "translation": "fourteen",
+      "example": "Fourteen days fortnight.",
+      "category": "number"
+    },
+    {
+      "id": "word_0497",
+      "word": "fifteen",
+      "translation": "fifteen",
+      "example": "Fifteen minutes quarter.",
+      "category": "number"
+    },
+    {
+      "id": "word_0498",
+      "word": "sixteen",
+      "translation": "sixteen",
+      "example": "Sixteen years old.",
+      "category": "number"
+    },
+    {
+      "id": "word_0499",
+      "word": "seventeen",
+      "translation": "seventeen",
+      "example": "Seventeen birthday party.",
+      "category": "number"
+    },
+    {
+      "id": "word_0500",
+      "word": "eighteen",
+      "translation": "eighteen",
+      "example": "Eighteen years adult.",
+      "category": "number"
+    },
+    {
+      "id": "word_0501",
+      "word": "nineteen",
+      "translation": "nineteen",
+      "example": "Nineteen ninety year.",
+      "category": "number"
+    },
+    {
+      "id": "word_0502",
+      "word": "twenty",
+      "translation": "twenty",
+      "example": "Twenty dollars bill.",
+      "category": "number"
+    },
+    {
+      "id": "word_0503",
+      "word": "thirty",
+      "translation": "thirty",
+      "example": "Thirty days month.",
+      "category": "number"
+    },
+    {
+      "id": "word_0504",
+      "word": "forty",
+      "translation": "forty",
+      "example": "Forty winks nap.",
+      "category": "number"
+    },
+    {
+      "id": "word_0505",
+      "word": "fifty",
+      "translation": "fifty",
+      "example": "Fifty percent half.",
+      "category": "number"
+    },
+    {
+      "id": "word_0506",
+      "word": "sixty",
+      "translation": "sixty",
+      "example": "Sixty seconds minute.",
+      "category": "number"
+    },
+    {
+      "id": "word_0507",
+      "word": "seventy",
+      "translation": "seventy",
+      "example": "Seventy years old.",
+      "category": "number"
+    },
+    {
+      "id": "word_0508",
+      "word": "eighty",
+      "translation": "eighty",
+      "example": "Eighty degrees hot.",
+      "category": "number"
+    },
+    {
+      "id": "word_0509",
+      "word": "ninety",
+      "translation": "ninety",
+      "example": "Ninety nine bottles.",
+      "category": "number"
+    },
+    {
+      "id": "word_0510",
+      "word": "hundred",
+      "translation": "hundred",
+      "example": "One hundred percent.",
+      "category": "number"
+    },
+    {
+      "id": "word_0511",
+      "word": "thousand",
+      "translation": "thousand",
+      "example": "One thousand words.",
+      "category": "number"
+    },
+    {
+      "id": "word_0512",
+      "word": "million",
+      "translation": "million",
+      "example": "One million dollars.",
+      "category": "number"
+    },
+    {
+      "id": "word_0513",
+      "word": "first",
+      "translation": "first",
+      "example": "First place winner.",
+      "category": "number"
+    },
+    {
+      "id": "word_0514",
+      "word": "second",
+      "translation": "second",
+      "example": "Second chance given.",
+      "category": "number"
+    },
+    {
+      "id": "word_0515",
+      "word": "third",
+      "translation": "third",
+      "example": "Third time lucky.",
+      "category": "number"
+    },
+    {
+      "id": "word_0516",
+      "word": "animal",
+      "translation": "animal",
+      "example": "Wild animal forest.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0517",
+      "word": "dog",
+      "translation": "dog",
+      "example": "Loyal dog friend.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0518",
+      "word": "cat",
+      "translation": "cat",
+      "example": "Cute cat meow.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0519",
+      "word": "bird",
+      "translation": "bird",
+      "example": "Flying bird sky.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0520",
+      "word": "fish",
+      "translation": "fish",
+      "example": "Swimming fish water.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0521",
+      "word": "horse",
+      "translation": "horse",
+      "example": "Running horse fast.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0522",
+      "word": "cow",
+      "translation": "cow",
+      "example": "Milk from cow.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0523",
+      "word": "pig",
+      "translation": "pig",
+      "example": "Pink pig farm.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0524",
+      "word": "chicken",
+      "translation": "chicken",
+      "example": "Egg from chicken.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0525",
+      "word": "sheep",
+      "translation": "sheep",
+      "example": "White sheep wool.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0526",
+      "word": "tree",
+      "translation": "tree",
+      "example": "Tall green tree.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0527",
+      "word": "flower",
+      "translation": "flower",
+      "example": "Beautiful red flower.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0528",
+      "word": "grass",
+      "translation": "grass",
+      "example": "Green grass lawn.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0529",
+      "word": "plant",
+      "translation": "plant",
+      "example": "Growing plant pot.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0530",
+      "word": "sun",
+      "translation": "sun",
+      "example": "Bright yellow sun.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0531",
+      "word": "moon",
+      "translation": "moon",
+      "example": "Full white moon.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0532",
+      "word": "star",
+      "translation": "star",
+      "example": "Twinkling star night.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0533",
+      "word": "sky",
+      "translation": "sky",
+      "example": "Blue clear sky.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0534",
+      "word": "cloud",
+      "translation": "cloud",
+      "example": "White fluffy cloud.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0535",
+      "word": "rain",
+      "translation": "rain",
+      "example": "Heavy rain falling.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0536",
+      "word": "snow",
+      "translation": "snow",
+      "example": "White snow cold.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0537",
+      "word": "wind",
+      "translation": "wind",
+      "example": "Strong wind blowing.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0538",
+      "word": "fire",
+      "translation": "fire",
+      "example": "Hot red fire.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0539",
+      "word": "air",
+      "translation": "air",
+      "example": "Fresh clean air.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0540",
+      "word": "earth",
+      "translation": "earth",
+      "example": "Planet Earth home.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0541",
+      "word": "land",
+      "translation": "land",
+      "example": "Dry land ground.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0542",
+      "word": "sea",
+      "translation": "sea",
+      "example": "Deep blue sea.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0543",
+      "word": "ocean",
+      "translation": "ocean",
+      "example": "Pacific Ocean vast.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0544",
+      "word": "river",
+      "translation": "river",
+      "example": "Flowing river water.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0545",
+      "word": "lake",
+      "translation": "lake",
+      "example": "Calm quiet lake.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0546",
+      "word": "mountain",
+      "translation": "mountain",
+      "example": "High snow mountain.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0547",
+      "word": "hill",
+      "translation": "hill",
+      "example": "Rolling green hill.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0548",
+      "word": "forest",
+      "translation": "forest",
+      "example": "Dense dark forest.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0549",
+      "word": "field",
+      "translation": "field",
+      "example": "Open grass field.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0550",
+      "word": "garden",
+      "translation": "garden",
+      "example": "Beautiful flower garden.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0551",
+      "word": "farm",
+      "translation": "farm",
+      "example": "Working dairy farm.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0552",
+      "word": "village",
+      "translation": "village",
+      "example": "Small quiet village.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0553",
+      "word": "town",
+      "translation": "town",
+      "example": "Growing busy town.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0554",
+      "word": "building",
+      "translation": "building",
+      "example": "Tall office building.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0555",
+      "word": "hospital",
+      "translation": "hospital",
+      "example": "City general hospital.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0556",
+      "word": "bank",
+      "translation": "bank",
+      "example": "National savings bank.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0557",
+      "word": "restaurant",
+      "translation": "restaurant",
+      "example": "Italian food restaurant.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0558",
+      "word": "hotel",
+      "translation": "hotel",
+      "example": "Luxury five hotel.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0559",
+      "word": "church",
+      "translation": "church",
+      "example": "Old stone church.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0560",
+      "word": "park",
+      "translation": "park",
+      "example": "Public green park.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0561",
+      "word": "bridge",
+      "translation": "bridge",
+      "example": "Long steel bridge.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0562",
+      "word": "station",
+      "translation": "station",
+      "example": "Main train station.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0563",
+      "word": "airport",
+      "translation": "airport",
+      "example": "International airport busy.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0564",
+      "word": "museum",
+      "translation": "museum",
+      "example": "National history museum.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0565",
+      "word": "library",
+      "translation": "library",
+      "example": "Public city library.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0566",
+      "word": "university",
+      "translation": "university",
+      "example": "Famous old university.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0567",
+      "word": "government",
+      "translation": "government",
+      "example": "Democratic elected government.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0568",
+      "word": "law",
+      "translation": "law",
+      "example": "Fair justice law.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0569",
+      "word": "police",
+      "translation": "police",
+      "example": "Local police station.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0570",
+      "word": "army",
+      "translation": "army",
+      "example": "National defense army.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0571",
+      "word": "war",
+      "translation": "war",
+      "example": "Terrible destructive war.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0572",
+      "word": "peace",
+      "translation": "peace",
+      "example": "World lasting peace.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0573",
+      "word": "problem",
+      "translation": "problem",
+      "example": "Difficult math problem.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0574",
+      "word": "question",
+      "translation": "question",
+      "example": "Important serious question.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0575",
+      "word": "answer",
+      "translation": "answer",
+      "example": "Correct right answer.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0576",
+      "word": "idea",
+      "translation": "idea",
+      "example": "Brilliant creative idea.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0577",
+      "word": "reason",
+      "translation": "reason",
+      "example": "Good valid reason.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0578",
+      "word": "example",
+      "translation": "example",
+      "example": "Perfect clear example.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0579",
+      "word": "fact",
+      "translation": "fact",
+      "example": "Known proven fact.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0580",
+      "word": "truth",
+      "translation": "truth",
+      "example": "Honest complete truth.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0581",
+      "word": "story",
+      "translation": "story",
+      "example": "Interesting short story.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0582",
+      "word": "news",
+      "translation": "news",
+      "example": "Breaking latest news.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0583",
+      "word": "information",
+      "translation": "information",
+      "example": "Useful important information.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0584",
+      "word": "word",
+      "translation": "word",
+      "example": "New vocabulary word.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0585",
+      "word": "sentence",
+      "translation": "sentence",
+      "example": "Complete grammatical sentence.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0586",
+      "word": "language",
+      "translation": "language",
+      "example": "Foreign second language.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0587",
+      "word": "letter",
+      "translation": "letter",
+      "example": "Handwritten personal letter.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0588",
+      "word": "sound",
+      "translation": "sound",
+      "example": "Loud strange sound.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0589",
+      "word": "voice",
+      "translation": "voice",
+      "example": "Beautiful singing voice.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0590",
+      "word": "music",
+      "translation": "music",
+      "example": "Classical orchestral music.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0591",
+      "word": "song",
+      "translation": "song",
+      "example": "Popular hit song.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0592",
+      "word": "picture",
+      "translation": "picture",
+      "example": "Beautiful family picture.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0593",
+      "word": "photo",
+      "translation": "photo",
+      "example": "Old black photo.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0594",
+      "word": "film",
+      "translation": "film",
+      "example": "Award winning film.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0595",
+      "word": "movie",
+      "translation": "movie",
+      "example": "Action adventure movie.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0596",
+      "word": "game",
+      "translation": "game",
+      "example": "Fun board game.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0597",
+      "word": "sport",
+      "translation": "sport",
+      "example": "Popular team sport.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0598",
+      "word": "team",
+      "translation": "team",
+      "example": "Winning championship team.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0599",
+      "word": "player",
+      "translation": "player",
+      "example": "Professional soccer player.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0600",
+      "word": "ball",
+      "translation": "ball",
+      "example": "Round bouncing ball.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0601",
+      "word": "party",
+      "translation": "party",
+      "example": "Birthday celebration party.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0602",
+      "word": "gift",
+      "translation": "gift",
+      "example": "Thoughtful generous gift.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0603",
+      "word": "present",
+      "translation": "present",
+      "example": "Wrapped surprise present.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0604",
+      "word": "toy",
+      "translation": "toy",
+      "example": "Children's favorite toy.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0605",
+      "word": "phone",
+      "translation": "phone",
+      "example": "Mobile smart phone.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0606",
+      "word": "computer",
+      "translation": "computer",
+      "example": "Personal laptop computer.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0607",
+      "word": "television",
+      "translation": "television",
+      "example": "Flat screen television.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0608",
+      "word": "radio",
+      "translation": "radio",
+      "example": "Old portable radio.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0609",
+      "word": "camera",
+      "translation": "camera",
+      "example": "Digital photography camera.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0610",
+      "word": "watch",
+      "translation": "watch",
+      "example": "Swiss luxury watch.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0611",
+      "word": "clock",
+      "translation": "clock",
+      "example": "Antique wall clock.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0612",
+      "word": "box",
+      "translation": "box",
+      "example": "Cardboard storage box.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0613",
+      "word": "bag",
+      "translation": "bag",
+      "example": "Leather shopping bag.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0614",
+      "word": "pocket",
+      "translation": "pocket",
+      "example": "Deep front pocket.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0615",
+      "word": "key",
+      "translation": "key",
+      "example": "Metal door key.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0616",
+      "word": "light",
+      "translation": "light",
+      "example": "Bright ceiling light.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0617",
+      "word": "candle",
+      "translation": "candle",
+      "example": "Scented aromatic candle.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0618",
+      "word": "floor",
+      "translation": "floor",
+      "example": "Wooden hard floor.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0619",
+      "word": "wall",
+      "translation": "wall",
+      "example": "White painted wall.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0620",
+      "word": "roof",
+      "translation": "roof",
+      "example": "Red tiled roof.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0621",
+      "word": "garden",
+      "translation": "garden",
+      "example": "Backyard vegetable garden.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0622",
+      "word": "bathroom",
+      "translation": "bathroom",
+      "example": "Clean private bathroom.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0623",
+      "word": "kitchen",
+      "translation": "kitchen",
+      "example": "Modern equipped kitchen.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0624",
+      "word": "bedroom",
+      "translation": "bedroom",
+      "example": "Spacious master bedroom.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0625",
+      "word": "living",
+      "translation": "living",
+      "example": "Comfortable living room.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0626",
+      "word": "toilet",
+      "translation": "toilet",
+      "example": "Clean public toilet.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0627",
+      "word": "shower",
+      "translation": "shower",
+      "example": "Hot morning shower.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0628",
+      "word": "bath",
+      "translation": "bath",
+      "example": "Relaxing bubble bath.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0629",
+      "word": "soap",
+      "translation": "soap",
+      "example": "Fragrant hand soap.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0630",
+      "word": "towel",
+      "translation": "towel",
+      "example": "Soft clean towel.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0631",
+      "word": "mirror",
+      "translation": "mirror",
+      "example": "Large bathroom mirror.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0632",
+      "word": "brush",
+      "translation": "brush",
+      "example": "Hard tooth brush.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0633",
+      "word": "comb",
+      "translation": "comb",
+      "example": "Fine hair comb.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0634",
+      "word": "medicine",
+      "translation": "medicine",
+      "example": "Prescribed daily medicine.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0635",
+      "word": "doctor",
+      "translation": "doctor",
+      "example": "Experienced family doctor.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0636",
+      "word": "nurse",
+      "translation": "nurse",
+      "example": "Caring hospital nurse.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0637",
+      "word": "patient",
+      "translation": "patient",
+      "example": "Recovering sick patient.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0638",
+      "word": "health",
+      "translation": "health",
+      "example": "Good physical health.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0639",
+      "word": "disease",
+      "translation": "disease",
+      "example": "Contagious infectious disease.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0640",
+      "word": "pain",
+      "translation": "pain",
+      "example": "Sharp severe pain.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0641",
+      "word": "blood",
+      "translation": "blood",
+      "example": "Red flowing blood.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0642",
+      "word": "age",
+      "translation": "age",
+      "example": "Old advanced age.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0643",
+      "word": "birth",
+      "translation": "birth",
+      "example": "Happy baby birth.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0644",
+      "word": "death",
+      "translation": "death",
+      "example": "Peaceful natural death.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0645",
+      "word": "life",
+      "translation": "life",
+      "example": "Beautiful precious life.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0646",
+      "word": "minute",
+      "translation": "minute",
+      "example": "Just one minute.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0647",
+      "word": "hour",
+      "translation": "hour",
+      "example": "Half an hour.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0648",
+      "word": "second",
+      "translation": "second",
+      "example": "Every single second.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0649",
+      "word": "moment",
+      "translation": "moment",
+      "example": "Perfect special moment.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0650",
+      "word": "history",
+      "translation": "history",
+      "example": "Ancient world history.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0651",
+      "word": "future",
+      "translation": "future",
+      "example": "Bright promising future.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0652",
+      "word": "past",
+      "translation": "past",
+      "example": "Distant forgotten past.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0653",
+      "word": "present",
+      "translation": "present",
+      "example": "Living in present.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0654",
+      "word": "state",
+      "translation": "state",
+      "example": "Current present state.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0655",
+      "word": "nation",
+      "translation": "nation",
+      "example": "Proud sovereign nation.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0656",
+      "word": "power",
+      "translation": "power",
+      "example": "Great political power.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0657",
+      "word": "president",
+      "translation": "president",
+      "example": "Elected national president.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0658",
+      "word": "king",
+      "translation": "king",
+      "example": "Powerful ruling king.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0659",
+      "word": "queen",
+      "translation": "queen",
+      "example": "Beloved royal queen.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0660",
+      "word": "prince",
+      "translation": "prince",
+      "example": "Young handsome prince.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0661",
+      "word": "princess",
+      "translation": "princess",
+      "example": "Beautiful kind princess.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0662",
+      "word": "society",
+      "translation": "society",
+      "example": "Modern civilized society.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0663",
+      "word": "culture",
+      "translation": "culture",
+      "example": "Rich diverse culture.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0664",
+      "word": "art",
+      "translation": "art",
+      "example": "Fine visual art.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0665",
+      "word": "science",
+      "translation": "science",
+      "example": "Advanced modern science.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0666",
+      "word": "technology",
+      "translation": "technology",
+      "example": "Latest digital technology.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0667",
+      "word": "business",
+      "translation": "business",
+      "example": "Successful international business.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0668",
+      "word": "company",
+      "translation": "company",
+      "example": "Large multinational company.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0669",
+      "word": "service",
+      "translation": "service",
+      "example": "Excellent customer service.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0670",
+      "word": "product",
+      "translation": "product",
+      "example": "Quality manufactured product.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0671",
+      "word": "price",
+      "translation": "price",
+      "example": "Fair reasonable price.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0672",
+      "word": "value",
+      "translation": "value",
+      "example": "Great monetary value.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0673",
+      "word": "tax",
+      "translation": "tax",
+      "example": "Annual income tax.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0674",
+      "word": "interest",
+      "translation": "interest",
+      "example": "High bank interest.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0675",
+      "word": "deal",
+      "translation": "deal",
+      "example": "Great business deal.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0676",
+      "word": "agreement",
+      "translation": "agreement",
+      "example": "Mutual written agreement.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0677",
+      "word": "contract",
+      "translation": "contract",
+      "example": "Legal binding contract.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0678",
+      "word": "plan",
+      "translation": "plan",
+      "example": "Detailed strategic plan.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0679",
+      "word": "project",
+      "translation": "project",
+      "example": "Important school project.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0680",
+      "word": "program",
+      "translation": "program",
+      "example": "Educational training program.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0681",
+      "word": "system",
+      "translation": "system",
+      "example": "Complex operating system.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0682",
+      "word": "method",
+      "translation": "method",
+      "example": "Effective teaching method.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0683",
+      "word": "process",
+      "translation": "process",
+      "example": "Long manufacturing process.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0684",
+      "word": "result",
+      "translation": "result",
+      "example": "Positive successful result.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0685",
+      "word": "effect",
+      "translation": "effect",
+      "example": "Immediate noticeable effect.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0686",
+      "word": "cause",
+      "translation": "cause",
+      "example": "Main root cause.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0687",
+      "word": "chance",
+      "translation": "chance",
+      "example": "Lucky second chance.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0688",
+      "word": "choice",
+      "translation": "choice",
+      "example": "Difficult tough choice.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0689",
+      "word": "decision",
+      "translation": "decision",
+      "example": "Important final decision.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0690",
+      "word": "action",
+      "translation": "action",
+      "example": "Quick decisive action.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0691",
+      "word": "activity",
+      "translation": "activity",
+      "example": "Physical outdoor activity.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0692",
+      "word": "experience",
+      "translation": "experience",
+      "example": "Valuable life experience.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0693",
+      "word": "knowledge",
+      "translation": "knowledge",
+      "example": "Deep extensive knowledge.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0694",
+      "word": "skill",
+      "translation": "skill",
+      "example": "Special technical skill.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0695",
+      "word": "ability",
+      "translation": "ability",
+      "example": "Natural innate ability.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0696",
+      "word": "effort",
+      "translation": "effort",
+      "example": "Great combined effort.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0697",
+      "word": "success",
+      "translation": "success",
+      "example": "Well deserved success.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0698",
+      "word": "failure",
+      "translation": "failure",
+      "example": "Temporary minor failure.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0699",
+      "word": "mistake",
+      "translation": "mistake",
+      "example": "Common simple mistake.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0700",
+      "word": "error",
+      "translation": "error",
+      "example": "Small calculation error.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0701",
+      "word": "danger",
+      "translation": "danger",
+      "example": "Serious imminent danger.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0702",
+      "word": "risk",
+      "translation": "risk",
+      "example": "High financial risk.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0703",
+      "word": "chance",
+      "translation": "chance",
+      "example": "Rare golden chance.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0704",
+      "word": "luck",
+      "translation": "luck",
+      "example": "Pure good luck.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0705",
+      "word": "fortune",
+      "translation": "fortune",
+      "example": "Great personal fortune.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0706",
+      "word": "fate",
+      "translation": "fate",
+      "example": "Unknown uncertain fate.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0707",
+      "word": "purpose",
+      "translation": "purpose",
+      "example": "Clear main purpose.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0708",
+      "word": "goal",
+      "translation": "goal",
+      "example": "Achievable realistic goal.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0709",
+      "word": "aim",
+      "translation": "aim",
+      "example": "Primary ultimate aim.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0710",
+      "word": "end",
+      "translation": "end",
+      "example": "Final bitter end.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0711",
+      "word": "beginning",
+      "translation": "beginning",
+      "example": "Fresh new beginning.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0712",
+      "word": "middle",
+      "translation": "middle",
+      "example": "Exact precise middle.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0713",
+      "word": "top",
+      "translation": "top",
+      "example": "Very highest top.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0714",
+      "word": "bottom",
+      "translation": "bottom",
+      "example": "Very lowest bottom.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0715",
+      "word": "side",
+      "translation": "side",
+      "example": "Left hand side.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0716",
+      "word": "front",
+      "translation": "front",
+      "example": "Right in front.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0717",
+      "word": "behind",
+      "translation": "behind",
+      "example": "Just right behind.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0718",
+      "word": "above",
+      "translation": "above",
+      "example": "High up above.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0719",
+      "word": "below",
+      "translation": "below",
+      "example": "Far down below.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0720",
+      "word": "inside",
+      "translation": "inside",
+      "example": "Deep down inside.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0721",
+      "word": "outside",
+      "translation": "outside",
+      "example": "Just right outside.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0722",
+      "word": "between",
+      "translation": "between",
+      "example": "Right in between.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0723",
+      "word": "among",
+      "translation": "among",
+      "example": "Hidden among crowd.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0724",
+      "word": "across",
+      "translation": "across",
+      "example": "Right straight across.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0725",
+      "word": "through",
+      "translation": "through",
+      "example": "All the through.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0726",
+      "word": "during",
+      "translation": "during",
+      "example": "Only during daytime.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0727",
+      "word": "before",
+      "translation": "before",
+      "example": "Just right before.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0728",
+      "word": "since",
+      "translation": "since",
+      "example": "Ever since then.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0729",
+      "word": "until",
+      "translation": "until",
+      "example": "Wait right until.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0730",
+      "word": "while",
+      "translation": "while",
+      "example": "Stay safe while.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0731",
+      "word": "although",
+      "translation": "although",
+      "example": "True although difficult.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0732",
+      "word": "however",
+      "translation": "however",
+      "example": "Right however wrong.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0733",
+      "word": "therefore",
+      "translation": "therefore",
+      "example": "True therefore valid.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0734",
+      "word": "thus",
+      "translation": "thus",
+      "example": "True thus correct.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0735",
+      "word": "moreover",
+      "translation": "moreover",
+      "example": "Good moreover beneficial.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0736",
+      "word": "furthermore",
+      "translation": "furthermore",
+      "example": "True furthermore accurate.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0737",
+      "word": "otherwise",
+      "translation": "otherwise",
+      "example": "Come otherwise leave.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0738",
+      "word": "instead",
+      "translation": "instead",
+      "example": "This instead that.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0739",
+      "word": "besides",
+      "translation": "besides",
+      "example": "Good besides useful.",
+      "category": "conjunction"
+    },
+    {
+      "id": "word_0740",
+      "word": "except",
+      "translation": "except",
+      "example": "All except one.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0741",
+      "word": "without",
+      "translation": "without",
+      "example": "Life without water.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0742",
+      "word": "within",
+      "translation": "within",
+      "example": "Stay right within.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0743",
+      "word": "against",
+      "translation": "against",
+      "example": "Lean right against.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0744",
+      "word": "toward",
+      "translation": "toward",
+      "example": "Move right toward.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0745",
+      "word": "upon",
+      "translation": "upon",
+      "example": "Sit right upon.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0746",
+      "word": "off",
+      "translation": "off",
+      "example": "Take right off.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0747",
+      "word": "down",
+      "translation": "down",
+      "example": "Come right down.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0748",
+      "word": "around",
+      "translation": "around",
+      "example": "Look all around.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0749",
+      "word": "near",
+      "translation": "near",
+      "example": "Stay very near.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0750",
+      "word": "along",
+      "translation": "along",
+      "example": "Walk right along.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0751",
+      "word": "past",
+      "translation": "past",
+      "example": "Walk right past.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0752",
+      "word": "beyond",
+      "translation": "beyond",
+      "example": "Look far beyond.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0753",
+      "word": "opposite",
+      "translation": "opposite",
+      "example": "Sit directly opposite.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0754",
+      "word": "despite",
+      "translation": "despite",
+      "example": "Success despite difficulties.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0755",
+      "word": "beside",
+      "translation": "beside",
+      "example": "Sit right beside.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0756",
+      "word": "throughout",
+      "translation": "throughout",
+      "example": "Known throughout world.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0757",
+      "word": "underneath",
+      "translation": "underneath",
+      "example": "Hidden right underneath.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0758",
+      "word": "concerning",
+      "translation": "concerning",
+      "example": "Question concerning matter.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0759",
+      "word": "regarding",
+      "translation": "regarding",
+      "example": "Information regarding issue.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0760",
+      "word": "according",
+      "translation": "according",
+      "example": "According to plan.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0761",
+      "word": "including",
+      "translation": "including",
+      "example": "All including children.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0762",
+      "word": "following",
+      "translation": "following",
+      "example": "Following these instructions.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0763",
+      "word": "considering",
+      "translation": "considering",
+      "example": "Considering all factors.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0764",
+      "word": "respecting",
+      "translation": "respecting",
+      "example": "Respecting your opinion.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0765",
+      "word": "thanks",
+      "translation": "thanks",
+      "example": "Many sincere thanks.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0766",
+      "word": "congratulations",
+      "translation": "congratulations",
+      "example": "Warm heartfelt congratulations.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0767",
+      "word": "luck",
+      "translation": "luck",
+      "example": "Good best luck.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0768",
+      "word": "attention",
+      "translation": "attention",
+      "example": "Full complete attention.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0769",
+      "word": "care",
+      "translation": "care",
+      "example": "Take good care.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0770",
+      "word": "respect",
+      "translation": "respect",
+      "example": "Deep mutual respect.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0771",
+      "word": "honor",
+      "translation": "honor",
+      "example": "Great personal honor.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0772",
+      "word": "pride",
+      "translation": "pride",
+      "example": "Immense personal pride.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0773",
+      "word": "shame",
+      "translation": "shame",
+      "example": "Deep personal shame.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0774",
+      "word": "fear",
+      "translation": "fear",
+      "example": "Great overwhelming fear.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0775",
+      "word": "hope",
+      "translation": "hope",
+      "example": "Strong eternal hope.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0776",
+      "word": "faith",
+      "translation": "faith",
+      "example": "Strong unshakable faith.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0777",
+      "word": "trust",
+      "translation": "trust",
+      "example": "Complete absolute trust.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0778",
+      "word": "confidence",
+      "translation": "confidence",
+      "example": "Strong self confidence.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0779",
+      "word": "doubt",
+      "translation": "doubt",
+      "example": "Serious reasonable doubt.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0780",
+      "word": "worry",
+      "translation": "worry",
+      "example": "Constant unnecessary worry.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0781",
+      "word": "concern",
+      "translation": "concern",
+      "example": "Growing serious concern.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0782",
+      "word": "interest",
+      "translation": "interest",
+      "example": "Keen genuine interest.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0783",
+      "word": "attention",
+      "translation": "attention",
+      "example": "Special particular attention.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0784",
+      "word": "opinion",
+      "translation": "opinion",
+      "example": "Personal honest opinion.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0785",
+      "word": "view",
+      "translation": "view",
+      "example": "Different unique view.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0786",
+      "word": "thought",
+      "translation": "thought",
+      "example": "Deep profound thought.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0787",
+      "word": "feeling",
+      "translation": "feeling",
+      "example": "Strong inner feeling.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0788",
+      "word": "emotion",
+      "translation": "emotion",
+      "example": "Powerful raw emotion.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0789",
+      "word": "sense",
+      "translation": "sense",
+      "example": "Good common sense.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0790",
+      "word": "mind",
+      "translation": "mind",
+      "example": "Sharp brilliant mind.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0791",
+      "word": "memory",
+      "translation": "memory",
+      "example": "Vivid clear memory.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0792",
+      "word": "dream",
+      "translation": "dream",
+      "example": "Beautiful pleasant dream.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0793",
+      "word": "imagination",
+      "translation": "imagination",
+      "example": "Wild vivid imagination.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0794",
+      "word": "reality",
+      "translation": "reality",
+      "example": "Harsh cold reality.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0795",
+      "word": "appearance",
+      "translation": "appearance",
+      "example": "Physical outer appearance.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0796",
+      "word": "shape",
+      "translation": "shape",
+      "example": "Round circular shape.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0797",
+      "word": "size",
+      "translation": "size",
+      "example": "Large enormous size.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0798",
+      "word": "length",
+      "translation": "length",
+      "example": "Full total length.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0799",
+      "word": "width",
+      "translation": "width",
+      "example": "Full complete width.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0800",
+      "word": "height",
+      "translation": "height",
+      "example": "Maximum full height.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0801",
+      "word": "depth",
+      "translation": "depth",
+      "example": "Great extreme depth.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0802",
+      "word": "weight",
+      "translation": "weight",
+      "example": "Heavy total weight.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0803",
+      "word": "speed",
+      "translation": "speed",
+      "example": "High maximum speed.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0804",
+      "word": "distance",
+      "translation": "distance",
+      "example": "Long total distance.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0805",
+      "word": "direction",
+      "translation": "direction",
+      "example": "Right correct direction.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0806",
+      "word": "position",
+      "translation": "position",
+      "example": "Current exact position.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0807",
+      "word": "situation",
+      "translation": "situation",
+      "example": "Current present situation.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0808",
+      "word": "condition",
+      "translation": "condition",
+      "example": "Good excellent condition.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0809",
+      "word": "quality",
+      "translation": "quality",
+      "example": "High superior quality.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0810",
+      "word": "quantity",
+      "translation": "quantity",
+      "example": "Large sufficient quantity.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0811",
+      "word": "degree",
+      "translation": "degree",
+      "example": "High academic degree.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0812",
+      "word": "level",
+      "translation": "level",
+      "example": "Advanced expert level.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0813",
+      "word": "stage",
+      "translation": "stage",
+      "example": "Final last stage.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0814",
+      "word": "step",
+      "translation": "step",
+      "example": "First initial step.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0815",
+      "word": "point",
+      "translation": "point",
+      "example": "Important key point.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0816",
+      "word": "line",
+      "translation": "line",
+      "example": "Straight horizontal line.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0817",
+      "word": "circle",
+      "translation": "circle",
+      "example": "Perfect complete circle.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0818",
+      "word": "square",
+      "translation": "square",
+      "example": "Perfect equal square.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0819",
+      "word": "triangle",
+      "translation": "triangle",
+      "example": "Right angle triangle.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0820",
+      "word": "angle",
+      "translation": "angle",
+      "example": "Sharp acute angle.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0821",
+      "word": "corner",
+      "translation": "corner",
+      "example": "Right sharp corner.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0822",
+      "word": "edge",
+      "translation": "edge",
+      "example": "Sharp cutting edge.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0823",
+      "word": "surface",
+      "translation": "surface",
+      "example": "Smooth flat surface.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0824",
+      "word": "center",
+      "translation": "center",
+      "example": "Exact precise center.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0825",
+      "word": "part",
+      "translation": "part",
+      "example": "Important essential part.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0826",
+      "word": "piece",
+      "translation": "piece",
+      "example": "Small tiny piece.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0827",
+      "word": "bit",
+      "translation": "bit",
+      "example": "Little small bit.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0828",
+      "word": "section",
+      "translation": "section",
+      "example": "Separate distinct section.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0829",
+      "word": "area",
+      "translation": "area",
+      "example": "Large open area.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0830",
+      "word": "region",
+      "translation": "region",
+      "example": "Remote distant region.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0831",
+      "word": "zone",
+      "translation": "zone",
+      "example": "Restricted prohibited zone.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0832",
+      "word": "space",
+      "translation": "space",
+      "example": "Empty vacant space.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0833",
+      "word": "room",
+      "translation": "room",
+      "example": "Enough sufficient room.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0834",
+      "word": "place",
+      "translation": "place",
+      "example": "Right proper place.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0835",
+      "word": "spot",
+      "translation": "spot",
+      "example": "Perfect ideal spot.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0836",
+      "word": "site",
+      "translation": "site",
+      "example": "Historic important site.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0837",
+      "word": "location",
+      "translation": "location",
+      "example": "Prime central location.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0838",
+      "word": "address",
+      "translation": "address",
+      "example": "Home permanent address.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0839",
+      "word": "map",
+      "translation": "map",
+      "example": "Detailed accurate map.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0840",
+      "word": "north",
+      "translation": "north",
+      "example": "True magnetic north.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0841",
+      "word": "south",
+      "translation": "south",
+      "example": "Deep far south.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0842",
+      "word": "east",
+      "translation": "east",
+      "example": "Far distant east.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0843",
+      "word": "west",
+      "translation": "west",
+      "example": "Wild American west.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0844",
+      "word": "left",
+      "translation": "left",
+      "example": "Turn sharp left.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0845",
+      "word": "right",
+      "translation": "right",
+      "example": "Turn hard right.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0846",
+      "word": "straight",
+      "translation": "straight",
+      "example": "Go straight ahead.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0847",
+      "word": "forward",
+      "translation": "forward",
+      "example": "Move steadily forward.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0848",
+      "word": "backward",
+      "translation": "backward",
+      "example": "Step carefully backward.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0849",
+      "word": "upward",
+      "translation": "upward",
+      "example": "Look directly upward.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0850",
+      "word": "downward",
+      "translation": "downward",
+      "example": "Glance quickly downward.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0851",
+      "word": "sideways",
+      "translation": "sideways",
+      "example": "Move slightly sideways.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0852",
+      "word": "here",
+      "translation": "here",
+      "example": "Come right here.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0853",
+      "word": "there",
+      "translation": "there",
+      "example": "Go over there.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0854",
+      "word": "where",
+      "translation": "where",
+      "example": "Tell me where.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0855",
+      "word": "everywhere",
+      "translation": "everywhere",
+      "example": "Look absolutely everywhere.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0856",
+      "word": "nowhere",
+      "translation": "nowhere",
+      "example": "Found absolutely nowhere.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0857",
+      "word": "somewhere",
+      "translation": "somewhere",
+      "example": "Lost it somewhere.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0858",
+      "word": "anywhere",
+      "translation": "anywhere",
+      "example": "Can't find anywhere.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0859",
+      "word": "always",
+      "translation": "always",
+      "example": "Remember always forever.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0860",
+      "word": "never",
+      "translation": "never",
+      "example": "Never give up.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0861",
+      "word": "sometimes",
+      "translation": "sometimes",
+      "example": "Visit me sometimes.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0862",
+      "word": "often",
+      "translation": "often",
+      "example": "Come visit often.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0863",
+      "word": "seldom",
+      "translation": "seldom",
+      "example": "Rarely very seldom.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0864",
+      "word": "rarely",
+      "translation": "rarely",
+      "example": "Almost never rarely.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0865",
+      "word": "usually",
+      "translation": "usually",
+      "example": "Usually always late.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0866",
+      "word": "normally",
+      "translation": "normally",
+      "example": "Normally very punctual.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0867",
+      "word": "generally",
+      "translation": "generally",
+      "example": "Generally speaking true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0868",
+      "word": "typically",
+      "translation": "typically",
+      "example": "Typically happens this.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0869",
+      "word": "frequently",
+      "translation": "frequently",
+      "example": "Happens quite frequently.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0870",
+      "word": "occasionally",
+      "translation": "occasionally",
+      "example": "Only happens occasionally.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0871",
+      "word": "constantly",
+      "translation": "constantly",
+      "example": "Changing constantly always.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0872",
+      "word": "continually",
+      "translation": "continually",
+      "example": "Improving continually daily.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0873",
+      "word": "regularly",
+      "translation": "regularly",
+      "example": "Exercise regularly daily.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0874",
+      "word": "immediately",
+      "translation": "immediately",
+      "example": "Leave right immediately.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0875",
+      "word": "instantly",
+      "translation": "instantly",
+      "example": "Happened almost instantly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0876",
+      "word": "suddenly",
+      "translation": "suddenly",
+      "example": "Stopped very suddenly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0877",
+      "word": "quickly",
+      "translation": "quickly",
+      "example": "Move very quickly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0878",
+      "word": "slowly",
+      "translation": "slowly",
+      "example": "Walk more slowly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0879",
+      "word": "gradually",
+      "translation": "gradually",
+      "example": "Improving gradually slowly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0880",
+      "word": "rapidly",
+      "translation": "rapidly",
+      "example": "Growing very rapidly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0881",
+      "word": "soon",
+      "translation": "soon",
+      "example": "Coming back soon.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0882",
+      "word": "lately",
+      "translation": "lately",
+      "example": "Happening more lately.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0883",
+      "word": "recently",
+      "translation": "recently",
+      "example": "Started quite recently.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0884",
+      "word": "currently",
+      "translation": "currently",
+      "example": "Currently under construction.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0885",
+      "word": "presently",
+      "translation": "presently",
+      "example": "Presently not available.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0886",
+      "word": "eventually",
+      "translation": "eventually",
+      "example": "Will happen eventually.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0887",
+      "word": "finally",
+      "translation": "finally",
+      "example": "Finally reached destination.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0888",
+      "word": "lastly",
+      "translation": "lastly",
+      "example": "Lastly want say.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0889",
+      "word": "firstly",
+      "translation": "firstly",
+      "example": "Firstly must consider.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0890",
+      "word": "secondly",
+      "translation": "secondly",
+      "example": "Secondly need evaluate.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0891",
+      "word": "partly",
+      "translation": "partly",
+      "example": "Only partly correct.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0892",
+      "word": "mostly",
+      "translation": "mostly",
+      "example": "Mostly very accurate.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0893",
+      "word": "nearly",
+      "translation": "nearly",
+      "example": "Almost nearly finished.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0894",
+      "word": "almost",
+      "translation": "almost",
+      "example": "Almost completely done.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0895",
+      "word": "quite",
+      "translation": "quite",
+      "example": "Quite very good.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0896",
+      "word": "rather",
+      "translation": "rather",
+      "example": "Rather more difficult.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0897",
+      "word": "pretty",
+      "translation": "pretty",
+      "example": "Pretty much finished.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0898",
+      "word": "fairly",
+      "translation": "fairly",
+      "example": "Fairly quite easy.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0899",
+      "word": "very",
+      "translation": "very",
+      "example": "Very much appreciated.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0900",
+      "word": "too",
+      "translation": "too",
+      "example": "Too very expensive.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0901",
+      "word": "enough",
+      "translation": "enough",
+      "example": "Good more enough.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0902",
+      "word": "extremely",
+      "translation": "extremely",
+      "example": "Extremely very hot.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0903",
+      "word": "highly",
+      "translation": "highly",
+      "example": "Highly very recommended.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0904",
+      "word": "completely",
+      "translation": "completely",
+      "example": "Completely totally finished.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0905",
+      "word": "totally",
+      "translation": "totally",
+      "example": "Totally completely agree.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0906",
+      "word": "absolutely",
+      "translation": "absolutely",
+      "example": "Absolutely positively certain.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0907",
+      "word": "perfectly",
+      "translation": "perfectly",
+      "example": "Perfectly absolutely correct.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0908",
+      "word": "entirely",
+      "translation": "entirely",
+      "example": "Entirely completely different.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0909",
+      "word": "fully",
+      "translation": "fully",
+      "example": "Fully completely prepared.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0910",
+      "word": "wholly",
+      "translation": "wholly",
+      "example": "Wholly entirely dedicated.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0911",
+      "word": "partly",
+      "translation": "partly",
+      "example": "Partly somewhat true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0912",
+      "word": "slightly",
+      "translation": "slightly",
+      "example": "Slightly somewhat better.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0913",
+      "word": "somewhat",
+      "translation": "somewhat",
+      "example": "Somewhat rather difficult.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0914",
+      "word": "barely",
+      "translation": "barely",
+      "example": "Barely hardly visible.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0915",
+      "word": "hardly",
+      "translation": "hardly",
+      "example": "Hardly barely noticeable.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0916",
+      "word": "scarcely",
+      "translation": "scarcely",
+      "example": "Scarcely barely enough.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0917",
+      "word": "merely",
+      "translation": "merely",
+      "example": "Merely just simple.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0918",
+      "word": "simply",
+      "translation": "simply",
+      "example": "Simply just basic.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0919",
+      "word": "basically",
+      "translation": "basically",
+      "example": "Basically fundamentally true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0920",
+      "word": "essentially",
+      "translation": "essentially",
+      "example": "Essentially basically same.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0921",
+      "word": "fundamentally",
+      "translation": "fundamentally",
+      "example": "Fundamentally essentially important.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0922",
+      "word": "primarily",
+      "translation": "primarily",
+      "example": "Primarily mainly focused.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0923",
+      "word": "mainly",
+      "translation": "mainly",
+      "example": "Mainly primarily concerned.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0924",
+      "word": "chiefly",
+      "translation": "chiefly",
+      "example": "Chiefly mainly responsible.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0925",
+      "word": "largely",
+      "translation": "largely",
+      "example": "Largely mostly successful.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0926",
+      "word": "greatly",
+      "translation": "greatly",
+      "example": "Greatly very appreciated.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0927",
+      "word": "deeply",
+      "translation": "deeply",
+      "example": "Deeply profoundly moved.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0928",
+      "word": "seriously",
+      "translation": "seriously",
+      "example": "Seriously truly concerned.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0929",
+      "word": "clearly",
+      "translation": "clearly",
+      "example": "Clearly obviously visible.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0930",
+      "word": "obviously",
+      "translation": "obviously",
+      "example": "Obviously clearly apparent.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0931",
+      "word": "apparently",
+      "translation": "apparently",
+      "example": "Apparently seemingly true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0932",
+      "word": "evidently",
+      "translation": "evidently",
+      "example": "Evidently clearly proven.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0933",
+      "word": "certainly",
+      "translation": "certainly",
+      "example": "Certainly definitely true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0934",
+      "word": "definitely",
+      "translation": "definitely",
+      "example": "Definitely absolutely certain.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0935",
+      "word": "surely",
+      "translation": "surely",
+      "example": "Surely certainly true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0936",
+      "word": "probably",
+      "translation": "probably",
+      "example": "Probably most likely.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0937",
+      "word": "possibly",
+      "translation": "possibly",
+      "example": "Possibly perhaps maybe.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0938",
+      "word": "perhaps",
+      "translation": "perhaps",
+      "example": "Perhaps maybe possibly.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0939",
+      "word": "maybe",
+      "translation": "maybe",
+      "example": "Maybe perhaps true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0940",
+      "word": "likely",
+      "translation": "likely",
+      "example": "Most likely probable.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0941",
+      "word": "unlikely",
+      "translation": "unlikely",
+      "example": "Very unlikely improbable.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0942",
+      "word": "fortunately",
+      "translation": "fortunately",
+      "example": "Fortunately luckily succeeded.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0943",
+      "word": "unfortunately",
+      "translation": "unfortunately",
+      "example": "Unfortunately sadly failed.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0944",
+      "word": "luckily",
+      "translation": "luckily",
+      "example": "Luckily fortunately survived.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0945",
+      "word": "happily",
+      "translation": "happily",
+      "example": "Happily joyfully agreed.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0946",
+      "word": "sadly",
+      "translation": "sadly",
+      "example": "Sadly unfortunately true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0947",
+      "word": "hopefully",
+      "translation": "hopefully",
+      "example": "Hopefully optimistically succeed.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0948",
+      "word": "naturally",
+      "translation": "naturally",
+      "example": "Naturally of course.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0949",
+      "word": "personally",
+      "translation": "personally",
+      "example": "Personally I believe.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0950",
+      "word": "honestly",
+      "translation": "honestly",
+      "example": "Honestly truthfully speaking.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0951",
+      "word": "frankly",
+      "translation": "frankly",
+      "example": "Frankly honestly said.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0952",
+      "word": "truly",
+      "translation": "truly",
+      "example": "Truly genuinely grateful.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0953",
+      "word": "really",
+      "translation": "really",
+      "example": "Really truly amazing.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0954",
+      "word": "actually",
+      "translation": "actually",
+      "example": "Actually really happened.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0955",
+      "word": "indeed",
+      "translation": "indeed",
+      "example": "Indeed truly remarkable.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0956",
+      "word": "certainly",
+      "translation": "certainly",
+      "example": "Certainly indeed true.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0957",
+      "word": "course",
+      "translation": "course",
+      "example": "Of course naturally.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0958",
+      "word": "sure",
+      "translation": "sure",
+      "example": "For sure certainly.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0959",
+      "word": "ok",
+      "translation": "ok",
+      "example": "Everything is ok.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0960",
+      "word": "okay",
+      "translation": "okay",
+      "example": "That's perfectly okay.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0961",
+      "word": "fine",
+      "translation": "fine",
+      "example": "Everything is fine.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0962",
+      "word": "alright",
+      "translation": "alright",
+      "example": "All is alright.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0963",
+      "word": "well",
+      "translation": "well",
+      "example": "Well that's interesting.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0964",
+      "word": "oh",
+      "translation": "oh",
+      "example": "Oh I see.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0965",
+      "word": "ah",
+      "translation": "ah",
+      "example": "Ah now understand.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0966",
+      "word": "hey",
+      "translation": "hey",
+      "example": "Hey wait moment.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0967",
+      "word": "wow",
+      "translation": "wow",
+      "example": "Wow that's amazing.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0968",
+      "word": "oops",
+      "translation": "oops",
+      "example": "Oops my mistake.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0969",
+      "word": "ouch",
+      "translation": "ouch",
+      "example": "Ouch that hurts.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0970",
+      "word": "hooray",
+      "translation": "hooray",
+      "example": "Hooray we won.",
+      "category": "interjection"
+    },
+    {
+      "id": "word_0971",
+      "word": "between",
+      "translation": "between",
+      "example": "Between you and me.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0972",
+      "word": "through",
+      "translation": "through",
+      "example": "Walk through the door.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0973",
+      "word": "around",
+      "translation": "around",
+      "example": "Look around you.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0974",
+      "word": "under",
+      "translation": "under",
+      "example": "Under the table.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0975",
+      "word": "above",
+      "translation": "above",
+      "example": "Above the clouds.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0976",
+      "word": "below",
+      "translation": "below",
+      "example": "Below sea level.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0977",
+      "word": "near",
+      "translation": "near",
+      "example": "Near the park.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0978",
+      "word": "far",
+      "translation": "far",
+      "example": "Far from home.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0979",
+      "word": "left",
+      "translation": "left",
+      "example": "Turn left here.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0980",
+      "word": "right",
+      "translation": "right",
+      "example": "Turn right next.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0981",
+      "word": "front",
+      "translation": "front",
+      "example": "In the front.",
+      "category": "noun"
+    },
+    {
+      "id": "word_0982",
+      "word": "behind",
+      "translation": "behind",
+      "example": "Behind the tree.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0983",
+      "word": "next",
+      "translation": "next",
+      "example": "Next in line.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_0984",
+      "word": "before",
+      "translation": "before",
+      "example": "Before you leave.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0985",
+      "word": "during",
+      "translation": "during",
+      "example": "During the night.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0986",
+      "word": "without",
+      "translation": "without",
+      "example": "Without any doubt.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0987",
+      "word": "against",
+      "translation": "against",
+      "example": "Against the wall.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0988",
+      "word": "among",
+      "translation": "among",
+      "example": "Among the best.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0989",
+      "word": "inside",
+      "translation": "inside",
+      "example": "Inside the box.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0990",
+      "word": "outside",
+      "translation": "outside",
+      "example": "Outside the room.",
+      "category": "preposition"
+    },
+    {
+      "id": "word_0991",
+      "word": "always",
+      "translation": "always",
+      "example": "Always be kind.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0992",
+      "word": "never",
+      "translation": "never",
+      "example": "Never give up.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0993",
+      "word": "often",
+      "translation": "often",
+      "example": "Often I think.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0994",
+      "word": "sometimes",
+      "translation": "sometimes",
+      "example": "Sometimes it rains.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0995",
+      "word": "usually",
+      "translation": "usually",
+      "example": "Usually I walk.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0996",
+      "word": "maybe",
+      "translation": "maybe",
+      "example": "Maybe tomorrow comes.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0997",
+      "word": "perhaps",
+      "translation": "perhaps",
+      "example": "Perhaps you're right.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0998",
+      "word": "almost",
+      "translation": "almost",
+      "example": "Almost finished now.",
+      "category": "adverb"
+    },
+    {
+      "id": "word_0999",
+      "word": "enough",
+      "translation": "enough",
+      "example": "Good enough today.",
+      "category": "adjective"
+    },
+    {
+      "id": "word_1000",
+      "word": "together",
+      "translation": "together",
+      "example": "Together we succeed.",
+      "category": "adverb"
+    }
+  ]
+}
