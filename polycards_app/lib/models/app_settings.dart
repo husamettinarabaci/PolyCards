@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'notification_settings.dart';
 
 enum AppThemeMode {
   light,
@@ -33,19 +34,24 @@ enum AppThemeMode {
 class AppSettings {
   final AppThemeMode themeMode;
   final Set<String> activeLanguages;
+  final NotificationSettings notificationSettings;
 
   AppSettings({
     this.themeMode = AppThemeMode.system,
     Set<String>? activeLanguages,
-  }) : activeLanguages = activeLanguages ?? {'en', 'tr'};
+    NotificationSettings? notificationSettings,
+  })  : activeLanguages = activeLanguages ?? {'en', 'tr'},
+        notificationSettings = notificationSettings ?? NotificationSettings();
 
   AppSettings copyWith({
     AppThemeMode? themeMode,
     Set<String>? activeLanguages,
+    NotificationSettings? notificationSettings,
   }) {
     return AppSettings(
       themeMode: themeMode ?? this.themeMode,
       activeLanguages: activeLanguages ?? this.activeLanguages,
+      notificationSettings: notificationSettings ?? this.notificationSettings,
     );
   }
 
@@ -53,6 +59,7 @@ class AppSettings {
     return {
       'themeMode': themeMode.name,
       'activeLanguages': activeLanguages.toList(),
+      'notificationSettings': notificationSettings.toJson(),
     };
   }
 
@@ -63,6 +70,9 @@ class AppSettings {
               ?.map((e) => e.toString())
               .toSet() ??
           {'en', 'tr'},
+      notificationSettings: json['notificationSettings'] != null
+          ? NotificationSettings.fromJson(json['notificationSettings'])
+          : NotificationSettings(),
     );
   }
 }

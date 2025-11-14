@@ -1,12 +1,20 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../models/language_data.dart';
 import '../models/word.dart';
 import '../providers/settings_provider.dart';
 import '../services/locale_service.dart';
+import '../services/text_to_speech_service.dart';
 
 class MultiLanguageWordCardsScreen extends StatefulWidget {
-  const MultiLanguageWordCardsScreen({super.key});
+  final int? initialWordIndex;
+  
+  const MultiLanguageWordCardsScreen({
+    super.key,
+    this.initialWordIndex,
+  });
 
   @override
   State<MultiLanguageWordCardsScreen> createState() =>
@@ -19,11 +27,18 @@ class _MultiLanguageWordCardsScreenState
   bool _isLoading = true;
   String? _errorMessage;
   int _currentIndex = 0;
+  final TextToSpeechService _ttsService = TextToSpeechService();
 
   @override
   void initState() {
     super.initState();
     _loadAllLanguagesData();
+  }
+
+  @override
+  void dispose() {
+    _ttsService.dispose();
+    super.dispose();
   }
 
   Future<void> _loadAllLanguagesData() async {
@@ -46,6 +61,21 @@ class _MultiLanguageWordCardsScreenState
       setState(() {
         _languagesData = loadedData;
         _isLoading = false;
+        
+        // Set initial index
+        final englishData = loadedData['en'];
+        if (englishData != null && englishData.words.isNotEmpty) {
+          if (widget.initialWordIndex != null) {
+            // Use provided index from notification
+            if (widget.initialWordIndex! >= 0 && 
+                widget.initialWordIndex! < englishData.words.length) {
+              _currentIndex = widget.initialWordIndex!;
+            }
+          } else {
+            // Generate random index for manual app launch
+            _currentIndex = Random().nextInt(englishData.words.length);
+          }
+        }
       });
     } catch (e) {
       setState(() {
@@ -201,13 +231,36 @@ class _MultiLanguageWordCardsScreenState
 
                     // English word (main)
                     Center(
-                      child: Text(
-                        englishWord.word,
-                        style: textTheme.displaySmall?.copyWith(
-                          color: colorScheme.primary,
-                          fontWeight: FontWeight.bold,
-                        ),
-                        textAlign: TextAlign.center,
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Flexible(
+                            child: Text(
+                              englishWord.word,
+                              style: textTheme.displaySmall?.copyWith(
+                                color: colorScheme.primary,
+                                fontWeight: FontWeight.bold,
+                              ),
+                              textAlign: TextAlign.center,
+                            ),
+                          ),
+                          const SizedBox(width: 8),
+                          IconButton(
+                            icon: const Icon(Icons.volume_up),
+                            color: colorScheme.primary,
+                            onPressed: () async {
+                              final success = await _ttsService.speak(englishWord.word, 'en');
+                              if (!success && mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('Audio not available for this language'),
+                                    duration: Duration(seconds: 2),
+                                  ),
+                                );
+                              }
+                            },
+                          ),
+                        ],
                       ),
                     ),
                     
@@ -229,13 +282,37 @@ class _MultiLanguageWordCardsScreenState
 
                     // English example
                     Center(
-                      child: Text(
-                        englishWord.example,
-                        style: textTheme.bodyLarge?.copyWith(
-                          fontStyle: FontStyle.italic,
-                          color: colorScheme.onSurfaceVariant,
-                        ),
-                        textAlign: TextAlign.center,
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Flexible(
+                            child: Text(
+                              englishWord.example,
+                              style: textTheme.bodyLarge?.copyWith(
+                                fontStyle: FontStyle.italic,
+                                color: colorScheme.onSurfaceVariant,
+                              ),
+                              textAlign: TextAlign.center,
+                            ),
+                          ),
+                          const SizedBox(width: 8),
+                          IconButton(
+                            icon: const Icon(Icons.volume_up),
+                            iconSize: 20,
+                            color: colorScheme.secondary,
+                            onPressed: () async {
+                              final success = await _ttsService.speak(englishWord.example, 'en');
+                              if (!success && mounted) {
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text('Audio not available for this language'),
+                                    duration: Duration(seconds: 2),
+                                  ),
+                                );
+                              }
+                            },
+                          ),
+                        ],
                       ),
                     ),
                     const SizedBox(height: 24),
@@ -367,6 +444,19 @@ class _MultiLanguageWordCardsScreenState
     TextTheme textTheme,
     ColorScheme colorScheme,
   ) {
+    // Get language code from language name
+    String getLanguageCode(String name) {
+      final languages = LocaleService.getAvailableLanguages();
+      for (final lang in languages) {
+        if (lang['name'] == name) {
+          return lang['code']!;
+        }
+      }
+      return 'en';
+    }
+
+    final languageCode = getLanguageCode(languageName);
+
     return Container(
       padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
@@ -397,11 +487,32 @@ class _MultiLanguageWordCardsScreenState
             ],
           ),
           const SizedBox(height: 12),
-          Text(
-            word.word,
-            style: textTheme.headlineSmall?.copyWith(
-              fontWeight: FontWeight.bold,
-            ),
+          Row(
+            children: [
+              Expanded(
+                child: Text(
+                  word.word,
+                  style: textTheme.headlineSmall?.copyWith(
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+              IconButton(
+                icon: const Icon(Icons.volume_up),
+                color: colorScheme.primary,
+                onPressed: () async {
+                  final success = await _ttsService.speak(word.word, languageCode);
+                  if (!success && mounted) {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text('Audio not available for $languageName'),
+                        duration: const Duration(seconds: 2),
+                      ),
+                    );
+                  }
+                },
+              ),
+            ],
           ),
           
           // Phonetic (if available)
@@ -416,12 +527,34 @@ class _MultiLanguageWordCardsScreenState
             ),
           ],
           const SizedBox(height: 8),
-          Text(
-            word.example,
-            style: textTheme.bodyMedium?.copyWith(
-              fontStyle: FontStyle.italic,
-              color: colorScheme.onSurfaceVariant,
-            ),
+          Row(
+            children: [
+              Expanded(
+                child: Text(
+                  word.example,
+                  style: textTheme.bodyMedium?.copyWith(
+                    fontStyle: FontStyle.italic,
+                    color: colorScheme.onSurfaceVariant,
+                  ),
+                ),
+              ),
+              IconButton(
+                icon: const Icon(Icons.volume_up),
+                iconSize: 20,
+                color: colorScheme.secondary,
+                onPressed: () async {
+                  final success = await _ttsService.speak(word.example, languageCode);
+                  if (!success && mounted) {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text('Audio not available for $languageName'),
+                        duration: const Duration(seconds: 2),
+                      ),
+                    );
+                  }
+                },
+              ),
+            ],
           ),
         ],
       ),
