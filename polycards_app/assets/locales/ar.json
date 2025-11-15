@@ -1,0 +1,6006 @@
+{
+  "language_name": "العربية",
+  "language_code": "ar",
+  "words": [
+    {
+      "id": "word_0001",
+      "translation": "ال",
+      "phonetic": "",
+      "example": "الشمس مشرقة."
+    },
+    {
+      "id": "word_0002",
+      "translation": "يكون",
+      "phonetic": "",
+      "example": "أريد أن أكون سعيداً."
+    },
+    {
+      "id": "word_0003",
+      "translation": "إلى",
+      "phonetic": "",
+      "example": "أنا ذاهب إلى المدرسة."
+    },
+    {
+      "id": "word_0004",
+      "translation": "من",
+      "phonetic": "",
+      "example": "لون السماء."
+    },
+    {
+      "id": "word_0005",
+      "translation": "و",
+      "phonetic": "",
+      "example": "خبز وزبدة."
+    },
+    {
+      "id": "word_0006",
+      "translation": "أ",
+      "phonetic": "",
+      "example": "رأيت كلباً."
+    },
+    {
+      "id": "word_0007",
+      "translation": "في",
+      "phonetic": "",
+      "example": "هو في الغرفة."
+    },
+    {
+      "id": "word_0008",
+      "translation": "أن",
+      "phonetic": "",
+      "example": "أعتقد أنك على حق."
+    },
+    {
+      "id": "word_0009",
+      "translation": "لديه",
+      "phonetic": "",
+      "example": "لدي قطتان."
+    },
+    {
+      "id": "word_0010",
+      "translation": "أنا",
+      "phonetic": "",
+      "example": "أنا هنا."
+    },
+    {
+      "id": "word_0011",
+      "translation": "هو",
+      "phonetic": "",
+      "example": "الجو بارد اليوم."
+    },
+    {
+      "id": "word_0012",
+      "translation": "لـ",
+      "phonetic": "",
+      "example": "هذا لك."
+    },
+    {
+      "id": "word_0013",
+      "translation": "لا",
+      "phonetic": "",
+      "example": "لست مستعداً."
+    },
+    {
+      "id": "word_0014",
+      "translation": "على",
+      "phonetic": "",
+      "example": "ضعه على المكتب."
+    },
+    {
+      "id": "word_0015",
+      "translation": "مع",
+      "phonetic": "",
+      "example": "تعال معي."
+    },
+    {
+      "id": "word_0016",
+      "translation": "هو",
+      "phonetic": "",
+      "example": "هو طويل."
+    },
+    {
+      "id": "word_0017",
+      "translation": "كـ",
+      "phonetic": "",
+      "example": "ذكي كالثعلب."
+    },
+    {
+      "id": "word_0018",
+      "translation": "أنت",
+      "phonetic": "",
+      "example": "أنت لطيف."
+    },
+    {
+      "id": "word_0019",
+      "translation": "يفعل",
+      "phonetic": "",
+      "example": "أفعل ما بوسعي."
+    },
+    {
+      "id": "word_0020",
+      "translation": "عند",
+      "phonetic": "",
+      "example": "قابلني عند الظهر."
+    },
+    {
+      "id": "word_0021",
+      "translation": "هذا",
+      "phonetic": "",
+      "example": "هذا لي."
+    },
+    {
+      "id": "word_0022",
+      "translation": "لكن",
+      "phonetic": "",
+      "example": "صغير لكن قوي."
+    },
+    {
+      "id": "word_0023",
+      "translation": "له",
+      "phonetic": "",
+      "example": "سيارته حمراء."
+    },
+    {
+      "id": "word_0024",
+      "translation": "بواسطة",
+      "phonetic": "",
+      "example": "صنع باليد."
+    },
+    {
+      "id": "word_0025",
+      "translation": "من",
+      "phonetic": "",
+      "example": "أنا من كندا."
+    },
+    {
+      "id": "word_0026",
+      "translation": "هم",
+      "phonetic": "",
+      "example": "هم قادمون."
+    },
+    {
+      "id": "word_0027",
+      "translation": "نحن",
+      "phonetic": "",
+      "example": "نحن مستعدون."
+    },
+    {
+      "id": "word_0028",
+      "translation": "يقول",
+      "phonetic": "",
+      "example": "لا تقل ذلك."
+    },
+    {
+      "id": "word_0029",
+      "translation": "لها",
+      "phonetic": "",
+      "example": "ابتسامتها جميلة."
+    },
+    {
+      "id": "word_0030",
+      "translation": "هي",
+      "phonetic": "",
+      "example": "هي تجري بسرعة."
+    },
+    {
+      "id": "word_0031",
+      "translation": "أو",
+      "phonetic": "",
+      "example": "يسار أو يمين؟"
+    },
+    {
+      "id": "word_0032",
+      "translation": "أن",
+      "phonetic": "",
+      "example": "تفاحة في اليوم."
+    },
+    {
+      "id": "word_0033",
+      "translation": "سوف",
+      "phonetic": "",
+      "example": "سأحاول."
+    },
+    {
+      "id": "word_0034",
+      "translation": "لي",
+      "phonetic": "",
+      "example": "اسمي جون."
+    },
+    {
+      "id": "word_0035",
+      "translation": "واحد",
+      "phonetic": "",
+      "example": "مرة أخرى."
+    },
+    {
+      "id": "word_0036",
+      "translation": "كل",
+      "phonetic": "",
+      "example": "كل الناس مرحب بهم."
+    },
+    {
+      "id": "word_0037",
+      "translation": "سيكون",
+      "phonetic": "",
+      "example": "هل تريد شاياً؟"
+    },
+    {
+      "id": "word_0038",
+      "translation": "هناك",
+      "phonetic": "",
+      "example": "ها هو!"
+    },
+    {
+      "id": "word_0039",
+      "translation": "لهم",
+      "phonetic": "",
+      "example": "كلبهم ينبح."
+    },
+    {
+      "id": "word_0040",
+      "translation": "ماذا",
+      "phonetic": "",
+      "example": "ما هذا؟"
+    },
+    {
+      "id": "word_0041",
+      "translation": "لذلك",
+      "phonetic": "",
+      "example": "أنا متعب، لذلك سأنام."
+    },
+    {
+      "id": "word_0042",
+      "translation": "فوق",
+      "phonetic": "",
+      "example": "استيقظ باكراً."
+    },
+    {
+      "id": "word_0043",
+      "translation": "خارج",
+      "phonetic": "",
+      "example": "اخرج الآن."
+    },
+    {
+      "id": "word_0044",
+      "translation": "إذا",
+      "phonetic": "",
+      "example": "إذا أردت، تعال."
+    },
+    {
+      "id": "word_0045",
+      "translation": "حول",
+      "phonetic": "",
+      "example": "تحدث عن الحياة."
+    },
+    {
+      "id": "word_0046",
+      "translation": "من",
+      "phonetic": "",
+      "example": "من أنت؟"
+    },
+    {
+      "id": "word_0047",
+      "translation": "يحصل",
+      "phonetic": "",
+      "example": "احصل على بعض الراحة."
+    },
+    {
+      "id": "word_0048",
+      "translation": "أي",
+      "phonetic": "",
+      "example": "أيهما لك؟"
+    },
+    {
+      "id": "word_0049",
+      "translation": "يذهب",
+      "phonetic": "",
+      "example": "لنذهب إلى المنزل."
+    },
+    {
+      "id": "word_0050",
+      "translation": "لي",
+      "phonetic": "",
+      "example": "أخبرني المزيد."
+    },
+    {
+      "id": "word_0051",
+      "translation": "متى",
+      "phonetic": "",
+      "example": "متى وصلت؟"
+    },
+    {
+      "id": "word_0052",
+      "translation": "يصنع",
+      "phonetic": "",
+      "example": "تمنى أمنية."
+    },
+    {
+      "id": "word_0053",
+      "translation": "يستطيع",
+      "phonetic": "",
+      "example": "أستطيع مساعدتك."
+    },
+    {
+      "id": "word_0054",
+      "translation": "يحب",
+      "phonetic": "",
+      "example": "أحب الموسيقى."
+    },
+    {
+      "id": "word_0055",
+      "translation": "وقت",
+      "phonetic": "",
+      "example": "الوقت يمر بسرعة."
+    },
+    {
+      "id": "word_0056",
+      "translation": "لا",
+      "phonetic": "",
+      "example": "لا مشكلة."
+    },
+    {
+      "id": "word_0057",
+      "translation": "فقط",
+      "phonetic": "",
+      "example": "افعلها فقط."
+    },
+    {
+      "id": "word_0058",
+      "translation": "له",
+      "phonetic": "",
+      "example": "أخبرته."
+    },
+    {
+      "id": "word_0059",
+      "translation": "يعرف",
+      "phonetic": "",
+      "example": "أعرفك."
+    },
+    {
+      "id": "word_0060",
+      "translation": "يأخذ",
+      "phonetic": "",
+      "example": "خذ وقتك."
+    },
+    {
+      "id": "word_0061",
+      "translation": "الناس",
+      "phonetic": "",
+      "example": "الناس ينتظرون."
+    },
+    {
+      "id": "word_0062",
+      "translation": "داخل",
+      "phonetic": "",
+      "example": "اقفز في الماء."
+    },
+    {
+      "id": "word_0063",
+      "translation": "سنة",
+      "phonetic": "",
+      "example": "سنة سعيدة جديدة!"
+    },
+    {
+      "id": "word_0064",
+      "translation": "الخاص بك",
+      "phonetic": "",
+      "example": "دورك الآن."
+    },
+    {
+      "id": "word_0065",
+      "translation": "جيد",
+      "phonetic": "",
+      "example": "صباح الخير!"
+    },
+    {
+      "id": "word_0066",
+      "translation": "بعض",
+      "phonetic": "",
+      "example": "بعض الناس يوافقون."
+    },
+    {
+      "id": "word_0067",
+      "translation": "يمكن",
+      "phonetic": "",
+      "example": "هل يمكنك الانتظار؟"
+    },
+    {
+      "id": "word_0068",
+      "translation": "هم",
+      "phonetic": "",
+      "example": "أحبهم."
+    },
+    {
+      "id": "word_0069",
+      "translation": "يرى",
+      "phonetic": "",
+      "example": "أرى بوضوح."
+    },
+    {
+      "id": "word_0070",
+      "translation": "آخر",
+      "phonetic": "",
+      "example": "توجد خيارات أخرى."
+    },
+    {
+      "id": "word_0071",
+      "translation": "من",
+      "phonetic": "",
+      "example": "أفضل من قبل."
+    },
+    {
+      "id": "word_0072",
+      "translation": "ثم",
+      "phonetic": "",
+      "example": "ثم غادرنا."
+    },
+    {
+      "id": "word_0073",
+      "translation": "الآن",
+      "phonetic": "",
+      "example": "تعال هنا الآن."
+    },
+    {
+      "id": "word_0074",
+      "translation": "ينظر",
+      "phonetic": "",
+      "example": "انظر في كلا الاتجاهين."
+    },
+    {
+      "id": "word_0075",
+      "translation": "فقط",
+      "phonetic": "",
+      "example": "واحد فقط متبقي."
+    },
+    {
+      "id": "word_0076",
+      "translation": "يأتي",
+      "phonetic": "",
+      "example": "تعال معنا."
+    },
+    {
+      "id": "word_0077",
+      "translation": "لها",
+      "phonetic": "",
+      "example": "الكلب هز ذيله."
+    },
+    {
+      "id": "word_0078",
+      "translation": "فوق",
+      "phonetic": "",
+      "example": "فوق قوس قزح."
+    },
+    {
+      "id": "word_0079",
+      "translation": "يفكر",
+      "phonetic": "",
+      "example": "فكر قبل التحدث."
+    },
+    {
+      "id": "word_0080",
+      "translation": "أيضا",
+      "phonetic": "",
+      "example": "أوافق أيضاً."
+    },
+    {
+      "id": "word_0081",
+      "translation": "الخلف",
+      "phonetic": "",
+      "example": "عد قريباً."
+    },
+    {
+      "id": "word_0082",
+      "translation": "بعد",
+      "phonetic": "",
+      "example": "بعد الغداء."
+    },
+    {
+      "id": "word_0083",
+      "translation": "يستخدم",
+      "phonetic": "",
+      "example": "استخدم هذا القلم."
+    },
+    {
+      "id": "word_0084",
+      "translation": "اثنان",
+      "phonetic": "",
+      "example": "اثنان يكفي."
+    },
+    {
+      "id": "word_0085",
+      "translation": "كيف",
+      "phonetic": "",
+      "example": "كيف حالك؟"
+    },
+    {
+      "id": "word_0086",
+      "translation": "لنا",
+      "phonetic": "",
+      "example": "عائلتنا كبيرة."
+    },
+    {
+      "id": "word_0087",
+      "translation": "عمل",
+      "phonetic": "",
+      "example": "العمل الجاد يؤتي ثماره."
+    },
+    {
+      "id": "word_0088",
+      "translation": "أول",
+      "phonetic": "",
+      "example": "الفائز بالمركز الأول."
+    },
+    {
+      "id": "word_0089",
+      "translation": "جيدا",
+      "phonetic": "",
+      "example": "نم جيداً الليلة."
+    },
+    {
+      "id": "word_0090",
+      "translation": "طريق",
+      "phonetic": "",
+      "example": "من هذا الطريق من فضلك."
+    },
+    {
+      "id": "word_0091",
+      "translation": "حتى",
+      "phonetic": "",
+      "example": "أفضل الآن."
+    },
+    {
+      "id": "word_0092",
+      "translation": "جديد",
+      "phonetic": "",
+      "example": "هاتف جديد اليوم."
+    },
+    {
+      "id": "word_0093",
+      "translation": "يريد",
+      "phonetic": "",
+      "example": "أريد السلام."
+    },
+    {
+      "id": "word_0094",
+      "translation": "لأن",
+      "phonetic": "",
+      "example": "لأنني قلت ذلك."
+    },
+    {
+      "id": "word_0095",
+      "translation": "أي",
+      "phonetic": "",
+      "example": "أي أسئلة؟"
+    },
+    {
+      "id": "word_0096",
+      "translation": "هذه",
+      "phonetic": "",
+      "example": "هذه طازجة."
+    },
+    {
+      "id": "word_0097",
+      "translation": "يعطي",
+      "phonetic": "",
+      "example": "أعطني القوة."
+    },
+    {
+      "id": "word_0098",
+      "translation": "يوم",
+      "phonetic": "",
+      "example": "يوم جميل اليوم."
+    },
+    {
+      "id": "word_0099",
+      "translation": "معظم",
+      "phonetic": "",
+      "example": "معظم الطلاب نجحوا."
+    },
+    {
+      "id": "word_0100",
+      "translation": "لنا",
+      "phonetic": "",
+      "example": "انضم إلينا من فضلك."
+    },
+    {
+      "id": "word_0101",
+      "translation": "هو",
+      "phonetic": "",
+      "example": "هي سعيدة."
+    },
+    {
+      "id": "word_0102",
+      "translation": "كان",
+      "phonetic": "",
+      "example": "كان رائعاً."
+    },
+    {
+      "id": "word_0103",
+      "translation": "يكونون",
+      "phonetic": "",
+      "example": "نحن أصدقاء."
+    },
+    {
+      "id": "word_0104",
+      "translation": "كان",
+      "phonetic": "",
+      "example": "هل كنت هناك؟"
+    },
+    {
+      "id": "word_0105",
+      "translation": "لديه",
+      "phonetic": "",
+      "example": "لقد وصلت."
+    },
+    {
+      "id": "word_0106",
+      "translation": "كان لديه",
+      "phonetic": "",
+      "example": "لقد غادر."
+    },
+    {
+      "id": "word_0107",
+      "translation": "كانوا",
+      "phonetic": "",
+      "example": "لقد تأخروا."
+    },
+    {
+      "id": "word_0108",
+      "translation": "قال",
+      "phonetic": "",
+      "example": "لم يقل شيئاً."
+    },
+    {
+      "id": "word_0109",
+      "translation": "فعل",
+      "phonetic": "",
+      "example": "أنا فعلتها."
+    },
+    {
+      "id": "word_0110",
+      "translation": "لديه",
+      "phonetic": "",
+      "example": "نستمتع اليوم."
+    },
+    {
+      "id": "word_0111",
+      "translation": "قد",
+      "phonetic": "",
+      "example": "هل يمكنني المساعدة؟"
+    },
+    {
+      "id": "word_0112",
+      "translation": "ينبغي",
+      "phonetic": "",
+      "example": "يجب أن تحاول."
+    },
+    {
+      "id": "word_0113",
+      "translation": "يجب",
+      "phonetic": "",
+      "example": "يجب أن نذهب."
+    },
+    {
+      "id": "word_0114",
+      "translation": "أنا",
+      "phonetic": "",
+      "example": "أنا مستعد."
+    },
+    {
+      "id": "word_0115",
+      "translation": "قد",
+      "phonetic": "",
+      "example": "قد تمطر."
+    },
+    {
+      "id": "word_0116",
+      "translation": "كونه",
+      "phonetic": "",
+      "example": "الصدق مهم."
+    },
+    {
+      "id": "word_0117",
+      "translation": "يفعل",
+      "phonetic": "",
+      "example": "هي تمارس اليوغا."
+    },
+    {
+      "id": "word_0118",
+      "translation": "منتهي",
+      "phonetic": "",
+      "example": "العمل انتهى."
+    },
+    {
+      "id": "word_0119",
+      "translation": "يفعل",
+      "phonetic": "",
+      "example": "ماذا تفعل؟"
+    },
+    {
+      "id": "word_0120",
+      "translation": "صنع",
+      "phonetic": "",
+      "example": "صنعت الكعك."
+    },
+    {
+      "id": "word_0121",
+      "translation": "يصنع",
+      "phonetic": "",
+      "example": "الممارسة تصنع الكمال."
+    },
+    {
+      "id": "word_0122",
+      "translation": "صنع",
+      "phonetic": "",
+      "example": "نحقق تقدماً يومياً."
+    },
+    {
+      "id": "word_0123",
+      "translation": "ذهب",
+      "phonetic": "",
+      "example": "ذهبنا للتسوق."
+    },
+    {
+      "id": "word_0124",
+      "translation": "ذاهب",
+      "phonetic": "",
+      "example": "أنا ذاهب للمنزل."
+    },
+    {
+      "id": "word_0125",
+      "translation": "يذهب",
+      "phonetic": "",
+      "example": "الوقت يمضي بسرعة."
+    },
+    {
+      "id": "word_0126",
+      "translation": "جاء",
+      "phonetic": "",
+      "example": "لقد جاءت أمس."
+    },
+    {
+      "id": "word_0127",
+      "translation": "قادم",
+      "phonetic": "",
+      "example": "الشتاء قادم."
+    },
+    {
+      "id": "word_0128",
+      "translation": "يأتي",
+      "phonetic": "",
+      "example": "المساعدة تأتي قريباً."
+    },
+    {
+      "id": "word_0129",
+      "translation": "رأى",
+      "phonetic": "",
+      "example": "لقد رأيتك."
+    },
+    {
+      "id": "word_0130",
+      "translation": "رأى",
+      "phonetic": "",
+      "example": "هل رأيت هذا؟"
+    },
+    {
+      "id": "word_0131",
+      "translation": "رؤية",
+      "phonetic": "",
+      "example": "الرؤية هي التصديق."
+    },
+    {
+      "id": "word_0132",
+      "translation": "يرى",
+      "phonetic": "",
+      "example": "الجميع يراه."
+    },
+    {
+      "id": "word_0133",
+      "translation": "عرف",
+      "phonetic": "",
+      "example": "عرفت ذلك."
+    },
+    {
+      "id": "word_0134",
+      "translation": "معروف",
+      "phonetic": "",
+      "example": "حقيقة معروفة."
+    },
+    {
+      "id": "word_0135",
+      "translation": "معرفة",
+      "phonetic": "",
+      "example": "المعرفة تساعد التعلم."
+    },
+    {
+      "id": "word_0136",
+      "translation": "يعرف",
+      "phonetic": "",
+      "example": "لا أحد يعرف لماذا."
+    },
+    {
+      "id": "word_0137",
+      "translation": "أخذ",
+      "phonetic": "",
+      "example": "لقد أخذت ملاحظات."
+    },
+    {
+      "id": "word_0138",
+      "translation": "مأخوذ",
+      "phonetic": "",
+      "example": "جميع المقاعد مأخوذة."
+    },
+    {
+      "id": "word_0139",
+      "translation": "أخذ",
+      "phonetic": "",
+      "example": "أخذ استراحة."
+    },
+    {
+      "id": "word_0140",
+      "translation": "يأخذ",
+      "phonetic": "",
+      "example": "يستغرق وقتاً."
+    },
+    {
+      "id": "word_0141",
+      "translation": "حصل",
+      "phonetic": "",
+      "example": "لقد فهمت."
+    },
+    {
+      "id": "word_0142",
+      "translation": "حصل",
+      "phonetic": "",
+      "example": "هل حصلت على أخبار؟"
+    },
+    {
+      "id": "word_0143",
+      "translation": "الحصول",
+      "phonetic": "",
+      "example": "نتحسن يومياً."
+    },
+    {
+      "id": "word_0144",
+      "translation": "يحصل",
+      "phonetic": "",
+      "example": "هي تحصل على النتائج."
+    },
+    {
+      "id": "word_0145",
+      "translation": "فكر",
+      "phonetic": "",
+      "example": "فكرت في ذلك."
+    },
+    {
+      "id": "word_0146",
+      "translation": "التفكير",
+      "phonetic": "",
+      "example": "استمر في التفكير الإيجابي."
+    },
+    {
+      "id": "word_0147",
+      "translation": "يفكر",
+      "phonetic": "",
+      "example": "يفكر بشكل مختلف."
+    },
+    {
+      "id": "word_0148",
+      "translation": "نظر",
+      "phonetic": "",
+      "example": "نظرت في كل مكان."
+    },
+    {
+      "id": "word_0149",
+      "translation": "بحث",
+      "phonetic": "",
+      "example": "البحث عن إجابات."
+    },
+    {
+      "id": "word_0150",
+      "translation": "يبدو",
+      "phonetic": "",
+      "example": "يبدو جيداً."
+    },
+    {
+      "id": "word_0151",
+      "translation": "مرحبا",
+      "phonetic": "",
+      "example": "مرحباً، سعيد بلقائك!"
+    },
+    {
+      "id": "word_0152",
+      "translation": "وداعا",
+      "phonetic": "",
+      "example": "وداعاً، أراك غداً."
+    },
+    {
+      "id": "word_0153",
+      "translation": "نعم",
+      "phonetic": "",
+      "example": "نعم، أوافق."
+    },
+    {
+      "id": "word_0154",
+      "translation": "من فضلك",
+      "phonetic": "",
+      "example": "من فضلك ساعدني."
+    },
+    {
+      "id": "word_0155",
+      "translation": "شكر",
+      "phonetic": "",
+      "example": "شكراً جزيلاً."
+    },
+    {
+      "id": "word_0156",
+      "translation": "آسف",
+      "phonetic": "",
+      "example": "أنا آسف جداً."
+    },
+    {
+      "id": "word_0157",
+      "translation": "اعذر",
+      "phonetic": "",
+      "example": "اعذرني من فضلك."
+    },
+    {
+      "id": "word_0158",
+      "translation": "مرحبا",
+      "phonetic": "",
+      "example": "أنت مرحب بك هنا."
+    },
+    {
+      "id": "word_0159",
+      "translation": "صباح",
+      "phonetic": "",
+      "example": "صباح الخير للجميع!"
+    },
+    {
+      "id": "word_0160",
+      "translation": "بعد الظهر",
+      "phonetic": "",
+      "example": "مساء الخير يا سيدي."
+    },
+    {
+      "id": "word_0161",
+      "translation": "مساء",
+      "phonetic": "",
+      "example": "مساء الخير يا سيدتي."
+    },
+    {
+      "id": "word_0162",
+      "translation": "ليلة",
+      "phonetic": "",
+      "example": "ليلة سعيدة نم جيداً."
+    },
+    {
+      "id": "word_0163",
+      "translation": "اليوم",
+      "phonetic": "",
+      "example": "اليوم مميز."
+    },
+    {
+      "id": "word_0164",
+      "translation": "غدا",
+      "phonetic": "",
+      "example": "أراك غداً."
+    },
+    {
+      "id": "word_0165",
+      "translation": "أمس",
+      "phonetic": "",
+      "example": "أمس كان ممتعاً."
+    },
+    {
+      "id": "word_0166",
+      "translation": "أسبوع",
+      "phonetic": "",
+      "example": "الأسبوع القادم الاثنين."
+    },
+    {
+      "id": "word_0167",
+      "translation": "شهر",
+      "phonetic": "",
+      "example": "الشهر الماضي مارس."
+    },
+    {
+      "id": "word_0168",
+      "translation": "الاثنين",
+      "phonetic": "",
+      "example": "الاثنين مزدحم."
+    },
+    {
+      "id": "word_0169",
+      "translation": "الثلاثاء",
+      "phonetic": "",
+      "example": "الاجتماع مقرر يوم الثلاثاء."
+    },
+    {
+      "id": "word_0170",
+      "translation": "الأربعاء",
+      "phonetic": "",
+      "example": "الأربعاء منتصف الأسبوع."
+    },
+    {
+      "id": "word_0171",
+      "translation": "الخميس",
+      "phonetic": "",
+      "example": "الخميس تقريباً نهاية الأسبوع."
+    },
+    {
+      "id": "word_0172",
+      "translation": "الجمعة",
+      "phonetic": "",
+      "example": "ليلة الجمعة ممتعة."
+    },
+    {
+      "id": "word_0173",
+      "translation": "السبت",
+      "phonetic": "",
+      "example": "السبت لا عمل."
+    },
+    {
+      "id": "word_0174",
+      "translation": "الأحد",
+      "phonetic": "",
+      "example": "الأحد يوم راحة."
+    },
+    {
+      "id": "word_0175",
+      "translation": "يناير",
+      "phonetic": "",
+      "example": "يناير بارد."
+    },
+    {
+      "id": "word_0176",
+      "translation": "فبراير",
+      "phonetic": "",
+      "example": "فبراير شهر قصير."
+    },
+    {
+      "id": "word_0177",
+      "translation": "مارس",
+      "phonetic": "",
+      "example": "مارس يجلب الربيع."
+    },
+    {
+      "id": "word_0178",
+      "translation": "أبريل",
+      "phonetic": "",
+      "example": "أبريل فيه مطر."
+    },
+    {
+      "id": "word_0179",
+      "translation": "مايو",
+      "phonetic": "",
+      "example": "مايو تتفتح الأزهار."
+    },
+    {
+      "id": "word_0180",
+      "translation": "يونيو",
+      "phonetic": "",
+      "example": "يونيو دافئ."
+    },
+    {
+      "id": "word_0181",
+      "translation": "يوليو",
+      "phonetic": "",
+      "example": "يوليو حار جداً."
+    },
+    {
+      "id": "word_0182",
+      "translation": "أغسطس",
+      "phonetic": "",
+      "example": "أغسطس وقت الإجازة."
+    },
+    {
+      "id": "word_0183",
+      "translation": "سبتمبر",
+      "phonetic": "",
+      "example": "سبتمبر تبدأ المدرسة."
+    },
+    {
+      "id": "word_0184",
+      "translation": "أكتوبر",
+      "phonetic": "",
+      "example": "أكتوبر تسقط الأوراق."
+    },
+    {
+      "id": "word_0185",
+      "translation": "نوفمبر",
+      "phonetic": "",
+      "example": "نوفمبر يصبح بارداً."
+    },
+    {
+      "id": "word_0186",
+      "translation": "ديسمبر",
+      "phonetic": "",
+      "example": "ديسمبر شهر الشتاء."
+    },
+    {
+      "id": "word_0187",
+      "translation": "ربيع",
+      "phonetic": "",
+      "example": "الربيع يجلب الزهور."
+    },
+    {
+      "id": "word_0188",
+      "translation": "صيف",
+      "phonetic": "",
+      "example": "الصيف حار."
+    },
+    {
+      "id": "word_0189",
+      "translation": "خريف",
+      "phonetic": "",
+      "example": "أوراق الخريف جميلة."
+    },
+    {
+      "id": "word_0190",
+      "translation": "شتاء",
+      "phonetic": "",
+      "example": "الشتاء بارد."
+    },
+    {
+      "id": "word_0191",
+      "translation": "رجل",
+      "phonetic": "",
+      "example": "الرجل يمشي."
+    },
+    {
+      "id": "word_0192",
+      "translation": "امرأة",
+      "phonetic": "",
+      "example": "تلك المرأة تبتسم."
+    },
+    {
+      "id": "word_0193",
+      "translation": "طفل",
+      "phonetic": "",
+      "example": "الطفل يلعب."
+    },
+    {
+      "id": "word_0194",
+      "translation": "صبي",
+      "phonetic": "",
+      "example": "الصبي يركض."
+    },
+    {
+      "id": "word_0195",
+      "translation": "فتاة",
+      "phonetic": "",
+      "example": "الفتاة تدرس."
+    },
+    {
+      "id": "word_0196",
+      "translation": "طفل رضيع",
+      "phonetic": "",
+      "example": "الطفل نائم."
+    },
+    {
+      "id": "word_0197",
+      "translation": "شخص",
+      "phonetic": "",
+      "example": "شخص لطيف هنا."
+    },
+    {
+      "id": "word_0198",
+      "translation": "عائلة",
+      "phonetic": "",
+      "example": "عائلتي تحبني."
+    },
+    {
+      "id": "word_0199",
+      "translation": "صديق",
+      "phonetic": "",
+      "example": "أفضل صديق للأبد."
+    },
+    {
+      "id": "word_0200",
+      "translation": "أم",
+      "phonetic": "",
+      "example": "أمي تطبخ."
+    },
+    {
+      "id": "word_0201",
+      "translation": "أب",
+      "phonetic": "",
+      "example": "والده يعمل."
+    },
+    {
+      "id": "word_0202",
+      "translation": "والد",
+      "phonetic": "",
+      "example": "كل والد يهتم."
+    },
+    {
+      "id": "word_0203",
+      "translation": "أخ",
+      "phonetic": "",
+      "example": "أخي يلعب."
+    },
+    {
+      "id": "word_0204",
+      "translation": "أخت",
+      "phonetic": "",
+      "example": "أختها تغني."
+    },
+    {
+      "id": "word_0205",
+      "translation": "ابن",
+      "phonetic": "",
+      "example": "ابنهم يدرس."
+    },
+    {
+      "id": "word_0206",
+      "translation": "ابنة",
+      "phonetic": "",
+      "example": "ابنتي تقرأ."
+    },
+    {
+      "id": "word_0207",
+      "translation": "زوج",
+      "phonetic": "",
+      "example": "زوجها يقود."
+    },
+    {
+      "id": "word_0208",
+      "translation": "زوجة",
+      "phonetic": "",
+      "example": "زوجته تعلم."
+    },
+    {
+      "id": "word_0209",
+      "translation": "اسم",
+      "phonetic": "",
+      "example": "ما اسمك؟"
+    },
+    {
+      "id": "word_0210",
+      "translation": "يد",
+      "phonetic": "",
+      "example": "ارفع يدك."
+    },
+    {
+      "id": "word_0211",
+      "translation": "عين",
+      "phonetic": "",
+      "example": "أغلق عينيك."
+    },
+    {
+      "id": "word_0212",
+      "translation": "رأس",
+      "phonetic": "",
+      "example": "أومئ برأسك."
+    },
+    {
+      "id": "word_0213",
+      "translation": "وجه",
+      "phonetic": "",
+      "example": "اغسل وجهك."
+    },
+    {
+      "id": "word_0214",
+      "translation": "جسم",
+      "phonetic": "",
+      "example": "الجسم الصحي مهم."
+    },
+    {
+      "id": "word_0215",
+      "translation": "قدم",
+      "phonetic": "",
+      "example": "قدمي تؤلمني."
+    },
+    {
+      "id": "word_0216",
+      "translation": "قلب",
+      "phonetic": "",
+      "example": "القلب الطيب مهم."
+    },
+    {
+      "id": "word_0217",
+      "translation": "منزل",
+      "phonetic": "",
+      "example": "منزل كبير قريب."
+    },
+    {
+      "id": "word_0218",
+      "translation": "بيت",
+      "phonetic": "",
+      "example": "أذهب للبيت الآن."
+    },
+    {
+      "id": "word_0219",
+      "translation": "غرفة",
+      "phonetic": "",
+      "example": "نظف الغرفة يومياً."
+    },
+    {
+      "id": "word_0220",
+      "translation": "باب",
+      "phonetic": "",
+      "example": "افتح الباب."
+    },
+    {
+      "id": "word_0221",
+      "translation": "نافذة",
+      "phonetic": "",
+      "example": "أغلق النافذة."
+    },
+    {
+      "id": "word_0222",
+      "translation": "طاولة",
+      "phonetic": "",
+      "example": "رتب الطاولة."
+    },
+    {
+      "id": "word_0223",
+      "translation": "كرسي",
+      "phonetic": "",
+      "example": "اجلس على الكرسي."
+    },
+    {
+      "id": "word_0224",
+      "translation": "سرير",
+      "phonetic": "",
+      "example": "رتب سريرك."
+    },
+    {
+      "id": "word_0225",
+      "translation": "مدرسة",
+      "phonetic": "",
+      "example": "المدرسة تبدأ الاثنين."
+    },
+    {
+      "id": "word_0226",
+      "translation": "صف",
+      "phonetic": "",
+      "example": "صف الإنجليزية اليوم."
+    },
+    {
+      "id": "word_0227",
+      "translation": "معلم",
+      "phonetic": "",
+      "example": "المعلم يشرح جيداً."
+    },
+    {
+      "id": "word_0228",
+      "translation": "طالب",
+      "phonetic": "",
+      "example": "كل طالب يتعلم."
+    },
+    {
+      "id": "word_0229",
+      "translation": "كتاب",
+      "phonetic": "",
+      "example": "اقرأ هذا الكتاب."
+    },
+    {
+      "id": "word_0230",
+      "translation": "قلم",
+      "phonetic": "",
+      "example": "استخدم قلماً أزرق."
+    },
+    {
+      "id": "word_0231",
+      "translation": "ورقة",
+      "phonetic": "",
+      "example": "اكتب على الورق."
+    },
+    {
+      "id": "word_0232",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "نظف مكتبك."
+    },
+    {
+      "id": "word_0233",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "المكتب يفتح باكراً."
+    },
+    {
+      "id": "word_0234",
+      "translation": "عمل",
+      "phonetic": "",
+      "example": "عمل جيد اليوم."
+    },
+    {
+      "id": "word_0235",
+      "translation": "مكان",
+      "phonetic": "",
+      "example": "مكان جميل هنا."
+    },
+    {
+      "id": "word_0236",
+      "translation": "مدينة",
+      "phonetic": "",
+      "example": "حياة المدينة الكبيرة."
+    },
+    {
+      "id": "word_0237",
+      "translation": "بلد",
+      "phonetic": "",
+      "example": "منظر ريفي جميل."
+    },
+    {
+      "id": "word_0238",
+      "translation": "شارع",
+      "phonetic": "",
+      "example": "اعبر الشارع."
+    },
+    {
+      "id": "word_0239",
+      "translation": "طريق",
+      "phonetic": "",
+      "example": "طريق طويل أمامنا."
+    },
+    {
+      "id": "word_0240",
+      "translation": "سيارة",
+      "phonetic": "",
+      "example": "سيارة جديدة اشتريت."
+    },
+    {
+      "id": "word_0241",
+      "translation": "حافلة",
+      "phonetic": "",
+      "example": "خذ الحافلة."
+    },
+    {
+      "id": "word_0242",
+      "translation": "قطار",
+      "phonetic": "",
+      "example": "الحق بالقطار."
+    },
+    {
+      "id": "word_0243",
+      "translation": "طائرة",
+      "phonetic": "",
+      "example": "الطائرة تحلق عالياً."
+    },
+    {
+      "id": "word_0244",
+      "translation": "متجر",
+      "phonetic": "",
+      "example": "زر المتجر."
+    },
+    {
+      "id": "word_0245",
+      "translation": "محل",
+      "phonetic": "",
+      "example": "المحل يبيع كل شيء."
+    },
+    {
+      "id": "word_0246",
+      "translation": "سوق",
+      "phonetic": "",
+      "example": "سوق المزارعين السبت."
+    },
+    {
+      "id": "word_0247",
+      "translation": "مال",
+      "phonetic": "",
+      "example": "وفر مالك."
+    },
+    {
+      "id": "word_0248",
+      "translation": "طعام",
+      "phonetic": "",
+      "example": "الطعام الصحي مهم."
+    },
+    {
+      "id": "word_0249",
+      "translation": "ماء",
+      "phonetic": "",
+      "example": "اشرب الماء النظيف."
+    },
+    {
+      "id": "word_0250",
+      "translation": "خبز",
+      "phonetic": "",
+      "example": "خبز طازج يومياً."
+    },
+    {
+      "id": "word_0251",
+      "translation": "لحم",
+      "phonetic": "",
+      "example": "اطبخ اللحم."
+    },
+    {
+      "id": "word_0252",
+      "translation": "سمك",
+      "phonetic": "",
+      "example": "كل السمك الطازج."
+    },
+    {
+      "id": "word_0253",
+      "translation": "أرز",
+      "phonetic": "",
+      "example": "اطبخ الأرز الأبيض."
+    },
+    {
+      "id": "word_0254",
+      "translation": "خضار",
+      "phonetic": "",
+      "example": "كل المزيد من الخضار."
+    },
+    {
+      "id": "word_0255",
+      "translation": "فاكهة",
+      "phonetic": "",
+      "example": "الفاكهة الطازجة صحية."
+    },
+    {
+      "id": "word_0256",
+      "translation": "تفاح",
+      "phonetic": "",
+      "example": "التفاح الأحمر حلو."
+    },
+    {
+      "id": "word_0257",
+      "translation": "بيض",
+      "phonetic": "",
+      "example": "اسلق البيض."
+    },
+    {
+      "id": "word_0258",
+      "translation": "حليب",
+      "phonetic": "",
+      "example": "اشرب الحليب البارد."
+    },
+    {
+      "id": "word_0259",
+      "translation": "قهوة",
+      "phonetic": "",
+      "example": "قهوة ساخنة في الصباح."
+    },
+    {
+      "id": "word_0260",
+      "translation": "شاي",
+      "phonetic": "",
+      "example": "الشاي الأخضر صحي."
+    },
+    {
+      "id": "word_0261",
+      "translation": "فطور",
+      "phonetic": "",
+      "example": "كل فطوراً جيداً."
+    },
+    {
+      "id": "word_0262",
+      "translation": "غداء",
+      "phonetic": "",
+      "example": "استراحة الغداء الظهر."
+    },
+    {
+      "id": "word_0263",
+      "translation": "عشاء",
+      "phonetic": "",
+      "example": "عشاء العائلة معاً."
+    },
+    {
+      "id": "word_0264",
+      "translation": "وجبة",
+      "phonetic": "",
+      "example": "الوجبة الصحية مهمة."
+    },
+    {
+      "id": "word_0265",
+      "translation": "مشروب",
+      "phonetic": "",
+      "example": "المشروب البارد منعش."
+    },
+    {
+      "id": "word_0266",
+      "translation": "كوب",
+      "phonetic": "",
+      "example": "املأ الكوب."
+    },
+    {
+      "id": "word_0267",
+      "translation": "كأس",
+      "phonetic": "",
+      "example": "كأس من الماء."
+    },
+    {
+      "id": "word_0268",
+      "translation": "طبق",
+      "phonetic": "",
+      "example": "نظف الطبق الفارغ."
+    },
+    {
+      "id": "word_0269",
+      "translation": "سكين",
+      "phonetic": "",
+      "example": "سكين حاد كن حذراً."
+    },
+    {
+      "id": "word_0270",
+      "translation": "شوكة",
+      "phonetic": "",
+      "example": "استخدم الشوكة."
+    },
+    {
+      "id": "word_0271",
+      "translation": "ملعقة",
+      "phonetic": "",
+      "example": "كل بالملعقة."
+    },
+    {
+      "id": "word_0272",
+      "translation": "ملابس",
+      "phonetic": "",
+      "example": "اغسل ملابسك."
+    },
+    {
+      "id": "word_0273",
+      "translation": "قميص",
+      "phonetic": "",
+      "example": "القميص الأبيض نظيف."
+    },
+    {
+      "id": "word_0274",
+      "translation": "بنطال",
+      "phonetic": "",
+      "example": "البنطال الأزرق مريح."
+    },
+    {
+      "id": "word_0275",
+      "translation": "فستان",
+      "phonetic": "",
+      "example": "فستان جميل أحمر."
+    },
+    {
+      "id": "word_0276",
+      "translation": "حذاء",
+      "phonetic": "",
+      "example": "اربط حذاءك."
+    },
+    {
+      "id": "word_0277",
+      "translation": "قبعة",
+      "phonetic": "",
+      "example": "ارتدي قبعة الشمس."
+    },
+    {
+      "id": "word_0278",
+      "translation": "معطف",
+      "phonetic": "",
+      "example": "معطف الشتاء الدافئ."
+    },
+    {
+      "id": "word_0279",
+      "translation": "لون",
+      "phonetic": "",
+      "example": "اللون المفضل الأزرق."
+    },
+    {
+      "id": "word_0280",
+      "translation": "أحمر",
+      "phonetic": "",
+      "example": "الوردة الحمراء جميلة."
+    },
+    {
+      "id": "word_0281",
+      "translation": "أزرق",
+      "phonetic": "",
+      "example": "السماء الزرقاء صافية."
+    },
+    {
+      "id": "word_0282",
+      "translation": "أخضر",
+      "phonetic": "",
+      "example": "العشب الأخضر طازج."
+    },
+    {
+      "id": "word_0283",
+      "translation": "أصفر",
+      "phonetic": "",
+      "example": "الشمس الصفراء مشرقة."
+    },
+    {
+      "id": "word_0284",
+      "translation": "أبيض",
+      "phonetic": "",
+      "example": "الثلج الأبيض نقي."
+    },
+    {
+      "id": "word_0285",
+      "translation": "أسود",
+      "phonetic": "",
+      "example": "القهوة السوداء قوية."
+    },
+    {
+      "id": "word_0286",
+      "translation": "كبير",
+      "phonetic": "",
+      "example": "المنزل الكبير واسع."
+    },
+    {
+      "id": "word_0287",
+      "translation": "صغير",
+      "phonetic": "",
+      "example": "الغرفة الصغيرة مريحة."
+    },
+    {
+      "id": "word_0288",
+      "translation": "كبير",
+      "phonetic": "",
+      "example": "البيتزا الكبيرة مشتركة."
+    },
+    {
+      "id": "word_0289",
+      "translation": "قليل",
+      "phonetic": "",
+      "example": "الطفل الصغير لطيف."
+    },
+    {
+      "id": "word_0290",
+      "translation": "طويل",
+      "phonetic": "",
+      "example": "الطريق الطويل لا نهائي."
+    },
+    {
+      "id": "word_0291",
+      "translation": "قصير",
+      "phonetic": "",
+      "example": "استراحة قصيرة سريعة."
+    },
+    {
+      "id": "word_0292",
+      "translation": "مرتفع",
+      "phonetic": "",
+      "example": "الجبل العالي طويل."
+    },
+    {
+      "id": "word_0293",
+      "translation": "منخفض",
+      "phonetic": "",
+      "example": "السعر المنخفض معقول."
+    },
+    {
+      "id": "word_0294",
+      "translation": "حار",
+      "phonetic": "",
+      "example": "يوم صيف حار."
+    },
+    {
+      "id": "word_0295",
+      "translation": "بارد",
+      "phonetic": "",
+      "example": "ليلة شتاء باردة."
+    },
+    {
+      "id": "word_0296",
+      "translation": "دافئ",
+      "phonetic": "",
+      "example": "طقس مشمس دافئ."
+    },
+    {
+      "id": "word_0297",
+      "translation": "منعش",
+      "phonetic": "",
+      "example": "نسيم الربيع المنعش."
+    },
+    {
+      "id": "word_0298",
+      "translation": "قديم",
+      "phonetic": "",
+      "example": "رجل قديم حكيم."
+    },
+    {
+      "id": "word_0299",
+      "translation": "شاب",
+      "phonetic": "",
+      "example": "طفل شاب نشيط."
+    },
+    {
+      "id": "word_0300",
+      "translation": "سعيد",
+      "phonetic": "",
+      "example": "وجه سعيد مبتسم."
+    },
+    {
+      "id": "word_0301",
+      "translation": "حزين",
+      "phonetic": "",
+      "example": "دموع حزينة تسقط."
+    },
+    {
+      "id": "word_0302",
+      "translation": "غاضب",
+      "phonetic": "",
+      "example": "وجه غاضب أحمر."
+    },
+    {
+      "id": "word_0303",
+      "translation": "متعب",
+      "phonetic": "",
+      "example": "عيون متعبة نعسانة."
+    },
+    {
+      "id": "word_0304",
+      "translation": "مريض",
+      "phonetic": "",
+      "example": "مريض في السرير."
+    },
+    {
+      "id": "word_0305",
+      "translation": "صحي",
+      "phonetic": "",
+      "example": "جسم صحي قوي."
+    },
+    {
+      "id": "word_0306",
+      "translation": "سريع",
+      "phonetic": "",
+      "example": "سرعة الجري السريعة."
+    },
+    {
+      "id": "word_0307",
+      "translation": "بطيء",
+      "phonetic": "",
+      "example": "وتيرة المشي البطيئة."
+    },
+    {
+      "id": "word_0308",
+      "translation": "سهل",
+      "phonetic": "",
+      "example": "مهمة سهلة بسيطة."
+    },
+    {
+      "id": "word_0309",
+      "translation": "صعب",
+      "phonetic": "",
+      "example": "مشكلة صعبة معقدة."
+    },
+    {
+      "id": "word_0310",
+      "translation": "صحيح",
+      "phonetic": "",
+      "example": "الإجابة الصحيحة."
+    },
+    {
+      "id": "word_0311",
+      "translation": "خطأ",
+      "phonetic": "",
+      "example": "الاختيار الخاطئ."
+    },
+    {
+      "id": "word_0312",
+      "translation": "حقيقي",
+      "phonetic": "",
+      "example": "بيان حقيقي صادق."
+    },
+    {
+      "id": "word_0313",
+      "translation": "كاذب",
+      "phonetic": "",
+      "example": "ادعاء كاذب غير صحيح."
+    },
+    {
+      "id": "word_0314",
+      "translation": "نفس",
+      "phonetic": "",
+      "example": "توأم نفس متطابق."
+    },
+    {
+      "id": "word_0315",
+      "translation": "مختلف",
+      "phonetic": "",
+      "example": "أسلوب مختلف فريد."
+    },
+    {
+      "id": "word_0316",
+      "translation": "قريب",
+      "phonetic": "",
+      "example": "مسافة قريبة."
+    },
+    {
+      "id": "word_0317",
+      "translation": "بعيد",
+      "phonetic": "",
+      "example": "مكان بعيد."
+    },
+    {
+      "id": "word_0318",
+      "translation": "مبكر",
+      "phonetic": "",
+      "example": "شروق الشمس المبكر."
+    },
+    {
+      "id": "word_0319",
+      "translation": "متأخر",
+      "phonetic": "",
+      "example": "الوصول في وقت متأخر من الليل."
+    },
+    {
+      "id": "word_0320",
+      "translation": "التالي",
+      "phonetic": "",
+      "example": "الخطوة التالية."
+    },
+    {
+      "id": "word_0321",
+      "translation": "الأخير",
+      "phonetic": "",
+      "example": "الفرصة الأخيرة."
+    },
+    {
+      "id": "word_0322",
+      "translation": "ممتلئ",
+      "phonetic": "",
+      "example": "خزان ممتلئ."
+    },
+    {
+      "id": "word_0323",
+      "translation": "فارغ",
+      "phonetic": "",
+      "example": "غرفة فارغة."
+    },
+    {
+      "id": "word_0324",
+      "translation": "نظيف",
+      "phonetic": "",
+      "example": "أرضية نظيفة لا تشوبها شائبة."
+    },
+    {
+      "id": "word_0325",
+      "translation": "متسخ",
+      "phonetic": "",
+      "example": "أحذية متسخة موحلة."
+    },
+    {
+      "id": "word_0326",
+      "translation": "آمن",
+      "phonetic": "",
+      "example": "مكان آمن."
+    },
+    {
+      "id": "word_0327",
+      "translation": "خطير",
+      "phonetic": "",
+      "example": "وضع خطير محفوف بالمخاطر."
+    },
+    {
+      "id": "word_0328",
+      "translation": "جميل",
+      "phonetic": "",
+      "example": "زهرة جميلة."
+    },
+    {
+      "id": "word_0329",
+      "translation": "قبيح",
+      "phonetic": "",
+      "example": "مبنى قبيح غير جذاب."
+    },
+    {
+      "id": "word_0330",
+      "translation": "لطيف",
+      "phonetic": "",
+      "example": "شخص لطيف طيب."
+    },
+    {
+      "id": "word_0331",
+      "translation": "سيئ",
+      "phonetic": "",
+      "example": "طقس سيئ رهيب."
+    },
+    {
+      "id": "word_0332",
+      "translation": "أفضل",
+      "phonetic": "",
+      "example": "نسخة أفضل محسنة."
+    },
+    {
+      "id": "word_0333",
+      "translation": "الأفضل",
+      "phonetic": "",
+      "example": "أفضل جودة."
+    },
+    {
+      "id": "word_0334",
+      "translation": "أسوأ",
+      "phonetic": "",
+      "example": "حالة أسوأ متدهورة."
+    },
+    {
+      "id": "word_0335",
+      "translation": "الأسوأ",
+      "phonetic": "",
+      "example": "أسوأ أداء."
+    },
+    {
+      "id": "word_0336",
+      "translation": "مهم",
+      "phonetic": "",
+      "example": "مسألة مهمة حاسمة."
+    },
+    {
+      "id": "word_0337",
+      "translation": "مثير",
+      "phonetic": "",
+      "example": "قصة مثيرة رائعة."
+    },
+    {
+      "id": "word_0338",
+      "translation": "صعب",
+      "phonetic": "",
+      "example": "مهمة صعبة تحدي."
+    },
+    {
+      "id": "word_0339",
+      "translation": "ممكن",
+      "phonetic": "",
+      "example": "هدف ممكن التحقيق."
+    },
+    {
+      "id": "word_0340",
+      "translation": "مستحيل",
+      "phonetic": "",
+      "example": "حلم مستحيل لا يمكن تحقيقه."
+    },
+    {
+      "id": "word_0341",
+      "translation": "ضروري",
+      "phonetic": "",
+      "example": "عنصر ضروري."
+    },
+    {
+      "id": "word_0342",
+      "translation": "خاص",
+      "phonetic": "",
+      "example": "لحظة خاصة فريدة."
+    },
+    {
+      "id": "word_0343",
+      "translation": "متأكد",
+      "phonetic": "",
+      "example": "حقيقة متأكد."
+    },
+    {
+      "id": "word_0344",
+      "translation": "واضح",
+      "phonetic": "",
+      "example": "ماء واضح شفاف."
+    },
+    {
+      "id": "word_0345",
+      "translation": "جاهز",
+      "phonetic": "",
+      "example": "حالة جاهزة مستعدة."
+    },
+    {
+      "id": "word_0346",
+      "translation": "بسيط",
+      "phonetic": "",
+      "example": "خطة بسيطة غير معقدة."
+    },
+    {
+      "id": "word_0347",
+      "translation": "مشغول",
+      "phonetic": "",
+      "example": "جدول زمني مشغول."
+    },
+    {
+      "id": "word_0348",
+      "translation": "حر",
+      "phonetic": "",
+      "example": "وقت حر متاح."
+    },
+    {
+      "id": "word_0349",
+      "translation": "هادئ",
+      "phonetic": "",
+      "example": "غرفة هادئة صامتة."
+    },
+    {
+      "id": "word_0350",
+      "translation": "صاخب",
+      "phonetic": "",
+      "example": "موسيقى صاخبة مزعجة."
+    },
+    {
+      "id": "word_0351",
+      "translation": "مظلم",
+      "phonetic": "",
+      "example": "ليلة مظلمة بلا قمر."
+    },
+    {
+      "id": "word_0352",
+      "translation": "مضيء",
+      "phonetic": "",
+      "example": "نهار مضيء مشرق."
+    },
+    {
+      "id": "word_0353",
+      "translation": "ثقيل",
+      "phonetic": "",
+      "example": "صندوق ثقيل الوزن."
+    },
+    {
+      "id": "word_0354",
+      "translation": "ناعم",
+      "phonetic": "",
+      "example": "وسادة ناعمة رقيقة."
+    },
+    {
+      "id": "word_0355",
+      "translation": "قوي",
+      "phonetic": "",
+      "example": "عضلة قوية."
+    },
+    {
+      "id": "word_0356",
+      "translation": "ضعيف",
+      "phonetic": "",
+      "example": "محاولة ضعيفة واهنة."
+    },
+    {
+      "id": "word_0357",
+      "translation": "غني",
+      "phonetic": "",
+      "example": "شخص غني ثري."
+    },
+    {
+      "id": "word_0358",
+      "translation": "فقير",
+      "phonetic": "",
+      "example": "عائلة فقيرة معدمة."
+    },
+    {
+      "id": "word_0359",
+      "translation": "رخيص",
+      "phonetic": "",
+      "example": "سعر رخيص معقول."
+    },
+    {
+      "id": "word_0360",
+      "translation": "غالي",
+      "phonetic": "",
+      "example": "عنصر غالي مكلف."
+    },
+    {
+      "id": "word_0361",
+      "translation": "مبلل",
+      "phonetic": "",
+      "example": "ملابس مبللة ممطرة."
+    },
+    {
+      "id": "word_0362",
+      "translation": "جاف",
+      "phonetic": "",
+      "example": "صحراء جافة قاحلة."
+    },
+    {
+      "id": "word_0363",
+      "translation": "مفتوح",
+      "phonetic": "",
+      "example": "باب مفتوح يمكن الوصول إليه."
+    },
+    {
+      "id": "word_0364",
+      "translation": "مغلق",
+      "phonetic": "",
+      "example": "بوابة مغلقة مقفلة."
+    },
+    {
+      "id": "word_0365",
+      "translation": "واسع",
+      "phonetic": "",
+      "example": "شارع واسع عريض."
+    },
+    {
+      "id": "word_0366",
+      "translation": "ضيق",
+      "phonetic": "",
+      "example": "زقاق ضيق."
+    },
+    {
+      "id": "word_0367",
+      "translation": "عميق",
+      "phonetic": "",
+      "example": "قاع المحيط العميق."
+    },
+    {
+      "id": "word_0368",
+      "translation": "ضحل",
+      "phonetic": "",
+      "example": "ماء حمام سباحة ضحل."
+    },
+    {
+      "id": "word_0369",
+      "translation": "سميك",
+      "phonetic": "",
+      "example": "غابة سميكة كثيفة."
+    },
+    {
+      "id": "word_0370",
+      "translation": "رقيق",
+      "phonetic": "",
+      "example": "شكل رقيق نحيف."
+    },
+    {
+      "id": "word_0371",
+      "translation": "سمين",
+      "phonetic": "",
+      "example": "قطة سمينة ممتلئة."
+    },
+    {
+      "id": "word_0372",
+      "translation": "جائع",
+      "phonetic": "",
+      "example": "معدة جائعة فارغة."
+    },
+    {
+      "id": "word_0373",
+      "translation": "عطشان",
+      "phonetic": "",
+      "example": "حلق عطشان جاف."
+    },
+    {
+      "id": "word_0374",
+      "translation": "نعسان",
+      "phonetic": "",
+      "example": "عيون نعسانة متدلية."
+    },
+    {
+      "id": "word_0375",
+      "translation": "مستيقظ",
+      "phonetic": "",
+      "example": "عقل مستيقظ يقظ."
+    },
+    {
+      "id": "word_0376",
+      "translation": "حي",
+      "phonetic": "",
+      "example": "كائن حي."
+    },
+    {
+      "id": "word_0377",
+      "translation": "ميت",
+      "phonetic": "",
+      "example": "جسد ميت بلا حياة."
+    },
+    {
+      "id": "word_0378",
+      "translation": "متزوج",
+      "phonetic": "",
+      "example": "زوجان متزوجان سعيدان."
+    },
+    {
+      "id": "word_0379",
+      "translation": "أعزب",
+      "phonetic": "",
+      "example": "شخص أعزب مستقل."
+    },
+    {
+      "id": "word_0380",
+      "translation": "وحيد",
+      "phonetic": "",
+      "example": "شخصية وحيدة منعزلة."
+    },
+    {
+      "id": "word_0381",
+      "translation": "معاً",
+      "phonetic": "",
+      "example": "مجموعة معاً متحدة."
+    },
+    {
+      "id": "word_0382",
+      "translation": "يأكل",
+      "phonetic": "",
+      "example": "كل طعاماً صحياً."
+    },
+    {
+      "id": "word_0383",
+      "translation": "ينام",
+      "phonetic": "",
+      "example": "نم جيداً الليلة."
+    },
+    {
+      "id": "word_0384",
+      "translation": "يستيقظ",
+      "phonetic": "",
+      "example": "استيقظ باكراً."
+    },
+    {
+      "id": "word_0385",
+      "translation": "يمشي",
+      "phonetic": "",
+      "example": "امشِ في الحديقة."
+    },
+    {
+      "id": "word_0386",
+      "translation": "يركض",
+      "phonetic": "",
+      "example": "اركض سباقاً سريعاً."
+    },
+    {
+      "id": "word_0387",
+      "translation": "يجلس",
+      "phonetic": "",
+      "example": "اجلس من فضلك."
+    },
+    {
+      "id": "word_0388",
+      "translation": "يقف",
+      "phonetic": "",
+      "example": "قف بشكل مستقيم."
+    },
+    {
+      "id": "word_0389",
+      "translation": "يستلقي",
+      "phonetic": "",
+      "example": "استلقِ وارتح."
+    },
+    {
+      "id": "word_0390",
+      "translation": "يقرأ",
+      "phonetic": "",
+      "example": "اقرأ كتباً جيدة."
+    },
+    {
+      "id": "word_0391",
+      "translation": "يكتب",
+      "phonetic": "",
+      "example": "اكتب ملاحظات واضحة."
+    },
+    {
+      "id": "word_0392",
+      "translation": "يتحدث",
+      "phonetic": "",
+      "example": "تحدث ببطء من فضلك."
+    },
+    {
+      "id": "word_0393",
+      "translation": "يتكلم",
+      "phonetic": "",
+      "example": "تكلم عن الحياة."
+    },
+    {
+      "id": "word_0394",
+      "translation": "يستمع",
+      "phonetic": "",
+      "example": "استمع بعناية الآن."
+    },
+    {
+      "id": "word_0395",
+      "translation": "يسمع",
+      "phonetic": "",
+      "example": "اسمع الموسيقى."
+    },
+    {
+      "id": "word_0396",
+      "translation": "يشاهد",
+      "phonetic": "",
+      "example": "شاهد الفيلم."
+    },
+    {
+      "id": "word_0397",
+      "translation": "يلعب",
+      "phonetic": "",
+      "example": "العبوا في الخارج يا أطفال."
+    },
+    {
+      "id": "word_0398",
+      "translation": "يشتري",
+      "phonetic": "",
+      "example": "اشتري الخضار الطازجة."
+    },
+    {
+      "id": "word_0399",
+      "translation": "يبيع",
+      "phonetic": "",
+      "example": "بع الأشياء القديمة."
+    },
+    {
+      "id": "word_0400",
+      "translation": "يدفع",
+      "phonetic": "",
+      "example": "ادفع الفاتورة."
+    },
+    {
+      "id": "word_0401",
+      "translation": "يكلف",
+      "phonetic": "",
+      "example": "يكلف كثيرا."
+    },
+    {
+      "id": "word_0402",
+      "translation": "يغلق",
+      "phonetic": "",
+      "example": "أغلق الكتاب."
+    },
+    {
+      "id": "word_0403",
+      "translation": "يبدأ",
+      "phonetic": "",
+      "example": "ابدأ المحرك."
+    },
+    {
+      "id": "word_0404",
+      "translation": "يوقف",
+      "phonetic": "",
+      "example": "أوقف السيارة."
+    },
+    {
+      "id": "word_0405",
+      "translation": "ينهي",
+      "phonetic": "",
+      "example": "أنه واجبك المدرسي."
+    },
+    {
+      "id": "word_0406",
+      "translation": "يجد",
+      "phonetic": "",
+      "example": "اجد الجواب."
+    },
+    {
+      "id": "word_0407",
+      "translation": "يخسر",
+      "phonetic": "",
+      "example": "تضيع طريقك."
+    },
+    {
+      "id": "word_0408",
+      "translation": "يفوز",
+      "phonetic": "",
+      "example": "اربح اللعبة."
+    },
+    {
+      "id": "word_0409",
+      "translation": "يحاول",
+      "phonetic": "",
+      "example": "حاول بذل قصارى جهدك."
+    },
+    {
+      "id": "word_0410",
+      "translation": "يحتاج",
+      "phonetic": "",
+      "example": "تحتاج بعض المساعدة."
+    },
+    {
+      "id": "word_0411",
+      "translation": "يساعد",
+      "phonetic": "",
+      "example": "ساعدوا بعضكم البعض."
+    },
+    {
+      "id": "word_0412",
+      "translation": "يتصل",
+      "phonetic": "",
+      "example": "اتصل بي غدا."
+    },
+    {
+      "id": "word_0413",
+      "translation": "يسأل",
+      "phonetic": "",
+      "example": "اسأل أي أسئلة."
+    },
+    {
+      "id": "word_0414",
+      "translation": "يخبر",
+      "phonetic": "",
+      "example": "أخبرني قصة."
+    },
+    {
+      "id": "word_0415",
+      "translation": "يجيب",
+      "phonetic": "",
+      "example": "أجب على الهاتف."
+    },
+    {
+      "id": "word_0416",
+      "translation": "يشعر",
+      "phonetic": "",
+      "example": "أشعر بتحسن كبير."
+    },
+    {
+      "id": "word_0417",
+      "translation": "يصبح",
+      "phonetic": "",
+      "example": "كن معلما."
+    },
+    {
+      "id": "word_0418",
+      "translation": "يغادر",
+      "phonetic": "",
+      "example": "غادر الآن."
+    },
+    {
+      "id": "word_0419",
+      "translation": "يحضر",
+      "phonetic": "",
+      "example": "أحضر صديقك."
+    },
+    {
+      "id": "word_0420",
+      "translation": "يحدث",
+      "phonetic": "",
+      "example": "يحدث فجأة."
+    },
+    {
+      "id": "word_0421",
+      "translation": "يعرض",
+      "phonetic": "",
+      "example": "أرني كيف."
+    },
+    {
+      "id": "word_0422",
+      "translation": "يسمح",
+      "phonetic": "",
+      "example": "دعني أحاول."
+    },
+    {
+      "id": "word_0423",
+      "translation": "يحتفظ",
+      "phonetic": "",
+      "example": "احتفظ به آمنا."
+    },
+    {
+      "id": "word_0424",
+      "translation": "يبدأ",
+      "phonetic": "",
+      "example": "ابدأ العمل."
+    },
+    {
+      "id": "word_0425",
+      "translation": "يبدو",
+      "phonetic": "",
+      "example": "يبدو جيدا."
+    },
+    {
+      "id": "word_0426",
+      "translation": "يعني",
+      "phonetic": "",
+      "example": "ماذا يعني هذا؟"
+    },
+    {
+      "id": "word_0427",
+      "translation": "يبقى",
+      "phonetic": "",
+      "example": "ابق هنا."
+    },
+    {
+      "id": "word_0428",
+      "translation": "يتحرك",
+      "phonetic": "",
+      "example": "تحرك بسرعة."
+    },
+    {
+      "id": "word_0429",
+      "translation": "يتحدث",
+      "phonetic": "",
+      "example": "تحدث بصوت عال."
+    },
+    {
+      "id": "word_0430",
+      "translation": "يعيش",
+      "phonetic": "",
+      "example": "يعيش حياة سعيدة."
+    },
+    {
+      "id": "word_0431",
+      "translation": "يؤمن",
+      "phonetic": "",
+      "example": "آمن بنفسك."
+    },
+    {
+      "id": "word_0432",
+      "translation": "يحمل",
+      "phonetic": "",
+      "example": "احمل الحقيبة."
+    },
+    {
+      "id": "word_0433",
+      "translation": "يجلس",
+      "phonetic": "",
+      "example": "اجلس هنا."
+    },
+    {
+      "id": "word_0434",
+      "translation": "يقف",
+      "phonetic": "",
+      "example": "قف مستقيما."
+    },
+    {
+      "id": "word_0435",
+      "translation": "ينام",
+      "phonetic": "",
+      "example": "نم مبكرا."
+    },
+    {
+      "id": "word_0436",
+      "translation": "يستيقظ",
+      "phonetic": "",
+      "example": "استيقظ في الصباح."
+    },
+    {
+      "id": "word_0437",
+      "translation": "يأكل",
+      "phonetic": "",
+      "example": "كل طعامك."
+    },
+    {
+      "id": "word_0438",
+      "translation": "يشرب",
+      "phonetic": "",
+      "example": "اشرب الماء."
+    },
+    {
+      "id": "word_0439",
+      "translation": "يفتح",
+      "phonetic": "",
+      "example": "افتح الباب."
+    },
+    {
+      "id": "word_0440",
+      "translation": "يمشي",
+      "phonetic": "",
+      "example": "امش ببطء."
+    },
+    {
+      "id": "word_0441",
+      "translation": "يركض",
+      "phonetic": "",
+      "example": "اركض بسرعة."
+    },
+    {
+      "id": "word_0442",
+      "translation": "يقفز",
+      "phonetic": "",
+      "example": "اقفز عاليا."
+    },
+    {
+      "id": "word_0443",
+      "translation": "يسبح",
+      "phonetic": "",
+      "example": "اسبح في البحر."
+    },
+    {
+      "id": "word_0444",
+      "translation": "يطير",
+      "phonetic": "",
+      "example": "الطيور تطير."
+    },
+    {
+      "id": "word_0445",
+      "translation": "يقود",
+      "phonetic": "",
+      "example": "قد بعناية."
+    },
+    {
+      "id": "word_0446",
+      "translation": "يركب",
+      "phonetic": "",
+      "example": "اركب الدراجة."
+    },
+    {
+      "id": "word_0447",
+      "translation": "يسافر",
+      "phonetic": "",
+      "example": "سافر حول العالم."
+    },
+    {
+      "id": "word_0448",
+      "translation": "يزور",
+      "phonetic": "",
+      "example": "زر أصدقائك."
+    },
+    {
+      "id": "word_0449",
+      "translation": "يرسل",
+      "phonetic": "",
+      "example": "أرسل رسالة."
+    },
+    {
+      "id": "word_0450",
+      "translation": "يستقبل",
+      "phonetic": "",
+      "example": "استقبل الضيوف."
+    },
+    {
+      "id": "word_0451",
+      "translation": "يسحب",
+      "phonetic": "",
+      "example": "اسحب الحبل."
+    },
+    {
+      "id": "word_0452",
+      "translation": "يكسر",
+      "phonetic": "",
+      "example": "اكسر الرقم القياسي."
+    },
+    {
+      "id": "word_0453",
+      "translation": "يقطع",
+      "phonetic": "",
+      "example": "قطع الكعكة."
+    },
+    {
+      "id": "word_0454",
+      "translation": "يغسل",
+      "phonetic": "",
+      "example": "اغسل يديك."
+    },
+    {
+      "id": "word_0455",
+      "translation": "يطبخ",
+      "phonetic": "",
+      "example": "اطبخ وجبة لذيذة."
+    },
+    {
+      "id": "word_0456",
+      "translation": "يرتدي",
+      "phonetic": "",
+      "example": "ارتد ملابس دافئة."
+    },
+    {
+      "id": "word_0457",
+      "translation": "يبني",
+      "phonetic": "",
+      "example": "ابن أساسا قويا."
+    },
+    {
+      "id": "word_0458",
+      "translation": "يخلق",
+      "phonetic": "",
+      "example": "اخلق شيئا جديدا."
+    },
+    {
+      "id": "word_0459",
+      "translation": "يدمر",
+      "phonetic": "",
+      "example": "لا تدمر."
+    },
+    {
+      "id": "word_0460",
+      "translation": "يصلح",
+      "phonetic": "",
+      "example": "أصلح المشكلة."
+    },
+    {
+      "id": "word_0461",
+      "translation": "يستخدم",
+      "phonetic": "",
+      "example": "استخدم بحكمة."
+    },
+    {
+      "id": "word_0462",
+      "translation": "يعمل",
+      "phonetic": "",
+      "example": "اعمل بجد."
+    },
+    {
+      "id": "word_0463",
+      "translation": "يلعب",
+      "phonetic": "",
+      "example": "العب بالخارج."
+    },
+    {
+      "id": "word_0464",
+      "translation": "يرقص",
+      "phonetic": "",
+      "example": "ارقص بحرية."
+    },
+    {
+      "id": "word_0465",
+      "translation": "يغني",
+      "phonetic": "",
+      "example": "غن أغنية."
+    },
+    {
+      "id": "word_0466",
+      "translation": "يصرخ",
+      "phonetic": "",
+      "example": "لا تصرخ."
+    },
+    {
+      "id": "word_0467",
+      "translation": "يبكي",
+      "phonetic": "",
+      "example": "لا تبك."
+    },
+    {
+      "id": "word_0468",
+      "translation": "يضحك",
+      "phonetic": "",
+      "example": "اضحك بصوت عال."
+    },
+    {
+      "id": "word_0469",
+      "translation": "يبتسم",
+      "phonetic": "",
+      "example": "ابتسم دائما."
+    },
+    {
+      "id": "word_0470",
+      "translation": "ينظر",
+      "phonetic": "",
+      "example": "انظر بعناية."
+    },
+    {
+      "id": "word_0471",
+      "translation": "يستمع",
+      "phonetic": "",
+      "example": "استمع جيدا."
+    },
+    {
+      "id": "word_0472",
+      "translation": "يسمع",
+      "phonetic": "",
+      "example": "اسمع الصوت."
+    },
+    {
+      "id": "word_0473",
+      "translation": "يلمس",
+      "phonetic": "",
+      "example": "المس بلطف."
+    },
+    {
+      "id": "word_0474",
+      "translation": "يشم",
+      "phonetic": "",
+      "example": "شم الزهور."
+    },
+    {
+      "id": "word_0475",
+      "translation": "يتذوق",
+      "phonetic": "",
+      "example": "تذوق الطعام."
+    },
+    {
+      "id": "word_0476",
+      "translation": "يفكر",
+      "phonetic": "",
+      "example": "فكر بعمق."
+    },
+    {
+      "id": "word_0477",
+      "translation": "يعرف",
+      "phonetic": "",
+      "example": "اعرف الحقيقة."
+    },
+    {
+      "id": "word_0478",
+      "translation": "يظن",
+      "phonetic": "",
+      "example": "أظن هذا صحيح."
+    },
+    {
+      "id": "word_0479",
+      "translation": "يريد",
+      "phonetic": "",
+      "example": "أريد أن أذهب."
+    },
+    {
+      "id": "word_0480",
+      "translation": "يحب",
+      "phonetic": "",
+      "example": "أحب هذا."
+    },
+    {
+      "id": "word_0481",
+      "translation": "يرغب",
+      "phonetic": "",
+      "example": "أرغب في التعلم."
+    },
+    {
+      "id": "word_0482",
+      "translation": "يفضل",
+      "phonetic": "",
+      "example": "أفضل الشاي."
+    },
+    {
+      "id": "word_0483",
+      "translation": "يكره",
+      "phonetic": "",
+      "example": "أكره الأكاذيب."
+    },
+    {
+      "id": "word_0484",
+      "translation": "يهتم",
+      "phonetic": "",
+      "example": "اهتم بالآخرين."
+    },
+    {
+      "id": "word_0485",
+      "translation": "يقلق",
+      "phonetic": "",
+      "example": "لا تقلق كثيرا."
+    },
+    {
+      "id": "word_0486",
+      "translation": "يخاف",
+      "phonetic": "",
+      "example": "لا تخف أبدا."
+    },
+    {
+      "id": "word_0487",
+      "translation": "يتمنى",
+      "phonetic": "",
+      "example": "أتمنى لك التوفيق."
+    },
+    {
+      "id": "word_0488",
+      "translation": "يأمل",
+      "phonetic": "",
+      "example": "آمل في الأفضل."
+    },
+    {
+      "id": "word_0489",
+      "translation": "يفترض",
+      "phonetic": "",
+      "example": "أفترض أنه كذلك."
+    },
+    {
+      "id": "word_0490",
+      "translation": "يتخيل",
+      "phonetic": "",
+      "example": "تخيل العالم."
+    },
+    {
+      "id": "word_0491",
+      "translation": "يحلم",
+      "phonetic": "",
+      "example": "احلم أحلاما كبيرة."
+    },
+    {
+      "id": "word_0492",
+      "translation": "يعد",
+      "phonetic": "",
+      "example": "عد الأرقام."
+    },
+    {
+      "id": "word_0493",
+      "translation": "يضيف",
+      "phonetic": "",
+      "example": "أضف المزيد."
+    },
+    {
+      "id": "word_0494",
+      "translation": "يطرح",
+      "phonetic": "",
+      "example": "اطرح الرقم."
+    },
+    {
+      "id": "word_0495",
+      "translation": "يضرب",
+      "phonetic": "",
+      "example": "اضرب في اثنين."
+    },
+    {
+      "id": "word_0496",
+      "translation": "يقسم",
+      "phonetic": "",
+      "example": "اقسم بالتساوي."
+    },
+    {
+      "id": "word_0497",
+      "translation": "يقيس",
+      "phonetic": "",
+      "example": "قس الطول."
+    },
+    {
+      "id": "word_0498",
+      "translation": "يزن",
+      "phonetic": "",
+      "example": "زن الأشياء."
+    },
+    {
+      "id": "word_0499",
+      "translation": "يقارن",
+      "phonetic": "",
+      "example": "قارن النتائج."
+    },
+    {
+      "id": "word_0500",
+      "translation": "يتغير",
+      "phonetic": "",
+      "example": "يتغير باستمرار."
+    },
+    {
+      "id": "word_0501",
+      "translation": "مليون",
+      "phonetic": "",
+      "example": "مليون دولار."
+    },
+    {
+      "id": "word_0502",
+      "translation": "ثانٍ",
+      "phonetic": "",
+      "example": "فرصة ثانية معطاة."
+    },
+    {
+      "id": "word_0503",
+      "translation": "ثالث",
+      "phonetic": "",
+      "example": "المرة الثالثة محظوظ."
+    },
+    {
+      "id": "word_0504",
+      "translation": "حيوان",
+      "phonetic": "",
+      "example": "حيوان بري في الغابة."
+    },
+    {
+      "id": "word_0505",
+      "translation": "كلب",
+      "phonetic": "",
+      "example": "كلب مخلص صديق."
+    },
+    {
+      "id": "word_0506",
+      "translation": "قطة",
+      "phonetic": "",
+      "example": "قطة لطيفة تموء."
+    },
+    {
+      "id": "word_0507",
+      "translation": "طير",
+      "phonetic": "",
+      "example": "طير يطير في السماء."
+    },
+    {
+      "id": "word_0508",
+      "translation": "سمكة",
+      "phonetic": "",
+      "example": "سمكة تسبح."
+    },
+    {
+      "id": "word_0509",
+      "translation": "حصان",
+      "phonetic": "",
+      "example": "حصان قوي سريع."
+    },
+    {
+      "id": "word_0510",
+      "translation": "بقرة",
+      "phonetic": "",
+      "example": "بقرة تعطي حليب."
+    },
+    {
+      "id": "word_0511",
+      "translation": "خروف",
+      "phonetic": "",
+      "example": "خروف بصوف أبيض."
+    },
+    {
+      "id": "word_0512",
+      "translation": "خنزير",
+      "phonetic": "",
+      "example": "خنزير وردي سمين."
+    },
+    {
+      "id": "word_0513",
+      "translation": "دجاجة",
+      "phonetic": "",
+      "example": "دجاجة تبيض."
+    },
+    {
+      "id": "word_0514",
+      "translation": "بطة",
+      "phonetic": "",
+      "example": "بطة في البحيرة."
+    },
+    {
+      "id": "word_0515",
+      "translation": "نحلة",
+      "phonetic": "",
+      "example": "نحلة تصنع عسل."
+    },
+    {
+      "id": "word_0516",
+      "translation": "فراشة",
+      "phonetic": "",
+      "example": "فراشة جميلة."
+    },
+    {
+      "id": "word_0517",
+      "translation": "عنكبوت",
+      "phonetic": "",
+      "example": "عنكبوت ينسج شبكة."
+    },
+    {
+      "id": "word_0518",
+      "translation": "نملة",
+      "phonetic": "",
+      "example": "نملة تعمل بجد."
+    },
+    {
+      "id": "word_0519",
+      "translation": "ذبابة",
+      "phonetic": "",
+      "example": "ذبابة مزعجة."
+    },
+    {
+      "id": "word_0520",
+      "translation": "بعوضة",
+      "phonetic": "",
+      "example": "بعوضة تلسع."
+    },
+    {
+      "id": "word_0521",
+      "translation": "فأر",
+      "phonetic": "",
+      "example": "فأر صغير."
+    },
+    {
+      "id": "word_0522",
+      "translation": "أرنب",
+      "phonetic": "",
+      "example": "أرنب يقفز."
+    },
+    {
+      "id": "word_0523",
+      "translation": "ثعلب",
+      "phonetic": "",
+      "example": "ثعلب ماكر."
+    },
+    {
+      "id": "word_0524",
+      "translation": "ذئب",
+      "phonetic": "",
+      "example": "ذئب يعوي."
+    },
+    {
+      "id": "word_0525",
+      "translation": "دب",
+      "phonetic": "",
+      "example": "دب كبير قوي."
+    },
+    {
+      "id": "word_0526",
+      "translation": "أسد",
+      "phonetic": "",
+      "example": "أسد ملك الغابة."
+    },
+    {
+      "id": "word_0527",
+      "translation": "نمر",
+      "phonetic": "",
+      "example": "نمر مخطط."
+    },
+    {
+      "id": "word_0528",
+      "translation": "فيل",
+      "phonetic": "",
+      "example": "فيل ضخم."
+    },
+    {
+      "id": "word_0529",
+      "translation": "قرد",
+      "phonetic": "",
+      "example": "قرد يتسلق."
+    },
+    {
+      "id": "word_0530",
+      "translation": "ثعبان",
+      "phonetic": "",
+      "example": "ثعبان يزحف."
+    },
+    {
+      "id": "word_0531",
+      "translation": "سحلية",
+      "phonetic": "",
+      "example": "سحلية على الحائط."
+    },
+    {
+      "id": "word_0532",
+      "translation": "ضفدع",
+      "phonetic": "",
+      "example": "ضفدع يقفز."
+    },
+    {
+      "id": "word_0533",
+      "translation": "سلحفاة",
+      "phonetic": "",
+      "example": "سلحفاة بطيئة."
+    },
+    {
+      "id": "word_0534",
+      "translation": "تمساح",
+      "phonetic": "",
+      "example": "تمساح خطير."
+    },
+    {
+      "id": "word_0535",
+      "translation": "حوت",
+      "phonetic": "",
+      "example": "حوت ضخم."
+    },
+    {
+      "id": "word_0536",
+      "translation": "دولفين",
+      "phonetic": "",
+      "example": "دولفين ذكي."
+    },
+    {
+      "id": "word_0537",
+      "translation": "سمك القرش",
+      "phonetic": "",
+      "example": "سمك القرش خطير."
+    },
+    {
+      "id": "word_0538",
+      "translation": "نسر",
+      "phonetic": "",
+      "example": "نسر يطير عاليا."
+    },
+    {
+      "id": "word_0539",
+      "translation": "بومة",
+      "phonetic": "",
+      "example": "بومة حكيمة."
+    },
+    {
+      "id": "word_0540",
+      "translation": "ببغاء",
+      "phonetic": "",
+      "example": "ببغاء ملون."
+    },
+    {
+      "id": "word_0541",
+      "translation": "نبات",
+      "phonetic": "",
+      "example": "نبات أخضر."
+    },
+    {
+      "id": "word_0542",
+      "translation": "شجرة",
+      "phonetic": "",
+      "example": "شجرة طويلة."
+    },
+    {
+      "id": "word_0543",
+      "translation": "زهرة",
+      "phonetic": "",
+      "example": "زهرة جميلة."
+    },
+    {
+      "id": "word_0544",
+      "translation": "عشب",
+      "phonetic": "",
+      "example": "عشب أخضر."
+    },
+    {
+      "id": "word_0545",
+      "translation": "ورقة",
+      "phonetic": "",
+      "example": "ورقة تسقط."
+    },
+    {
+      "id": "word_0546",
+      "translation": "جذر",
+      "phonetic": "",
+      "example": "جذر قوي."
+    },
+    {
+      "id": "word_0547",
+      "translation": "بذرة",
+      "phonetic": "",
+      "example": "بذرة صغيرة."
+    },
+    {
+      "id": "word_0548",
+      "translation": "فاكهة",
+      "phonetic": "",
+      "example": "فاكهة طازجة."
+    },
+    {
+      "id": "word_0549",
+      "translation": "خضار",
+      "phonetic": "",
+      "example": "خضار صحي."
+    },
+    {
+      "id": "word_0550",
+      "translation": "طعام",
+      "phonetic": "",
+      "example": "طعام لذيذ."
+    },
+    {
+      "id": "word_0551",
+      "translation": "متحف",
+      "phonetic": "",
+      "example": "متحف التاريخ الوطني."
+    },
+    {
+      "id": "word_0552",
+      "translation": "مكتبة",
+      "phonetic": "",
+      "example": "مكتبة المدينة العامة."
+    },
+    {
+      "id": "word_0553",
+      "translation": "جامعة",
+      "phonetic": "",
+      "example": "جامعة قديمة مشهورة."
+    },
+    {
+      "id": "word_0554",
+      "translation": "حكومة",
+      "phonetic": "",
+      "example": "حكومة منتخبة ديمقراطية."
+    },
+    {
+      "id": "word_0555",
+      "translation": "قانون",
+      "phonetic": "",
+      "example": "قانون عادل."
+    },
+    {
+      "id": "word_0556",
+      "translation": "شرطة",
+      "phonetic": "",
+      "example": "مركز الشرطة المحلية."
+    },
+    {
+      "id": "word_0557",
+      "translation": "جيش",
+      "phonetic": "",
+      "example": "جيش الدفاع الوطني."
+    },
+    {
+      "id": "word_0558",
+      "translation": "حرب",
+      "phonetic": "",
+      "example": "حرب سيئة."
+    },
+    {
+      "id": "word_0559",
+      "translation": "سلام",
+      "phonetic": "",
+      "example": "سلام عالمي."
+    },
+    {
+      "id": "word_0560",
+      "translation": "ملك",
+      "phonetic": "",
+      "example": "ملك حكيم."
+    },
+    {
+      "id": "word_0561",
+      "translation": "ملكة",
+      "phonetic": "",
+      "example": "ملكة جميلة."
+    },
+    {
+      "id": "word_0562",
+      "translation": "أمير",
+      "phonetic": "",
+      "example": "أمير شجاع."
+    },
+    {
+      "id": "word_0563",
+      "translation": "أميرة",
+      "phonetic": "",
+      "example": "أميرة لطيفة."
+    },
+    {
+      "id": "word_0564",
+      "translation": "رئيس",
+      "phonetic": "",
+      "example": "رئيس البلاد."
+    },
+    {
+      "id": "word_0565",
+      "translation": "وزير",
+      "phonetic": "",
+      "example": "وزير التعليم."
+    },
+    {
+      "id": "word_0566",
+      "translation": "عامل",
+      "phonetic": "",
+      "example": "عامل مجتهد."
+    },
+    {
+      "id": "word_0567",
+      "translation": "فلاح",
+      "phonetic": "",
+      "example": "فلاح يزرع."
+    },
+    {
+      "id": "word_0568",
+      "translation": "طبيب",
+      "phonetic": "",
+      "example": "طبيب ماهر."
+    },
+    {
+      "id": "word_0569",
+      "translation": "ممرضة",
+      "phonetic": "",
+      "example": "ممرضة مهتمة."
+    },
+    {
+      "id": "word_0570",
+      "translation": "معلم",
+      "phonetic": "",
+      "example": "معلم جيد."
+    },
+    {
+      "id": "word_0571",
+      "translation": "طالب",
+      "phonetic": "",
+      "example": "طالب مجتهد."
+    },
+    {
+      "id": "word_0572",
+      "translation": "كاتب",
+      "phonetic": "",
+      "example": "كاتب مشهور."
+    },
+    {
+      "id": "word_0573",
+      "translation": "فنان",
+      "phonetic": "",
+      "example": "فنان موهوب."
+    },
+    {
+      "id": "word_0574",
+      "translation": "موسيقي",
+      "phonetic": "",
+      "example": "موسيقي بارع."
+    },
+    {
+      "id": "word_0575",
+      "translation": "مغني",
+      "phonetic": "",
+      "example": "مغني رائع."
+    },
+    {
+      "id": "word_0576",
+      "translation": "راقص",
+      "phonetic": "",
+      "example": "راقص محترف."
+    },
+    {
+      "id": "word_0577",
+      "translation": "رياضي",
+      "phonetic": "",
+      "example": "رياضي قوي."
+    },
+    {
+      "id": "word_0578",
+      "translation": "طباخ",
+      "phonetic": "",
+      "example": "طباخ ماهر."
+    },
+    {
+      "id": "word_0579",
+      "translation": "سائق",
+      "phonetic": "",
+      "example": "سائق حذر."
+    },
+    {
+      "id": "word_0580",
+      "translation": "طيار",
+      "phonetic": "",
+      "example": "طيار شجاع."
+    },
+    {
+      "id": "word_0581",
+      "translation": "بحار",
+      "phonetic": "",
+      "example": "بحار خبير."
+    },
+    {
+      "id": "word_0582",
+      "translation": "مهندس",
+      "phonetic": "",
+      "example": "مهندس مبدع."
+    },
+    {
+      "id": "word_0583",
+      "translation": "عالم",
+      "phonetic": "",
+      "example": "عالم ذكي."
+    },
+    {
+      "id": "word_0584",
+      "translation": "باحث",
+      "phonetic": "",
+      "example": "باحث جاد."
+    },
+    {
+      "id": "word_0585",
+      "translation": "صحفي",
+      "phonetic": "",
+      "example": "صحفي نشط."
+    },
+    {
+      "id": "word_0586",
+      "translation": "محامي",
+      "phonetic": "",
+      "example": "محامي ماهر."
+    },
+    {
+      "id": "word_0587",
+      "translation": "قاضي",
+      "phonetic": "",
+      "example": "قاضي عادل."
+    },
+    {
+      "id": "word_0588",
+      "translation": "شرطي",
+      "phonetic": "",
+      "example": "شرطي شجاع."
+    },
+    {
+      "id": "word_0589",
+      "translation": "جندي",
+      "phonetic": "",
+      "example": "جندي قوي."
+    },
+    {
+      "id": "word_0590",
+      "translation": "رجل إطفاء",
+      "phonetic": "",
+      "example": "رجل إطفاء بطل."
+    },
+    {
+      "id": "word_0591",
+      "translation": "تاجر",
+      "phonetic": "",
+      "example": "تاجر ناجح."
+    },
+    {
+      "id": "word_0592",
+      "translation": "بائع",
+      "phonetic": "",
+      "example": "بائع مهذب."
+    },
+    {
+      "id": "word_0593",
+      "translation": "مشتري",
+      "phonetic": "",
+      "example": "مشتري راضي."
+    },
+    {
+      "id": "word_0594",
+      "translation": "زبون",
+      "phonetic": "",
+      "example": "زبون مخلص."
+    },
+    {
+      "id": "word_0595",
+      "translation": "ضيف",
+      "phonetic": "",
+      "example": "ضيف مرحب به."
+    },
+    {
+      "id": "word_0596",
+      "translation": "مضيف",
+      "phonetic": "",
+      "example": "مضيف ودود."
+    },
+    {
+      "id": "word_0597",
+      "translation": "جار",
+      "phonetic": "",
+      "example": "جار طيب."
+    },
+    {
+      "id": "word_0598",
+      "translation": "غريب",
+      "phonetic": "",
+      "example": "غريب غامض."
+    },
+    {
+      "id": "word_0599",
+      "translation": "عدو",
+      "phonetic": "",
+      "example": "عدو خطير."
+    },
+    {
+      "id": "word_0600",
+      "translation": "بطل",
+      "phonetic": "",
+      "example": "بطل شجاع."
+    },
+    {
+      "id": "word_0601",
+      "translation": "شمعة",
+      "phonetic": "",
+      "example": "شمعة عطرية."
+    },
+    {
+      "id": "word_0602",
+      "translation": "أرضية",
+      "phonetic": "",
+      "example": "أرضية خشبية صلبة."
+    },
+    {
+      "id": "word_0603",
+      "translation": "جدار",
+      "phonetic": "",
+      "example": "جدار مطلي أبيض."
+    },
+    {
+      "id": "word_0604",
+      "translation": "سقف",
+      "phonetic": "",
+      "example": "سقف قرميدي أحمر."
+    },
+    {
+      "id": "word_0605",
+      "translation": "حمام",
+      "phonetic": "",
+      "example": "حمام خاص نظيف."
+    },
+    {
+      "id": "word_0606",
+      "translation": "مطبخ",
+      "phonetic": "",
+      "example": "مطبخ حديث مجهز."
+    },
+    {
+      "id": "word_0607",
+      "translation": "غرفة نوم",
+      "phonetic": "",
+      "example": "غرفة نوم رئيسية واسعة."
+    },
+    {
+      "id": "word_0608",
+      "translation": "غرفة معيشة",
+      "phonetic": "",
+      "example": "غرفة معيشة مريحة."
+    },
+    {
+      "id": "word_0609",
+      "translation": "درج",
+      "phonetic": "",
+      "example": "اصعد الدرج."
+    },
+    {
+      "id": "word_0610",
+      "translation": "مصعد",
+      "phonetic": "",
+      "example": "خذ المصعد."
+    },
+    {
+      "id": "word_0611",
+      "translation": "نافذة",
+      "phonetic": "",
+      "example": "افتح النافذة."
+    },
+    {
+      "id": "word_0612",
+      "translation": "ستارة",
+      "phonetic": "",
+      "example": "أغلق الستارة."
+    },
+    {
+      "id": "word_0613",
+      "translation": "مرآة",
+      "phonetic": "",
+      "example": "انظر في المرآة."
+    },
+    {
+      "id": "word_0614",
+      "translation": "صورة",
+      "phonetic": "",
+      "example": "علق الصورة."
+    },
+    {
+      "id": "word_0615",
+      "translation": "لوحة",
+      "phonetic": "",
+      "example": "لوحة جميلة."
+    },
+    {
+      "id": "word_0616",
+      "translation": "أثاث",
+      "phonetic": "",
+      "example": "أثاث جديد."
+    },
+    {
+      "id": "word_0617",
+      "translation": "كرسي",
+      "phonetic": "",
+      "example": "كرسي مريح."
+    },
+    {
+      "id": "word_0618",
+      "translation": "طاولة",
+      "phonetic": "",
+      "example": "طاولة خشبية."
+    },
+    {
+      "id": "word_0619",
+      "translation": "سرير",
+      "phonetic": "",
+      "example": "سرير ناعم."
+    },
+    {
+      "id": "word_0620",
+      "translation": "أريكة",
+      "phonetic": "",
+      "example": "أريكة كبيرة."
+    },
+    {
+      "id": "word_0621",
+      "translation": "خزانة",
+      "phonetic": "",
+      "example": "خزانة واسعة."
+    },
+    {
+      "id": "word_0622",
+      "translation": "رف",
+      "phonetic": "",
+      "example": "رف مليء بالكتب."
+    },
+    {
+      "id": "word_0623",
+      "translation": "درج",
+      "phonetic": "",
+      "example": "افتح الدرج."
+    },
+    {
+      "id": "word_0624",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "مكتب مرتب."
+    },
+    {
+      "id": "word_0625",
+      "translation": "مصباح",
+      "phonetic": "",
+      "example": "شغل المصباح."
+    },
+    {
+      "id": "word_0626",
+      "translation": "ضوء",
+      "phonetic": "",
+      "example": "ضوء ساطع."
+    },
+    {
+      "id": "word_0627",
+      "translation": "كهرباء",
+      "phonetic": "",
+      "example": "كهرباء قوية."
+    },
+    {
+      "id": "word_0628",
+      "translation": "طاقة",
+      "phonetic": "",
+      "example": "طاقة متجددة."
+    },
+    {
+      "id": "word_0629",
+      "translation": "زيت",
+      "phonetic": "",
+      "example": "زيت الطبخ."
+    },
+    {
+      "id": "word_0630",
+      "translation": "غاز",
+      "phonetic": "",
+      "example": "غاز طبيعي."
+    },
+    {
+      "id": "word_0631",
+      "translation": "فحم",
+      "phonetic": "",
+      "example": "فحم أسود."
+    },
+    {
+      "id": "word_0632",
+      "translation": "خشب",
+      "phonetic": "",
+      "example": "خشب صلب."
+    },
+    {
+      "id": "word_0633",
+      "translation": "ورق",
+      "phonetic": "",
+      "example": "ورق أبيض."
+    },
+    {
+      "id": "word_0634",
+      "translation": "كتاب",
+      "phonetic": "",
+      "example": "كتاب مثير."
+    },
+    {
+      "id": "word_0635",
+      "translation": "مجلة",
+      "phonetic": "",
+      "example": "مجلة شهرية."
+    },
+    {
+      "id": "word_0636",
+      "translation": "جريدة",
+      "phonetic": "",
+      "example": "جريدة يومية."
+    },
+    {
+      "id": "word_0637",
+      "translation": "قصة",
+      "phonetic": "",
+      "example": "قصة قصيرة."
+    },
+    {
+      "id": "word_0638",
+      "translation": "قصيدة",
+      "phonetic": "",
+      "example": "قصيدة جميلة."
+    },
+    {
+      "id": "word_0639",
+      "translation": "رسالة",
+      "phonetic": "",
+      "example": "رسالة شخصية."
+    },
+    {
+      "id": "word_0640",
+      "translation": "بطاقة",
+      "phonetic": "",
+      "example": "بطاقة تهنئة."
+    },
+    {
+      "id": "word_0641",
+      "translation": "طابع",
+      "phonetic": "",
+      "example": "طابع بريدي."
+    },
+    {
+      "id": "word_0642",
+      "translation": "عنوان",
+      "phonetic": "",
+      "example": "عنوان البيت."
+    },
+    {
+      "id": "word_0643",
+      "translation": "اسم",
+      "phonetic": "",
+      "example": "اسمك ما هو؟"
+    },
+    {
+      "id": "word_0644",
+      "translation": "لقب",
+      "phonetic": "",
+      "example": "لقب العائلة."
+    },
+    {
+      "id": "word_0645",
+      "translation": "تاريخ",
+      "phonetic": "",
+      "example": "تاريخ الميلاد."
+    },
+    {
+      "id": "word_0646",
+      "translation": "مكان",
+      "phonetic": "",
+      "example": "مكان جميل."
+    },
+    {
+      "id": "word_0647",
+      "translation": "طريق",
+      "phonetic": "",
+      "example": "طريق طويل."
+    },
+    {
+      "id": "word_0648",
+      "translation": "شارع",
+      "phonetic": "",
+      "example": "شارع رئيسي."
+    },
+    {
+      "id": "word_0649",
+      "translation": "زقاق",
+      "phonetic": "",
+      "example": "زقاق ضيق."
+    },
+    {
+      "id": "word_0650",
+      "translation": "ساحة",
+      "phonetic": "",
+      "example": "ساحة المدينة."
+    },
+    {
+      "id": "word_0651",
+      "translation": "منتج",
+      "phonetic": "",
+      "example": "منتج مصنع بجودة."
+    },
+    {
+      "id": "word_0652",
+      "translation": "سعر",
+      "phonetic": "",
+      "example": "سعر معقول عادل."
+    },
+    {
+      "id": "word_0653",
+      "translation": "قيمة",
+      "phonetic": "",
+      "example": "قيمة نقدية كبيرة."
+    },
+    {
+      "id": "word_0654",
+      "translation": "ضريبة",
+      "phonetic": "",
+      "example": "ضريبة الدخل السنوية."
+    },
+    {
+      "id": "word_0655",
+      "translation": "فائدة",
+      "phonetic": "",
+      "example": "فائدة بنكية عالية."
+    },
+    {
+      "id": "word_0656",
+      "translation": "صفقة",
+      "phonetic": "",
+      "example": "صفقة تجارية عظيمة."
+    },
+    {
+      "id": "word_0657",
+      "translation": "اتفاقية",
+      "phonetic": "",
+      "example": "اتفاقية مكتوبة متبادلة."
+    },
+    {
+      "id": "word_0658",
+      "translation": "عقد",
+      "phonetic": "",
+      "example": "عقد ملزم قانونيا."
+    },
+    {
+      "id": "word_0659",
+      "translation": "تعليم",
+      "phonetic": "",
+      "example": "تعليم عالي جيد."
+    },
+    {
+      "id": "word_0660",
+      "translation": "مهارة",
+      "phonetic": "",
+      "example": "مهارة مفيدة."
+    },
+    {
+      "id": "word_0661",
+      "translation": "خبرة",
+      "phonetic": "",
+      "example": "خبرة واسعة."
+    },
+    {
+      "id": "word_0662",
+      "translation": "وظيفة",
+      "phonetic": "",
+      "example": "وظيفة بدوام كامل."
+    },
+    {
+      "id": "word_0663",
+      "translation": "عمل",
+      "phonetic": "",
+      "example": "عمل جاد."
+    },
+    {
+      "id": "word_0664",
+      "translation": "راتب",
+      "phonetic": "",
+      "example": "راتب شهري."
+    },
+    {
+      "id": "word_0665",
+      "translation": "أجر",
+      "phonetic": "",
+      "example": "أجر عادل بالساعة."
+    },
+    {
+      "id": "word_0666",
+      "translation": "مدير",
+      "phonetic": "",
+      "example": "مدير عام."
+    },
+    {
+      "id": "word_0667",
+      "translation": "موظف",
+      "phonetic": "",
+      "example": "موظف مخلص."
+    },
+    {
+      "id": "word_0668",
+      "translation": "زميل",
+      "phonetic": "",
+      "example": "زميل مفيد."
+    },
+    {
+      "id": "word_0669",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "مكتب منظم."
+    },
+    {
+      "id": "word_0670",
+      "translation": "اجتماع",
+      "phonetic": "",
+      "example": "اجتماع مهم."
+    },
+    {
+      "id": "word_0671",
+      "translation": "تقرير",
+      "phonetic": "",
+      "example": "تقرير مفصل."
+    },
+    {
+      "id": "word_0672",
+      "translation": "مشروع",
+      "phonetic": "",
+      "example": "مشروع جديد."
+    },
+    {
+      "id": "word_0673",
+      "translation": "خطة",
+      "phonetic": "",
+      "example": "خطة مستقبلية."
+    },
+    {
+      "id": "word_0674",
+      "translation": "هدف",
+      "phonetic": "",
+      "example": "هدف واضح."
+    },
+    {
+      "id": "word_0675",
+      "translation": "نجاح",
+      "phonetic": "",
+      "example": "نجاح باهر."
+    },
+    {
+      "id": "word_0676",
+      "translation": "فشل",
+      "phonetic": "",
+      "example": "فشل مؤقت."
+    },
+    {
+      "id": "word_0677",
+      "translation": "مشكلة",
+      "phonetic": "",
+      "example": "مشكلة صعبة."
+    },
+    {
+      "id": "word_0678",
+      "translation": "حل",
+      "phonetic": "",
+      "example": "حل بسيط."
+    },
+    {
+      "id": "word_0679",
+      "translation": "فرصة",
+      "phonetic": "",
+      "example": "فرصة رائعة."
+    },
+    {
+      "id": "word_0680",
+      "translation": "خطر",
+      "phonetic": "",
+      "example": "خطر محتمل."
+    },
+    {
+      "id": "word_0681",
+      "translation": "أمان",
+      "phonetic": "",
+      "example": "أمان كامل."
+    },
+    {
+      "id": "word_0682",
+      "translation": "حماية",
+      "phonetic": "",
+      "example": "حماية ضرورية."
+    },
+    {
+      "id": "word_0683",
+      "translation": "ضرر",
+      "phonetic": "",
+      "example": "ضرر كبير."
+    },
+    {
+      "id": "word_0684",
+      "translation": "فائدة",
+      "phonetic": "",
+      "example": "فائدة متبادلة."
+    },
+    {
+      "id": "word_0685",
+      "translation": "ميزة",
+      "phonetic": "",
+      "example": "ميزة خاصة."
+    },
+    {
+      "id": "word_0686",
+      "translation": "عيب",
+      "phonetic": "",
+      "example": "عيب صغير."
+    },
+    {
+      "id": "word_0687",
+      "translation": "سبب",
+      "phonetic": "",
+      "example": "سبب رئيسي."
+    },
+    {
+      "id": "word_0688",
+      "translation": "نتيجة",
+      "phonetic": "",
+      "example": "نتيجة نهائية."
+    },
+    {
+      "id": "word_0689",
+      "translation": "تأثير",
+      "phonetic": "",
+      "example": "تأثير قوي."
+    },
+    {
+      "id": "word_0690",
+      "translation": "تغيير",
+      "phonetic": "",
+      "example": "تغيير إيجابي."
+    },
+    {
+      "id": "word_0691",
+      "translation": "تطوير",
+      "phonetic": "",
+      "example": "تطوير مستمر."
+    },
+    {
+      "id": "word_0692",
+      "translation": "تقدم",
+      "phonetic": "",
+      "example": "تقدم ملحوظ."
+    },
+    {
+      "id": "word_0693",
+      "translation": "نمو",
+      "phonetic": "",
+      "example": "نمو سريع."
+    },
+    {
+      "id": "word_0694",
+      "translation": "زيادة",
+      "phonetic": "",
+      "example": "زيادة كبيرة."
+    },
+    {
+      "id": "word_0695",
+      "translation": "نقصان",
+      "phonetic": "",
+      "example": "نقصان تدريجي."
+    },
+    {
+      "id": "word_0696",
+      "translation": "كمية",
+      "phonetic": "",
+      "example": "كمية كبيرة."
+    },
+    {
+      "id": "word_0697",
+      "translation": "عدد",
+      "phonetic": "",
+      "example": "عدد كبير."
+    },
+    {
+      "id": "word_0698",
+      "translation": "مقدار",
+      "phonetic": "",
+      "example": "مقدار صغير."
+    },
+    {
+      "id": "word_0699",
+      "translation": "حجم",
+      "phonetic": "",
+      "example": "حجم متوسط."
+    },
+    {
+      "id": "word_0700",
+      "translation": "شكل",
+      "phonetic": "",
+      "example": "شكل دائري."
+    },
+    {
+      "id": "word_0701",
+      "translation": "خارج",
+      "phonetic": "",
+      "example": "في الخارج مباشرة."
+    },
+    {
+      "id": "word_0702",
+      "translation": "بين",
+      "phonetic": "",
+      "example": "في المنتصف بين."
+    },
+    {
+      "id": "word_0703",
+      "translation": "بين",
+      "phonetic": "",
+      "example": "مخفي بين الحشد."
+    },
+    {
+      "id": "word_0704",
+      "translation": "عبر",
+      "phonetic": "",
+      "example": "مباشرة عبر."
+    },
+    {
+      "id": "word_0705",
+      "translation": "عبر",
+      "phonetic": "",
+      "example": "طوال الطريق."
+    },
+    {
+      "id": "word_0706",
+      "translation": "أثناء",
+      "phonetic": "",
+      "example": "فقط أثناء النهار."
+    },
+    {
+      "id": "word_0707",
+      "translation": "قبل",
+      "phonetic": "",
+      "example": "مباشرة قبل."
+    },
+    {
+      "id": "word_0708",
+      "translation": "بعد",
+      "phonetic": "",
+      "example": "مباشرة بعد."
+    },
+    {
+      "id": "word_0709",
+      "translation": "منذ",
+      "phonetic": "",
+      "example": "منذ الأمس."
+    },
+    {
+      "id": "word_0710",
+      "translation": "حتى",
+      "phonetic": "",
+      "example": "حتى الآن."
+    },
+    {
+      "id": "word_0711",
+      "translation": "نحو",
+      "phonetic": "",
+      "example": "نحو المنزل."
+    },
+    {
+      "id": "word_0712",
+      "translation": "بعيدا",
+      "phonetic": "",
+      "example": "بعيدا جدا."
+    },
+    {
+      "id": "word_0713",
+      "translation": "معا",
+      "phonetic": "",
+      "example": "معا دائما."
+    },
+    {
+      "id": "word_0714",
+      "translation": "بعيدا",
+      "phonetic": "",
+      "example": "منفصلين بعيدا."
+    },
+    {
+      "id": "word_0715",
+      "translation": "بالقرب",
+      "phonetic": "",
+      "example": "بالقرب جدا."
+    },
+    {
+      "id": "word_0716",
+      "translation": "بعيد",
+      "phonetic": "",
+      "example": "بعيد جدا."
+    },
+    {
+      "id": "word_0717",
+      "translation": "قريب",
+      "phonetic": "",
+      "example": "قريب جدا."
+    },
+    {
+      "id": "word_0718",
+      "translation": "هنا",
+      "phonetic": "",
+      "example": "هنا مباشرة."
+    },
+    {
+      "id": "word_0719",
+      "translation": "هناك",
+      "phonetic": "",
+      "example": "هناك هناك."
+    },
+    {
+      "id": "word_0720",
+      "translation": "في كل مكان",
+      "phonetic": "",
+      "example": "في كل مكان."
+    },
+    {
+      "id": "word_0721",
+      "translation": "في أي مكان",
+      "phonetic": "",
+      "example": "اذهب في أي مكان."
+    },
+    {
+      "id": "word_0722",
+      "translation": "في مكان ما",
+      "phonetic": "",
+      "example": "في مكان ما قريب."
+    },
+    {
+      "id": "word_0723",
+      "translation": "لا مكان",
+      "phonetic": "",
+      "example": "لا مكان للاختباء."
+    },
+    {
+      "id": "word_0724",
+      "translation": "أين",
+      "phonetic": "",
+      "example": "أين أنت؟"
+    },
+    {
+      "id": "word_0725",
+      "translation": "متى",
+      "phonetic": "",
+      "example": "متى نذهب؟"
+    },
+    {
+      "id": "word_0726",
+      "translation": "لماذا",
+      "phonetic": "",
+      "example": "لماذا تسأل؟"
+    },
+    {
+      "id": "word_0727",
+      "translation": "كيف",
+      "phonetic": "",
+      "example": "كيف يعمل؟"
+    },
+    {
+      "id": "word_0728",
+      "translation": "ماذا",
+      "phonetic": "",
+      "example": "ماذا تريد؟"
+    },
+    {
+      "id": "word_0729",
+      "translation": "من",
+      "phonetic": "",
+      "example": "من هناك؟"
+    },
+    {
+      "id": "word_0730",
+      "translation": "الذي",
+      "phonetic": "",
+      "example": "أي واحد تختار؟"
+    },
+    {
+      "id": "word_0731",
+      "translation": "متى",
+      "phonetic": "",
+      "example": "متى بالضبط."
+    },
+    {
+      "id": "word_0732",
+      "translation": "كم",
+      "phonetic": "",
+      "example": "كم الكثير."
+    },
+    {
+      "id": "word_0733",
+      "translation": "كم العديد",
+      "phonetic": "",
+      "example": "كم العديد أكثر."
+    },
+    {
+      "id": "word_0734",
+      "translation": "نعم",
+      "phonetic": "",
+      "example": "نعم بالتأكيد."
+    },
+    {
+      "id": "word_0735",
+      "translation": "لا",
+      "phonetic": "",
+      "example": "لا شكرا."
+    },
+    {
+      "id": "word_0736",
+      "translation": "ليس",
+      "phonetic": "",
+      "example": "ليس هنا."
+    },
+    {
+      "id": "word_0737",
+      "translation": "أبدا",
+      "phonetic": "",
+      "example": "لا أبدا."
+    },
+    {
+      "id": "word_0738",
+      "translation": "دائما",
+      "phonetic": "",
+      "example": "نعم دائما."
+    },
+    {
+      "id": "word_0739",
+      "translation": "أحيانا",
+      "phonetic": "",
+      "example": "أحيانا ربما."
+    },
+    {
+      "id": "word_0740",
+      "translation": "غالبا",
+      "phonetic": "",
+      "example": "غالبا جدا."
+    },
+    {
+      "id": "word_0741",
+      "translation": "عادة",
+      "phonetic": "",
+      "example": "عادة نعم."
+    },
+    {
+      "id": "word_0742",
+      "translation": "نادرا",
+      "phonetic": "",
+      "example": "نادرا أبدا."
+    },
+    {
+      "id": "word_0743",
+      "translation": "بالكاد",
+      "phonetic": "",
+      "example": "بالكاد على الإطلاق."
+    },
+    {
+      "id": "word_0744",
+      "translation": "تقريبا",
+      "phonetic": "",
+      "example": "تقريبا هناك."
+    },
+    {
+      "id": "word_0745",
+      "translation": "تماما",
+      "phonetic": "",
+      "example": "تماما صحيح."
+    },
+    {
+      "id": "word_0746",
+      "translation": "إلى حد ما",
+      "phonetic": "",
+      "example": "إلى حد ما جيد."
+    },
+    {
+      "id": "word_0747",
+      "translation": "كافية",
+      "phonetic": "",
+      "example": "كافية بما فيه الكفاية."
+    },
+    {
+      "id": "word_0748",
+      "translation": "جدا",
+      "phonetic": "",
+      "example": "جدا كثيرا."
+    },
+    {
+      "id": "word_0749",
+      "translation": "أيضا",
+      "phonetic": "",
+      "example": "أيضا بالإضافة إلى ذلك."
+    },
+    {
+      "id": "word_0750",
+      "translation": "فقط",
+      "phonetic": "",
+      "example": "فقط واحد."
+    },
+    {
+      "id": "word_0751",
+      "translation": "يذهب",
+      "phonetic": "",
+      "example": "الوقت يمضي بسرعة."
+    },
+    {
+      "id": "word_0752",
+      "translation": "جاء",
+      "phonetic": "",
+      "example": "لقد جاءت أمس."
+    },
+    {
+      "id": "word_0753",
+      "translation": "قادم",
+      "phonetic": "",
+      "example": "الشتاء قادم."
+    },
+    {
+      "id": "word_0754",
+      "translation": "يأتي",
+      "phonetic": "",
+      "example": "المساعدة تأتي قريبا."
+    },
+    {
+      "id": "word_0755",
+      "translation": "رأى",
+      "phonetic": "",
+      "example": "لقد رأيتك."
+    },
+    {
+      "id": "word_0756",
+      "translation": "مرئي",
+      "phonetic": "",
+      "example": "هل رأيت هذا؟"
+    },
+    {
+      "id": "word_0757",
+      "translation": "رؤية",
+      "phonetic": "",
+      "example": "الرؤية تصديق."
+    },
+    {
+      "id": "word_0758",
+      "translation": "يرى",
+      "phonetic": "",
+      "example": "الجميع يراه."
+    },
+    {
+      "id": "word_0759",
+      "translation": "عرف",
+      "phonetic": "",
+      "example": "لقد عرفت ذلك."
+    },
+    {
+      "id": "word_0760",
+      "translation": "معروف",
+      "phonetic": "",
+      "example": "حقيقة معروفة جيدا."
+    },
+    {
+      "id": "word_0761",
+      "translation": "معرفة",
+      "phonetic": "",
+      "example": "المعرفة تساعد على التعلم."
+    },
+    {
+      "id": "word_0762",
+      "translation": "يعرف",
+      "phonetic": "",
+      "example": "لا أحد يعرف لماذا."
+    },
+    {
+      "id": "word_0763",
+      "translation": "أخذ",
+      "phonetic": "",
+      "example": "لقد أخذت ملاحظات."
+    },
+    {
+      "id": "word_0764",
+      "translation": "مأخوذ",
+      "phonetic": "",
+      "example": "جميع المقاعد مأخوذة."
+    },
+    {
+      "id": "word_0765",
+      "translation": "آخذ",
+      "phonetic": "",
+      "example": "أخذ استراحة."
+    },
+    {
+      "id": "word_0766",
+      "translation": "يأخذ",
+      "phonetic": "",
+      "example": "الأمر يستغرق وقتا."
+    },
+    {
+      "id": "word_0767",
+      "translation": "حصل",
+      "phonetic": "",
+      "example": "لقد فهمت."
+    },
+    {
+      "id": "word_0768",
+      "translation": "حصل عليه",
+      "phonetic": "",
+      "example": "هل حصلت على أخبار؟"
+    },
+    {
+      "id": "word_0769",
+      "translation": "الحصول",
+      "phonetic": "",
+      "example": "يتحسن يوميا."
+    },
+    {
+      "id": "word_0770",
+      "translation": "يحصل",
+      "phonetic": "",
+      "example": "إنها تحصل على نتائج."
+    },
+    {
+      "id": "word_0771",
+      "translation": "فكر",
+      "phonetic": "",
+      "example": "لقد فكرت هكذا."
+    },
+    {
+      "id": "word_0772",
+      "translation": "التفكير",
+      "phonetic": "",
+      "example": "استمر في التفكير الإيجابي."
+    },
+    {
+      "id": "word_0773",
+      "translation": "يفكر",
+      "phonetic": "",
+      "example": "إنه يفكر بشكل مختلف."
+    },
+    {
+      "id": "word_0774",
+      "translation": "نظر",
+      "phonetic": "",
+      "example": "لقد بحثت في كل مكان."
+    },
+    {
+      "id": "word_0775",
+      "translation": "ينظر",
+      "phonetic": "",
+      "example": "البحث عن إجابات."
+    },
+    {
+      "id": "word_0776",
+      "translation": "يبدو",
+      "phonetic": "",
+      "example": "يبدو جيدا."
+    },
+    {
+      "id": "word_0777",
+      "translation": "مرحبا",
+      "phonetic": "",
+      "example": "مرحبا، سعيد بلقائك!"
+    },
+    {
+      "id": "word_0778",
+      "translation": "وداعا",
+      "phonetic": "",
+      "example": "وداعا، أراك غدا."
+    },
+    {
+      "id": "word_0779",
+      "translation": "نعم",
+      "phonetic": "",
+      "example": "نعم، أنا أوافق."
+    },
+    {
+      "id": "word_0780",
+      "translation": "من فضلك",
+      "phonetic": "",
+      "example": "من فضلك ساعدني."
+    },
+    {
+      "id": "word_0781",
+      "translation": "شكر",
+      "phonetic": "",
+      "example": "شكرا جزيلا لك."
+    },
+    {
+      "id": "word_0782",
+      "translation": "آسف",
+      "phonetic": "",
+      "example": "أنا آسف جدا."
+    },
+    {
+      "id": "word_0783",
+      "translation": "عذر",
+      "phonetic": "",
+      "example": "اعذرني من فضلك."
+    },
+    {
+      "id": "word_0784",
+      "translation": "أهلا وسهلا",
+      "phonetic": "",
+      "example": "أنت مرحب بك هنا."
+    },
+    {
+      "id": "word_0785",
+      "translation": "صباح",
+      "phonetic": "",
+      "example": "صباح الخير للجميع!"
+    },
+    {
+      "id": "word_0786",
+      "translation": "بعد الظهر",
+      "phonetic": "",
+      "example": "مساء الخير يا سيدي."
+    },
+    {
+      "id": "word_0787",
+      "translation": "مساء",
+      "phonetic": "",
+      "example": "مساء الخير يا سيدتي."
+    },
+    {
+      "id": "word_0788",
+      "translation": "ليلة",
+      "phonetic": "",
+      "example": "تصبح على خير نوما هنيئا."
+    },
+    {
+      "id": "word_0789",
+      "translation": "اليوم",
+      "phonetic": "",
+      "example": "اليوم مميز."
+    },
+    {
+      "id": "word_0790",
+      "translation": "غدا",
+      "phonetic": "",
+      "example": "أراك غدا."
+    },
+    {
+      "id": "word_0791",
+      "translation": "أمس",
+      "phonetic": "",
+      "example": "كان أمس ممتعا."
+    },
+    {
+      "id": "word_0792",
+      "translation": "أسبوع",
+      "phonetic": "",
+      "example": "الاثنين القادم."
+    },
+    {
+      "id": "word_0793",
+      "translation": "شهر",
+      "phonetic": "",
+      "example": "الشهر الماضي كان بطيئا."
+    },
+    {
+      "id": "word_0794",
+      "translation": "سنة",
+      "phonetic": "",
+      "example": "سنة جديدة سعيدة!"
+    },
+    {
+      "id": "word_0795",
+      "translation": "دقيقة",
+      "phonetic": "",
+      "example": "انتظر دقيقة واحدة."
+    },
+    {
+      "id": "word_0796",
+      "translation": "ساعة",
+      "phonetic": "",
+      "example": "إنها الساعة الثالثة."
+    },
+    {
+      "id": "word_0797",
+      "translation": "يوم",
+      "phonetic": "",
+      "example": "اليوم هو يوم جديد."
+    },
+    {
+      "id": "word_0798",
+      "translation": "وقت",
+      "phonetic": "",
+      "example": "الوقت يطير سريعا."
+    },
+    {
+      "id": "word_0799",
+      "translation": "مرة",
+      "phonetic": "",
+      "example": "كان هناك مرة واحدة."
+    },
+    {
+      "id": "word_0800",
+      "translation": "الآن",
+      "phonetic": "",
+      "example": "افعل ذلك الآن."
+    },
+    {
+      "id": "word_0801",
+      "translation": "الاثنين",
+      "phonetic": "",
+      "example": "الاثنين مشغول."
+    },
+    {
+      "id": "word_0802",
+      "translation": "الثلاثاء",
+      "phonetic": "",
+      "example": "اجتماع يوم الثلاثاء مجدول."
+    },
+    {
+      "id": "word_0803",
+      "translation": "الأربعاء",
+      "phonetic": "",
+      "example": "الأربعاء منتصف الأسبوع."
+    },
+    {
+      "id": "word_0804",
+      "translation": "الخميس",
+      "phonetic": "",
+      "example": "الخميس تقريبا عطلة نهاية الأسبوع."
+    },
+    {
+      "id": "word_0805",
+      "translation": "الجمعة",
+      "phonetic": "",
+      "example": "ليلة الجمعة ممتعة."
+    },
+    {
+      "id": "word_0806",
+      "translation": "السبت",
+      "phonetic": "",
+      "example": "السبت لا عمل."
+    },
+    {
+      "id": "word_0807",
+      "translation": "الأحد",
+      "phonetic": "",
+      "example": "الأحد يوم راحة."
+    },
+    {
+      "id": "word_0808",
+      "translation": "يناير",
+      "phonetic": "",
+      "example": "يناير بارد."
+    },
+    {
+      "id": "word_0809",
+      "translation": "فبراير",
+      "phonetic": "",
+      "example": "فبراير شهر قصير."
+    },
+    {
+      "id": "word_0810",
+      "translation": "مارس",
+      "phonetic": "",
+      "example": "مارس يجلب الربيع."
+    },
+    {
+      "id": "word_0811",
+      "translation": "أبريل",
+      "phonetic": "",
+      "example": "أبريل لديه مطر."
+    },
+    {
+      "id": "word_0812",
+      "translation": "مايو",
+      "phonetic": "",
+      "example": "أزهار مايو تتفتح."
+    },
+    {
+      "id": "word_0813",
+      "translation": "يونيو",
+      "phonetic": "",
+      "example": "يونيو دافئ."
+    },
+    {
+      "id": "word_0814",
+      "translation": "يوليو",
+      "phonetic": "",
+      "example": "يوليو حار جدا."
+    },
+    {
+      "id": "word_0815",
+      "translation": "أغسطس",
+      "phonetic": "",
+      "example": "أغسطس وقت الإجازة."
+    },
+    {
+      "id": "word_0816",
+      "translation": "سبتمبر",
+      "phonetic": "",
+      "example": "سبتمبر تبدأ المدرسة."
+    },
+    {
+      "id": "word_0817",
+      "translation": "أكتوبر",
+      "phonetic": "",
+      "example": "أكتوبر تتساقط الأوراق."
+    },
+    {
+      "id": "word_0818",
+      "translation": "نوفمبر",
+      "phonetic": "",
+      "example": "نوفمبر يصبح باردا."
+    },
+    {
+      "id": "word_0819",
+      "translation": "ديسمبر",
+      "phonetic": "",
+      "example": "ديسمبر شهر الشتاء."
+    },
+    {
+      "id": "word_0820",
+      "translation": "ربيع",
+      "phonetic": "",
+      "example": "الربيع يجلب الزهور."
+    },
+    {
+      "id": "word_0821",
+      "translation": "صيف",
+      "phonetic": "",
+      "example": "الصيف حار."
+    },
+    {
+      "id": "word_0822",
+      "translation": "خريف",
+      "phonetic": "",
+      "example": "أوراق الخريف جميلة."
+    },
+    {
+      "id": "word_0823",
+      "translation": "شتاء",
+      "phonetic": "",
+      "example": "الشتاء بارد."
+    },
+    {
+      "id": "word_0824",
+      "translation": "رجل",
+      "phonetic": "",
+      "example": "الرجل يمشي."
+    },
+    {
+      "id": "word_0825",
+      "translation": "امرأة",
+      "phonetic": "",
+      "example": "تلك المرأة تبتسم."
+    },
+    {
+      "id": "word_0826",
+      "translation": "طفل",
+      "phonetic": "",
+      "example": "الطفل يلعب."
+    },
+    {
+      "id": "word_0827",
+      "translation": "ولد",
+      "phonetic": "",
+      "example": "ولد يجري."
+    },
+    {
+      "id": "word_0828",
+      "translation": "بنت",
+      "phonetic": "",
+      "example": "البنت تدرس."
+    },
+    {
+      "id": "word_0829",
+      "translation": "رضيع",
+      "phonetic": "",
+      "example": "الرضيع نائم."
+    },
+    {
+      "id": "word_0830",
+      "translation": "شخص",
+      "phonetic": "",
+      "example": "شخص لطيف هنا."
+    },
+    {
+      "id": "word_0831",
+      "translation": "عائلة",
+      "phonetic": "",
+      "example": "عائلتي تحبني."
+    },
+    {
+      "id": "word_0832",
+      "translation": "صديق",
+      "phonetic": "",
+      "example": "أفضل صديق إلى الأبد."
+    },
+    {
+      "id": "word_0833",
+      "translation": "أب",
+      "phonetic": "",
+      "example": "أبي يعمل بجد."
+    },
+    {
+      "id": "word_0834",
+      "translation": "أم",
+      "phonetic": "",
+      "example": "أمي تطبخ جيدا."
+    },
+    {
+      "id": "word_0835",
+      "translation": "ابن",
+      "phonetic": "",
+      "example": "ابنهم طويل."
+    },
+    {
+      "id": "word_0836",
+      "translation": "ابنة",
+      "phonetic": "",
+      "example": "ابنتها ذكية."
+    },
+    {
+      "id": "word_0837",
+      "translation": "أخ",
+      "phonetic": "",
+      "example": "أخي أكبر."
+    },
+    {
+      "id": "word_0838",
+      "translation": "أخت",
+      "phonetic": "",
+      "example": "أختي أصغر."
+    },
+    {
+      "id": "word_0839",
+      "translation": "جد",
+      "phonetic": "",
+      "example": "جدي حكيم."
+    },
+    {
+      "id": "word_0840",
+      "translation": "جدة",
+      "phonetic": "",
+      "example": "جدتي لطيفة."
+    },
+    {
+      "id": "word_0841",
+      "translation": "زوج",
+      "phonetic": "",
+      "example": "زوجها طبيب."
+    },
+    {
+      "id": "word_0842",
+      "translation": "زوجة",
+      "phonetic": "",
+      "example": "زوجته معلمة."
+    },
+    {
+      "id": "word_0843",
+      "translation": "عم",
+      "phonetic": "",
+      "example": "عمي مضحك."
+    },
+    {
+      "id": "word_0844",
+      "translation": "عمة",
+      "phonetic": "",
+      "example": "عمتي لطيفة."
+    },
+    {
+      "id": "word_0845",
+      "translation": "ابن الأخ",
+      "phonetic": "",
+      "example": "ابن أخي صغير."
+    },
+    {
+      "id": "word_0846",
+      "translation": "ابنة الأخ",
+      "phonetic": "",
+      "example": "ابنة أختي جميلة."
+    },
+    {
+      "id": "word_0847",
+      "translation": "ابن العم",
+      "phonetic": "",
+      "example": "ابن عمي رياضي."
+    },
+    {
+      "id": "word_0848",
+      "translation": "رأس",
+      "phonetic": "",
+      "example": "رأسي يؤلمني."
+    },
+    {
+      "id": "word_0849",
+      "translation": "وجه",
+      "phonetic": "",
+      "example": "وجهها سعيد."
+    },
+    {
+      "id": "word_0850",
+      "translation": "عين",
+      "phonetic": "",
+      "example": "عيناها زرقاوان."
+    },
+    {
+      "id": "word_0851",
+      "translation": "أذن",
+      "phonetic": "",
+      "example": "أذنيه كبيرتان."
+    },
+    {
+      "id": "word_0852",
+      "translation": "أنف",
+      "phonetic": "",
+      "example": "أنفه طويل."
+    },
+    {
+      "id": "word_0853",
+      "translation": "فم",
+      "phonetic": "",
+      "example": "افتح فمك."
+    },
+    {
+      "id": "word_0854",
+      "translation": "أسنان",
+      "phonetic": "",
+      "example": "نظف أسنانك."
+    },
+    {
+      "id": "word_0855",
+      "translation": "لسان",
+      "phonetic": "",
+      "example": "لساني حار."
+    },
+    {
+      "id": "word_0856",
+      "translation": "شعر",
+      "phonetic": "",
+      "example": "شعرها طويل."
+    },
+    {
+      "id": "word_0857",
+      "translation": "رقبة",
+      "phonetic": "",
+      "example": "رقبتي مؤلمة."
+    },
+    {
+      "id": "word_0858",
+      "translation": "كتف",
+      "phonetic": "",
+      "example": "كتفيها قويان."
+    },
+    {
+      "id": "word_0859",
+      "translation": "ذراع",
+      "phonetic": "",
+      "example": "ذراعي مكسورة."
+    },
+    {
+      "id": "word_0860",
+      "translation": "يد",
+      "phonetic": "",
+      "example": "ارفع يدك."
+    },
+    {
+      "id": "word_0861",
+      "translation": "إصبع",
+      "phonetic": "",
+      "example": "أصابعي باردة."
+    },
+    {
+      "id": "word_0862",
+      "translation": "صدر",
+      "phonetic": "",
+      "example": "صدره عريض."
+    },
+    {
+      "id": "word_0863",
+      "translation": "ظهر",
+      "phonetic": "",
+      "example": "ظهري يؤلمني."
+    },
+    {
+      "id": "word_0864",
+      "translation": "بطن",
+      "phonetic": "",
+      "example": "بطني ممتلئة."
+    },
+    {
+      "id": "word_0865",
+      "translation": "ساق",
+      "phonetic": "",
+      "example": "ساقيه طويلتان."
+    },
+    {
+      "id": "word_0866",
+      "translation": "ركبة",
+      "phonetic": "",
+      "example": "ركبتي تؤلمني."
+    },
+    {
+      "id": "word_0867",
+      "translation": "قدم",
+      "phonetic": "",
+      "example": "قدمي تؤلمني."
+    },
+    {
+      "id": "word_0868",
+      "translation": "إصبع القدم",
+      "phonetic": "",
+      "example": "أصابع قدمي صغيرة."
+    },
+    {
+      "id": "word_0869",
+      "translation": "جسد",
+      "phonetic": "",
+      "example": "الجسد السليم مهم."
+    },
+    {
+      "id": "word_0870",
+      "translation": "جلد",
+      "phonetic": "",
+      "example": "جلدها ناعم."
+    },
+    {
+      "id": "word_0871",
+      "translation": "دم",
+      "phonetic": "",
+      "example": "الدم أحمر."
+    },
+    {
+      "id": "word_0872",
+      "translation": "عظم",
+      "phonetic": "",
+      "example": "عظمي قوي."
+    },
+    {
+      "id": "word_0873",
+      "translation": "قلب",
+      "phonetic": "",
+      "example": "القلب اللطيف مهم."
+    },
+    {
+      "id": "word_0874",
+      "translation": "رئة",
+      "phonetic": "",
+      "example": "رئتيه صحيتان."
+    },
+    {
+      "id": "word_0875",
+      "translation": "معدة",
+      "phonetic": "",
+      "example": "معدتي تؤلمني."
+    },
+    {
+      "id": "word_0876",
+      "translation": "دماغ",
+      "phonetic": "",
+      "example": "الدماغ يفكر."
+    },
+    {
+      "id": "word_0877",
+      "translation": "منزل",
+      "phonetic": "",
+      "example": "منزل كبير قريب."
+    },
+    {
+      "id": "word_0878",
+      "translation": "بيت",
+      "phonetic": "",
+      "example": "أذهب للبيت الآن."
+    },
+    {
+      "id": "word_0879",
+      "translation": "غرفة",
+      "phonetic": "",
+      "example": "نظف الغرفة يوميا."
+    },
+    {
+      "id": "word_0880",
+      "translation": "باب",
+      "phonetic": "",
+      "example": "افتح الباب."
+    },
+    {
+      "id": "word_0881",
+      "translation": "نافذة",
+      "phonetic": "",
+      "example": "أغلق النافذة."
+    },
+    {
+      "id": "word_0882",
+      "translation": "طاولة",
+      "phonetic": "",
+      "example": "رتب الطاولة."
+    },
+    {
+      "id": "word_0883",
+      "translation": "كرسي",
+      "phonetic": "",
+      "example": "اجلس على الكرسي."
+    },
+    {
+      "id": "word_0884",
+      "translation": "سرير",
+      "phonetic": "",
+      "example": "رتب سريرك."
+    },
+    {
+      "id": "word_0885",
+      "translation": "مدرسة",
+      "phonetic": "",
+      "example": "المدرسة تبدأ الاثنين."
+    },
+    {
+      "id": "word_0886",
+      "translation": "صف",
+      "phonetic": "",
+      "example": "صف اللغة الإنجليزية اليوم."
+    },
+    {
+      "id": "word_0887",
+      "translation": "معلم",
+      "phonetic": "",
+      "example": "المعلم يشرح جيدا."
+    },
+    {
+      "id": "word_0888",
+      "translation": "طالب",
+      "phonetic": "",
+      "example": "كل طالب يتعلم."
+    },
+    {
+      "id": "word_0889",
+      "translation": "كتاب",
+      "phonetic": "",
+      "example": "اقرأ هذا الكتاب."
+    },
+    {
+      "id": "word_0890",
+      "translation": "قلم",
+      "phonetic": "",
+      "example": "استخدم قلم أزرق."
+    },
+    {
+      "id": "word_0891",
+      "translation": "ورقة",
+      "phonetic": "",
+      "example": "اكتب على الورقة."
+    },
+    {
+      "id": "word_0892",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "نظف مكتبك."
+    },
+    {
+      "id": "word_0893",
+      "translation": "مكتب",
+      "phonetic": "",
+      "example": "المكتب يفتح مبكرا."
+    },
+    {
+      "id": "word_0894",
+      "translation": "عمل",
+      "phonetic": "",
+      "example": "العمل ينتهي متأخرا."
+    },
+    {
+      "id": "word_0895",
+      "translation": "وظيفة",
+      "phonetic": "",
+      "example": "وظيفته جيدة."
+    },
+    {
+      "id": "word_0896",
+      "translation": "مال",
+      "phonetic": "",
+      "example": "المال مهم."
+    },
+    {
+      "id": "word_0897",
+      "translation": "طعام",
+      "phonetic": "",
+      "example": "الطعام لذيذ."
+    },
+    {
+      "id": "word_0898",
+      "translation": "ماء",
+      "phonetic": "",
+      "example": "اشرب الماء."
+    },
+    {
+      "id": "word_0899",
+      "translation": "خبز",
+      "phonetic": "",
+      "example": "الخبز طازج."
+    },
+    {
+      "id": "word_0900",
+      "translation": "لحم",
+      "phonetic": "",
+      "example": "اللحم مطبوخ."
+    },
+    {
+      "id": "word_0901",
+      "translation": "سمك",
+      "phonetic": "",
+      "example": "كل السمك الطازج."
+    },
+    {
+      "id": "word_0902",
+      "translation": "أرز",
+      "phonetic": "",
+      "example": "اطبخ الأرز الأبيض."
+    },
+    {
+      "id": "word_0903",
+      "translation": "خضار",
+      "phonetic": "",
+      "example": "كل المزيد من الخضروات."
+    },
+    {
+      "id": "word_0904",
+      "translation": "فاكهة",
+      "phonetic": "",
+      "example": "الفاكهة الطازجة صحية."
+    },
+    {
+      "id": "word_0905",
+      "translation": "تفاحة",
+      "phonetic": "",
+      "example": "التفاحة الحمراء حلوة."
+    },
+    {
+      "id": "word_0906",
+      "translation": "بيضة",
+      "phonetic": "",
+      "example": "اسلق البيضة."
+    },
+    {
+      "id": "word_0907",
+      "translation": "حليب",
+      "phonetic": "",
+      "example": "اشرب الحليب البارد."
+    },
+    {
+      "id": "word_0908",
+      "translation": "قهوة",
+      "phonetic": "",
+      "example": "القهوة الساخنة في الصباح."
+    },
+    {
+      "id": "word_0909",
+      "translation": "شاي",
+      "phonetic": "",
+      "example": "الشاي الأخضر صحي."
+    },
+    {
+      "id": "word_0910",
+      "translation": "فطور",
+      "phonetic": "",
+      "example": "تناول فطورا جيدا."
+    },
+    {
+      "id": "word_0911",
+      "translation": "غداء",
+      "phonetic": "",
+      "example": "استراحة الغداء ظهرا."
+    },
+    {
+      "id": "word_0912",
+      "translation": "عشاء",
+      "phonetic": "",
+      "example": "عشاء عائلي معا."
+    },
+    {
+      "id": "word_0913",
+      "translation": "وجبة",
+      "phonetic": "",
+      "example": "الوجبة الصحية مهمة."
+    },
+    {
+      "id": "word_0914",
+      "translation": "مشروب",
+      "phonetic": "",
+      "example": "المشروب البارد منعش."
+    },
+    {
+      "id": "word_0915",
+      "translation": "كوب",
+      "phonetic": "",
+      "example": "املأ الكوب."
+    },
+    {
+      "id": "word_0916",
+      "translation": "صحن",
+      "phonetic": "",
+      "example": "اغسل الصحن."
+    },
+    {
+      "id": "word_0917",
+      "translation": "ملعقة",
+      "phonetic": "",
+      "example": "استخدم الملعقة."
+    },
+    {
+      "id": "word_0918",
+      "translation": "سكين",
+      "phonetic": "",
+      "example": "السكين حادة."
+    },
+    {
+      "id": "word_0919",
+      "translation": "شوكة",
+      "phonetic": "",
+      "example": "الشوكة نظيفة."
+    },
+    {
+      "id": "word_0920",
+      "translation": "طبخ",
+      "phonetic": "",
+      "example": "الطبخ ممتع."
+    },
+    {
+      "id": "word_0921",
+      "translation": "أكل",
+      "phonetic": "",
+      "example": "كل ببطء."
+    },
+    {
+      "id": "word_0922",
+      "translation": "شرب",
+      "phonetic": "",
+      "example": "اشرب ببطء."
+    },
+    {
+      "id": "word_0923",
+      "translation": "جائع",
+      "phonetic": "",
+      "example": "أنا جائع جدا."
+    },
+    {
+      "id": "word_0924",
+      "translation": "عطشان",
+      "phonetic": "",
+      "example": "هم عطشانون."
+    },
+    {
+      "id": "word_0925",
+      "translation": "ممتلئ",
+      "phonetic": "",
+      "example": "أنا ممتلئ الآن."
+    },
+    {
+      "id": "word_0926",
+      "translation": "لذيذ",
+      "phonetic": "",
+      "example": "الطعام لذيذ."
+    },
+    {
+      "id": "word_0927",
+      "translation": "حلو",
+      "phonetic": "",
+      "example": "الكعكة حلوة."
+    },
+    {
+      "id": "word_0928",
+      "translation": "مر",
+      "phonetic": "",
+      "example": "القهوة مرة."
+    },
+    {
+      "id": "word_0929",
+      "translation": "حامض",
+      "phonetic": "",
+      "example": "الليمون حامض."
+    },
+    {
+      "id": "word_0930",
+      "translation": "مالح",
+      "phonetic": "",
+      "example": "الحساء مالح."
+    },
+    {
+      "id": "word_0931",
+      "translation": "حار",
+      "phonetic": "",
+      "example": "الفلفل حار."
+    },
+    {
+      "id": "word_0932",
+      "translation": "بارد",
+      "phonetic": "",
+      "example": "الآيس كريم بارد."
+    },
+    {
+      "id": "word_0933",
+      "translation": "ساخن",
+      "phonetic": "",
+      "example": "الحساء ساخن."
+    },
+    {
+      "id": "word_0934",
+      "translation": "طازج",
+      "phonetic": "",
+      "example": "الخضار طازجة."
+    },
+    {
+      "id": "word_0935",
+      "translation": "قديم",
+      "phonetic": "",
+      "example": "الخبز قديم."
+    },
+    {
+      "id": "word_0936",
+      "translation": "نظيف",
+      "phonetic": "",
+      "example": "المطبخ نظيف."
+    },
+    {
+      "id": "word_0937",
+      "translation": "قذر",
+      "phonetic": "",
+      "example": "الأطباق قذرة."
+    },
+    {
+      "id": "word_0938",
+      "translation": "كبير",
+      "phonetic": "",
+      "example": "المنزل كبير."
+    },
+    {
+      "id": "word_0939",
+      "translation": "صغير",
+      "phonetic": "",
+      "example": "القطة صغيرة."
+    },
+    {
+      "id": "word_0940",
+      "translation": "طويل",
+      "phonetic": "",
+      "example": "الطريق طويل."
+    },
+    {
+      "id": "word_0941",
+      "translation": "قصير",
+      "phonetic": "",
+      "example": "الفستان قصير."
+    },
+    {
+      "id": "word_0942",
+      "translation": "واسع",
+      "phonetic": "",
+      "example": "الشارع واسع."
+    },
+    {
+      "id": "word_0943",
+      "translation": "ضيق",
+      "phonetic": "",
+      "example": "الممر ضيق."
+    },
+    {
+      "id": "word_0944",
+      "translation": "سميك",
+      "phonetic": "",
+      "example": "الكتاب سميك."
+    },
+    {
+      "id": "word_0945",
+      "translation": "رقيق",
+      "phonetic": "",
+      "example": "الورقة رقيقة."
+    },
+    {
+      "id": "word_0946",
+      "translation": "ثقيل",
+      "phonetic": "",
+      "example": "الحقيبة ثقيلة."
+    },
+    {
+      "id": "word_0947",
+      "translation": "خفيف",
+      "phonetic": "",
+      "example": "الريشة خفيفة."
+    },
+    {
+      "id": "word_0948",
+      "translation": "قوي",
+      "phonetic": "",
+      "example": "الرجل قوي."
+    },
+    {
+      "id": "word_0949",
+      "translation": "ضعيف",
+      "phonetic": "",
+      "example": "الطفل ضعيف."
+    },
+    {
+      "id": "word_0950",
+      "translation": "سريع",
+      "phonetic": "",
+      "example": "السيارة سريعة."
+    },
+    {
+      "id": "word_0951",
+      "translation": "بطيء",
+      "phonetic": "",
+      "example": "السلحفاة بطيئة."
+    },
+    {
+      "id": "word_0952",
+      "translation": "عالي",
+      "phonetic": "",
+      "example": "الجبل عالي."
+    },
+    {
+      "id": "word_0953",
+      "translation": "منخفض",
+      "phonetic": "",
+      "example": "السعر منخفض."
+    },
+    {
+      "id": "word_0954",
+      "translation": "جديد",
+      "phonetic": "",
+      "example": "الكتاب جديد."
+    },
+    {
+      "id": "word_0955",
+      "translation": "قديم",
+      "phonetic": "",
+      "example": "السيارة قديمة."
+    },
+    {
+      "id": "word_0956",
+      "translation": "شاب",
+      "phonetic": "",
+      "example": "الطفل شاب."
+    },
+    {
+      "id": "word_0957",
+      "translation": "جميل",
+      "phonetic": "",
+      "example": "الزهرة جميلة."
+    },
+    {
+      "id": "word_0958",
+      "translation": "قبيح",
+      "phonetic": "",
+      "example": "الوحش قبيح."
+    },
+    {
+      "id": "word_0959",
+      "translation": "جيد",
+      "phonetic": "",
+      "example": "العمل جيد."
+    },
+    {
+      "id": "word_0960",
+      "translation": "سيء",
+      "phonetic": "",
+      "example": "الطقس سيء."
+    },
+    {
+      "id": "word_0961",
+      "translation": "صحيح",
+      "phonetic": "",
+      "example": "الإجابة صحيحة."
+    },
+    {
+      "id": "word_0962",
+      "translation": "خاطئ",
+      "phonetic": "",
+      "example": "القرار خاطئ."
+    },
+    {
+      "id": "word_0963",
+      "translation": "سهل",
+      "phonetic": "",
+      "example": "المهمة سهلة."
+    },
+    {
+      "id": "word_0964",
+      "translation": "صعب",
+      "phonetic": "",
+      "example": "المشكلة صعبة."
+    },
+    {
+      "id": "word_0965",
+      "translation": "سعيد",
+      "phonetic": "",
+      "example": "الوجه المبتسم سعيد."
+    },
+    {
+      "id": "word_0966",
+      "translation": "حزين",
+      "phonetic": "",
+      "example": "الدموع تسقط حزينة."
+    },
+    {
+      "id": "word_0967",
+      "translation": "غاضب",
+      "phonetic": "",
+      "example": "الوجه الأحمر غاضب."
+    },
+    {
+      "id": "word_0968",
+      "translation": "متعب",
+      "phonetic": "",
+      "example": "العيون النعسانة متعبة."
+    },
+    {
+      "id": "word_0969",
+      "translation": "مريض",
+      "phonetic": "",
+      "example": "مريض في السرير."
+    },
+    {
+      "id": "word_0970",
+      "translation": "صحي",
+      "phonetic": "",
+      "example": "الجسم القوي صحي."
+    },
+    {
+      "id": "word_0971",
+      "translation": "أحمر",
+      "phonetic": "",
+      "example": "الوردة الحمراء جميلة."
+    },
+    {
+      "id": "word_0972",
+      "translation": "أزرق",
+      "phonetic": "",
+      "example": "السماء الزرقاء صافية."
+    },
+    {
+      "id": "word_0973",
+      "translation": "أخضر",
+      "phonetic": "",
+      "example": "العشب الأخضر طازج."
+    },
+    {
+      "id": "word_0974",
+      "translation": "أصفر",
+      "phonetic": "",
+      "example": "الشمس الصفراء مشرقة."
+    },
+    {
+      "id": "word_0975",
+      "translation": "أبيض",
+      "phonetic": "",
+      "example": "الثلج الأبيض نقي."
+    },
+    {
+      "id": "word_0976",
+      "translation": "أسود",
+      "phonetic": "",
+      "example": "القهوة السوداء قوية."
+    },
+    {
+      "id": "word_0977",
+      "translation": "لون",
+      "phonetic": "",
+      "example": "اللون المفضل أزرق."
+    },
+    {
+      "id": "word_0978",
+      "translation": "ملابس",
+      "phonetic": "",
+      "example": "اغسل ملابسك."
+    },
+    {
+      "id": "word_0979",
+      "translation": "قميص",
+      "phonetic": "",
+      "example": "القميص الأبيض نظيف."
+    },
+    {
+      "id": "word_0980",
+      "translation": "بنطال",
+      "phonetic": "",
+      "example": "البنطال الأزرق مريح."
+    },
+    {
+      "id": "word_0981",
+      "translation": "فستان",
+      "phonetic": "",
+      "example": "الفستان الجميل أحمر."
+    },
+    {
+      "id": "word_0982",
+      "translation": "حذاء",
+      "phonetic": "",
+      "example": "اربط حذاءك."
+    },
+    {
+      "id": "word_0983",
+      "translation": "قبعة",
+      "phonetic": "",
+      "example": "ارتد قبعة الشمس."
+    },
+    {
+      "id": "word_0984",
+      "translation": "معطف",
+      "phonetic": "",
+      "example": "معطف الشتاء دافئ."
+    },
+    {
+      "id": "word_0985",
+      "translation": "مكان",
+      "phonetic": "",
+      "example": "مكان لطيف هنا."
+    },
+    {
+      "id": "word_0986",
+      "translation": "مدينة",
+      "phonetic": "",
+      "example": "حياة المدينة الكبيرة."
+    },
+    {
+      "id": "word_0987",
+      "translation": "دولة",
+      "phonetic": "",
+      "example": "منظر طبيعي جميل للدولة."
+    },
+    {
+      "id": "word_0988",
+      "translation": "شارع",
+      "phonetic": "",
+      "example": "اعبر الشارع."
+    },
+    {
+      "id": "word_0989",
+      "translation": "طريق",
+      "phonetic": "",
+      "example": "طريق طويل أمامنا."
+    },
+    {
+      "id": "word_0990",
+      "translation": "سيارة",
+      "phonetic": "",
+      "example": "سيارة جديدة مشتراة."
+    },
+    {
+      "id": "word_0991",
+      "translation": "حافلة",
+      "phonetic": "",
+      "example": "اركب الحافلة."
+    },
+    {
+      "id": "word_0992",
+      "translation": "قطار",
+      "phonetic": "",
+      "example": "الحق بالقطار."
+    },
+    {
+      "id": "word_0993",
+      "translation": "طائرة",
+      "phonetic": "",
+      "example": "الطائرة تطير عاليا."
+    },
+    {
+      "id": "word_0994",
+      "translation": "متجر",
+      "phonetic": "",
+      "example": "زر المتجر."
+    },
+    {
+      "id": "word_0995",
+      "translation": "محل",
+      "phonetic": "",
+      "example": "المحل يبيع كل شيء."
+    },
+    {
+      "id": "word_0996",
+      "translation": "سوق",
+      "phonetic": "",
+      "example": "سوق المزارعين يوم السبت."
+    },
+    {
+      "id": "word_0997",
+      "translation": "اسم",
+      "phonetic": "",
+      "example": "ما اسمك؟"
+    },
+    {
+      "id": "word_0998",
+      "translation": "والد",
+      "phonetic": "",
+      "example": "كل والد يهتم."
+    },
+    {
+      "id": "word_0999",
+      "translation": "أمور",
+      "phonetic": "",
+      "example": "الأمور المهمة أولا."
+    },
+    {
+      "id": "word_1000",
+      "translation": "حقيقي",
+      "phonetic": "",
+      "example": "بيان صادق حقيقي."
+    }
+  ]
+}

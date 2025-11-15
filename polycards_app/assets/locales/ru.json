@@ -1,0 +1,6006 @@
+{
+  "language_name": "Русский",
+  "language_code": "ru",
+  "words": [
+    {
+      "id": "word_0001",
+      "translation": "этот",
+      "phonetic": "",
+      "example": "Солнце яркое."
+    },
+    {
+      "id": "word_0002",
+      "translation": "быть",
+      "phonetic": "",
+      "example": "Я хочу быть счастливым."
+    },
+    {
+      "id": "word_0003",
+      "translation": "в",
+      "phonetic": "",
+      "example": "Я иду в школу."
+    },
+    {
+      "id": "word_0004",
+      "translation": "из",
+      "phonetic": "",
+      "example": "Цвет неба."
+    },
+    {
+      "id": "word_0005",
+      "translation": "и",
+      "phonetic": "",
+      "example": "Хлеб и масло."
+    },
+    {
+      "id": "word_0006",
+      "translation": "один",
+      "phonetic": "",
+      "example": "Я видел собаку."
+    },
+    {
+      "id": "word_0007",
+      "translation": "в",
+      "phonetic": "",
+      "example": "Он в комнате."
+    },
+    {
+      "id": "word_0008",
+      "translation": "что",
+      "phonetic": "",
+      "example": "Я думаю, что ты прав."
+    },
+    {
+      "id": "word_0009",
+      "translation": "иметь",
+      "phonetic": "",
+      "example": "У меня две кошки."
+    },
+    {
+      "id": "word_0010",
+      "translation": "я",
+      "phonetic": "",
+      "example": "Я здесь."
+    },
+    {
+      "id": "word_0011",
+      "translation": "это",
+      "phonetic": "",
+      "example": "Сегодня холодно."
+    },
+    {
+      "id": "word_0012",
+      "translation": "для",
+      "phonetic": "",
+      "example": "Это для тебя."
+    },
+    {
+      "id": "word_0013",
+      "translation": "не",
+      "phonetic": "",
+      "example": "Я не готов."
+    },
+    {
+      "id": "word_0014",
+      "translation": "на",
+      "phonetic": "",
+      "example": "Положи это на стол."
+    },
+    {
+      "id": "word_0015",
+      "translation": "с",
+      "phonetic": "",
+      "example": "Пойдем со мной."
+    },
+    {
+      "id": "word_0016",
+      "translation": "он",
+      "phonetic": "",
+      "example": "Он высокий."
+    },
+    {
+      "id": "word_0017",
+      "translation": "как",
+      "phonetic": "",
+      "example": "Умный как лиса."
+    },
+    {
+      "id": "word_0018",
+      "translation": "ты",
+      "phonetic": "",
+      "example": "Ты добрый."
+    },
+    {
+      "id": "word_0019",
+      "translation": "делать",
+      "phonetic": "",
+      "example": "Я делаю все возможное."
+    },
+    {
+      "id": "word_0020",
+      "translation": "в",
+      "phonetic": "",
+      "example": "Встретимся в полдень."
+    },
+    {
+      "id": "word_0021",
+      "translation": "этот",
+      "phonetic": "",
+      "example": "Это мое."
+    },
+    {
+      "id": "word_0022",
+      "translation": "но",
+      "phonetic": "",
+      "example": "Маленький, но сильный."
+    },
+    {
+      "id": "word_0023",
+      "translation": "его",
+      "phonetic": "",
+      "example": "Его машина красная."
+    },
+    {
+      "id": "word_0024",
+      "translation": "от",
+      "phonetic": "",
+      "example": "Сделано вручную."
+    },
+    {
+      "id": "word_0025",
+      "translation": "из",
+      "phonetic": "",
+      "example": "Я из Канады."
+    },
+    {
+      "id": "word_0026",
+      "translation": "они",
+      "phonetic": "",
+      "example": "Они идут."
+    },
+    {
+      "id": "word_0027",
+      "translation": "мы",
+      "phonetic": "",
+      "example": "Мы готовы."
+    },
+    {
+      "id": "word_0028",
+      "translation": "говорить",
+      "phonetic": "",
+      "example": "Не говори так."
+    },
+    {
+      "id": "word_0029",
+      "translation": "её",
+      "phonetic": "",
+      "example": "Её улыбка прекрасна."
+    },
+    {
+      "id": "word_0030",
+      "translation": "она",
+      "phonetic": "",
+      "example": "Она бегает быстро."
+    },
+    {
+      "id": "word_0031",
+      "translation": "или",
+      "phonetic": "",
+      "example": "Налево или направо?"
+    },
+    {
+      "id": "word_0032",
+      "translation": "один",
+      "phonetic": "",
+      "example": "Одно яблоко в день."
+    },
+    {
+      "id": "word_0033",
+      "translation": "будет",
+      "phonetic": "",
+      "example": "Я попробую."
+    },
+    {
+      "id": "word_0034",
+      "translation": "мой",
+      "phonetic": "",
+      "example": "Меня зовут Иван."
+    },
+    {
+      "id": "word_0035",
+      "translation": "один",
+      "phonetic": "",
+      "example": "Еще один раз."
+    },
+    {
+      "id": "word_0036",
+      "translation": "все",
+      "phonetic": "",
+      "example": "Все люди приветствуются."
+    },
+    {
+      "id": "word_0037",
+      "translation": "бы",
+      "phonetic": "",
+      "example": "Хотите чаю?"
+    },
+    {
+      "id": "word_0038",
+      "translation": "там",
+      "phonetic": "",
+      "example": "Вот оно!"
+    },
+    {
+      "id": "word_0039",
+      "translation": "их",
+      "phonetic": "",
+      "example": "Их собака лает."
+    },
+    {
+      "id": "word_0040",
+      "translation": "что",
+      "phonetic": "",
+      "example": "Что это?"
+    },
+    {
+      "id": "word_0041",
+      "translation": "так",
+      "phonetic": "",
+      "example": "Я устал, поэтому я буду спать."
+    },
+    {
+      "id": "word_0042",
+      "translation": "вверх",
+      "phonetic": "",
+      "example": "Просыпайтесь рано."
+    },
+    {
+      "id": "word_0043",
+      "translation": "вон",
+      "phonetic": "",
+      "example": "Выйдите сейчас."
+    },
+    {
+      "id": "word_0044",
+      "translation": "если",
+      "phonetic": "",
+      "example": "Если хочешь, приходи."
+    },
+    {
+      "id": "word_0045",
+      "translation": "о",
+      "phonetic": "",
+      "example": "Говорить о жизни."
+    },
+    {
+      "id": "word_0046",
+      "translation": "кто",
+      "phonetic": "",
+      "example": "Кто ты?"
+    },
+    {
+      "id": "word_0047",
+      "translation": "получить",
+      "phonetic": "",
+      "example": "Отдохни немного."
+    },
+    {
+      "id": "word_0048",
+      "translation": "который",
+      "phonetic": "",
+      "example": "Который твой?"
+    },
+    {
+      "id": "word_0049",
+      "translation": "идти",
+      "phonetic": "",
+      "example": "Пойдем домой."
+    },
+    {
+      "id": "word_0050",
+      "translation": "мне",
+      "phonetic": "",
+      "example": "Расскажи мне больше."
+    },
+    {
+      "id": "word_0051",
+      "translation": "когда",
+      "phonetic": "",
+      "example": "Когда ты приехал?"
+    },
+    {
+      "id": "word_0052",
+      "translation": "делать",
+      "phonetic": "",
+      "example": "Загадай желание."
+    },
+    {
+      "id": "word_0053",
+      "translation": "мочь",
+      "phonetic": "",
+      "example": "Я могу помочь тебе."
+    },
+    {
+      "id": "word_0054",
+      "translation": "нравиться",
+      "phonetic": "",
+      "example": "Я люблю музыку."
+    },
+    {
+      "id": "word_0055",
+      "translation": "время",
+      "phonetic": "",
+      "example": "Время летит быстро."
+    },
+    {
+      "id": "word_0056",
+      "translation": "нет",
+      "phonetic": "",
+      "example": "Без проблем."
+    },
+    {
+      "id": "word_0057",
+      "translation": "просто",
+      "phonetic": "",
+      "example": "Просто сделай это."
+    },
+    {
+      "id": "word_0058",
+      "translation": "ему",
+      "phonetic": "",
+      "example": "Я сказал ему."
+    },
+    {
+      "id": "word_0059",
+      "translation": "знать",
+      "phonetic": "",
+      "example": "Я знаю тебя."
+    },
+    {
+      "id": "word_0060",
+      "translation": "брать",
+      "phonetic": "",
+      "example": "Не спеши."
+    },
+    {
+      "id": "word_0061",
+      "translation": "люди",
+      "phonetic": "",
+      "example": "Люди ждут."
+    },
+    {
+      "id": "word_0062",
+      "translation": "в",
+      "phonetic": "",
+      "example": "Прыгни в воду."
+    },
+    {
+      "id": "word_0063",
+      "translation": "год",
+      "phonetic": "",
+      "example": "С Новым годом!"
+    },
+    {
+      "id": "word_0064",
+      "translation": "твой",
+      "phonetic": "",
+      "example": "Теперь твоя очередь."
+    },
+    {
+      "id": "word_0065",
+      "translation": "хороший",
+      "phonetic": "",
+      "example": "Доброе утро!"
+    },
+    {
+      "id": "word_0066",
+      "translation": "некоторый",
+      "phonetic": "",
+      "example": "Некоторые люди согласны."
+    },
+    {
+      "id": "word_0067",
+      "translation": "мог",
+      "phonetic": "",
+      "example": "Не могли бы вы подождать?"
+    },
+    {
+      "id": "word_0068",
+      "translation": "их",
+      "phonetic": "",
+      "example": "Они мне нравятся."
+    },
+    {
+      "id": "word_0069",
+      "translation": "видеть",
+      "phonetic": "",
+      "example": "Я вижу ясно."
+    },
+    {
+      "id": "word_0070",
+      "translation": "другой",
+      "phonetic": "",
+      "example": "Есть другие варианты."
+    },
+    {
+      "id": "word_0071",
+      "translation": "чем",
+      "phonetic": "",
+      "example": "Лучше, чем раньше."
+    },
+    {
+      "id": "word_0072",
+      "translation": "затем",
+      "phonetic": "",
+      "example": "Затем мы ушли."
+    },
+    {
+      "id": "word_0073",
+      "translation": "сейчас",
+      "phonetic": "",
+      "example": "Иди сюда сейчас."
+    },
+    {
+      "id": "word_0074",
+      "translation": "смотреть",
+      "phonetic": "",
+      "example": "Смотри в обе стороны."
+    },
+    {
+      "id": "word_0075",
+      "translation": "только",
+      "phonetic": "",
+      "example": "Остался только один."
+    },
+    {
+      "id": "word_0076",
+      "translation": "приходить",
+      "phonetic": "",
+      "example": "Пойдем с нами."
+    },
+    {
+      "id": "word_0077",
+      "translation": "его",
+      "phonetic": "",
+      "example": "Собака виляла хвостом."
+    },
+    {
+      "id": "word_0078",
+      "translation": "над",
+      "phonetic": "",
+      "example": "Над радугой."
+    },
+    {
+      "id": "word_0079",
+      "translation": "думать",
+      "phonetic": "",
+      "example": "Думай, прежде чем говорить."
+    },
+    {
+      "id": "word_0080",
+      "translation": "также",
+      "phonetic": "",
+      "example": "Я тоже согласен."
+    },
+    {
+      "id": "word_0081",
+      "translation": "назад",
+      "phonetic": "",
+      "example": "Возвращайся скоро."
+    },
+    {
+      "id": "word_0082",
+      "translation": "после",
+      "phonetic": "",
+      "example": "После обеда."
+    },
+    {
+      "id": "word_0083",
+      "translation": "использовать",
+      "phonetic": "",
+      "example": "Используй эту ручку."
+    },
+    {
+      "id": "word_0084",
+      "translation": "два",
+      "phonetic": "",
+      "example": "Двух достаточно."
+    },
+    {
+      "id": "word_0085",
+      "translation": "как",
+      "phonetic": "",
+      "example": "Как дела?"
+    },
+    {
+      "id": "word_0086",
+      "translation": "наш",
+      "phonetic": "",
+      "example": "Наша семья большая."
+    },
+    {
+      "id": "word_0087",
+      "translation": "работа",
+      "phonetic": "",
+      "example": "Тяжёлый труд окупается."
+    },
+    {
+      "id": "word_0088",
+      "translation": "первый",
+      "phonetic": "",
+      "example": "Победитель первого места."
+    },
+    {
+      "id": "word_0089",
+      "translation": "хорошо",
+      "phonetic": "",
+      "example": "Спи хорошо сегодня."
+    },
+    {
+      "id": "word_0090",
+      "translation": "путь",
+      "phonetic": "",
+      "example": "Сюда, пожалуйста."
+    },
+    {
+      "id": "word_0091",
+      "translation": "даже",
+      "phonetic": "",
+      "example": "Даже лучше сейчас."
+    },
+    {
+      "id": "word_0092",
+      "translation": "новый",
+      "phonetic": "",
+      "example": "Новый телефон сегодня."
+    },
+    {
+      "id": "word_0093",
+      "translation": "хотеть",
+      "phonetic": "",
+      "example": "Я хочу мира."
+    },
+    {
+      "id": "word_0094",
+      "translation": "потому что",
+      "phonetic": "",
+      "example": "Потому что я так сказал."
+    },
+    {
+      "id": "word_0095",
+      "translation": "любой",
+      "phonetic": "",
+      "example": "Есть вопросы?"
+    },
+    {
+      "id": "word_0096",
+      "translation": "эти",
+      "phonetic": "",
+      "example": "Эти свежие."
+    },
+    {
+      "id": "word_0097",
+      "translation": "давать",
+      "phonetic": "",
+      "example": "Дай мне силу."
+    },
+    {
+      "id": "word_0098",
+      "translation": "день",
+      "phonetic": "",
+      "example": "Прекрасный день сегодня."
+    },
+    {
+      "id": "word_0099",
+      "translation": "большинство",
+      "phonetic": "",
+      "example": "Большинство студентов сдали."
+    },
+    {
+      "id": "word_0100",
+      "translation": "нам",
+      "phonetic": "",
+      "example": "Присоединяйтесь к нам, пожалуйста."
+    },
+    {
+      "id": "word_0101",
+      "translation": "является",
+      "phonetic": "",
+      "example": "Она счастлива."
+    },
+    {
+      "id": "word_0102",
+      "translation": "был",
+      "phonetic": "",
+      "example": "Это было здорово."
+    },
+    {
+      "id": "word_0103",
+      "translation": "есть",
+      "phonetic": "",
+      "example": "Мы друзья."
+    },
+    {
+      "id": "word_0104",
+      "translation": "был",
+      "phonetic": "",
+      "example": "Ты был там?"
+    },
+    {
+      "id": "word_0105",
+      "translation": "имеет",
+      "phonetic": "",
+      "example": "Она прибыла."
+    },
+    {
+      "id": "word_0106",
+      "translation": "имел",
+      "phonetic": "",
+      "example": "Он ушёл."
+    },
+    {
+      "id": "word_0107",
+      "translation": "были",
+      "phonetic": "",
+      "example": "Они опоздали."
+    },
+    {
+      "id": "word_0108",
+      "translation": "сказал",
+      "phonetic": "",
+      "example": "Он ничего не сказал."
+    },
+    {
+      "id": "word_0109",
+      "translation": "сделал",
+      "phonetic": "",
+      "example": "Я сделал это."
+    },
+    {
+      "id": "word_0110",
+      "translation": "имеющий",
+      "phonetic": "",
+      "example": "Веселимся сегодня."
+    },
+    {
+      "id": "word_0111",
+      "translation": "может",
+      "phonetic": "",
+      "example": "Могу я помочь?"
+    },
+    {
+      "id": "word_0112",
+      "translation": "следует",
+      "phonetic": "",
+      "example": "Тебе следует попробовать."
+    },
+    {
+      "id": "word_0113",
+      "translation": "должен",
+      "phonetic": "",
+      "example": "Мы должны идти."
+    },
+    {
+      "id": "word_0114",
+      "translation": "есмь",
+      "phonetic": "",
+      "example": "Я готов."
+    },
+    {
+      "id": "word_0115",
+      "translation": "мог бы",
+      "phonetic": "",
+      "example": "Может пойти дождь."
+    },
+    {
+      "id": "word_0116",
+      "translation": "будучи",
+      "phonetic": "",
+      "example": "Честность имеет значение."
+    },
+    {
+      "id": "word_0117",
+      "translation": "делает",
+      "phonetic": "",
+      "example": "Она занимается йогой."
+    },
+    {
+      "id": "word_0118",
+      "translation": "сделано",
+      "phonetic": "",
+      "example": "Работа выполнена."
+    },
+    {
+      "id": "word_0119",
+      "translation": "делание",
+      "phonetic": "",
+      "example": "Что ты делаешь?"
+    },
+    {
+      "id": "word_0120",
+      "translation": "сделал",
+      "phonetic": "",
+      "example": "Я испёк печенье."
+    },
+    {
+      "id": "word_0121",
+      "translation": "делает",
+      "phonetic": "",
+      "example": "Практика совершенствует."
+    },
+    {
+      "id": "word_0122",
+      "translation": "изготовление",
+      "phonetic": "",
+      "example": "Прогресс каждый день."
+    },
+    {
+      "id": "word_0123",
+      "translation": "пошёл",
+      "phonetic": "",
+      "example": "Мы пошли по магазинам."
+    },
+    {
+      "id": "word_0124",
+      "translation": "идущий",
+      "phonetic": "",
+      "example": "Я иду домой."
+    },
+    {
+      "id": "word_0125",
+      "translation": "идёт",
+      "phonetic": "",
+      "example": "Время идёт быстро."
+    },
+    {
+      "id": "word_0126",
+      "translation": "пришёл",
+      "phonetic": "",
+      "example": "Она пришла вчера."
+    },
+    {
+      "id": "word_0127",
+      "translation": "приходящий",
+      "phonetic": "",
+      "example": "Зима приближается."
+    },
+    {
+      "id": "word_0128",
+      "translation": "приходит",
+      "phonetic": "",
+      "example": "Помощь скоро придёт."
+    },
+    {
+      "id": "word_0129",
+      "translation": "видел",
+      "phonetic": "",
+      "example": "Я видел тебя."
+    },
+    {
+      "id": "word_0130",
+      "translation": "виден",
+      "phonetic": "",
+      "example": "Ты видел это?"
+    },
+    {
+      "id": "word_0131",
+      "translation": "видение",
+      "phonetic": "",
+      "example": "Видеть значит верить."
+    },
+    {
+      "id": "word_0132",
+      "translation": "видит",
+      "phonetic": "",
+      "example": "Все это видят."
+    },
+    {
+      "id": "word_0133",
+      "translation": "знал",
+      "phonetic": "",
+      "example": "Я знал это."
+    },
+    {
+      "id": "word_0134",
+      "translation": "известный",
+      "phonetic": "",
+      "example": "Хорошо известный факт."
+    },
+    {
+      "id": "word_0135",
+      "translation": "знание",
+      "phonetic": "",
+      "example": "Знание помогает учиться."
+    },
+    {
+      "id": "word_0136",
+      "translation": "знает",
+      "phonetic": "",
+      "example": "Никто не знает почему."
+    },
+    {
+      "id": "word_0137",
+      "translation": "взял",
+      "phonetic": "",
+      "example": "Она делала заметки."
+    },
+    {
+      "id": "word_0138",
+      "translation": "взятый",
+      "phonetic": "",
+      "example": "Все места заняты."
+    },
+    {
+      "id": "word_0139",
+      "translation": "берущий",
+      "phonetic": "",
+      "example": "Делаю перерыв."
+    },
+    {
+      "id": "word_0140",
+      "translation": "берёт",
+      "phonetic": "",
+      "example": "Это требует времени."
+    },
+    {
+      "id": "word_0141",
+      "translation": "получил",
+      "phonetic": "",
+      "example": "Я понял."
+    },
+    {
+      "id": "word_0142",
+      "translation": "получен",
+      "phonetic": "",
+      "example": "Ты получил новости?"
+    },
+    {
+      "id": "word_0143",
+      "translation": "получение",
+      "phonetic": "",
+      "example": "Становится лучше каждый день."
+    },
+    {
+      "id": "word_0144",
+      "translation": "получает",
+      "phonetic": "",
+      "example": "Она получает результаты."
+    },
+    {
+      "id": "word_0145",
+      "translation": "думал",
+      "phonetic": "",
+      "example": "Я так и думал."
+    },
+    {
+      "id": "word_0146",
+      "translation": "думающий",
+      "phonetic": "",
+      "example": "Думай позитивно."
+    },
+    {
+      "id": "word_0147",
+      "translation": "думает",
+      "phonetic": "",
+      "example": "Он думает иначе."
+    },
+    {
+      "id": "word_0148",
+      "translation": "смотрел",
+      "phonetic": "",
+      "example": "Я везде искал."
+    },
+    {
+      "id": "word_0149",
+      "translation": "смотрящий",
+      "phonetic": "",
+      "example": "Ищу ответы."
+    },
+    {
+      "id": "word_0150",
+      "translation": "смотрит",
+      "phonetic": "",
+      "example": "Это выглядит хорошо."
+    },
+    {
+      "id": "word_0151",
+      "translation": "привет",
+      "phonetic": "",
+      "example": "Привет, приятно познакомиться!"
+    },
+    {
+      "id": "word_0152",
+      "translation": "до свидания",
+      "phonetic": "",
+      "example": "До свидания, увидимся завтра."
+    },
+    {
+      "id": "word_0153",
+      "translation": "да",
+      "phonetic": "",
+      "example": "Да, я согласен."
+    },
+    {
+      "id": "word_0154",
+      "translation": "пожалуйста",
+      "phonetic": "",
+      "example": "Пожалуйста, помогите мне."
+    },
+    {
+      "id": "word_0155",
+      "translation": "благодарить",
+      "phonetic": "",
+      "example": "Большое спасибо."
+    },
+    {
+      "id": "word_0156",
+      "translation": "извините",
+      "phonetic": "",
+      "example": "Мне очень жаль."
+    },
+    {
+      "id": "word_0157",
+      "translation": "извинить",
+      "phonetic": "",
+      "example": "Извините меня, пожалуйста."
+    },
+    {
+      "id": "word_0158",
+      "translation": "добро пожаловать",
+      "phonetic": "",
+      "example": "Вам здесь рады."
+    },
+    {
+      "id": "word_0159",
+      "translation": "утро",
+      "phonetic": "",
+      "example": "Доброе утро всем!"
+    },
+    {
+      "id": "word_0160",
+      "translation": "день",
+      "phonetic": "",
+      "example": "Добрый день, сэр."
+    },
+    {
+      "id": "word_0161",
+      "translation": "вечер",
+      "phonetic": "",
+      "example": "Добрый вечер, мадам."
+    },
+    {
+      "id": "word_0162",
+      "translation": "ночь",
+      "phonetic": "",
+      "example": "Спокойной ночи, спи хорошо."
+    },
+    {
+      "id": "word_0163",
+      "translation": "сегодня",
+      "phonetic": "",
+      "example": "Сегодня особенный день."
+    },
+    {
+      "id": "word_0164",
+      "translation": "завтра",
+      "phonetic": "",
+      "example": "Увидимся завтра."
+    },
+    {
+      "id": "word_0165",
+      "translation": "вчера",
+      "phonetic": "",
+      "example": "Вчера было весело."
+    },
+    {
+      "id": "word_0166",
+      "translation": "неделя",
+      "phonetic": "",
+      "example": "Следующая неделя понедельник."
+    },
+    {
+      "id": "word_0167",
+      "translation": "месяц",
+      "phonetic": "",
+      "example": "Прошлый месяц март."
+    },
+    {
+      "id": "word_0168",
+      "translation": "понедельник",
+      "phonetic": "",
+      "example": "Понедельник загруженный."
+    },
+    {
+      "id": "word_0169",
+      "translation": "вторник",
+      "phonetic": "",
+      "example": "Вторник назначена встреча."
+    },
+    {
+      "id": "word_0170",
+      "translation": "среда",
+      "phonetic": "",
+      "example": "Среда - середина недели."
+    },
+    {
+      "id": "word_0171",
+      "translation": "четверг",
+      "phonetic": "",
+      "example": "Четверг почти выходные."
+    },
+    {
+      "id": "word_0172",
+      "translation": "пятница",
+      "phonetic": "",
+      "example": "Пятничный вечер веселье."
+    },
+    {
+      "id": "word_0173",
+      "translation": "суббота",
+      "phonetic": "",
+      "example": "Суббота без работы."
+    },
+    {
+      "id": "word_0174",
+      "translation": "воскресенье",
+      "phonetic": "",
+      "example": "Воскресенье день отдыха."
+    },
+    {
+      "id": "word_0175",
+      "translation": "январь",
+      "phonetic": "",
+      "example": "Январь холодный."
+    },
+    {
+      "id": "word_0176",
+      "translation": "февраль",
+      "phonetic": "",
+      "example": "Февраль короткий месяц."
+    },
+    {
+      "id": "word_0177",
+      "translation": "март",
+      "phonetic": "",
+      "example": "Март приносит весну."
+    },
+    {
+      "id": "word_0178",
+      "translation": "апрель",
+      "phonetic": "",
+      "example": "В апреле дожди."
+    },
+    {
+      "id": "word_0179",
+      "translation": "май",
+      "phonetic": "",
+      "example": "В мае цветут цветы."
+    },
+    {
+      "id": "word_0180",
+      "translation": "июнь",
+      "phonetic": "",
+      "example": "Июнь тёплый."
+    },
+    {
+      "id": "word_0181",
+      "translation": "июль",
+      "phonetic": "",
+      "example": "Июль очень жаркий."
+    },
+    {
+      "id": "word_0182",
+      "translation": "август",
+      "phonetic": "",
+      "example": "Август время отпусков."
+    },
+    {
+      "id": "word_0183",
+      "translation": "сентябрь",
+      "phonetic": "",
+      "example": "Сентябрь начинается школа."
+    },
+    {
+      "id": "word_0184",
+      "translation": "октябрь",
+      "phonetic": "",
+      "example": "Октябрь падают листья."
+    },
+    {
+      "id": "word_0185",
+      "translation": "ноябрь",
+      "phonetic": "",
+      "example": "Ноябрь холодает."
+    },
+    {
+      "id": "word_0186",
+      "translation": "декабрь",
+      "phonetic": "",
+      "example": "Декабрь зимний месяц."
+    },
+    {
+      "id": "word_0187",
+      "translation": "весна",
+      "phonetic": "",
+      "example": "Весна приносит цветы."
+    },
+    {
+      "id": "word_0188",
+      "translation": "лето",
+      "phonetic": "",
+      "example": "Лето жаркое."
+    },
+    {
+      "id": "word_0189",
+      "translation": "осень",
+      "phonetic": "",
+      "example": "Осенние листья красивые."
+    },
+    {
+      "id": "word_0190",
+      "translation": "зима",
+      "phonetic": "",
+      "example": "Зима холодная."
+    },
+    {
+      "id": "word_0191",
+      "translation": "мужчина",
+      "phonetic": "",
+      "example": "Мужчина идёт."
+    },
+    {
+      "id": "word_0192",
+      "translation": "женщина",
+      "phonetic": "",
+      "example": "Та женщина улыбается."
+    },
+    {
+      "id": "word_0193",
+      "translation": "ребёнок",
+      "phonetic": "",
+      "example": "Ребёнок играет."
+    },
+    {
+      "id": "word_0194",
+      "translation": "мальчик",
+      "phonetic": "",
+      "example": "Мальчик бежит."
+    },
+    {
+      "id": "word_0195",
+      "translation": "девочка",
+      "phonetic": "",
+      "example": "Девочка учится."
+    },
+    {
+      "id": "word_0196",
+      "translation": "малыш",
+      "phonetic": "",
+      "example": "Малыш спит."
+    },
+    {
+      "id": "word_0197",
+      "translation": "человек",
+      "phonetic": "",
+      "example": "Хороший человек здесь."
+    },
+    {
+      "id": "word_0198",
+      "translation": "семья",
+      "phonetic": "",
+      "example": "Моя семья любит меня."
+    },
+    {
+      "id": "word_0199",
+      "translation": "друг",
+      "phonetic": "",
+      "example": "Лучший друг навсегда."
+    },
+    {
+      "id": "word_0200",
+      "translation": "мать",
+      "phonetic": "",
+      "example": "Моя мать готовит."
+    },
+    {
+      "id": "word_0201",
+      "translation": "отец",
+      "phonetic": "",
+      "example": "Его отец работает."
+    },
+    {
+      "id": "word_0202",
+      "translation": "родитель",
+      "phonetic": "",
+      "example": "Каждый родитель заботится."
+    },
+    {
+      "id": "word_0203",
+      "translation": "брат",
+      "phonetic": "",
+      "example": "Мой брат играет."
+    },
+    {
+      "id": "word_0204",
+      "translation": "сестра",
+      "phonetic": "",
+      "example": "Её сестра поёт."
+    },
+    {
+      "id": "word_0205",
+      "translation": "сын",
+      "phonetic": "",
+      "example": "Их сын учится."
+    },
+    {
+      "id": "word_0206",
+      "translation": "дочь",
+      "phonetic": "",
+      "example": "Моя дочь читает."
+    },
+    {
+      "id": "word_0207",
+      "translation": "муж",
+      "phonetic": "",
+      "example": "Её муж водит машину."
+    },
+    {
+      "id": "word_0208",
+      "translation": "жена",
+      "phonetic": "",
+      "example": "Его жена преподаёт."
+    },
+    {
+      "id": "word_0209",
+      "translation": "имя",
+      "phonetic": "",
+      "example": "Как тебя зовут?"
+    },
+    {
+      "id": "word_0210",
+      "translation": "рука",
+      "phonetic": "",
+      "example": "Подними руку."
+    },
+    {
+      "id": "word_0211",
+      "translation": "глаз",
+      "phonetic": "",
+      "example": "Закрой глаза."
+    },
+    {
+      "id": "word_0212",
+      "translation": "голова",
+      "phonetic": "",
+      "example": "Кивни головой."
+    },
+    {
+      "id": "word_0213",
+      "translation": "лицо",
+      "phonetic": "",
+      "example": "Умой лицо."
+    },
+    {
+      "id": "word_0214",
+      "translation": "тело",
+      "phonetic": "",
+      "example": "Здоровое тело важно."
+    },
+    {
+      "id": "word_0215",
+      "translation": "нога",
+      "phonetic": "",
+      "example": "Моя нога болит."
+    },
+    {
+      "id": "word_0216",
+      "translation": "сердце",
+      "phonetic": "",
+      "example": "Доброе сердце важно."
+    },
+    {
+      "id": "word_0217",
+      "translation": "дом",
+      "phonetic": "",
+      "example": "Большой дом поблизости."
+    },
+    {
+      "id": "word_0218",
+      "translation": "дом",
+      "phonetic": "",
+      "example": "Иду домой сейчас."
+    },
+    {
+      "id": "word_0219",
+      "translation": "комната",
+      "phonetic": "",
+      "example": "Убирай комнату ежедневно."
+    },
+    {
+      "id": "word_0220",
+      "translation": "дверь",
+      "phonetic": "",
+      "example": "Открой дверь."
+    },
+    {
+      "id": "word_0221",
+      "translation": "окно",
+      "phonetic": "",
+      "example": "Закрой окно."
+    },
+    {
+      "id": "word_0222",
+      "translation": "стол",
+      "phonetic": "",
+      "example": "Накрой стол."
+    },
+    {
+      "id": "word_0223",
+      "translation": "стул",
+      "phonetic": "",
+      "example": "Сядь на стул."
+    },
+    {
+      "id": "word_0224",
+      "translation": "кровать",
+      "phonetic": "",
+      "example": "Застели постель."
+    },
+    {
+      "id": "word_0225",
+      "translation": "школа",
+      "phonetic": "",
+      "example": "Школа начинается в понедельник."
+    },
+    {
+      "id": "word_0226",
+      "translation": "класс",
+      "phonetic": "",
+      "example": "Урок английского сегодня."
+    },
+    {
+      "id": "word_0227",
+      "translation": "учитель",
+      "phonetic": "",
+      "example": "Учитель объясняет хорошо."
+    },
+    {
+      "id": "word_0228",
+      "translation": "студент",
+      "phonetic": "",
+      "example": "Каждый студент учится."
+    },
+    {
+      "id": "word_0229",
+      "translation": "книга",
+      "phonetic": "",
+      "example": "Прочитай эту книгу."
+    },
+    {
+      "id": "word_0230",
+      "translation": "ручка",
+      "phonetic": "",
+      "example": "Используй синюю ручку."
+    },
+    {
+      "id": "word_0231",
+      "translation": "бумага",
+      "phonetic": "",
+      "example": "Пиши на бумаге."
+    },
+    {
+      "id": "word_0232",
+      "translation": "письменный стол",
+      "phonetic": "",
+      "example": "Убери свой стол."
+    },
+    {
+      "id": "word_0233",
+      "translation": "офис",
+      "phonetic": "",
+      "example": "Офис открывается рано."
+    },
+    {
+      "id": "word_0234",
+      "translation": "работа",
+      "phonetic": "",
+      "example": "Хорошая работа сегодня."
+    },
+    {
+      "id": "word_0235",
+      "translation": "место",
+      "phonetic": "",
+      "example": "Хорошее место здесь."
+    },
+    {
+      "id": "word_0236",
+      "translation": "город",
+      "phonetic": "",
+      "example": "Жизнь большого города."
+    },
+    {
+      "id": "word_0237",
+      "translation": "страна",
+      "phonetic": "",
+      "example": "Красивый деревенский пейзаж."
+    },
+    {
+      "id": "word_0238",
+      "translation": "улица",
+      "phonetic": "",
+      "example": "Перейди улицу."
+    },
+    {
+      "id": "word_0239",
+      "translation": "дорога",
+      "phonetic": "",
+      "example": "Длинная дорога впереди."
+    },
+    {
+      "id": "word_0240",
+      "translation": "машина",
+      "phonetic": "",
+      "example": "Новая машина куплена."
+    },
+    {
+      "id": "word_0241",
+      "translation": "автобус",
+      "phonetic": "",
+      "example": "Садись на автобус."
+    },
+    {
+      "id": "word_0242",
+      "translation": "поезд",
+      "phonetic": "",
+      "example": "Поймай поезд."
+    },
+    {
+      "id": "word_0243",
+      "translation": "самолёт",
+      "phonetic": "",
+      "example": "Самолёт летит высоко."
+    },
+    {
+      "id": "word_0244",
+      "translation": "магазин",
+      "phonetic": "",
+      "example": "Посети магазин."
+    },
+    {
+      "id": "word_0245",
+      "translation": "магазин",
+      "phonetic": "",
+      "example": "Магазин продаёт всё."
+    },
+    {
+      "id": "word_0246",
+      "translation": "рынок",
+      "phonetic": "",
+      "example": "Фермерский рынок в субботу."
+    },
+    {
+      "id": "word_0247",
+      "translation": "деньги",
+      "phonetic": "",
+      "example": "Береги свои деньги."
+    },
+    {
+      "id": "word_0248",
+      "translation": "еда",
+      "phonetic": "",
+      "example": "Здоровая еда важна."
+    },
+    {
+      "id": "word_0249",
+      "translation": "вода",
+      "phonetic": "",
+      "example": "Пей чистую воду."
+    },
+    {
+      "id": "word_0250",
+      "translation": "хлеб",
+      "phonetic": "",
+      "example": "Свежий хлеб каждый день."
+    },
+    {
+      "id": "word_0251",
+      "translation": "мясо",
+      "phonetic": "",
+      "example": "Приготовь мясо."
+    },
+    {
+      "id": "word_0252",
+      "translation": "рыба",
+      "phonetic": "",
+      "example": "Ешь свежую рыбу."
+    },
+    {
+      "id": "word_0253",
+      "translation": "рис",
+      "phonetic": "",
+      "example": "Приготовь белый рис."
+    },
+    {
+      "id": "word_0254",
+      "translation": "овощ",
+      "phonetic": "",
+      "example": "Ешь больше овощей."
+    },
+    {
+      "id": "word_0255",
+      "translation": "фрукт",
+      "phonetic": "",
+      "example": "Свежие фрукты полезны."
+    },
+    {
+      "id": "word_0256",
+      "translation": "яблоко",
+      "phonetic": "",
+      "example": "Красное яблоко сладкое."
+    },
+    {
+      "id": "word_0257",
+      "translation": "яйцо",
+      "phonetic": "",
+      "example": "Свари яйцо."
+    },
+    {
+      "id": "word_0258",
+      "translation": "молоко",
+      "phonetic": "",
+      "example": "Пей холодное молоко."
+    },
+    {
+      "id": "word_0259",
+      "translation": "кофе",
+      "phonetic": "",
+      "example": "Горячий кофе утром."
+    },
+    {
+      "id": "word_0260",
+      "translation": "чай",
+      "phonetic": "",
+      "example": "Зелёный чай полезен."
+    },
+    {
+      "id": "word_0261",
+      "translation": "завтрак",
+      "phonetic": "",
+      "example": "Ешь хороший завтрак."
+    },
+    {
+      "id": "word_0262",
+      "translation": "обед",
+      "phonetic": "",
+      "example": "Обеденный перерыв в полдень."
+    },
+    {
+      "id": "word_0263",
+      "translation": "ужин",
+      "phonetic": "",
+      "example": "Семейный ужин вместе."
+    },
+    {
+      "id": "word_0264",
+      "translation": "еда",
+      "phonetic": "",
+      "example": "Здоровая еда важна."
+    },
+    {
+      "id": "word_0265",
+      "translation": "напиток",
+      "phonetic": "",
+      "example": "Холодный напиток освежает."
+    },
+    {
+      "id": "word_0266",
+      "translation": "чашка",
+      "phonetic": "",
+      "example": "Наполни чашку."
+    },
+    {
+      "id": "word_0267",
+      "translation": "стакан",
+      "phonetic": "",
+      "example": "Стакан воды."
+    },
+    {
+      "id": "word_0268",
+      "translation": "тарелка",
+      "phonetic": "",
+      "example": "Очисти пустую тарелку."
+    },
+    {
+      "id": "word_0269",
+      "translation": "нож",
+      "phonetic": "",
+      "example": "Острый нож осторожно."
+    },
+    {
+      "id": "word_0270",
+      "translation": "вилка",
+      "phonetic": "",
+      "example": "Используй вилку."
+    },
+    {
+      "id": "word_0271",
+      "translation": "ложка",
+      "phonetic": "",
+      "example": "Ешь ложкой."
+    },
+    {
+      "id": "word_0272",
+      "translation": "одежда",
+      "phonetic": "",
+      "example": "Постирай одежду."
+    },
+    {
+      "id": "word_0273",
+      "translation": "рубашка",
+      "phonetic": "",
+      "example": "Белая рубашка чистая."
+    },
+    {
+      "id": "word_0274",
+      "translation": "брюки",
+      "phonetic": "",
+      "example": "Синие брюки удобные."
+    },
+    {
+      "id": "word_0275",
+      "translation": "платье",
+      "phonetic": "",
+      "example": "Красивое красное платье."
+    },
+    {
+      "id": "word_0276",
+      "translation": "туфля",
+      "phonetic": "",
+      "example": "Завяжи ботинки."
+    },
+    {
+      "id": "word_0277",
+      "translation": "шляпа",
+      "phonetic": "",
+      "example": "Носи солнечную шляпу."
+    },
+    {
+      "id": "word_0278",
+      "translation": "пальто",
+      "phonetic": "",
+      "example": "Тёплое зимнее пальто."
+    },
+    {
+      "id": "word_0279",
+      "translation": "цвет",
+      "phonetic": "",
+      "example": "Любимый цвет синий."
+    },
+    {
+      "id": "word_0280",
+      "translation": "красный",
+      "phonetic": "",
+      "example": "Красная роза красивая."
+    },
+    {
+      "id": "word_0281",
+      "translation": "синий",
+      "phonetic": "",
+      "example": "Синее небо ясное."
+    },
+    {
+      "id": "word_0282",
+      "translation": "зелёный",
+      "phonetic": "",
+      "example": "Зелёная трава свежая."
+    },
+    {
+      "id": "word_0283",
+      "translation": "жёлтый",
+      "phonetic": "",
+      "example": "Жёлтое солнце яркое."
+    },
+    {
+      "id": "word_0284",
+      "translation": "белый",
+      "phonetic": "",
+      "example": "Белый снег чистый."
+    },
+    {
+      "id": "word_0285",
+      "translation": "чёрный",
+      "phonetic": "",
+      "example": "Чёрный кофе крепкий."
+    },
+    {
+      "id": "word_0286",
+      "translation": "большой",
+      "phonetic": "",
+      "example": "Большой дом просторный."
+    },
+    {
+      "id": "word_0287",
+      "translation": "маленький",
+      "phonetic": "",
+      "example": "Маленькая комната уютная."
+    },
+    {
+      "id": "word_0288",
+      "translation": "большой",
+      "phonetic": "",
+      "example": "Большая пицца на всех."
+    },
+    {
+      "id": "word_0289",
+      "translation": "маленький",
+      "phonetic": "",
+      "example": "Маленький малыш милый."
+    },
+    {
+      "id": "word_0290",
+      "translation": "длинный",
+      "phonetic": "",
+      "example": "Длинная дорога бесконечная."
+    },
+    {
+      "id": "word_0291",
+      "translation": "короткий",
+      "phonetic": "",
+      "example": "Короткий перерыв быстрый."
+    },
+    {
+      "id": "word_0292",
+      "translation": "высокий",
+      "phonetic": "",
+      "example": "Высокая гора."
+    },
+    {
+      "id": "word_0293",
+      "translation": "низкий",
+      "phonetic": "",
+      "example": "Низкая цена доступная."
+    },
+    {
+      "id": "word_0294",
+      "translation": "горячий",
+      "phonetic": "",
+      "example": "Жаркий летний день."
+    },
+    {
+      "id": "word_0295",
+      "translation": "холодный",
+      "phonetic": "",
+      "example": "Холодная зимняя ночь."
+    },
+    {
+      "id": "word_0296",
+      "translation": "тёплый",
+      "phonetic": "",
+      "example": "Тёплая солнечная погода."
+    },
+    {
+      "id": "word_0297",
+      "translation": "прохладный",
+      "phonetic": "",
+      "example": "Прохладный весенний ветерок."
+    },
+    {
+      "id": "word_0298",
+      "translation": "старый",
+      "phonetic": "",
+      "example": "Старый мудрый человек."
+    },
+    {
+      "id": "word_0299",
+      "translation": "молодой",
+      "phonetic": "",
+      "example": "Молодой энергичный ребёнок."
+    },
+    {
+      "id": "word_0300",
+      "translation": "счастливый",
+      "phonetic": "",
+      "example": "Счастливое улыбающееся лицо."
+    },
+    {
+      "id": "word_0301",
+      "translation": "грустный",
+      "phonetic": "",
+      "example": "Грустное лицо со слезами."
+    },
+    {
+      "id": "word_0302",
+      "translation": "сердитый",
+      "phonetic": "",
+      "example": "Сердитое красное лицо."
+    },
+    {
+      "id": "word_0303",
+      "translation": "усталый",
+      "phonetic": "",
+      "example": "Усталые сонные глаза."
+    },
+    {
+      "id": "word_0304",
+      "translation": "больной",
+      "phonetic": "",
+      "example": "Больной лежит в кровати."
+    },
+    {
+      "id": "word_0305",
+      "translation": "здоровый",
+      "phonetic": "",
+      "example": "Здоровое сильное тело."
+    },
+    {
+      "id": "word_0306",
+      "translation": "быстрый",
+      "phonetic": "",
+      "example": "Быстрая скорость бега."
+    },
+    {
+      "id": "word_0307",
+      "translation": "медленный",
+      "phonetic": "",
+      "example": "Медленный темп ходьбы."
+    },
+    {
+      "id": "word_0308",
+      "translation": "легкий",
+      "phonetic": "",
+      "example": "Легкая простая задача."
+    },
+    {
+      "id": "word_0309",
+      "translation": "трудный",
+      "phonetic": "",
+      "example": "Трудная сложная проблема."
+    },
+    {
+      "id": "word_0310",
+      "translation": "правильный",
+      "phonetic": "",
+      "example": "Правильный верный ответ."
+    },
+    {
+      "id": "word_0311",
+      "translation": "неправильный",
+      "phonetic": "",
+      "example": "Неправильный ошибочный выбор."
+    },
+    {
+      "id": "word_0312",
+      "translation": "правда",
+      "phonetic": "",
+      "example": "Правдивое честное заявление."
+    },
+    {
+      "id": "word_0313",
+      "translation": "ложь",
+      "phonetic": "",
+      "example": "Ложное неверное утверждение."
+    },
+    {
+      "id": "word_0314",
+      "translation": "одинаковый",
+      "phonetic": "",
+      "example": "Одинаковые близнецы."
+    },
+    {
+      "id": "word_0315",
+      "translation": "разный",
+      "phonetic": "",
+      "example": "Разный уникальный стиль."
+    },
+    {
+      "id": "word_0316",
+      "translation": "близкий",
+      "phonetic": "",
+      "example": "Близкое короткое расстояние."
+    },
+    {
+      "id": "word_0317",
+      "translation": "далекий",
+      "phonetic": "",
+      "example": "Далекое отдаленное место."
+    },
+    {
+      "id": "word_0318",
+      "translation": "ранний",
+      "phonetic": "",
+      "example": "Ранний утренний восход."
+    },
+    {
+      "id": "word_0319",
+      "translation": "поздний",
+      "phonetic": "",
+      "example": "Позднее ночное прибытие."
+    },
+    {
+      "id": "word_0320",
+      "translation": "следующий",
+      "phonetic": "",
+      "example": "Следующий последующий шаг."
+    },
+    {
+      "id": "word_0321",
+      "translation": "последний",
+      "phonetic": "",
+      "example": "Последний финальный шанс."
+    },
+    {
+      "id": "word_0322",
+      "translation": "полный",
+      "phonetic": "",
+      "example": "Полный заполненный бак."
+    },
+    {
+      "id": "word_0323",
+      "translation": "пустой",
+      "phonetic": "",
+      "example": "Пустая свободная комната."
+    },
+    {
+      "id": "word_0324",
+      "translation": "чистый",
+      "phonetic": "",
+      "example": "Чистый безупречный пол."
+    },
+    {
+      "id": "word_0325",
+      "translation": "грязный",
+      "phonetic": "",
+      "example": "Грязные испачканные туфли."
+    },
+    {
+      "id": "word_0326",
+      "translation": "безопасный",
+      "phonetic": "",
+      "example": "Безопасное защищенное место."
+    },
+    {
+      "id": "word_0327",
+      "translation": "опасный",
+      "phonetic": "",
+      "example": "Опасная рискованная ситуация."
+    },
+    {
+      "id": "word_0328",
+      "translation": "красивый",
+      "phonetic": "",
+      "example": "Красивый прекрасный цветок."
+    },
+    {
+      "id": "word_0329",
+      "translation": "уродливый",
+      "phonetic": "",
+      "example": "Уродливое непривлекательное здание."
+    },
+    {
+      "id": "word_0330",
+      "translation": "милый",
+      "phonetic": "",
+      "example": "Милый добрый человек."
+    },
+    {
+      "id": "word_0331",
+      "translation": "плохой",
+      "phonetic": "",
+      "example": "Плохая ужасная погода."
+    },
+    {
+      "id": "word_0332",
+      "translation": "лучше",
+      "phonetic": "",
+      "example": "Лучшая улучшенная версия."
+    },
+    {
+      "id": "word_0333",
+      "translation": "лучший",
+      "phonetic": "",
+      "example": "Лучшее высшее качество."
+    },
+    {
+      "id": "word_0334",
+      "translation": "хуже",
+      "phonetic": "",
+      "example": "Хуже ухудшающееся состояние."
+    },
+    {
+      "id": "word_0335",
+      "translation": "худший",
+      "phonetic": "",
+      "example": "Худшее самое плохое выступление."
+    },
+    {
+      "id": "word_0336",
+      "translation": "важный",
+      "phonetic": "",
+      "example": "Важное существенное дело."
+    },
+    {
+      "id": "word_0337",
+      "translation": "интересный",
+      "phonetic": "",
+      "example": "Интересная увлекательная история."
+    },
+    {
+      "id": "word_0338",
+      "translation": "трудный",
+      "phonetic": "",
+      "example": "Трудное сложное задание."
+    },
+    {
+      "id": "word_0339",
+      "translation": "возможный",
+      "phonetic": "",
+      "example": "Возможная достижимая цель."
+    },
+    {
+      "id": "word_0340",
+      "translation": "невозможный",
+      "phonetic": "",
+      "example": "Невозможная недостижимая мечта."
+    },
+    {
+      "id": "word_0341",
+      "translation": "необходимый",
+      "phonetic": "",
+      "example": "Необходимая важная вещь."
+    },
+    {
+      "id": "word_0342",
+      "translation": "особенный",
+      "phonetic": "",
+      "example": "Особенный уникальный момент."
+    },
+    {
+      "id": "word_0343",
+      "translation": "уверенный",
+      "phonetic": "",
+      "example": "Уверенный точный факт."
+    },
+    {
+      "id": "word_0344",
+      "translation": "чистый",
+      "phonetic": "",
+      "example": "Чистая прозрачная вода."
+    },
+    {
+      "id": "word_0345",
+      "translation": "готовый",
+      "phonetic": "",
+      "example": "Готовое подготовленное состояние."
+    },
+    {
+      "id": "word_0346",
+      "translation": "простой",
+      "phonetic": "",
+      "example": "Простой несложный план."
+    },
+    {
+      "id": "word_0347",
+      "translation": "занятый",
+      "phonetic": "",
+      "example": "Занятый плотный график."
+    },
+    {
+      "id": "word_0348",
+      "translation": "свободный",
+      "phonetic": "",
+      "example": "Свободное доступное время."
+    },
+    {
+      "id": "word_0349",
+      "translation": "тихий",
+      "phonetic": "",
+      "example": "Тихая бесшумная комната."
+    },
+    {
+      "id": "word_0350",
+      "translation": "громкий",
+      "phonetic": "",
+      "example": "Громкая шумная музыка."
+    },
+    {
+      "id": "word_0351",
+      "translation": "темный",
+      "phonetic": "",
+      "example": "Темная безлунная ночь."
+    },
+    {
+      "id": "word_0352",
+      "translation": "светлый",
+      "phonetic": "",
+      "example": "Светлый яркий день."
+    },
+    {
+      "id": "word_0353",
+      "translation": "тяжелый",
+      "phonetic": "",
+      "example": "Тяжелая весомая коробка."
+    },
+    {
+      "id": "word_0354",
+      "translation": "мягкий",
+      "phonetic": "",
+      "example": "Мягкая пушистая подушка."
+    },
+    {
+      "id": "word_0355",
+      "translation": "сильный",
+      "phonetic": "",
+      "example": "Сильная мощная мышца."
+    },
+    {
+      "id": "word_0356",
+      "translation": "слабый",
+      "phonetic": "",
+      "example": "Слабая хилая попытка."
+    },
+    {
+      "id": "word_0357",
+      "translation": "богатый",
+      "phonetic": "",
+      "example": "Богатый состоятельный человек."
+    },
+    {
+      "id": "word_0358",
+      "translation": "бедный",
+      "phonetic": "",
+      "example": "Бедная обнищавшая семья."
+    },
+    {
+      "id": "word_0359",
+      "translation": "дешевый",
+      "phonetic": "",
+      "example": "Дешевая доступная цена."
+    },
+    {
+      "id": "word_0360",
+      "translation": "дорогой",
+      "phonetic": "",
+      "example": "Дорогая затратная вещь."
+    },
+    {
+      "id": "word_0361",
+      "translation": "мокрый",
+      "phonetic": "",
+      "example": "Мокрая дождливая одежда."
+    },
+    {
+      "id": "word_0362",
+      "translation": "сухой",
+      "phonetic": "",
+      "example": "Сухая засушливая пустыня."
+    },
+    {
+      "id": "word_0363",
+      "translation": "открытый",
+      "phonetic": "",
+      "example": "Открытая доступная дверь."
+    },
+    {
+      "id": "word_0364",
+      "translation": "закрытый",
+      "phonetic": "",
+      "example": "Закрытые запертые ворота."
+    },
+    {
+      "id": "word_0365",
+      "translation": "широкий",
+      "phonetic": "",
+      "example": "Широкая просторная улица."
+    },
+    {
+      "id": "word_0366",
+      "translation": "узкий",
+      "phonetic": "",
+      "example": "Узкий тесный переулок."
+    },
+    {
+      "id": "word_0367",
+      "translation": "глубокий",
+      "phonetic": "",
+      "example": "Глубокое океанское дно."
+    },
+    {
+      "id": "word_0368",
+      "translation": "мелкий",
+      "phonetic": "",
+      "example": "Мелкая вода в бассейне."
+    },
+    {
+      "id": "word_0369",
+      "translation": "толстый",
+      "phonetic": "",
+      "example": "Толстый густой лес."
+    },
+    {
+      "id": "word_0370",
+      "translation": "тонкий",
+      "phonetic": "",
+      "example": "Тонкая стройная фигура."
+    },
+    {
+      "id": "word_0371",
+      "translation": "толстый",
+      "phonetic": "",
+      "example": "Толстый пухлый кот."
+    },
+    {
+      "id": "word_0372",
+      "translation": "голодный",
+      "phonetic": "",
+      "example": "Голодный пустой желудок."
+    },
+    {
+      "id": "word_0373",
+      "translation": "испытывающий жажду",
+      "phonetic": "",
+      "example": "Жаждущий сухое горло."
+    },
+    {
+      "id": "word_0374",
+      "translation": "сонный",
+      "phonetic": "",
+      "example": "Сонные поникшие глаза."
+    },
+    {
+      "id": "word_0375",
+      "translation": "бодрствующий",
+      "phonetic": "",
+      "example": "Бодрствующий внимательный ум."
+    },
+    {
+      "id": "word_0376",
+      "translation": "живой",
+      "phonetic": "",
+      "example": "Живое существо."
+    },
+    {
+      "id": "word_0377",
+      "translation": "мертвый",
+      "phonetic": "",
+      "example": "Мертвое безжизненное тело."
+    },
+    {
+      "id": "word_0378",
+      "translation": "женатый",
+      "phonetic": "",
+      "example": "Счастливая женатая пара."
+    },
+    {
+      "id": "word_0379",
+      "translation": "одинокий",
+      "phonetic": "",
+      "example": "Одинокий независимый человек."
+    },
+    {
+      "id": "word_0380",
+      "translation": "один",
+      "phonetic": "",
+      "example": "Один уединенная фигура."
+    },
+    {
+      "id": "word_0381",
+      "translation": "вместе",
+      "phonetic": "",
+      "example": "Вместе единая группа."
+    },
+    {
+      "id": "word_0382",
+      "translation": "есть",
+      "phonetic": "",
+      "example": "Есть здоровую пищу."
+    },
+    {
+      "id": "word_0383",
+      "translation": "спать",
+      "phonetic": "",
+      "example": "Спать хорошо сегодня."
+    },
+    {
+      "id": "word_0384",
+      "translation": "просыпаться",
+      "phonetic": "",
+      "example": "Проснуться рано."
+    },
+    {
+      "id": "word_0385",
+      "translation": "ходить",
+      "phonetic": "",
+      "example": "Гулять в парке."
+    },
+    {
+      "id": "word_0386",
+      "translation": "бежать",
+      "phonetic": "",
+      "example": "Бежать быструю гонку."
+    },
+    {
+      "id": "word_0387",
+      "translation": "сидеть",
+      "phonetic": "",
+      "example": "Сядьте пожалуйста."
+    },
+    {
+      "id": "word_0388",
+      "translation": "стоять",
+      "phonetic": "",
+      "example": "Стоять прямо."
+    },
+    {
+      "id": "word_0389",
+      "translation": "лежать",
+      "phonetic": "",
+      "example": "Лечь отдохнуть."
+    },
+    {
+      "id": "word_0390",
+      "translation": "читать",
+      "phonetic": "",
+      "example": "Читать хорошие книги."
+    },
+    {
+      "id": "word_0391",
+      "translation": "писать",
+      "phonetic": "",
+      "example": "Писать четкие заметки."
+    },
+    {
+      "id": "word_0392",
+      "translation": "говорить",
+      "phonetic": "",
+      "example": "Говорить медленно пожалуйста."
+    },
+    {
+      "id": "word_0393",
+      "translation": "разговаривать",
+      "phonetic": "",
+      "example": "Разговаривать о жизни."
+    },
+    {
+      "id": "word_0394",
+      "translation": "слушать",
+      "phonetic": "",
+      "example": "Слушать внимательно сейчас."
+    },
+    {
+      "id": "word_0395",
+      "translation": "слышать",
+      "phonetic": "",
+      "example": "Слышать музыку."
+    },
+    {
+      "id": "word_0396",
+      "translation": "смотреть",
+      "phonetic": "",
+      "example": "Смотреть фильм."
+    },
+    {
+      "id": "word_0397",
+      "translation": "играть",
+      "phonetic": "",
+      "example": "Играть на улице дети."
+    },
+    {
+      "id": "word_0398",
+      "translation": "покупать",
+      "phonetic": "",
+      "example": "Покупать свежие овощи."
+    },
+    {
+      "id": "word_0399",
+      "translation": "продавать",
+      "phonetic": "",
+      "example": "Продавать старые вещи."
+    },
+    {
+      "id": "word_0400",
+      "translation": "платить",
+      "phonetic": "",
+      "example": "Платить по счету."
+    },
+    {
+      "id": "word_0401",
+      "translation": "стоить",
+      "phonetic": "",
+      "example": "Стоить слишком дорого."
+    },
+    {
+      "id": "word_0402",
+      "translation": "закрывать",
+      "phonetic": "",
+      "example": "Закрыть книгу."
+    },
+    {
+      "id": "word_0403",
+      "translation": "начинать",
+      "phonetic": "",
+      "example": "Запустить двигатель."
+    },
+    {
+      "id": "word_0404",
+      "translation": "останавливать",
+      "phonetic": "",
+      "example": "Остановить машину."
+    },
+    {
+      "id": "word_0405",
+      "translation": "заканчивать",
+      "phonetic": "",
+      "example": "Закончить домашнее задание."
+    },
+    {
+      "id": "word_0406",
+      "translation": "находить",
+      "phonetic": "",
+      "example": "Найти ответ."
+    },
+    {
+      "id": "word_0407",
+      "translation": "терять",
+      "phonetic": "",
+      "example": "Потерять путь."
+    },
+    {
+      "id": "word_0408",
+      "translation": "побеждать",
+      "phonetic": "",
+      "example": "Выиграть игру."
+    },
+    {
+      "id": "word_0409",
+      "translation": "пытаться",
+      "phonetic": "",
+      "example": "Стараться изо всех сил."
+    },
+    {
+      "id": "word_0410",
+      "translation": "нуждаться",
+      "phonetic": "",
+      "example": "Нужна помощь."
+    },
+    {
+      "id": "word_0411",
+      "translation": "помогать",
+      "phonetic": "",
+      "example": "Помогать друг другу."
+    },
+    {
+      "id": "word_0412",
+      "translation": "звонить",
+      "phonetic": "",
+      "example": "Позвони мне завтра."
+    },
+    {
+      "id": "word_0413",
+      "translation": "спрашивать",
+      "phonetic": "",
+      "example": "Задавать любые вопросы."
+    },
+    {
+      "id": "word_0414",
+      "translation": "рассказывать",
+      "phonetic": "",
+      "example": "Расскажи мне историю."
+    },
+    {
+      "id": "word_0415",
+      "translation": "отвечать",
+      "phonetic": "",
+      "example": "Ответить на телефон."
+    },
+    {
+      "id": "word_0416",
+      "translation": "чувствовать",
+      "phonetic": "",
+      "example": "Чувствовать себя лучше."
+    },
+    {
+      "id": "word_0417",
+      "translation": "становиться",
+      "phonetic": "",
+      "example": "Стать учителем."
+    },
+    {
+      "id": "word_0418",
+      "translation": "уходить",
+      "phonetic": "",
+      "example": "Уйти прямо сейчас."
+    },
+    {
+      "id": "word_0419",
+      "translation": "приносить",
+      "phonetic": "",
+      "example": "Принеси своего друга."
+    },
+    {
+      "id": "word_0420",
+      "translation": "случаться",
+      "phonetic": "",
+      "example": "Случиться очень внезапно."
+    },
+    {
+      "id": "word_0421",
+      "translation": "показывать",
+      "phonetic": "",
+      "example": "Покажи мне как."
+    },
+    {
+      "id": "word_0422",
+      "translation": "позволять",
+      "phonetic": "",
+      "example": "Позволь мне попробовать."
+    },
+    {
+      "id": "word_0423",
+      "translation": "хранить",
+      "phonetic": "",
+      "example": "Хранить в безопасности."
+    },
+    {
+      "id": "word_0424",
+      "translation": "начинать",
+      "phonetic": "",
+      "example": "Начать урок."
+    },
+    {
+      "id": "word_0425",
+      "translation": "казаться",
+      "phonetic": "",
+      "example": "Казаться очень милым."
+    },
+    {
+      "id": "word_0426",
+      "translation": "встречать",
+      "phonetic": "",
+      "example": "Встречать новых людей."
+    },
+    {
+      "id": "word_0427",
+      "translation": "учиться",
+      "phonetic": "",
+      "example": "Учиться каждый день."
+    },
+    {
+      "id": "word_0428",
+      "translation": "учить",
+      "phonetic": "",
+      "example": "Учить с терпением."
+    },
+    {
+      "id": "word_0429",
+      "translation": "изучать",
+      "phonetic": "",
+      "example": "Усердно изучать всегда."
+    },
+    {
+      "id": "word_0430",
+      "translation": "понимать",
+      "phonetic": "",
+      "example": "Понять концепцию."
+    },
+    {
+      "id": "word_0431",
+      "translation": "помнить",
+      "phonetic": "",
+      "example": "Помнить важные даты."
+    },
+    {
+      "id": "word_0432",
+      "translation": "забывать",
+      "phonetic": "",
+      "example": "Забыть плохие воспоминания."
+    },
+    {
+      "id": "word_0433",
+      "translation": "ждать",
+      "phonetic": "",
+      "example": "Жди своей очереди."
+    },
+    {
+      "id": "word_0434",
+      "translation": "оставаться",
+      "phonetic": "",
+      "example": "Останься здесь пожалуйста."
+    },
+    {
+      "id": "word_0435",
+      "translation": "жить",
+      "phonetic": "",
+      "example": "Жить счастливой жизнью."
+    },
+    {
+      "id": "word_0436",
+      "translation": "умирать",
+      "phonetic": "",
+      "example": "Умереть мирно когда-нибудь."
+    },
+    {
+      "id": "word_0437",
+      "translation": "любить",
+      "phonetic": "",
+      "example": "Любить свою семью."
+    },
+    {
+      "id": "word_0438",
+      "translation": "ненавидеть",
+      "phonetic": "",
+      "example": "Ненавидеть жестокое поведение."
+    },
+    {
+      "id": "word_0439",
+      "translation": "надеяться",
+      "phonetic": "",
+      "example": "Надеяться на лучшее."
+    },
+    {
+      "id": "word_0440",
+      "translation": "желать",
+      "phonetic": "",
+      "example": "Загадать желание на звезду."
+    },
+    {
+      "id": "word_0441",
+      "translation": "верить",
+      "phonetic": "",
+      "example": "Верить в себя."
+    },
+    {
+      "id": "word_0442",
+      "translation": "решать",
+      "phonetic": "",
+      "example": "Решить прямо сейчас."
+    },
+    {
+      "id": "word_0443",
+      "translation": "выбирать",
+      "phonetic": "",
+      "example": "Выбирать мудро всегда."
+    },
+    {
+      "id": "word_0444",
+      "translation": "отправлять",
+      "phonetic": "",
+      "example": "Отправить сообщение."
+    },
+    {
+      "id": "word_0445",
+      "translation": "получать",
+      "phonetic": "",
+      "example": "Получить теплый прием."
+    },
+    {
+      "id": "word_0446",
+      "translation": "класть",
+      "phonetic": "",
+      "example": "Положить это туда."
+    },
+    {
+      "id": "word_0447",
+      "translation": "держать",
+      "phonetic": "",
+      "example": "Держать мою руку."
+    },
+    {
+      "id": "word_0448",
+      "translation": "ловить",
+      "phonetic": "",
+      "example": "Поймать мяч."
+    },
+    {
+      "id": "word_0449",
+      "translation": "бросать",
+      "phonetic": "",
+      "example": "Выбросить это."
+    },
+    {
+      "id": "word_0450",
+      "translation": "толкать",
+      "phonetic": "",
+      "example": "Толкнуть дверь."
+    },
+    {
+      "id": "word_0451",
+      "translation": "тянуть",
+      "phonetic": "",
+      "example": "Тянуть веревку."
+    },
+    {
+      "id": "word_0452",
+      "translation": "ломать",
+      "phonetic": "",
+      "example": "Побить рекорд."
+    },
+    {
+      "id": "word_0453",
+      "translation": "резать",
+      "phonetic": "",
+      "example": "Разрезать торт."
+    },
+    {
+      "id": "word_0454",
+      "translation": "мыть",
+      "phonetic": "",
+      "example": "Мой свои руки."
+    },
+    {
+      "id": "word_0455",
+      "translation": "готовить",
+      "phonetic": "",
+      "example": "Готовить вкусную еду."
+    },
+    {
+      "id": "word_0456",
+      "translation": "носить",
+      "phonetic": "",
+      "example": "Носить теплую одежду."
+    },
+    {
+      "id": "word_0457",
+      "translation": "строить",
+      "phonetic": "",
+      "example": "Строить прочный фундамент."
+    },
+    {
+      "id": "word_0458",
+      "translation": "расти",
+      "phonetic": "",
+      "example": "Растить высокие деревья."
+    },
+    {
+      "id": "word_0459",
+      "translation": "менять",
+      "phonetic": "",
+      "example": "Менять к лучшему."
+    },
+    {
+      "id": "word_0460",
+      "translation": "поворачивать",
+      "phonetic": "",
+      "example": "Повернуть направо здесь."
+    },
+    {
+      "id": "word_0461",
+      "translation": "двигаться",
+      "phonetic": "",
+      "example": "Двигаться вперед медленно."
+    },
+    {
+      "id": "word_0462",
+      "translation": "нести",
+      "phonetic": "",
+      "example": "Нести тяжелый груз."
+    },
+    {
+      "id": "word_0463",
+      "translation": "водить",
+      "phonetic": "",
+      "example": "Водить безопасно всегда."
+    },
+    {
+      "id": "word_0464",
+      "translation": "ездить",
+      "phonetic": "",
+      "example": "Ездить на велосипеде."
+    },
+    {
+      "id": "word_0465",
+      "translation": "летать",
+      "phonetic": "",
+      "example": "Летать как птица."
+    },
+    {
+      "id": "word_0466",
+      "translation": "плавать",
+      "phonetic": "",
+      "example": "Плавать в океане."
+    },
+    {
+      "id": "word_0467",
+      "translation": "петь",
+      "phonetic": "",
+      "example": "Петь красивую песню."
+    },
+    {
+      "id": "word_0468",
+      "translation": "танцевать",
+      "phonetic": "",
+      "example": "Танцевать от радости."
+    },
+    {
+      "id": "word_0469",
+      "translation": "смеяться",
+      "phonetic": "",
+      "example": "Смеяться вслух."
+    },
+    {
+      "id": "word_0470",
+      "translation": "плакать",
+      "phonetic": "",
+      "example": "Плакать когда грустно."
+    },
+    {
+      "id": "word_0471",
+      "translation": "улыбаться",
+      "phonetic": "",
+      "example": "Улыбаться каждый день."
+    },
+    {
+      "id": "word_0472",
+      "translation": "число",
+      "phonetic": "",
+      "example": "Счастливое число семь."
+    },
+    {
+      "id": "word_0473",
+      "translation": "ноль",
+      "phonetic": "",
+      "example": "Начинать с нуля."
+    },
+    {
+      "id": "word_0474",
+      "translation": "три",
+      "phonetic": "",
+      "example": "Три поросенка."
+    },
+    {
+      "id": "word_0475",
+      "translation": "четыре",
+      "phonetic": "",
+      "example": "Четыре времени года."
+    },
+    {
+      "id": "word_0476",
+      "translation": "пять",
+      "phonetic": "",
+      "example": "Пять пальцев на руке."
+    },
+    {
+      "id": "word_0477",
+      "translation": "шесть",
+      "phonetic": "",
+      "example": "Шесть сторон куба."
+    },
+    {
+      "id": "word_0478",
+      "translation": "семь",
+      "phonetic": "",
+      "example": "Семь дней недели."
+    },
+    {
+      "id": "word_0479",
+      "translation": "восемь",
+      "phonetic": "",
+      "example": "Восемь часов сна."
+    },
+    {
+      "id": "word_0480",
+      "translation": "девять",
+      "phonetic": "",
+      "example": "Девять жизней кошки."
+    },
+    {
+      "id": "word_0481",
+      "translation": "десять",
+      "phonetic": "",
+      "example": "Десять пальцев на ногах."
+    },
+    {
+      "id": "word_0482",
+      "translation": "одиннадцать",
+      "phonetic": "",
+      "example": "Одиннадцать игроков команды."
+    },
+    {
+      "id": "word_0483",
+      "translation": "двенадцать",
+      "phonetic": "",
+      "example": "Двенадцать месяцев года."
+    },
+    {
+      "id": "word_0484",
+      "translation": "тринадцать",
+      "phonetic": "",
+      "example": "Тринадцать несчастливое число."
+    },
+    {
+      "id": "word_0485",
+      "translation": "четырнадцать",
+      "phonetic": "",
+      "example": "Четырнадцать дней две недели."
+    },
+    {
+      "id": "word_0486",
+      "translation": "пятнадцать",
+      "phonetic": "",
+      "example": "Пятнадцать минут четверть."
+    },
+    {
+      "id": "word_0487",
+      "translation": "шестнадцать",
+      "phonetic": "",
+      "example": "Шестнадцать лет."
+    },
+    {
+      "id": "word_0488",
+      "translation": "семнадцать",
+      "phonetic": "",
+      "example": "Семнадцатилетие вечеринка."
+    },
+    {
+      "id": "word_0489",
+      "translation": "восемнадцать",
+      "phonetic": "",
+      "example": "Восемнадцать лет взрослый."
+    },
+    {
+      "id": "word_0490",
+      "translation": "девятнадцать",
+      "phonetic": "",
+      "example": "Девятнадцать девяносто год."
+    },
+    {
+      "id": "word_0491",
+      "translation": "двадцать",
+      "phonetic": "",
+      "example": "Двадцать долларов купюра."
+    },
+    {
+      "id": "word_0492",
+      "translation": "тридцать",
+      "phonetic": "",
+      "example": "Тридцать дней в месяце."
+    },
+    {
+      "id": "word_0493",
+      "translation": "сорок",
+      "phonetic": "",
+      "example": "Сорок подмигиваний дремота."
+    },
+    {
+      "id": "word_0494",
+      "translation": "пятьдесят",
+      "phonetic": "",
+      "example": "Пятьдесят процентов половина."
+    },
+    {
+      "id": "word_0495",
+      "translation": "шестьдесят",
+      "phonetic": "",
+      "example": "Шестьдесят секунд минута."
+    },
+    {
+      "id": "word_0496",
+      "translation": "семьдесят",
+      "phonetic": "",
+      "example": "Семьдесят лет."
+    },
+    {
+      "id": "word_0497",
+      "translation": "восемьдесят",
+      "phonetic": "",
+      "example": "Восемьдесят градусов жарко."
+    },
+    {
+      "id": "word_0498",
+      "translation": "девяносто",
+      "phonetic": "",
+      "example": "Девяносто девять бутылок."
+    },
+    {
+      "id": "word_0499",
+      "translation": "сто",
+      "phonetic": "",
+      "example": "Сто процентов."
+    },
+    {
+      "id": "word_0500",
+      "translation": "тысяча",
+      "phonetic": "",
+      "example": "Одна тысяча слов."
+    },
+    {
+      "id": "word_0501",
+      "translation": "миллион",
+      "phonetic": "",
+      "example": "Один миллион долларов."
+    },
+    {
+      "id": "word_0502",
+      "translation": "второй",
+      "phonetic": "",
+      "example": "Второй шанс дан."
+    },
+    {
+      "id": "word_0503",
+      "translation": "третий",
+      "phonetic": "",
+      "example": "Третий раз везение."
+    },
+    {
+      "id": "word_0504",
+      "translation": "животное",
+      "phonetic": "",
+      "example": "Дикое животное в лесу."
+    },
+    {
+      "id": "word_0505",
+      "translation": "собака",
+      "phonetic": "",
+      "example": "Верная собака друг."
+    },
+    {
+      "id": "word_0506",
+      "translation": "кот",
+      "phonetic": "",
+      "example": "Милый кот мяукает."
+    },
+    {
+      "id": "word_0507",
+      "translation": "птица",
+      "phonetic": "",
+      "example": "Летающая птица в небе."
+    },
+    {
+      "id": "word_0508",
+      "translation": "лошадь",
+      "phonetic": "",
+      "example": "Бегущая лошадь быстро."
+    },
+    {
+      "id": "word_0509",
+      "translation": "корова",
+      "phonetic": "",
+      "example": "Молоко от коровы."
+    },
+    {
+      "id": "word_0510",
+      "translation": "свинья",
+      "phonetic": "",
+      "example": "Розовая свинья на ферме."
+    },
+    {
+      "id": "word_0511",
+      "translation": "курица",
+      "phonetic": "",
+      "example": "Яйцо от курицы."
+    },
+    {
+      "id": "word_0512",
+      "translation": "овца",
+      "phonetic": "",
+      "example": "Белая овца шерсть."
+    },
+    {
+      "id": "word_0513",
+      "translation": "дерево",
+      "phonetic": "",
+      "example": "Высокое зеленое дерево."
+    },
+    {
+      "id": "word_0514",
+      "translation": "цветок",
+      "phonetic": "",
+      "example": "Красивый красный цветок."
+    },
+    {
+      "id": "word_0515",
+      "translation": "трава",
+      "phonetic": "",
+      "example": "Зеленая трава газон."
+    },
+    {
+      "id": "word_0516",
+      "translation": "растение",
+      "phonetic": "",
+      "example": "Растущее растение в горшке."
+    },
+    {
+      "id": "word_0517",
+      "translation": "солнце",
+      "phonetic": "",
+      "example": "Яркое желтое солнце."
+    },
+    {
+      "id": "word_0518",
+      "translation": "луна",
+      "phonetic": "",
+      "example": "Полная белая луна."
+    },
+    {
+      "id": "word_0519",
+      "translation": "звезда",
+      "phonetic": "",
+      "example": "Мерцающая звезда ночью."
+    },
+    {
+      "id": "word_0520",
+      "translation": "небо",
+      "phonetic": "",
+      "example": "Голубое чистое небо."
+    },
+    {
+      "id": "word_0521",
+      "translation": "облако",
+      "phonetic": "",
+      "example": "Белое пушистое облако."
+    },
+    {
+      "id": "word_0522",
+      "translation": "дождь",
+      "phonetic": "",
+      "example": "Сильный дождь падает."
+    },
+    {
+      "id": "word_0523",
+      "translation": "снег",
+      "phonetic": "",
+      "example": "Белый снег холодный."
+    },
+    {
+      "id": "word_0524",
+      "translation": "ветер",
+      "phonetic": "",
+      "example": "Сильный ветер дует."
+    },
+    {
+      "id": "word_0525",
+      "translation": "огонь",
+      "phonetic": "",
+      "example": "Горячий красный огонь."
+    },
+    {
+      "id": "word_0526",
+      "translation": "воздух",
+      "phonetic": "",
+      "example": "Свежий чистый воздух."
+    },
+    {
+      "id": "word_0527",
+      "translation": "земля",
+      "phonetic": "",
+      "example": "Планета Земля дом."
+    },
+    {
+      "id": "word_0528",
+      "translation": "суша",
+      "phonetic": "",
+      "example": "Сухая земля почва."
+    },
+    {
+      "id": "word_0529",
+      "translation": "море",
+      "phonetic": "",
+      "example": "Глубокое синее море."
+    },
+    {
+      "id": "word_0530",
+      "translation": "океан",
+      "phonetic": "",
+      "example": "Тихий океан огромный."
+    },
+    {
+      "id": "word_0531",
+      "translation": "река",
+      "phonetic": "",
+      "example": "Текущая река вода."
+    },
+    {
+      "id": "word_0532",
+      "translation": "озеро",
+      "phonetic": "",
+      "example": "Спокойное тихое озеро."
+    },
+    {
+      "id": "word_0533",
+      "translation": "гора",
+      "phonetic": "",
+      "example": "Высокая снежная гора."
+    },
+    {
+      "id": "word_0534",
+      "translation": "холм",
+      "phonetic": "",
+      "example": "Холмистый зеленый холм."
+    },
+    {
+      "id": "word_0535",
+      "translation": "лес",
+      "phonetic": "",
+      "example": "Густой темный лес."
+    },
+    {
+      "id": "word_0536",
+      "translation": "поле",
+      "phonetic": "",
+      "example": "Открытое травяное поле."
+    },
+    {
+      "id": "word_0537",
+      "translation": "сад",
+      "phonetic": "",
+      "example": "Красивый цветочный сад."
+    },
+    {
+      "id": "word_0538",
+      "translation": "ферма",
+      "phonetic": "",
+      "example": "Работающая молочная ферма."
+    },
+    {
+      "id": "word_0539",
+      "translation": "деревня",
+      "phonetic": "",
+      "example": "Маленькая тихая деревня."
+    },
+    {
+      "id": "word_0540",
+      "translation": "город",
+      "phonetic": "",
+      "example": "Растущий оживленный город."
+    },
+    {
+      "id": "word_0541",
+      "translation": "здание",
+      "phonetic": "",
+      "example": "Высокое офисное здание."
+    },
+    {
+      "id": "word_0542",
+      "translation": "больница",
+      "phonetic": "",
+      "example": "Городская общая больница."
+    },
+    {
+      "id": "word_0543",
+      "translation": "банк",
+      "phonetic": "",
+      "example": "Национальный сберегательный банк."
+    },
+    {
+      "id": "word_0544",
+      "translation": "ресторан",
+      "phonetic": "",
+      "example": "Итальянская еда ресторан."
+    },
+    {
+      "id": "word_0545",
+      "translation": "отель",
+      "phonetic": "",
+      "example": "Роскошный пятизвездочный отель."
+    },
+    {
+      "id": "word_0546",
+      "translation": "церковь",
+      "phonetic": "",
+      "example": "Старая каменная церковь."
+    },
+    {
+      "id": "word_0547",
+      "translation": "парк",
+      "phonetic": "",
+      "example": "Общественный зеленый парк."
+    },
+    {
+      "id": "word_0548",
+      "translation": "мост",
+      "phonetic": "",
+      "example": "Длинный стальной мост."
+    },
+    {
+      "id": "word_0549",
+      "translation": "станция",
+      "phonetic": "",
+      "example": "Главная железнодорожная станция."
+    },
+    {
+      "id": "word_0550",
+      "translation": "аэропорт",
+      "phonetic": "",
+      "example": "Международный аэропорт занят."
+    },
+    {
+      "id": "word_0551",
+      "translation": "музей",
+      "phonetic": "",
+      "example": "Национальный исторический музей."
+    },
+    {
+      "id": "word_0552",
+      "translation": "библиотека",
+      "phonetic": "",
+      "example": "Общественная городская библиотека."
+    },
+    {
+      "id": "word_0553",
+      "translation": "университет",
+      "phonetic": "",
+      "example": "Знаменитый старый университет."
+    },
+    {
+      "id": "word_0554",
+      "translation": "правительство",
+      "phonetic": "",
+      "example": "Демократическое избранное правительство."
+    },
+    {
+      "id": "word_0555",
+      "translation": "закон",
+      "phonetic": "",
+      "example": "Справедливый закон правосудия."
+    },
+    {
+      "id": "word_0556",
+      "translation": "полиция",
+      "phonetic": "",
+      "example": "Местное полицейское управление."
+    },
+    {
+      "id": "word_0557",
+      "translation": "армия",
+      "phonetic": "",
+      "example": "Национальная оборонительная армия."
+    },
+    {
+      "id": "word_0558",
+      "translation": "война",
+      "phonetic": "",
+      "example": "Ужасная разрушительная война."
+    },
+    {
+      "id": "word_0559",
+      "translation": "мир",
+      "phonetic": "",
+      "example": "Всемирный прочный мир."
+    },
+    {
+      "id": "word_0560",
+      "translation": "проблема",
+      "phonetic": "",
+      "example": "Трудная математическая проблема."
+    },
+    {
+      "id": "word_0561",
+      "translation": "вопрос",
+      "phonetic": "",
+      "example": "Важный серьезный вопрос."
+    },
+    {
+      "id": "word_0562",
+      "translation": "идея",
+      "phonetic": "",
+      "example": "Блестящая творческая идея."
+    },
+    {
+      "id": "word_0563",
+      "translation": "причина",
+      "phonetic": "",
+      "example": "Хорошая веская причина."
+    },
+    {
+      "id": "word_0564",
+      "translation": "пример",
+      "phonetic": "",
+      "example": "Совершенный ясный пример."
+    },
+    {
+      "id": "word_0565",
+      "translation": "факт",
+      "phonetic": "",
+      "example": "Известный доказанный факт."
+    },
+    {
+      "id": "word_0566",
+      "translation": "правда",
+      "phonetic": "",
+      "example": "Честная полная правда."
+    },
+    {
+      "id": "word_0567",
+      "translation": "история",
+      "phonetic": "",
+      "example": "Интересная короткая история."
+    },
+    {
+      "id": "word_0568",
+      "translation": "новости",
+      "phonetic": "",
+      "example": "Срочные последние новости."
+    },
+    {
+      "id": "word_0569",
+      "translation": "информация",
+      "phonetic": "",
+      "example": "Полезная важная информация."
+    },
+    {
+      "id": "word_0570",
+      "translation": "слово",
+      "phonetic": "",
+      "example": "Новое словарное слово."
+    },
+    {
+      "id": "word_0571",
+      "translation": "предложение",
+      "phonetic": "",
+      "example": "Полное грамматическое предложение."
+    },
+    {
+      "id": "word_0572",
+      "translation": "язык",
+      "phonetic": "",
+      "example": "Иностранный второй язык."
+    },
+    {
+      "id": "word_0573",
+      "translation": "письмо",
+      "phonetic": "",
+      "example": "Написанное от руки личное письмо."
+    },
+    {
+      "id": "word_0574",
+      "translation": "звук",
+      "phonetic": "",
+      "example": "Громкий странный звук."
+    },
+    {
+      "id": "word_0575",
+      "translation": "голос",
+      "phonetic": "",
+      "example": "Красивый певческий голос."
+    },
+    {
+      "id": "word_0576",
+      "translation": "музыка",
+      "phonetic": "",
+      "example": "Классическая оркестровая музыка."
+    },
+    {
+      "id": "word_0577",
+      "translation": "песня",
+      "phonetic": "",
+      "example": "Популярная хитовая песня."
+    },
+    {
+      "id": "word_0578",
+      "translation": "картина",
+      "phonetic": "",
+      "example": "Красивая семейная картина."
+    },
+    {
+      "id": "word_0579",
+      "translation": "фотография",
+      "phonetic": "",
+      "example": "Старая черно-белая фотография."
+    },
+    {
+      "id": "word_0580",
+      "translation": "фильм",
+      "phonetic": "",
+      "example": "Удостоенный наград фильм."
+    },
+    {
+      "id": "word_0581",
+      "translation": "кино",
+      "phonetic": "",
+      "example": "Приключенческий боевик кино."
+    },
+    {
+      "id": "word_0582",
+      "translation": "игра",
+      "phonetic": "",
+      "example": "Веселая настольная игра."
+    },
+    {
+      "id": "word_0583",
+      "translation": "спорт",
+      "phonetic": "",
+      "example": "Популярный командный спорт."
+    },
+    {
+      "id": "word_0584",
+      "translation": "команда",
+      "phonetic": "",
+      "example": "Выигрывающая чемпионская команда."
+    },
+    {
+      "id": "word_0585",
+      "translation": "игрок",
+      "phonetic": "",
+      "example": "Профессиональный футболист."
+    },
+    {
+      "id": "word_0586",
+      "translation": "мяч",
+      "phonetic": "",
+      "example": "Круглый прыгающий мяч."
+    },
+    {
+      "id": "word_0587",
+      "translation": "вечеринка",
+      "phonetic": "",
+      "example": "Праздничная вечеринка на день рождения."
+    },
+    {
+      "id": "word_0588",
+      "translation": "подарок",
+      "phonetic": "",
+      "example": "Продуманный щедрый подарок."
+    },
+    {
+      "id": "word_0589",
+      "translation": "презент",
+      "phonetic": "",
+      "example": "Завернутый сюрприз презент."
+    },
+    {
+      "id": "word_0590",
+      "translation": "игрушка",
+      "phonetic": "",
+      "example": "Любимая детская игрушка."
+    },
+    {
+      "id": "word_0591",
+      "translation": "телефон",
+      "phonetic": "",
+      "example": "Мобильный смартфон."
+    },
+    {
+      "id": "word_0592",
+      "translation": "компьютер",
+      "phonetic": "",
+      "example": "Персональный ноутбук компьютер."
+    },
+    {
+      "id": "word_0593",
+      "translation": "телевизор",
+      "phonetic": "",
+      "example": "Плоский экран телевизор."
+    },
+    {
+      "id": "word_0594",
+      "translation": "радио",
+      "phonetic": "",
+      "example": "Старое портативное радио."
+    },
+    {
+      "id": "word_0595",
+      "translation": "камера",
+      "phonetic": "",
+      "example": "Цифровая фотокамера."
+    },
+    {
+      "id": "word_0596",
+      "translation": "часы",
+      "phonetic": "",
+      "example": "Антикварные настенные часы."
+    },
+    {
+      "id": "word_0597",
+      "translation": "коробка",
+      "phonetic": "",
+      "example": "Картонная коробка для хранения."
+    },
+    {
+      "id": "word_0598",
+      "translation": "сумка",
+      "phonetic": "",
+      "example": "Кожаная сумка для покупок."
+    },
+    {
+      "id": "word_0599",
+      "translation": "карман",
+      "phonetic": "",
+      "example": "Глубокий передний карман."
+    },
+    {
+      "id": "word_0600",
+      "translation": "ключ",
+      "phonetic": "",
+      "example": "Металлический ключ от двери."
+    },
+    {
+      "id": "word_0601",
+      "translation": "свеча",
+      "phonetic": "",
+      "example": "Ароматная пахучая свеча."
+    },
+    {
+      "id": "word_0602",
+      "translation": "пол",
+      "phonetic": "",
+      "example": "Деревянный твердый пол."
+    },
+    {
+      "id": "word_0603",
+      "translation": "стена",
+      "phonetic": "",
+      "example": "Белая окрашенная стена."
+    },
+    {
+      "id": "word_0604",
+      "translation": "крыша",
+      "phonetic": "",
+      "example": "Красная черепичная крыша."
+    },
+    {
+      "id": "word_0605",
+      "translation": "ванная комната",
+      "phonetic": "",
+      "example": "Чистая личная ванная комната."
+    },
+    {
+      "id": "word_0606",
+      "translation": "кухня",
+      "phonetic": "",
+      "example": "Современная оборудованная кухня."
+    },
+    {
+      "id": "word_0607",
+      "translation": "спальня",
+      "phonetic": "",
+      "example": "Просторная главная спальня."
+    },
+    {
+      "id": "word_0608",
+      "translation": "жилая",
+      "phonetic": "",
+      "example": "Удобная гостиная комната."
+    },
+    {
+      "id": "word_0609",
+      "translation": "туалет",
+      "phonetic": "",
+      "example": "Чистый общественный туалет."
+    },
+    {
+      "id": "word_0610",
+      "translation": "душ",
+      "phonetic": "",
+      "example": "Горячий утренний душ."
+    },
+    {
+      "id": "word_0611",
+      "translation": "ванна",
+      "phonetic": "",
+      "example": "Расслабляющая пенная ванна."
+    },
+    {
+      "id": "word_0612",
+      "translation": "мыло",
+      "phonetic": "",
+      "example": "Ароматное мыло для рук."
+    },
+    {
+      "id": "word_0613",
+      "translation": "полотенце",
+      "phonetic": "",
+      "example": "Мягкое чистое полотенце."
+    },
+    {
+      "id": "word_0614",
+      "translation": "зеркало",
+      "phonetic": "",
+      "example": "Большое зеркало в ванной."
+    },
+    {
+      "id": "word_0615",
+      "translation": "щетка",
+      "phonetic": "",
+      "example": "Жесткая зубная щетка."
+    },
+    {
+      "id": "word_0616",
+      "translation": "расческа",
+      "phonetic": "",
+      "example": "Тонкая расческа для волос."
+    },
+    {
+      "id": "word_0617",
+      "translation": "лекарство",
+      "phonetic": "",
+      "example": "Предписанное ежедневное лекарство."
+    },
+    {
+      "id": "word_0618",
+      "translation": "врач",
+      "phonetic": "",
+      "example": "Опытный семейный врач."
+    },
+    {
+      "id": "word_0619",
+      "translation": "медсестра",
+      "phonetic": "",
+      "example": "Заботливая больничная медсестра."
+    },
+    {
+      "id": "word_0620",
+      "translation": "пациент",
+      "phonetic": "",
+      "example": "Выздоравливающий больной пациент."
+    },
+    {
+      "id": "word_0621",
+      "translation": "здоровье",
+      "phonetic": "",
+      "example": "Хорошее физическое здоровье."
+    },
+    {
+      "id": "word_0622",
+      "translation": "болезнь",
+      "phonetic": "",
+      "example": "Заразная инфекционная болезнь."
+    },
+    {
+      "id": "word_0623",
+      "translation": "боль",
+      "phonetic": "",
+      "example": "Острая сильная боль."
+    },
+    {
+      "id": "word_0624",
+      "translation": "кровь",
+      "phonetic": "",
+      "example": "Красная текущая кровь."
+    },
+    {
+      "id": "word_0625",
+      "translation": "возраст",
+      "phonetic": "",
+      "example": "Старый преклонный возраст."
+    },
+    {
+      "id": "word_0626",
+      "translation": "рождение",
+      "phonetic": "",
+      "example": "Счастливое рождение ребенка."
+    },
+    {
+      "id": "word_0627",
+      "translation": "смерть",
+      "phonetic": "",
+      "example": "Мирная естественная смерть."
+    },
+    {
+      "id": "word_0628",
+      "translation": "жизнь",
+      "phonetic": "",
+      "example": "Прекрасная драгоценная жизнь."
+    },
+    {
+      "id": "word_0629",
+      "translation": "минута",
+      "phonetic": "",
+      "example": "Всего одна минута."
+    },
+    {
+      "id": "word_0630",
+      "translation": "час",
+      "phonetic": "",
+      "example": "Полчаса."
+    },
+    {
+      "id": "word_0631",
+      "translation": "момент",
+      "phonetic": "",
+      "example": "Совершенный особенный момент."
+    },
+    {
+      "id": "word_0632",
+      "translation": "история",
+      "phonetic": "",
+      "example": "Древняя мировая история."
+    },
+    {
+      "id": "word_0633",
+      "translation": "будущее",
+      "phonetic": "",
+      "example": "Светлое многообещающее будущее."
+    },
+    {
+      "id": "word_0634",
+      "translation": "прошлое",
+      "phonetic": "",
+      "example": "Далекое забытое прошлое."
+    },
+    {
+      "id": "word_0635",
+      "translation": "состояние",
+      "phonetic": "",
+      "example": "Текущее нынешнее состояние."
+    },
+    {
+      "id": "word_0636",
+      "translation": "нация",
+      "phonetic": "",
+      "example": "Гордая суверенная нация."
+    },
+    {
+      "id": "word_0637",
+      "translation": "власть",
+      "phonetic": "",
+      "example": "Великая политическая власть."
+    },
+    {
+      "id": "word_0638",
+      "translation": "президент",
+      "phonetic": "",
+      "example": "Избранный национальный президент."
+    },
+    {
+      "id": "word_0639",
+      "translation": "король",
+      "phonetic": "",
+      "example": "Могущественный правящий король."
+    },
+    {
+      "id": "word_0640",
+      "translation": "королева",
+      "phonetic": "",
+      "example": "Любимая королевская королева."
+    },
+    {
+      "id": "word_0641",
+      "translation": "принц",
+      "phonetic": "",
+      "example": "Молодой красивый принц."
+    },
+    {
+      "id": "word_0642",
+      "translation": "принцесса",
+      "phonetic": "",
+      "example": "Красивая добрая принцесса."
+    },
+    {
+      "id": "word_0643",
+      "translation": "общество",
+      "phonetic": "",
+      "example": "Современное цивилизованное общество."
+    },
+    {
+      "id": "word_0644",
+      "translation": "культура",
+      "phonetic": "",
+      "example": "Богатая разнообразная культура."
+    },
+    {
+      "id": "word_0645",
+      "translation": "искусство",
+      "phonetic": "",
+      "example": "Прекрасное изобразительное искусство."
+    },
+    {
+      "id": "word_0646",
+      "translation": "наука",
+      "phonetic": "",
+      "example": "Передовая современная наука."
+    },
+    {
+      "id": "word_0647",
+      "translation": "технология",
+      "phonetic": "",
+      "example": "Новейшая цифровая технология."
+    },
+    {
+      "id": "word_0648",
+      "translation": "бизнес",
+      "phonetic": "",
+      "example": "Успешный международный бизнес."
+    },
+    {
+      "id": "word_0649",
+      "translation": "компания",
+      "phonetic": "",
+      "example": "Крупная транснациональная компания."
+    },
+    {
+      "id": "word_0650",
+      "translation": "обслуживание",
+      "phonetic": "",
+      "example": "Отличное обслуживание клиентов."
+    },
+    {
+      "id": "word_0651",
+      "translation": "продукт",
+      "phonetic": "",
+      "example": "Качественный произведенный продукт."
+    },
+    {
+      "id": "word_0652",
+      "translation": "цена",
+      "phonetic": "",
+      "example": "Справедливая разумная цена."
+    },
+    {
+      "id": "word_0653",
+      "translation": "ценность",
+      "phonetic": "",
+      "example": "Большая денежная ценность."
+    },
+    {
+      "id": "word_0654",
+      "translation": "налог",
+      "phonetic": "",
+      "example": "Годовой подоходный налог."
+    },
+    {
+      "id": "word_0655",
+      "translation": "проценты",
+      "phonetic": "",
+      "example": "Высокие банковские проценты."
+    },
+    {
+      "id": "word_0656",
+      "translation": "сделка",
+      "phonetic": "",
+      "example": "Отличная деловая сделка."
+    },
+    {
+      "id": "word_0657",
+      "translation": "соглашение",
+      "phonetic": "",
+      "example": "Взаимное письменное соглашение."
+    },
+    {
+      "id": "word_0658",
+      "translation": "контракт",
+      "phonetic": "",
+      "example": "Юридически обязательный контракт."
+    },
+    {
+      "id": "word_0659",
+      "translation": "план",
+      "phonetic": "",
+      "example": "Детальный стратегический план."
+    },
+    {
+      "id": "word_0660",
+      "translation": "проект",
+      "phonetic": "",
+      "example": "Важный школьный проект."
+    },
+    {
+      "id": "word_0661",
+      "translation": "программа",
+      "phonetic": "",
+      "example": "Образовательная учебная программа."
+    },
+    {
+      "id": "word_0662",
+      "translation": "система",
+      "phonetic": "",
+      "example": "Сложная операционная система."
+    },
+    {
+      "id": "word_0663",
+      "translation": "метод",
+      "phonetic": "",
+      "example": "Эффективный метод обучения."
+    },
+    {
+      "id": "word_0664",
+      "translation": "процесс",
+      "phonetic": "",
+      "example": "Длительный производственный процесс."
+    },
+    {
+      "id": "word_0665",
+      "translation": "результат",
+      "phonetic": "",
+      "example": "Положительный успешный результат."
+    },
+    {
+      "id": "word_0666",
+      "translation": "эффект",
+      "phonetic": "",
+      "example": "Немедленный заметный эффект."
+    },
+    {
+      "id": "word_0667",
+      "translation": "причина",
+      "phonetic": "",
+      "example": "Главная коренная причина."
+    },
+    {
+      "id": "word_0668",
+      "translation": "шанс",
+      "phonetic": "",
+      "example": "Счастливый второй шанс."
+    },
+    {
+      "id": "word_0669",
+      "translation": "выбор",
+      "phonetic": "",
+      "example": "Трудный сложный выбор."
+    },
+    {
+      "id": "word_0670",
+      "translation": "решение",
+      "phonetic": "",
+      "example": "Важное окончательное решение."
+    },
+    {
+      "id": "word_0671",
+      "translation": "действие",
+      "phonetic": "",
+      "example": "Быстрое решительное действие."
+    },
+    {
+      "id": "word_0672",
+      "translation": "деятельность",
+      "phonetic": "",
+      "example": "Физическая активность на свежем воздухе."
+    },
+    {
+      "id": "word_0673",
+      "translation": "опыт",
+      "phonetic": "",
+      "example": "Ценный жизненный опыт."
+    },
+    {
+      "id": "word_0674",
+      "translation": "знание",
+      "phonetic": "",
+      "example": "Глубокое обширное знание."
+    },
+    {
+      "id": "word_0675",
+      "translation": "навык",
+      "phonetic": "",
+      "example": "Особый технический навык."
+    },
+    {
+      "id": "word_0676",
+      "translation": "способность",
+      "phonetic": "",
+      "example": "Природная врожденная способность."
+    },
+    {
+      "id": "word_0677",
+      "translation": "усилие",
+      "phonetic": "",
+      "example": "Великое совместное усилие."
+    },
+    {
+      "id": "word_0678",
+      "translation": "успех",
+      "phonetic": "",
+      "example": "Заслуженный успех."
+    },
+    {
+      "id": "word_0679",
+      "translation": "неудача",
+      "phonetic": "",
+      "example": "Временная незначительная неудача."
+    },
+    {
+      "id": "word_0680",
+      "translation": "ошибка",
+      "phonetic": "",
+      "example": "Обычная простая ошибка."
+    },
+    {
+      "id": "word_0681",
+      "translation": "погрешность",
+      "phonetic": "",
+      "example": "Небольшая погрешность расчета."
+    },
+    {
+      "id": "word_0682",
+      "translation": "опасность",
+      "phonetic": "",
+      "example": "Серьезная неминуемая опасность."
+    },
+    {
+      "id": "word_0683",
+      "translation": "риск",
+      "phonetic": "",
+      "example": "Высокий финансовый риск."
+    },
+    {
+      "id": "word_0684",
+      "translation": "удача",
+      "phonetic": "",
+      "example": "Чистая хорошая удача."
+    },
+    {
+      "id": "word_0685",
+      "translation": "богатство",
+      "phonetic": "",
+      "example": "Большое личное богатство."
+    },
+    {
+      "id": "word_0686",
+      "translation": "судьба",
+      "phonetic": "",
+      "example": "Неизвестная неопределенная судьба."
+    },
+    {
+      "id": "word_0687",
+      "translation": "цель",
+      "phonetic": "",
+      "example": "Ясная главная цель."
+    },
+    {
+      "id": "word_0688",
+      "translation": "задача",
+      "phonetic": "",
+      "example": "Достижимая реалистичная задача."
+    },
+    {
+      "id": "word_0689",
+      "translation": "стремление",
+      "phonetic": "",
+      "example": "Первичное конечное стремление."
+    },
+    {
+      "id": "word_0690",
+      "translation": "конец",
+      "phonetic": "",
+      "example": "Окончательный горький конец."
+    },
+    {
+      "id": "word_0691",
+      "translation": "начало",
+      "phonetic": "",
+      "example": "Свежее новое начало."
+    },
+    {
+      "id": "word_0692",
+      "translation": "середина",
+      "phonetic": "",
+      "example": "Точная середина."
+    },
+    {
+      "id": "word_0693",
+      "translation": "верх",
+      "phonetic": "",
+      "example": "Самый высокий верх."
+    },
+    {
+      "id": "word_0694",
+      "translation": "низ",
+      "phonetic": "",
+      "example": "Самый нижний низ."
+    },
+    {
+      "id": "word_0695",
+      "translation": "сторона",
+      "phonetic": "",
+      "example": "Левая сторона."
+    },
+    {
+      "id": "word_0696",
+      "translation": "перед",
+      "phonetic": "",
+      "example": "Прямо впереди."
+    },
+    {
+      "id": "word_0697",
+      "translation": "позади",
+      "phonetic": "",
+      "example": "Прямо позади."
+    },
+    {
+      "id": "word_0698",
+      "translation": "выше",
+      "phonetic": "",
+      "example": "Высоко вверху."
+    },
+    {
+      "id": "word_0699",
+      "translation": "ниже",
+      "phonetic": "",
+      "example": "Далеко внизу."
+    },
+    {
+      "id": "word_0700",
+      "translation": "внутри",
+      "phonetic": "",
+      "example": "Глубоко внутри."
+    },
+    {
+      "id": "word_0701",
+      "translation": "снаружи",
+      "phonetic": "",
+      "example": "Прямо снаружи."
+    },
+    {
+      "id": "word_0702",
+      "translation": "между",
+      "phonetic": "",
+      "example": "Прямо между."
+    },
+    {
+      "id": "word_0703",
+      "translation": "среди",
+      "phonetic": "",
+      "example": "Скрытый среди толпы."
+    },
+    {
+      "id": "word_0704",
+      "translation": "через",
+      "phonetic": "",
+      "example": "Прямо через."
+    },
+    {
+      "id": "word_0705",
+      "translation": "сквозь",
+      "phonetic": "",
+      "example": "Насквозь."
+    },
+    {
+      "id": "word_0706",
+      "translation": "в течение",
+      "phonetic": "",
+      "example": "Только в течение дня."
+    },
+    {
+      "id": "word_0707",
+      "translation": "перед",
+      "phonetic": "",
+      "example": "Прямо перед."
+    },
+    {
+      "id": "word_0708",
+      "translation": "с тех пор",
+      "phonetic": "",
+      "example": "С тех пор."
+    },
+    {
+      "id": "word_0709",
+      "translation": "до",
+      "phonetic": "",
+      "example": "Ждать до."
+    },
+    {
+      "id": "word_0710",
+      "translation": "пока",
+      "phonetic": "",
+      "example": "Оставаться в безопасности пока."
+    },
+    {
+      "id": "word_0711",
+      "translation": "хотя",
+      "phonetic": "",
+      "example": "Правда хотя трудно."
+    },
+    {
+      "id": "word_0712",
+      "translation": "однако",
+      "phonetic": "",
+      "example": "Правильно однако неверно."
+    },
+    {
+      "id": "word_0713",
+      "translation": "следовательно",
+      "phonetic": "",
+      "example": "Правда следовательно действительно."
+    },
+    {
+      "id": "word_0714",
+      "translation": "таким образом",
+      "phonetic": "",
+      "example": "Правда таким образом верно."
+    },
+    {
+      "id": "word_0715",
+      "translation": "более того",
+      "phonetic": "",
+      "example": "Хорошо более того полезно."
+    },
+    {
+      "id": "word_0716",
+      "translation": "кроме того",
+      "phonetic": "",
+      "example": "Правда кроме того точно."
+    },
+    {
+      "id": "word_0717",
+      "translation": "иначе",
+      "phonetic": "",
+      "example": "Приди иначе уйди."
+    },
+    {
+      "id": "word_0718",
+      "translation": "вместо",
+      "phonetic": "",
+      "example": "Это вместо того."
+    },
+    {
+      "id": "word_0719",
+      "translation": "кроме",
+      "phonetic": "",
+      "example": "Хорошо кроме полезно."
+    },
+    {
+      "id": "word_0720",
+      "translation": "кроме",
+      "phonetic": "",
+      "example": "Все кроме одного."
+    },
+    {
+      "id": "word_0721",
+      "translation": "без",
+      "phonetic": "",
+      "example": "Жизнь без воды."
+    },
+    {
+      "id": "word_0722",
+      "translation": "в пределах",
+      "phonetic": "",
+      "example": "Оставайся в пределах."
+    },
+    {
+      "id": "word_0723",
+      "translation": "против",
+      "phonetic": "",
+      "example": "Опереться против."
+    },
+    {
+      "id": "word_0724",
+      "translation": "к",
+      "phonetic": "",
+      "example": "Двигаться к."
+    },
+    {
+      "id": "word_0725",
+      "translation": "на",
+      "phonetic": "",
+      "example": "Сидеть на."
+    },
+    {
+      "id": "word_0726",
+      "translation": "с",
+      "phonetic": "",
+      "example": "Снять с."
+    },
+    {
+      "id": "word_0727",
+      "translation": "вниз",
+      "phonetic": "",
+      "example": "Спустись вниз."
+    },
+    {
+      "id": "word_0728",
+      "translation": "вокруг",
+      "phonetic": "",
+      "example": "Смотреть вокруг."
+    },
+    {
+      "id": "word_0729",
+      "translation": "вдоль",
+      "phonetic": "",
+      "example": "Идти вдоль."
+    },
+    {
+      "id": "word_0730",
+      "translation": "за пределами",
+      "phonetic": "",
+      "example": "Смотреть за пределами."
+    },
+    {
+      "id": "word_0731",
+      "translation": "напротив",
+      "phonetic": "",
+      "example": "Сидеть прямо напротив."
+    },
+    {
+      "id": "word_0732",
+      "translation": "несмотря на",
+      "phonetic": "",
+      "example": "Успех несмотря на трудности."
+    },
+    {
+      "id": "word_0733",
+      "translation": "рядом",
+      "phonetic": "",
+      "example": "Сидеть рядом."
+    },
+    {
+      "id": "word_0734",
+      "translation": "повсюду",
+      "phonetic": "",
+      "example": "Известный повсюду в мире."
+    },
+    {
+      "id": "word_0735",
+      "translation": "под",
+      "phonetic": "",
+      "example": "Спрятанный прямо под."
+    },
+    {
+      "id": "word_0736",
+      "translation": "касательно",
+      "phonetic": "",
+      "example": "Вопрос касательно дела."
+    },
+    {
+      "id": "word_0737",
+      "translation": "относительно",
+      "phonetic": "",
+      "example": "Информация относительно вопроса."
+    },
+    {
+      "id": "word_0738",
+      "translation": "согласно",
+      "phonetic": "",
+      "example": "Согласно плану."
+    },
+    {
+      "id": "word_0739",
+      "translation": "включая",
+      "phonetic": "",
+      "example": "Все включая детей."
+    },
+    {
+      "id": "word_0740",
+      "translation": "следующий",
+      "phonetic": "",
+      "example": "Следующие эти инструкции."
+    },
+    {
+      "id": "word_0741",
+      "translation": "учитывая",
+      "phonetic": "",
+      "example": "Учитывая все факторы."
+    },
+    {
+      "id": "word_0742",
+      "translation": "уважая",
+      "phonetic": "",
+      "example": "Уважая ваше мнение."
+    },
+    {
+      "id": "word_0743",
+      "translation": "спасибо",
+      "phonetic": "",
+      "example": "Большое искреннее спасибо."
+    },
+    {
+      "id": "word_0744",
+      "translation": "поздравления",
+      "phonetic": "",
+      "example": "Теплые сердечные поздравления."
+    },
+    {
+      "id": "word_0745",
+      "translation": "внимание",
+      "phonetic": "",
+      "example": "Полное безраздельное внимание."
+    },
+    {
+      "id": "word_0746",
+      "translation": "забота",
+      "phonetic": "",
+      "example": "Заботиться хорошо."
+    },
+    {
+      "id": "word_0747",
+      "translation": "уважение",
+      "phonetic": "",
+      "example": "Глубокое взаимное уважение."
+    },
+    {
+      "id": "word_0748",
+      "translation": "честь",
+      "phonetic": "",
+      "example": "Великая личная честь."
+    },
+    {
+      "id": "word_0749",
+      "translation": "гордость",
+      "phonetic": "",
+      "example": "Огромная личная гордость."
+    },
+    {
+      "id": "word_0750",
+      "translation": "стыд",
+      "phonetic": "",
+      "example": "Глубокий личный стыд."
+    },
+    {
+      "id": "word_0751",
+      "translation": "страх",
+      "phonetic": "",
+      "example": "Великий всепоглощающий страх."
+    },
+    {
+      "id": "word_0752",
+      "translation": "вера",
+      "phonetic": "",
+      "example": "Сильная непоколебимая вера."
+    },
+    {
+      "id": "word_0753",
+      "translation": "доверие",
+      "phonetic": "",
+      "example": "Полное абсолютное доверие."
+    },
+    {
+      "id": "word_0754",
+      "translation": "уверенность",
+      "phonetic": "",
+      "example": "Сильная уверенность в себе."
+    },
+    {
+      "id": "word_0755",
+      "translation": "сомнение",
+      "phonetic": "",
+      "example": "Серьёзное обоснованное сомнение."
+    },
+    {
+      "id": "word_0756",
+      "translation": "беспокойство",
+      "phonetic": "",
+      "example": "Постоянное ненужное беспокойство."
+    },
+    {
+      "id": "word_0757",
+      "translation": "озабоченность",
+      "phonetic": "",
+      "example": "Растущая серьёзная озабоченность."
+    },
+    {
+      "id": "word_0758",
+      "translation": "мнение",
+      "phonetic": "",
+      "example": "Личное честное мнение."
+    },
+    {
+      "id": "word_0759",
+      "translation": "взгляд",
+      "phonetic": "",
+      "example": "Иной уникальный взгляд."
+    },
+    {
+      "id": "word_0760",
+      "translation": "чувство",
+      "phonetic": "",
+      "example": "Сильное внутреннее чувство."
+    },
+    {
+      "id": "word_0761",
+      "translation": "эмоция",
+      "phonetic": "",
+      "example": "Мощная истинная эмоция."
+    },
+    {
+      "id": "word_0762",
+      "translation": "смысл",
+      "phonetic": "",
+      "example": "Хороший здравый смысл."
+    },
+    {
+      "id": "word_0763",
+      "translation": "разум",
+      "phonetic": "",
+      "example": "Острый блестящий разум."
+    },
+    {
+      "id": "word_0764",
+      "translation": "память",
+      "phonetic": "",
+      "example": "Яркая ясная память."
+    },
+    {
+      "id": "word_0765",
+      "translation": "сон",
+      "phonetic": "",
+      "example": "Прекрасный приятный сон."
+    },
+    {
+      "id": "word_0766",
+      "translation": "воображение",
+      "phonetic": "",
+      "example": "Буйное яркое воображение."
+    },
+    {
+      "id": "word_0767",
+      "translation": "реальность",
+      "phonetic": "",
+      "example": "Суровая холодная реальность."
+    },
+    {
+      "id": "word_0768",
+      "translation": "внешность",
+      "phonetic": "",
+      "example": "Физическая внешняя внешность."
+    },
+    {
+      "id": "word_0769",
+      "translation": "форма",
+      "phonetic": "",
+      "example": "Круглая круговая форма."
+    },
+    {
+      "id": "word_0770",
+      "translation": "размер",
+      "phonetic": "",
+      "example": "Большой огромный размер."
+    },
+    {
+      "id": "word_0771",
+      "translation": "длина",
+      "phonetic": "",
+      "example": "Полная общая длина."
+    },
+    {
+      "id": "word_0772",
+      "translation": "ширина",
+      "phonetic": "",
+      "example": "Полная общая ширина."
+    },
+    {
+      "id": "word_0773",
+      "translation": "высота",
+      "phonetic": "",
+      "example": "Максимальная полная высота."
+    },
+    {
+      "id": "word_0774",
+      "translation": "глубина",
+      "phonetic": "",
+      "example": "Большая крайняя глубина."
+    },
+    {
+      "id": "word_0775",
+      "translation": "вес",
+      "phonetic": "",
+      "example": "Тяжёлый общий вес."
+    },
+    {
+      "id": "word_0776",
+      "translation": "скорость",
+      "phonetic": "",
+      "example": "Высокая максимальная скорость."
+    },
+    {
+      "id": "word_0777",
+      "translation": "расстояние",
+      "phonetic": "",
+      "example": "Длинное общее расстояние."
+    },
+    {
+      "id": "word_0778",
+      "translation": "направление",
+      "phonetic": "",
+      "example": "Правильное верное направление."
+    },
+    {
+      "id": "word_0779",
+      "translation": "позиция",
+      "phonetic": "",
+      "example": "Текущая точная позиция."
+    },
+    {
+      "id": "word_0780",
+      "translation": "ситуация",
+      "phonetic": "",
+      "example": "Текущая нынешняя ситуация."
+    },
+    {
+      "id": "word_0781",
+      "translation": "состояние",
+      "phonetic": "",
+      "example": "Хорошее отличное состояние."
+    },
+    {
+      "id": "word_0782",
+      "translation": "качество",
+      "phonetic": "",
+      "example": "Высокое превосходное качество."
+    },
+    {
+      "id": "word_0783",
+      "translation": "количество",
+      "phonetic": "",
+      "example": "Большое достаточное количество."
+    },
+    {
+      "id": "word_0784",
+      "translation": "степень",
+      "phonetic": "",
+      "example": "Высокая академическая степень."
+    },
+    {
+      "id": "word_0785",
+      "translation": "уровень",
+      "phonetic": "",
+      "example": "Продвинутый экспертный уровень."
+    },
+    {
+      "id": "word_0786",
+      "translation": "этап",
+      "phonetic": "",
+      "example": "Финальный последний этап."
+    },
+    {
+      "id": "word_0787",
+      "translation": "шаг",
+      "phonetic": "",
+      "example": "Первый начальный шаг."
+    },
+    {
+      "id": "word_0788",
+      "translation": "пункт",
+      "phonetic": "",
+      "example": "Важный ключевой пункт."
+    },
+    {
+      "id": "word_0789",
+      "translation": "линия",
+      "phonetic": "",
+      "example": "Прямая горизонтальная линия."
+    },
+    {
+      "id": "word_0790",
+      "translation": "круг",
+      "phonetic": "",
+      "example": "Идеальный полный круг."
+    },
+    {
+      "id": "word_0791",
+      "translation": "квадрат",
+      "phonetic": "",
+      "example": "Идеальный равный квадрат."
+    },
+    {
+      "id": "word_0792",
+      "translation": "треугольник",
+      "phonetic": "",
+      "example": "Прямой угловой треугольник."
+    },
+    {
+      "id": "word_0793",
+      "translation": "угол",
+      "phonetic": "",
+      "example": "Острый тонкий угол."
+    },
+    {
+      "id": "word_0794",
+      "translation": "угол",
+      "phonetic": "",
+      "example": "Правильный острый угол."
+    },
+    {
+      "id": "word_0795",
+      "translation": "край",
+      "phonetic": "",
+      "example": "Острый режущий край."
+    },
+    {
+      "id": "word_0796",
+      "translation": "поверхность",
+      "phonetic": "",
+      "example": "Гладкая плоская поверхность."
+    },
+    {
+      "id": "word_0797",
+      "translation": "центр",
+      "phonetic": "",
+      "example": "Точный точный центр."
+    },
+    {
+      "id": "word_0798",
+      "translation": "часть",
+      "phonetic": "",
+      "example": "Важная существенная часть."
+    },
+    {
+      "id": "word_0799",
+      "translation": "кусок",
+      "phonetic": "",
+      "example": "Маленький крошечный кусок."
+    },
+    {
+      "id": "word_0800",
+      "translation": "немного",
+      "phonetic": "",
+      "example": "Чуть-чуть маленькое немного."
+    },
+    {
+      "id": "word_0801",
+      "translation": "раздел",
+      "phonetic": "",
+      "example": "Отдельный особый раздел."
+    },
+    {
+      "id": "word_0802",
+      "translation": "площадь",
+      "phonetic": "",
+      "example": "Большая открытая площадь."
+    },
+    {
+      "id": "word_0803",
+      "translation": "регион",
+      "phonetic": "",
+      "example": "Отдалённый дальний регион."
+    },
+    {
+      "id": "word_0804",
+      "translation": "зона",
+      "phonetic": "",
+      "example": "Запретная закрытая зона."
+    },
+    {
+      "id": "word_0805",
+      "translation": "пространство",
+      "phonetic": "",
+      "example": "Пустое свободное пространство."
+    },
+    {
+      "id": "word_0806",
+      "translation": "место",
+      "phonetic": "",
+      "example": "Идеальное превосходное место."
+    },
+    {
+      "id": "word_0807",
+      "translation": "участок",
+      "phonetic": "",
+      "example": "Исторический важный участок."
+    },
+    {
+      "id": "word_0808",
+      "translation": "местоположение",
+      "phonetic": "",
+      "example": "Первоклассное центральное местоположение."
+    },
+    {
+      "id": "word_0809",
+      "translation": "адрес",
+      "phonetic": "",
+      "example": "Домашний постоянный адрес."
+    },
+    {
+      "id": "word_0810",
+      "translation": "карта",
+      "phonetic": "",
+      "example": "Подробная точная карта."
+    },
+    {
+      "id": "word_0811",
+      "translation": "север",
+      "phonetic": "",
+      "example": "Истинный магнитный север."
+    },
+    {
+      "id": "word_0812",
+      "translation": "юг",
+      "phonetic": "",
+      "example": "Глубокий дальний юг."
+    },
+    {
+      "id": "word_0813",
+      "translation": "восток",
+      "phonetic": "",
+      "example": "Дальний отдалённый восток."
+    },
+    {
+      "id": "word_0814",
+      "translation": "запад",
+      "phonetic": "",
+      "example": "Дикий американский запад."
+    },
+    {
+      "id": "word_0815",
+      "translation": "налево",
+      "phonetic": "",
+      "example": "Поверните резко налево."
+    },
+    {
+      "id": "word_0816",
+      "translation": "прямо",
+      "phonetic": "",
+      "example": "Идите прямо вперёд."
+    },
+    {
+      "id": "word_0817",
+      "translation": "вперёд",
+      "phonetic": "",
+      "example": "Двигайтесь уверенно вперёд."
+    },
+    {
+      "id": "word_0818",
+      "translation": "назад",
+      "phonetic": "",
+      "example": "Шагните осторожно назад."
+    },
+    {
+      "id": "word_0819",
+      "translation": "вверх",
+      "phonetic": "",
+      "example": "Смотрите прямо вверх."
+    },
+    {
+      "id": "word_0820",
+      "translation": "вниз",
+      "phonetic": "",
+      "example": "Взгляните быстро вниз."
+    },
+    {
+      "id": "word_0821",
+      "translation": "вбок",
+      "phonetic": "",
+      "example": "Двигайтесь немного вбок."
+    },
+    {
+      "id": "word_0822",
+      "translation": "здесь",
+      "phonetic": "",
+      "example": "Подойдите прямо сюда."
+    },
+    {
+      "id": "word_0823",
+      "translation": "где",
+      "phonetic": "",
+      "example": "Скажите мне где."
+    },
+    {
+      "id": "word_0824",
+      "translation": "везде",
+      "phonetic": "",
+      "example": "Смотрите абсолютно везде."
+    },
+    {
+      "id": "word_0825",
+      "translation": "нигде",
+      "phonetic": "",
+      "example": "Найдено абсолютно нигде."
+    },
+    {
+      "id": "word_0826",
+      "translation": "где-то",
+      "phonetic": "",
+      "example": "Потерял это где-то."
+    },
+    {
+      "id": "word_0827",
+      "translation": "где-нибудь",
+      "phonetic": "",
+      "example": "Не могу найти нигде."
+    },
+    {
+      "id": "word_0828",
+      "translation": "всегда",
+      "phonetic": "",
+      "example": "Помните всегда навсегда."
+    },
+    {
+      "id": "word_0829",
+      "translation": "никогда",
+      "phonetic": "",
+      "example": "Никогда не сдавайтесь."
+    },
+    {
+      "id": "word_0830",
+      "translation": "иногда",
+      "phonetic": "",
+      "example": "Навестите меня иногда."
+    },
+    {
+      "id": "word_0831",
+      "translation": "часто",
+      "phonetic": "",
+      "example": "Приходите в гости часто."
+    },
+    {
+      "id": "word_0832",
+      "translation": "редко",
+      "phonetic": "",
+      "example": "Редко очень редко."
+    },
+    {
+      "id": "word_0833",
+      "translation": "редко",
+      "phonetic": "",
+      "example": "Почти никогда редко."
+    },
+    {
+      "id": "word_0834",
+      "translation": "обычно",
+      "phonetic": "",
+      "example": "Обычно всегда опаздывает."
+    },
+    {
+      "id": "word_0835",
+      "translation": "обычно",
+      "phonetic": "",
+      "example": "Обычно очень пунктуален."
+    },
+    {
+      "id": "word_0836",
+      "translation": "обычно",
+      "phonetic": "",
+      "example": "Вообще говоря правда."
+    },
+    {
+      "id": "word_0837",
+      "translation": "обычно",
+      "phonetic": "",
+      "example": "Обычно происходит это."
+    },
+    {
+      "id": "word_0838",
+      "translation": "часто",
+      "phonetic": "",
+      "example": "Происходит довольно часто."
+    },
+    {
+      "id": "word_0839",
+      "translation": "иногда",
+      "phonetic": "",
+      "example": "Происходит только иногда."
+    },
+    {
+      "id": "word_0840",
+      "translation": "постоянно",
+      "phonetic": "",
+      "example": "Меняется постоянно всегда."
+    },
+    {
+      "id": "word_0841",
+      "translation": "непрерывно",
+      "phonetic": "",
+      "example": "Улучшается непрерывно ежедневно."
+    },
+    {
+      "id": "word_0842",
+      "translation": "регулярно",
+      "phonetic": "",
+      "example": "Тренируйтесь регулярно ежедневно."
+    },
+    {
+      "id": "word_0843",
+      "translation": "немедленно",
+      "phonetic": "",
+      "example": "Уйдите прямо немедленно."
+    },
+    {
+      "id": "word_0844",
+      "translation": "мгновенно",
+      "phonetic": "",
+      "example": "Произошло почти мгновенно."
+    },
+    {
+      "id": "word_0845",
+      "translation": "внезапно",
+      "phonetic": "",
+      "example": "Остановился очень внезапно."
+    },
+    {
+      "id": "word_0846",
+      "translation": "быстро",
+      "phonetic": "",
+      "example": "Двигайтесь очень быстро."
+    },
+    {
+      "id": "word_0847",
+      "translation": "медленно",
+      "phonetic": "",
+      "example": "Идите более медленно."
+    },
+    {
+      "id": "word_0848",
+      "translation": "постепенно",
+      "phonetic": "",
+      "example": "Улучшается постепенно медленно."
+    },
+    {
+      "id": "word_0849",
+      "translation": "быстро",
+      "phonetic": "",
+      "example": "Растёт очень быстро."
+    },
+    {
+      "id": "word_0850",
+      "translation": "скоро",
+      "phonetic": "",
+      "example": "Вернусь скоро."
+    },
+    {
+      "id": "word_0851",
+      "translation": "в последнее время",
+      "phonetic": "",
+      "example": "Происходит чаще в последнее время."
+    },
+    {
+      "id": "word_0852",
+      "translation": "недавно",
+      "phonetic": "",
+      "example": "Началось совсем недавно."
+    },
+    {
+      "id": "word_0853",
+      "translation": "в настоящее время",
+      "phonetic": "",
+      "example": "В настоящее время строится."
+    },
+    {
+      "id": "word_0854",
+      "translation": "в настоящее время",
+      "phonetic": "",
+      "example": "В настоящее время недоступно."
+    },
+    {
+      "id": "word_0855",
+      "translation": "в конце концов",
+      "phonetic": "",
+      "example": "Произойдёт в конце концов."
+    },
+    {
+      "id": "word_0856",
+      "translation": "наконец",
+      "phonetic": "",
+      "example": "Наконец достигли пункта назначения."
+    },
+    {
+      "id": "word_0857",
+      "translation": "наконец",
+      "phonetic": "",
+      "example": "Наконец хочу сказать."
+    },
+    {
+      "id": "word_0858",
+      "translation": "во-первых",
+      "phonetic": "",
+      "example": "Во-первых должны рассмотреть."
+    },
+    {
+      "id": "word_0859",
+      "translation": "во-вторых",
+      "phonetic": "",
+      "example": "Во-вторых нужно оценить."
+    },
+    {
+      "id": "word_0860",
+      "translation": "частично",
+      "phonetic": "",
+      "example": "Только частично правильно."
+    },
+    {
+      "id": "word_0861",
+      "translation": "в основном",
+      "phonetic": "",
+      "example": "В основном очень точно."
+    },
+    {
+      "id": "word_0862",
+      "translation": "почти",
+      "phonetic": "",
+      "example": "Почти почти закончено."
+    },
+    {
+      "id": "word_0863",
+      "translation": "почти",
+      "phonetic": "",
+      "example": "Почти полностью сделано."
+    },
+    {
+      "id": "word_0864",
+      "translation": "довольно",
+      "phonetic": "",
+      "example": "Довольно очень хорошо."
+    },
+    {
+      "id": "word_0865",
+      "translation": "довольно",
+      "phonetic": "",
+      "example": "Довольно более сложно."
+    },
+    {
+      "id": "word_0866",
+      "translation": "довольно",
+      "phonetic": "",
+      "example": "Довольно почти закончено."
+    },
+    {
+      "id": "word_0867",
+      "translation": "довольно",
+      "phonetic": "",
+      "example": "Довольно достаточно легко."
+    },
+    {
+      "id": "word_0868",
+      "translation": "очень",
+      "phonetic": "",
+      "example": "Очень благодарен."
+    },
+    {
+      "id": "word_0869",
+      "translation": "слишком",
+      "phonetic": "",
+      "example": "Слишком очень дорого."
+    },
+    {
+      "id": "word_0870",
+      "translation": "достаточно",
+      "phonetic": "",
+      "example": "Хорошо более чем достаточно."
+    },
+    {
+      "id": "word_0871",
+      "translation": "чрезвычайно",
+      "phonetic": "",
+      "example": "Чрезвычайно очень жарко."
+    },
+    {
+      "id": "word_0872",
+      "translation": "крайне",
+      "phonetic": "",
+      "example": "Крайне рекомендуется."
+    },
+    {
+      "id": "word_0873",
+      "translation": "полностью",
+      "phonetic": "",
+      "example": "Полностью совершенно закончено."
+    },
+    {
+      "id": "word_0874",
+      "translation": "совершенно",
+      "phonetic": "",
+      "example": "Совершенно полностью согласен."
+    },
+    {
+      "id": "word_0875",
+      "translation": "абсолютно",
+      "phonetic": "",
+      "example": "Абсолютно положительно уверен."
+    },
+    {
+      "id": "word_0876",
+      "translation": "совершенно",
+      "phonetic": "",
+      "example": "Совершенно абсолютно верно."
+    },
+    {
+      "id": "word_0877",
+      "translation": "полностью",
+      "phonetic": "",
+      "example": "Полностью совершенно другое."
+    },
+    {
+      "id": "word_0878",
+      "translation": "полностью",
+      "phonetic": "",
+      "example": "Полностью совершенно подготовлен."
+    },
+    {
+      "id": "word_0879",
+      "translation": "полностью",
+      "phonetic": "",
+      "example": "Полностью целиком посвящён."
+    },
+    {
+      "id": "word_0880",
+      "translation": "слегка",
+      "phonetic": "",
+      "example": "Слегка немного лучше."
+    },
+    {
+      "id": "word_0881",
+      "translation": "несколько",
+      "phonetic": "",
+      "example": "Несколько довольно сложно."
+    },
+    {
+      "id": "word_0882",
+      "translation": "едва",
+      "phonetic": "",
+      "example": "Едва едва виден."
+    },
+    {
+      "id": "word_0883",
+      "translation": "едва",
+      "phonetic": "",
+      "example": "Едва едва заметно."
+    },
+    {
+      "id": "word_0884",
+      "translation": "едва",
+      "phonetic": "",
+      "example": "Едва едва достаточно."
+    },
+    {
+      "id": "word_0885",
+      "translation": "всего лишь",
+      "phonetic": "",
+      "example": "Всего лишь простое."
+    },
+    {
+      "id": "word_0886",
+      "translation": "просто",
+      "phonetic": "",
+      "example": "Просто лишь основное."
+    },
+    {
+      "id": "word_0887",
+      "translation": "в основном",
+      "phonetic": "",
+      "example": "В основном фундаментально верно."
+    },
+    {
+      "id": "word_0888",
+      "translation": "по существу",
+      "phonetic": "",
+      "example": "По существу в основном то же."
+    },
+    {
+      "id": "word_0889",
+      "translation": "фундаментально",
+      "phonetic": "",
+      "example": "Фундаментально по существу важно."
+    },
+    {
+      "id": "word_0890",
+      "translation": "в первую очередь",
+      "phonetic": "",
+      "example": "В первую очередь сосредоточено."
+    },
+    {
+      "id": "word_0891",
+      "translation": "в основном",
+      "phonetic": "",
+      "example": "В основном главным образом беспокоится."
+    },
+    {
+      "id": "word_0892",
+      "translation": "главным образом",
+      "phonetic": "",
+      "example": "Главным образом в основном ответственен."
+    },
+    {
+      "id": "word_0893",
+      "translation": "в значительной степени",
+      "phonetic": "",
+      "example": "В значительной степени успешно."
+    },
+    {
+      "id": "word_0894",
+      "translation": "очень",
+      "phonetic": "",
+      "example": "Очень благодарен."
+    },
+    {
+      "id": "word_0895",
+      "translation": "глубоко",
+      "phonetic": "",
+      "example": "Глубоко глубоко тронут."
+    },
+    {
+      "id": "word_0896",
+      "translation": "серьёзно",
+      "phonetic": "",
+      "example": "Серьёзно искренне озабочен."
+    },
+    {
+      "id": "word_0897",
+      "translation": "ясно",
+      "phonetic": "",
+      "example": "Ясно очевидно видимо."
+    },
+    {
+      "id": "word_0898",
+      "translation": "очевидно",
+      "phonetic": "",
+      "example": "Очевидно ясно явно."
+    },
+    {
+      "id": "word_0899",
+      "translation": "по-видимому",
+      "phonetic": "",
+      "example": "По-видимому кажется правдой."
+    },
+    {
+      "id": "word_0900",
+      "translation": "очевидно",
+      "phonetic": "",
+      "example": "Очевидно ясно доказано."
+    },
+    {
+      "id": "word_0901",
+      "translation": "конечно",
+      "phonetic": "",
+      "example": "Конечно определённо правда."
+    },
+    {
+      "id": "word_0902",
+      "translation": "определённо",
+      "phonetic": "",
+      "example": "Определённо абсолютно уверен."
+    },
+    {
+      "id": "word_0903",
+      "translation": "конечно",
+      "phonetic": "",
+      "example": "Конечно точно правда."
+    },
+    {
+      "id": "word_0904",
+      "translation": "вероятно",
+      "phonetic": "",
+      "example": "Вероятно скорее всего."
+    },
+    {
+      "id": "word_0905",
+      "translation": "возможно",
+      "phonetic": "",
+      "example": "Возможно может быть может."
+    },
+    {
+      "id": "word_0906",
+      "translation": "возможно",
+      "phonetic": "",
+      "example": "Возможно может быть возможно."
+    },
+    {
+      "id": "word_0907",
+      "translation": "может быть",
+      "phonetic": "",
+      "example": "Может быть возможно правда."
+    },
+    {
+      "id": "word_0908",
+      "translation": "вероятно",
+      "phonetic": "",
+      "example": "Скорее всего вероятно."
+    },
+    {
+      "id": "word_0909",
+      "translation": "маловероятно",
+      "phonetic": "",
+      "example": "Очень маловероятно невероятно."
+    },
+    {
+      "id": "word_0910",
+      "translation": "к счастью",
+      "phonetic": "",
+      "example": "К счастью к удаче удалось."
+    },
+    {
+      "id": "word_0911",
+      "translation": "к сожалению",
+      "phonetic": "",
+      "example": "К сожалению печально не удалось."
+    },
+    {
+      "id": "word_0912",
+      "translation": "к счастью",
+      "phonetic": "",
+      "example": "К счастью к удаче выжил."
+    },
+    {
+      "id": "word_0913",
+      "translation": "с радостью",
+      "phonetic": "",
+      "example": "С радостью радостно согласился."
+    },
+    {
+      "id": "word_0914",
+      "translation": "к сожалению",
+      "phonetic": "",
+      "example": "К сожалению к несчастью правда."
+    },
+    {
+      "id": "word_0915",
+      "translation": "надеюсь",
+      "phonetic": "",
+      "example": "Надеюсь оптимистично удастся."
+    },
+    {
+      "id": "word_0916",
+      "translation": "естественно",
+      "phonetic": "",
+      "example": "Естественно конечно."
+    },
+    {
+      "id": "word_0917",
+      "translation": "лично",
+      "phonetic": "",
+      "example": "Лично я считаю."
+    },
+    {
+      "id": "word_0918",
+      "translation": "честно",
+      "phonetic": "",
+      "example": "Честно правдиво говоря."
+    },
+    {
+      "id": "word_0919",
+      "translation": "откровенно",
+      "phonetic": "",
+      "example": "Откровенно честно сказал."
+    },
+    {
+      "id": "word_0920",
+      "translation": "действительно",
+      "phonetic": "",
+      "example": "Действительно искренне благодарен."
+    },
+    {
+      "id": "word_0921",
+      "translation": "действительно",
+      "phonetic": "",
+      "example": "Действительно по-настоящему потрясающе."
+    },
+    {
+      "id": "word_0922",
+      "translation": "на самом деле",
+      "phonetic": "",
+      "example": "На самом деле действительно произошло."
+    },
+    {
+      "id": "word_0923",
+      "translation": "действительно",
+      "phonetic": "",
+      "example": "Действительно по-настоящему замечательно."
+    },
+    {
+      "id": "word_0924",
+      "translation": "конечно",
+      "phonetic": "",
+      "example": "Конечно естественно."
+    },
+    {
+      "id": "word_0925",
+      "translation": "хорошо",
+      "phonetic": "",
+      "example": "Всё хорошо."
+    },
+    {
+      "id": "word_0926",
+      "translation": "хорошо",
+      "phonetic": "",
+      "example": "Это совершенно нормально."
+    },
+    {
+      "id": "word_0927",
+      "translation": "хорошо",
+      "phonetic": "",
+      "example": "Всё хорошо."
+    },
+    {
+      "id": "word_0928",
+      "translation": "хорошо",
+      "phonetic": "",
+      "example": "Всё в порядке."
+    },
+    {
+      "id": "word_0929",
+      "translation": "о",
+      "phonetic": "",
+      "example": "О, понятно."
+    },
+    {
+      "id": "word_0930",
+      "translation": "ах",
+      "phonetic": "",
+      "example": "Ах, теперь понимаю."
+    },
+    {
+      "id": "word_0931",
+      "translation": "эй",
+      "phonetic": "",
+      "example": "Эй, подожди минуту."
+    },
+    {
+      "id": "word_0932",
+      "translation": "вау",
+      "phonetic": "",
+      "example": "Вау, это потрясающе."
+    },
+    {
+      "id": "word_0933",
+      "translation": "ой",
+      "phonetic": "",
+      "example": "Ой, моя ошибка."
+    },
+    {
+      "id": "word_0934",
+      "translation": "ой",
+      "phonetic": "",
+      "example": "Ой, это больно."
+    },
+    {
+      "id": "word_0935",
+      "translation": "ура",
+      "phonetic": "",
+      "example": "Ура, мы победили."
+    },
+    {
+      "id": "word_0936",
+      "translation": "под",
+      "phonetic": "",
+      "example": "Под столом."
+    },
+    {
+      "id": "word_0937",
+      "translation": "интернет",
+      "phonetic": "",
+      "example": "Я пользуюсь интернетом каждый день."
+    },
+    {
+      "id": "word_0938",
+      "translation": "веб-сайт",
+      "phonetic": "",
+      "example": "Этот веб-сайт полезен."
+    },
+    {
+      "id": "word_0939",
+      "translation": "сообщение",
+      "phonetic": "",
+      "example": "Я отправил тебе сообщение."
+    },
+    {
+      "id": "word_0940",
+      "translation": "написать",
+      "phonetic": "",
+      "example": "Напиши мне, когда приедешь."
+    },
+    {
+      "id": "word_0941",
+      "translation": "сериал",
+      "phonetic": "",
+      "example": "Я начал смотреть новый сериал."
+    },
+    {
+      "id": "word_0942",
+      "translation": "пляж",
+      "phonetic": "",
+      "example": "Мы ходили на пляж."
+    },
+    {
+      "id": "word_0943",
+      "translation": "погода",
+      "phonetic": "",
+      "example": "Погода сегодня хорошая."
+    },
+    {
+      "id": "word_0944",
+      "translation": "солнечный",
+      "phonetic": "",
+      "example": "На улице солнечно."
+    },
+    {
+      "id": "word_0945",
+      "translation": "дождливый",
+      "phonetic": "",
+      "example": "Сегодня дождливо."
+    },
+    {
+      "id": "word_0946",
+      "translation": "облачный",
+      "phonetic": "",
+      "example": "Небо облачное."
+    },
+    {
+      "id": "word_0947",
+      "translation": "ветреный",
+      "phonetic": "",
+      "example": "Ветрено и холодно."
+    },
+    {
+      "id": "word_0948",
+      "translation": "домашнее задание",
+      "phonetic": "",
+      "example": "У меня сегодня домашнее задание."
+    },
+    {
+      "id": "word_0949",
+      "translation": "тест",
+      "phonetic": "",
+      "example": "Тест был лёгким."
+    },
+    {
+      "id": "word_0950",
+      "translation": "экзамен",
+      "phonetic": "",
+      "example": "Она сдала экзамен."
+    },
+    {
+      "id": "word_0951",
+      "translation": "оценка",
+      "phonetic": "",
+      "example": "Его оценка высокая."
+    },
+    {
+      "id": "word_0952",
+      "translation": "предмет",
+      "phonetic": "",
+      "example": "Математика - мой любимый предмет."
+    },
+    {
+      "id": "word_0953",
+      "translation": "путешествовать",
+      "phonetic": "",
+      "example": "Мне нравится путешествовать."
+    },
+    {
+      "id": "word_0954",
+      "translation": "поездка",
+      "phonetic": "",
+      "example": "Поездка была весёлой."
+    },
+    {
+      "id": "word_0955",
+      "translation": "праздник",
+      "phonetic": "",
+      "example": "Мы на отдыхе."
+    },
+    {
+      "id": "word_0956",
+      "translation": "билет",
+      "phonetic": "",
+      "example": "Я купил билет."
+    },
+    {
+      "id": "word_0957",
+      "translation": "пароль",
+      "phonetic": "",
+      "example": "Не делитесь своим паролем."
+    },
+    {
+      "id": "word_0958",
+      "translation": "экран",
+      "phonetic": "",
+      "example": "Экран слишком яркий."
+    },
+    {
+      "id": "word_0959",
+      "translation": "клавиатура",
+      "phonetic": "",
+      "example": "Клавиатура новая."
+    },
+    {
+      "id": "word_0960",
+      "translation": "мышь",
+      "phonetic": "",
+      "example": "Компьютерная мышь чёрная."
+    },
+    {
+      "id": "word_0961",
+      "translation": "кошелёк",
+      "phonetic": "",
+      "example": "Он забыл свой кошелёк."
+    },
+    {
+      "id": "word_0962",
+      "translation": "паспорт",
+      "phonetic": "",
+      "example": "Проверь свой паспорт."
+    },
+    {
+      "id": "word_0963",
+      "translation": "удобный",
+      "phonetic": "",
+      "example": "Этот стул удобный."
+    },
+    {
+      "id": "word_0964",
+      "translation": "весёлый",
+      "phonetic": "",
+      "example": "Игра была весёлой."
+    },
+    {
+      "id": "word_0965",
+      "translation": "скучный",
+      "phonetic": "",
+      "example": "Фильм был скучным."
+    },
+    {
+      "id": "word_0966",
+      "translation": "встреча",
+      "phonetic": "",
+      "example": "У нас встреча в 3."
+    },
+    {
+      "id": "word_0967",
+      "translation": "практика",
+      "phonetic": "",
+      "example": "Практикуйтесь каждый день."
+    },
+    {
+      "id": "word_0968",
+      "translation": "начальник",
+      "phonetic": "",
+      "example": "Его начальник добрый."
+    },
+    {
+      "id": "word_0969",
+      "translation": "коллега",
+      "phonetic": "",
+      "example": "Мой коллега помог мне."
+    },
+    {
+      "id": "word_0970",
+      "translation": "футбол",
+      "phonetic": "",
+      "example": "Они играют в футбол."
+    },
+    {
+      "id": "word_0971",
+      "translation": "баскетбол",
+      "phonetic": "",
+      "example": "Баскетбол захватывающий."
+    },
+    {
+      "id": "word_0972",
+      "translation": "теннис",
+      "phonetic": "",
+      "example": "Мы играем в теннис в воскресенье."
+    },
+    {
+      "id": "word_0973",
+      "translation": "посещать",
+      "phonetic": "",
+      "example": "Мы навещаем друзей."
+    },
+    {
+      "id": "word_0974",
+      "translation": "велосипед",
+      "phonetic": "",
+      "example": "Его велосипед новый."
+    },
+    {
+      "id": "word_0975",
+      "translation": "испуганный",
+      "phonetic": "",
+      "example": "Он боится собак."
+    },
+    {
+      "id": "word_0976",
+      "translation": "взволнованный",
+      "phonetic": "",
+      "example": "Дети взволнованы."
+    },
+    {
+      "id": "word_0977",
+      "translation": "нервный",
+      "phonetic": "",
+      "example": "Я нервничаю из-за теста."
+    },
+    {
+      "id": "word_0978",
+      "translation": "расслабленный",
+      "phonetic": "",
+      "example": "Она чувствует себя расслабленно сейчас."
+    },
+    {
+      "id": "word_0979",
+      "translation": "сильнее",
+      "phonetic": "",
+      "example": "Он становится сильнее."
+    },
+    {
+      "id": "word_0980",
+      "translation": "слабее",
+      "phonetic": "",
+      "example": "Сигнал здесь слабее."
+    },
+    {
+      "id": "word_0981",
+      "translation": "ухо",
+      "phonetic": "",
+      "example": "Моё ухо болит."
+    },
+    {
+      "id": "word_0982",
+      "translation": "нос",
+      "phonetic": "",
+      "example": "Она коснулась своего носа."
+    },
+    {
+      "id": "word_0983",
+      "translation": "рот",
+      "phonetic": "",
+      "example": "Открой рот."
+    },
+    {
+      "id": "word_0984",
+      "translation": "зуб",
+      "phonetic": "",
+      "example": "Этот зуб болит."
+    },
+    {
+      "id": "word_0985",
+      "translation": "рюкзак",
+      "phonetic": "",
+      "example": "Его рюкзак полный."
+    },
+    {
+      "id": "word_0986",
+      "translation": "тетрадь",
+      "phonetic": "",
+      "example": "Запиши это в тетрадь."
+    },
+    {
+      "id": "word_0987",
+      "translation": "календарь",
+      "phonetic": "",
+      "example": "Проверь календарь."
+    },
+    {
+      "id": "word_0988",
+      "translation": "кольцо",
+      "phonetic": "",
+      "example": "Её кольцо красивое."
+    },
+    {
+      "id": "word_0989",
+      "translation": "фестиваль",
+      "phonetic": "",
+      "example": "Фестиваль завтра."
+    },
+    {
+      "id": "word_0990",
+      "translation": "страница",
+      "phonetic": "",
+      "example": "Переверни страницу."
+    },
+    {
+      "id": "word_0991",
+      "translation": "температура",
+      "phonetic": "",
+      "example": "Проверь температуру."
+    },
+    {
+      "id": "word_0992",
+      "translation": "энергия",
+      "phonetic": "",
+      "example": "У меня нет энергии."
+    },
+    {
+      "id": "word_0993",
+      "translation": "электричество",
+      "phonetic": "",
+      "example": "Электричество отключено."
+    },
+    {
+      "id": "word_0994",
+      "translation": "батарея",
+      "phonetic": "",
+      "example": "Моя батарея разряжена."
+    },
+    {
+      "id": "word_0995",
+      "translation": "сигнал",
+      "phonetic": "",
+      "example": "Сигнал слабый."
+    },
+    {
+      "id": "word_0996",
+      "translation": "остров",
+      "phonetic": "",
+      "example": "Мы останавливались на маленьком острове."
+    },
+    {
+      "id": "word_0997",
+      "translation": "квартира",
+      "phonetic": "",
+      "example": "Мы живём в квартире."
+    },
+    {
+      "id": "word_0998",
+      "translation": "пульт",
+      "phonetic": "",
+      "example": "Я потерял пульт."
+    },
+    {
+      "id": "word_0999",
+      "translation": "одеяло",
+      "phonetic": "",
+      "example": "Одеяло тёплое."
+    },
+    {
+      "id": "word_1000",
+      "translation": "подушка",
+      "phonetic": "",
+      "example": "Подушка мягкая."
+    }
+  ]
+}

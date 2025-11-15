@@ -1,0 +1,6006 @@
+{
+  "language_name": "Kurdî",
+  "language_code": "ku",
+  "words": [
+    {
+      "id": "word_0001",
+      "translation": "ev",
+      "phonetic": "",
+      "example": "Tav gelek ronahî ye."
+    },
+    {
+      "id": "word_0002",
+      "translation": "bûn",
+      "phonetic": "",
+      "example": "Ez dixwazim kêfxweş bim."
+    },
+    {
+      "id": "word_0003",
+      "translation": "bo",
+      "phonetic": "",
+      "example": "Ez diçim dibistanê."
+    },
+    {
+      "id": "word_0004",
+      "translation": "ji",
+      "phonetic": "",
+      "example": "Rengê ezmanî."
+    },
+    {
+      "id": "word_0005",
+      "translation": "û",
+      "phonetic": "",
+      "example": "Nan û rûn."
+    },
+    {
+      "id": "word_0006",
+      "translation": "yek",
+      "phonetic": "",
+      "example": "Ez sewek dîtim."
+    },
+    {
+      "id": "word_0007",
+      "translation": "di",
+      "phonetic": "",
+      "example": "Ew di odeyê de ye."
+    },
+    {
+      "id": "word_0008",
+      "translation": "ku",
+      "phonetic": "",
+      "example": "Ez difikrim ku tu rast dibêjî."
+    },
+    {
+      "id": "word_0009",
+      "translation": "hebûn",
+      "phonetic": "",
+      "example": "Du pişîkên min hene."
+    },
+    {
+      "id": "word_0010",
+      "translation": "ez",
+      "phonetic": "",
+      "example": "Ez li vir im."
+    },
+    {
+      "id": "word_0011",
+      "translation": "ew",
+      "phonetic": "",
+      "example": "Îro sar e."
+    },
+    {
+      "id": "word_0012",
+      "translation": "ji bo",
+      "phonetic": "",
+      "example": "Ev ji bo te ye."
+    },
+    {
+      "id": "word_0013",
+      "translation": "ne",
+      "phonetic": "",
+      "example": "Ez amade nînim."
+    },
+    {
+      "id": "word_0014",
+      "translation": "li ser",
+      "phonetic": "",
+      "example": "Vê li ser maseyê bike."
+    },
+    {
+      "id": "word_0015",
+      "translation": "bi",
+      "phonetic": "",
+      "example": "Bi min re were."
+    },
+    {
+      "id": "word_0016",
+      "translation": "ew",
+      "phonetic": "",
+      "example": "Ew dirêj e."
+    },
+    {
+      "id": "word_0017",
+      "translation": "wek",
+      "phonetic": "",
+      "example": "Aqil wek rovî."
+    },
+    {
+      "id": "word_0018",
+      "translation": "tu",
+      "phonetic": "",
+      "example": "Tu xwedîtî."
+    },
+    {
+      "id": "word_0019",
+      "translation": "kirin",
+      "phonetic": "",
+      "example": "Ez baştirîn dikim."
+    },
+    {
+      "id": "word_0020",
+      "translation": "li",
+      "phonetic": "",
+      "example": "Li nîvro bi min re têkevin."
+    },
+    {
+      "id": "word_0021",
+      "translation": "ev",
+      "phonetic": "",
+      "example": "Ev ya min e."
+    },
+    {
+      "id": "word_0022",
+      "translation": "lê",
+      "phonetic": "",
+      "example": "Piçûk lê xurt."
+    },
+    {
+      "id": "word_0023",
+      "translation": "yê wî",
+      "phonetic": "",
+      "example": "Otomobîla wî sor e."
+    },
+    {
+      "id": "word_0024",
+      "translation": "ji aliyê",
+      "phonetic": "",
+      "example": "Bi dest hatiye çêkirin."
+    },
+    {
+      "id": "word_0025",
+      "translation": "ji",
+      "phonetic": "",
+      "example": "Ez ji Kanadayê me."
+    },
+    {
+      "id": "word_0026",
+      "translation": "ew",
+      "phonetic": "",
+      "example": "Ew tên."
+    },
+    {
+      "id": "word_0027",
+      "translation": "em",
+      "phonetic": "",
+      "example": "Em amade ne."
+    },
+    {
+      "id": "word_0028",
+      "translation": "gotin",
+      "phonetic": "",
+      "example": "Wisa nebêje."
+    },
+    {
+      "id": "word_0029",
+      "translation": "yê wê",
+      "phonetic": "",
+      "example": "Keniya wê bedew e."
+    },
+    {
+      "id": "word_0030",
+      "translation": "ew",
+      "phonetic": "",
+      "example": "Ew zû direvîne."
+    },
+    {
+      "id": "word_0031",
+      "translation": "yan",
+      "phonetic": "",
+      "example": "Çepê yan rastê?"
+    },
+    {
+      "id": "word_0032",
+      "translation": "yek",
+      "phonetic": "",
+      "example": "Rojê sêvek."
+    },
+    {
+      "id": "word_0033",
+      "translation": "dê",
+      "phonetic": "",
+      "example": "Ez dê hewil bidim."
+    },
+    {
+      "id": "word_0034",
+      "translation": "min",
+      "phonetic": "",
+      "example": "Navê min John e."
+    },
+    {
+      "id": "word_0035",
+      "translation": "yek",
+      "phonetic": "",
+      "example": "Carekî din."
+    },
+    {
+      "id": "word_0036",
+      "translation": "hemû",
+      "phonetic": "",
+      "example": "Hemû mirov bi xêr hatin."
+    },
+    {
+      "id": "word_0037",
+      "translation": "dê",
+      "phonetic": "",
+      "example": "Tu çay dixwazî?"
+    },
+    {
+      "id": "word_0038",
+      "translation": "li wir",
+      "phonetic": "",
+      "example": "Li wir ye!"
+    },
+    {
+      "id": "word_0039",
+      "translation": "yên wan",
+      "phonetic": "",
+      "example": "Sewê wan burîne."
+    },
+    {
+      "id": "word_0040",
+      "translation": "çi",
+      "phonetic": "",
+      "example": "Ev çi ye?"
+    },
+    {
+      "id": "word_0041",
+      "translation": "lewma",
+      "phonetic": "",
+      "example": "Ez westiyam, lewma dê razêm."
+    },
+    {
+      "id": "word_0042",
+      "translation": "jor",
+      "phonetic": "",
+      "example": "Zû rabe."
+    },
+    {
+      "id": "word_0043",
+      "translation": "der",
+      "phonetic": "",
+      "example": "Niha derkeve."
+    },
+    {
+      "id": "word_0044",
+      "translation": "ger",
+      "phonetic": "",
+      "example": "Ger tu dixwazî, were."
+    },
+    {
+      "id": "word_0045",
+      "translation": "derbarê",
+      "phonetic": "",
+      "example": "Derbarê jiyanê axive."
+    },
+    {
+      "id": "word_0046",
+      "translation": "kî",
+      "phonetic": "",
+      "example": "Tu kî yî?"
+    },
+    {
+      "id": "word_0047",
+      "translation": "stendin",
+      "phonetic": "",
+      "example": "Hindek bisekine."
+    },
+    {
+      "id": "word_0048",
+      "translation": "kîjan",
+      "phonetic": "",
+      "example": "Kîjan a te ye?"
+    },
+    {
+      "id": "word_0049",
+      "translation": "çûn",
+      "phonetic": "",
+      "example": "Ka em biçin malê."
+    },
+    {
+      "id": "word_0050",
+      "translation": "min",
+      "phonetic": "",
+      "example": "Zêdetir ji min re veke."
+    },
+    {
+      "id": "word_0051",
+      "translation": "kengî",
+      "phonetic": "",
+      "example": "Tu kengî gihaştî?"
+    },
+    {
+      "id": "word_0052",
+      "translation": "çêkirin",
+      "phonetic": "",
+      "example": "Xewniyek bike."
+    },
+    {
+      "id": "word_0053",
+      "translation": "karîn",
+      "phonetic": "",
+      "example": "Ez dikarim alîkariya te bikim."
+    },
+    {
+      "id": "word_0054",
+      "translation": "hez kirin",
+      "phonetic": "",
+      "example": "Ez ji muzîkê hez dikim."
+    },
+    {
+      "id": "word_0055",
+      "translation": "dem",
+      "phonetic": "",
+      "example": "Dem zû derbas dibe."
+    },
+    {
+      "id": "word_0056",
+      "translation": "na",
+      "phonetic": "",
+      "example": "Kêşe tune."
+    },
+    {
+      "id": "word_0057",
+      "translation": "tenê",
+      "phonetic": "",
+      "example": "Tenê bike."
+    },
+    {
+      "id": "word_0058",
+      "translation": "wî",
+      "phonetic": "",
+      "example": "Ez jê re gotim."
+    },
+    {
+      "id": "word_0059",
+      "translation": "zanîn",
+      "phonetic": "",
+      "example": "Ez te nas dikim."
+    },
+    {
+      "id": "word_0060",
+      "translation": "standin",
+      "phonetic": "",
+      "example": "Demê xwe bistîne."
+    },
+    {
+      "id": "word_0061",
+      "translation": "mirov",
+      "phonetic": "",
+      "example": "Mirov li bendê ne."
+    },
+    {
+      "id": "word_0062",
+      "translation": "nav",
+      "phonetic": "",
+      "example": "Bifirre nav avê."
+    },
+    {
+      "id": "word_0063",
+      "translation": "sal",
+      "phonetic": "",
+      "example": "Sala nû pîroz be!"
+    },
+    {
+      "id": "word_0064",
+      "translation": "te",
+      "phonetic": "",
+      "example": "Nöbeta te ye."
+    },
+    {
+      "id": "word_0065",
+      "translation": "baş",
+      "phonetic": "",
+      "example": "Sibehê xweş!"
+    },
+    {
+      "id": "word_0066",
+      "translation": "hin",
+      "phonetic": "",
+      "example": "Hin mirov razî ne."
+    },
+    {
+      "id": "word_0067",
+      "translation": "dikarîbû",
+      "phonetic": "",
+      "example": "Tu dikarîbû raweste?"
+    },
+    {
+      "id": "word_0068",
+      "translation": "wan",
+      "phonetic": "",
+      "example": "Ez ji wan hez dikim."
+    },
+    {
+      "id": "word_0069",
+      "translation": "dîtin",
+      "phonetic": "",
+      "example": "Ez zelal dibînim."
+    },
+    {
+      "id": "word_0070",
+      "translation": "din",
+      "phonetic": "",
+      "example": "Vebijarkên din hene."
+    },
+    {
+      "id": "word_0071",
+      "translation": "ji",
+      "phonetic": "",
+      "example": "Baştir ji berê."
+    },
+    {
+      "id": "word_0072",
+      "translation": "dûre",
+      "phonetic": "",
+      "example": "Dûre em derketin."
+    },
+    {
+      "id": "word_0073",
+      "translation": "niha",
+      "phonetic": "",
+      "example": "Were vir niha."
+    },
+    {
+      "id": "word_0074",
+      "translation": "nihêrîn",
+      "phonetic": "",
+      "example": "Li her du aliyan binihêre."
+    },
+    {
+      "id": "word_0075",
+      "translation": "tenê",
+      "phonetic": "",
+      "example": "Tenê yek maye."
+    },
+    {
+      "id": "word_0076",
+      "translation": "hatin",
+      "phonetic": "",
+      "example": "Bi me re were."
+    },
+    {
+      "id": "word_0077",
+      "translation": "yê wê",
+      "phonetic": "",
+      "example": "Kûçik pîşkê xwe hejand."
+    },
+    {
+      "id": "word_0078",
+      "translation": "ser",
+      "phonetic": "",
+      "example": "Li ser keskesorê."
+    },
+    {
+      "id": "word_0079",
+      "translation": "fikirîn",
+      "phonetic": "",
+      "example": "Berî axaftinê bifikire."
+    },
+    {
+      "id": "word_0080",
+      "translation": "jî",
+      "phonetic": "",
+      "example": "Ez jî razî me."
+    },
+    {
+      "id": "word_0081",
+      "translation": "paşve",
+      "phonetic": "",
+      "example": "Zû veger."
+    },
+    {
+      "id": "word_0082",
+      "translation": "piştî",
+      "phonetic": "",
+      "example": "Piştî taştê."
+    },
+    {
+      "id": "word_0083",
+      "translation": "bikaranîn",
+      "phonetic": "",
+      "example": "Vê pênavkê bike."
+    },
+    {
+      "id": "word_0084",
+      "translation": "du",
+      "phonetic": "",
+      "example": "Du bes e."
+    },
+    {
+      "id": "word_0085",
+      "translation": "çawa",
+      "phonetic": "",
+      "example": "Tu çawa yî?"
+    },
+    {
+      "id": "word_0086",
+      "translation": "me",
+      "phonetic": "",
+      "example": "Malbata me mezin e."
+    },
+    {
+      "id": "word_0087",
+      "translation": "kar",
+      "phonetic": "",
+      "example": "Kara dijwar dide encam."
+    },
+    {
+      "id": "word_0088",
+      "translation": "yekem",
+      "phonetic": "",
+      "example": "Xwediyê cîha yekem."
+    },
+    {
+      "id": "word_0089",
+      "translation": "baş",
+      "phonetic": "",
+      "example": "Şevê xweş razê."
+    },
+    {
+      "id": "word_0090",
+      "translation": "rê",
+      "phonetic": "",
+      "example": "Bi vê rêyê ji kerema xwe."
+    },
+    {
+      "id": "word_0091",
+      "translation": "heta",
+      "phonetic": "",
+      "example": "Heta niha baştir."
+    },
+    {
+      "id": "word_0092",
+      "translation": "nû",
+      "phonetic": "",
+      "example": "Îro telefona nû."
+    },
+    {
+      "id": "word_0093",
+      "translation": "xwestin",
+      "phonetic": "",
+      "example": "Ez aştiyê dixwazim."
+    },
+    {
+      "id": "word_0094",
+      "translation": "ji ber ku",
+      "phonetic": "",
+      "example": "Ji ber ku ez wiha got."
+    },
+    {
+      "id": "word_0095",
+      "translation": "her",
+      "phonetic": "",
+      "example": "Pirsên hene?"
+    },
+    {
+      "id": "word_0096",
+      "translation": "van",
+      "phonetic": "",
+      "example": "Van teze ne."
+    },
+    {
+      "id": "word_0097",
+      "translation": "dan",
+      "phonetic": "",
+      "example": "Hêz bide min."
+    },
+    {
+      "id": "word_0098",
+      "translation": "roj",
+      "phonetic": "",
+      "example": "Îro rojek bedew e."
+    },
+    {
+      "id": "word_0099",
+      "translation": "pirtir",
+      "phonetic": "",
+      "example": "Pirtir xwendevan derbas bûn."
+    },
+    {
+      "id": "word_0100",
+      "translation": "me",
+      "phonetic": "",
+      "example": "Ji kerema xwe bi me ve tev bibin."
+    },
+    {
+      "id": "word_0101",
+      "translation": "e",
+      "phonetic": "",
+      "example": "Ew kêfxweş e."
+    },
+    {
+      "id": "word_0102",
+      "translation": "bû",
+      "phonetic": "",
+      "example": "Ew gelek baş bû."
+    },
+    {
+      "id": "word_0103",
+      "translation": "in",
+      "phonetic": "",
+      "example": "Em heval in."
+    },
+    {
+      "id": "word_0104",
+      "translation": "bûyî",
+      "phonetic": "",
+      "example": "Tu li wir bûyî?"
+    },
+    {
+      "id": "word_0105",
+      "translation": "heye",
+      "phonetic": "",
+      "example": "Ew gihaşt."
+    },
+    {
+      "id": "word_0106",
+      "translation": "hebû",
+      "phonetic": "",
+      "example": "Ew derketi bû."
+    },
+    {
+      "id": "word_0107",
+      "translation": "bûn",
+      "phonetic": "",
+      "example": "Ew dereng bûn."
+    },
+    {
+      "id": "word_0108",
+      "translation": "got",
+      "phonetic": "",
+      "example": "Ew tiştek negot."
+    },
+    {
+      "id": "word_0109",
+      "translation": "kir",
+      "phonetic": "",
+      "example": "Ez ew kir."
+    },
+    {
+      "id": "word_0110",
+      "translation": "hebûna",
+      "phonetic": "",
+      "example": "Îro kêfxweş e."
+    },
+    {
+      "id": "word_0111",
+      "translation": "dikare",
+      "phonetic": "",
+      "example": "Ez dikarim alîkarî bikim?"
+    },
+    {
+      "id": "word_0112",
+      "translation": "divê",
+      "phonetic": "",
+      "example": "Tu divê biceribînî."
+    },
+    {
+      "id": "word_0113",
+      "translation": "divê",
+      "phonetic": "",
+      "example": "Divê em biçin."
+    },
+    {
+      "id": "word_0114",
+      "translation": "me",
+      "phonetic": "",
+      "example": "Ez amade me."
+    },
+    {
+      "id": "word_0115",
+      "translation": "dibe",
+      "phonetic": "",
+      "example": "Dibe baranê bibarine."
+    },
+    {
+      "id": "word_0116",
+      "translation": "bûna",
+      "phonetic": "",
+      "example": "Rastgoyî girîng e."
+    },
+    {
+      "id": "word_0117",
+      "translation": "dike",
+      "phonetic": "",
+      "example": "Ew yoga dike."
+    },
+    {
+      "id": "word_0118",
+      "translation": "kirin",
+      "phonetic": "",
+      "example": "Kar qediya."
+    },
+    {
+      "id": "word_0119",
+      "translation": "kirina",
+      "phonetic": "",
+      "example": "Tu çi dikî?"
+    },
+    {
+      "id": "word_0120",
+      "translation": "çêkir",
+      "phonetic": "",
+      "example": "Ez kûke çêkirin."
+    },
+    {
+      "id": "word_0121",
+      "translation": "çêdike",
+      "phonetic": "",
+      "example": "Pratîk kamîl çêdike."
+    },
+    {
+      "id": "word_0122",
+      "translation": "çêkirina",
+      "phonetic": "",
+      "example": "Her roj pêşveçûn."
+    },
+    {
+      "id": "word_0123",
+      "translation": "çû",
+      "phonetic": "",
+      "example": "Em kirinê çûn."
+    },
+    {
+      "id": "word_0124",
+      "translation": "diçim",
+      "phonetic": "",
+      "example": "Ez diçim malê."
+    },
+    {
+      "id": "word_0125",
+      "translation": "diçe",
+      "phonetic": "",
+      "example": "Dem zû derbas dibe."
+    },
+    {
+      "id": "word_0126",
+      "translation": "hat",
+      "phonetic": "",
+      "example": "Ew duh hat."
+    },
+    {
+      "id": "word_0127",
+      "translation": "tê",
+      "phonetic": "",
+      "example": "Zivistan tê."
+    },
+    {
+      "id": "word_0128",
+      "translation": "tê",
+      "phonetic": "",
+      "example": "Alîkarî zû tê."
+    },
+    {
+      "id": "word_0129",
+      "translation": "dît",
+      "phonetic": "",
+      "example": "Ez te dîtim."
+    },
+    {
+      "id": "word_0130",
+      "translation": "dîtî",
+      "phonetic": "",
+      "example": "Tu vê dîtiye?"
+    },
+    {
+      "id": "word_0131",
+      "translation": "dîtina",
+      "phonetic": "",
+      "example": "Dîtin bawer kirine."
+    },
+    {
+      "id": "word_0132",
+      "translation": "dibîne",
+      "phonetic": "",
+      "example": "Her kes ew dibîne."
+    },
+    {
+      "id": "word_0133",
+      "translation": "dizanî",
+      "phonetic": "",
+      "example": "Ez wê dizanîbû."
+    },
+    {
+      "id": "word_0134",
+      "translation": "nas",
+      "phonetic": "",
+      "example": "Rastiya naskirî."
+    },
+    {
+      "id": "word_0135",
+      "translation": "zanîna",
+      "phonetic": "",
+      "example": "Zanîn alîkariya hînbûnê dike."
+    },
+    {
+      "id": "word_0136",
+      "translation": "dizane",
+      "phonetic": "",
+      "example": "Kes nizane çima."
+    },
+    {
+      "id": "word_0137",
+      "translation": "stand",
+      "phonetic": "",
+      "example": "Ew nîşan stand."
+    },
+    {
+      "id": "word_0138",
+      "translation": "standî",
+      "phonetic": "",
+      "example": "Hemû cih dagirtî."
+    },
+    {
+      "id": "word_0139",
+      "translation": "standina",
+      "phonetic": "",
+      "example": "Betlandineke bistîne."
+    },
+    {
+      "id": "word_0140",
+      "translation": "distîne",
+      "phonetic": "",
+      "example": "Ew dem distîne."
+    },
+    {
+      "id": "word_0141",
+      "translation": "girt",
+      "phonetic": "",
+      "example": "Ez fêm kir."
+    },
+    {
+      "id": "word_0142",
+      "translation": "girtî",
+      "phonetic": "",
+      "example": "Tu nûçe girtiye?"
+    },
+    {
+      "id": "word_0143",
+      "translation": "girtina",
+      "phonetic": "",
+      "example": "Her roj başbûn."
+    },
+    {
+      "id": "word_0144",
+      "translation": "digire",
+      "phonetic": "",
+      "example": "Ew encam digire."
+    },
+    {
+      "id": "word_0145",
+      "translation": "fikirî",
+      "phonetic": "",
+      "example": "Ez wisa fikirim."
+    },
+    {
+      "id": "word_0146",
+      "translation": "fikirîna",
+      "phonetic": "",
+      "example": "Erênî bifikire."
+    },
+    {
+      "id": "word_0147",
+      "translation": "difikire",
+      "phonetic": "",
+      "example": "Ew cuda difikire."
+    },
+    {
+      "id": "word_0148",
+      "translation": "nihêrî",
+      "phonetic": "",
+      "example": "Ez her cih nihêrîm."
+    },
+    {
+      "id": "word_0149",
+      "translation": "lêgerîna",
+      "phonetic": "",
+      "example": "Li bersivan digere."
+    },
+    {
+      "id": "word_0150",
+      "translation": "xuya dike",
+      "phonetic": "",
+      "example": "Ew baş xuya dike."
+    },
+    {
+      "id": "word_0151",
+      "translation": "merheba",
+      "phonetic": "",
+      "example": "Merheba, kêfa te çawa ye!"
+    },
+    {
+      "id": "word_0152",
+      "translation": "xatirê te xweş",
+      "phonetic": "",
+      "example": "Xatirê te xweş, sibe hevdîtin."
+    },
+    {
+      "id": "word_0153",
+      "translation": "erê",
+      "phonetic": "",
+      "example": "Erê, ez razî me."
+    },
+    {
+      "id": "word_0154",
+      "translation": "ji kerema xwe",
+      "phonetic": "",
+      "example": "Ji kerema xwe alîkariya min bike."
+    },
+    {
+      "id": "word_0155",
+      "translation": "spas",
+      "phonetic": "",
+      "example": "Gelek spas."
+    },
+    {
+      "id": "word_0156",
+      "translation": "bibore",
+      "phonetic": "",
+      "example": "Ez pir dibîborim."
+    },
+    {
+      "id": "word_0157",
+      "translation": "borîne",
+      "phonetic": "",
+      "example": "Borîne ji kerema xwe."
+    },
+    {
+      "id": "word_0158",
+      "translation": "bi xêr hatî",
+      "phonetic": "",
+      "example": "Tu li vir bi xêr hatî."
+    },
+    {
+      "id": "word_0159",
+      "translation": "sibeh",
+      "phonetic": "",
+      "example": "Sibehê bi xêr her kes!"
+    },
+    {
+      "id": "word_0160",
+      "translation": "nîvro",
+      "phonetic": "",
+      "example": "Nîvroja te bi xêr birêz."
+    },
+    {
+      "id": "word_0161",
+      "translation": "êvar",
+      "phonetic": "",
+      "example": "Êvarê bi xêr xanim."
+    },
+    {
+      "id": "word_0162",
+      "translation": "şev",
+      "phonetic": "",
+      "example": "Şeva te bi xêr, baş razê."
+    },
+    {
+      "id": "word_0163",
+      "translation": "îro",
+      "phonetic": "",
+      "example": "Îro taybet e."
+    },
+    {
+      "id": "word_0164",
+      "translation": "sibe",
+      "phonetic": "",
+      "example": "Sibe hevdîtin."
+    },
+    {
+      "id": "word_0165",
+      "translation": "duh",
+      "phonetic": "",
+      "example": "Duh kêfxweş bû."
+    },
+    {
+      "id": "word_0166",
+      "translation": "hefte",
+      "phonetic": "",
+      "example": "Hefteya din duşem."
+    },
+    {
+      "id": "word_0167",
+      "translation": "meh",
+      "phonetic": "",
+      "example": "Meha borî adar."
+    },
+    {
+      "id": "word_0168",
+      "translation": "duşem",
+      "phonetic": "",
+      "example": "Duşem meşxûl e."
+    },
+    {
+      "id": "word_0169",
+      "translation": "sêşem",
+      "phonetic": "",
+      "example": "Sêşem civîn heye."
+    },
+    {
+      "id": "word_0170",
+      "translation": "çarşem",
+      "phonetic": "",
+      "example": "Çarşem nîvê hefteyê ye."
+    },
+    {
+      "id": "word_0171",
+      "translation": "pêncşem",
+      "phonetic": "",
+      "example": "Pêncşem nêzî dawiya hefteyê."
+    },
+    {
+      "id": "word_0172",
+      "translation": "în",
+      "phonetic": "",
+      "example": "Şeva înê kêfxweş."
+    },
+    {
+      "id": "word_0173",
+      "translation": "şemî",
+      "phonetic": "",
+      "example": "Şemî kar tune."
+    },
+    {
+      "id": "word_0174",
+      "translation": "yekşem",
+      "phonetic": "",
+      "example": "Yekşem roja rahetiyê."
+    },
+    {
+      "id": "word_0175",
+      "translation": "rêbendan",
+      "phonetic": "",
+      "example": "Rêbendan sar e."
+    },
+    {
+      "id": "word_0176",
+      "translation": "reşemî",
+      "phonetic": "",
+      "example": "Reşemî mehek kurt e."
+    },
+    {
+      "id": "word_0177",
+      "translation": "adar",
+      "phonetic": "",
+      "example": "Adar biharê tîne."
+    },
+    {
+      "id": "word_0178",
+      "translation": "avrêl",
+      "phonetic": "",
+      "example": "Avrêl baran heye."
+    },
+    {
+      "id": "word_0179",
+      "translation": "gulan",
+      "phonetic": "",
+      "example": "Gulan gulan vedikeve."
+    },
+    {
+      "id": "word_0180",
+      "translation": "pûşper",
+      "phonetic": "",
+      "example": "Pûşper germ e."
+    },
+    {
+      "id": "word_0181",
+      "translation": "tîrmeh",
+      "phonetic": "",
+      "example": "Tîrmeh pir germ."
+    },
+    {
+      "id": "word_0182",
+      "translation": "tebax",
+      "phonetic": "",
+      "example": "Tebax dema betlanê."
+    },
+    {
+      "id": "word_0183",
+      "translation": "îlon",
+      "phonetic": "",
+      "example": "Îlon dibistan dest pê dike."
+    },
+    {
+      "id": "word_0184",
+      "translation": "cotmeh",
+      "phonetic": "",
+      "example": "Cotmeh pelên dikevine."
+    },
+    {
+      "id": "word_0185",
+      "translation": "mijdar",
+      "phonetic": "",
+      "example": "Mijdar sar dibe."
+    },
+    {
+      "id": "word_0186",
+      "translation": "berfanbar",
+      "phonetic": "",
+      "example": "Berfanbar meha zivistanê."
+    },
+    {
+      "id": "word_0187",
+      "translation": "bihar",
+      "phonetic": "",
+      "example": "Bihar gulan tîne."
+    },
+    {
+      "id": "word_0188",
+      "translation": "havîn",
+      "phonetic": "",
+      "example": "Havîn germ e."
+    },
+    {
+      "id": "word_0189",
+      "translation": "payîz",
+      "phonetic": "",
+      "example": "Pelên payîzê bedew in."
+    },
+    {
+      "id": "word_0190",
+      "translation": "zivistan",
+      "phonetic": "",
+      "example": "Zivistan sar e."
+    },
+    {
+      "id": "word_0191",
+      "translation": "mêr",
+      "phonetic": "",
+      "example": "Mêr dimeşe."
+    },
+    {
+      "id": "word_0192",
+      "translation": "jin",
+      "phonetic": "",
+      "example": "Ew jin kenê dide."
+    },
+    {
+      "id": "word_0193",
+      "translation": "zarok",
+      "phonetic": "",
+      "example": "Zarok dilîze."
+    },
+    {
+      "id": "word_0194",
+      "translation": "kur",
+      "phonetic": "",
+      "example": "Kurikek direwe."
+    },
+    {
+      "id": "word_0195",
+      "translation": "keç",
+      "phonetic": "",
+      "example": "Keç dixwîne."
+    },
+    {
+      "id": "word_0196",
+      "translation": "pitik",
+      "phonetic": "",
+      "example": "Pitik di xewê de ye."
+    },
+    {
+      "id": "word_0197",
+      "translation": "kes",
+      "phonetic": "",
+      "example": "Kesek baş li vir e."
+    },
+    {
+      "id": "word_0198",
+      "translation": "malbat",
+      "phonetic": "",
+      "example": "Malbata min ji min hez dike."
+    },
+    {
+      "id": "word_0199",
+      "translation": "heval",
+      "phonetic": "",
+      "example": "Hevalê baş heta hetayê."
+    },
+    {
+      "id": "word_0200",
+      "translation": "dê",
+      "phonetic": "",
+      "example": "Dêya min çêdike."
+    },
+    {
+      "id": "word_0201",
+      "translation": "bav",
+      "phonetic": "",
+      "example": "Bavê wî dixebite."
+    },
+    {
+      "id": "word_0202",
+      "translation": "dêûbav",
+      "phonetic": "",
+      "example": "Her dêûbav dîlê dişopîne."
+    },
+    {
+      "id": "word_0203",
+      "translation": "bira",
+      "phonetic": "",
+      "example": "Birayê min dilîze."
+    },
+    {
+      "id": "word_0204",
+      "translation": "xwişk",
+      "phonetic": "",
+      "example": "Xwişka wê distirîne."
+    },
+    {
+      "id": "word_0205",
+      "translation": "kur",
+      "phonetic": "",
+      "example": "Kurê wan dixwîne."
+    },
+    {
+      "id": "word_0206",
+      "translation": "keç",
+      "phonetic": "",
+      "example": "Keça min dixwîne."
+    },
+    {
+      "id": "word_0207",
+      "translation": "mêr",
+      "phonetic": "",
+      "example": "Mêrê wê diajotin dike."
+    },
+    {
+      "id": "word_0208",
+      "translation": "jin",
+      "phonetic": "",
+      "example": "Jina wî hîn dike."
+    },
+    {
+      "id": "word_0209",
+      "translation": "nav",
+      "phonetic": "",
+      "example": "Navê te çi ye?"
+    },
+    {
+      "id": "word_0210",
+      "translation": "dest",
+      "phonetic": "",
+      "example": "Destê xwe rake."
+    },
+    {
+      "id": "word_0211",
+      "translation": "çav",
+      "phonetic": "",
+      "example": "Çavên xwe bigire."
+    },
+    {
+      "id": "word_0212",
+      "translation": "serî",
+      "phonetic": "",
+      "example": "Serê xwe bilive."
+    },
+    {
+      "id": "word_0213",
+      "translation": "rû",
+      "phonetic": "",
+      "example": "Rûyê xwe bishû."
+    },
+    {
+      "id": "word_0214",
+      "translation": "beden",
+      "phonetic": "",
+      "example": "Bedena saxlem girîng e."
+    },
+    {
+      "id": "word_0215",
+      "translation": "pê",
+      "phonetic": "",
+      "example": "Piya min dijê."
+    },
+    {
+      "id": "word_0216",
+      "translation": "dil",
+      "phonetic": "",
+      "example": "Dilê baş girîng e."
+    },
+    {
+      "id": "word_0217",
+      "translation": "xanî",
+      "phonetic": "",
+      "example": "Xaniyeke mezin nêzî."
+    },
+    {
+      "id": "word_0218",
+      "translation": "mal",
+      "phonetic": "",
+      "example": "Niha diçim malê."
+    },
+    {
+      "id": "word_0219",
+      "translation": "oda",
+      "phonetic": "",
+      "example": "Her roj odê paqij bike."
+    },
+    {
+      "id": "word_0220",
+      "translation": "derî",
+      "phonetic": "",
+      "example": "Derî veke."
+    },
+    {
+      "id": "word_0221",
+      "translation": "pencere",
+      "phonetic": "",
+      "example": "Pencerê bigire."
+    },
+    {
+      "id": "word_0222",
+      "translation": "mase",
+      "phonetic": "",
+      "example": "Maseyê amade bike."
+    },
+    {
+      "id": "word_0223",
+      "translation": "kursî",
+      "phonetic": "",
+      "example": "Li ser kursiyê rûne."
+    },
+    {
+      "id": "word_0224",
+      "translation": "nivîn",
+      "phonetic": "",
+      "example": "Nivînê xwe saz bike."
+    },
+    {
+      "id": "word_0225",
+      "translation": "dibistan",
+      "phonetic": "",
+      "example": "Dibistan duşemê dest pê dike."
+    },
+    {
+      "id": "word_0226",
+      "translation": "pol",
+      "phonetic": "",
+      "example": "Îro pola îngilîzî."
+    },
+    {
+      "id": "word_0227",
+      "translation": "mamoste",
+      "phonetic": "",
+      "example": "Mamoste baş raveşdike."
+    },
+    {
+      "id": "word_0228",
+      "translation": "xwendevan",
+      "phonetic": "",
+      "example": "Her xwendevan hîn dibe."
+    },
+    {
+      "id": "word_0229",
+      "translation": "pirtûk",
+      "phonetic": "",
+      "example": "Vê pirtûkê bixwîne."
+    },
+    {
+      "id": "word_0230",
+      "translation": "pênavk",
+      "phonetic": "",
+      "example": "Pênavka şîn bikar bîne."
+    },
+    {
+      "id": "word_0231",
+      "translation": "kaxez",
+      "phonetic": "",
+      "example": "Li ser kaxezê binivîse."
+    },
+    {
+      "id": "word_0232",
+      "translation": "mase",
+      "phonetic": "",
+      "example": "Maseya xwe paqij bike."
+    },
+    {
+      "id": "word_0233",
+      "translation": "nivîsgeh",
+      "phonetic": "",
+      "example": "Nivîsgeh zû vedibe."
+    },
+    {
+      "id": "word_0234",
+      "translation": "kar",
+      "phonetic": "",
+      "example": "Karê baş îro."
+    },
+    {
+      "id": "word_0235",
+      "translation": "cih",
+      "phonetic": "",
+      "example": "Ciheke xweş li vir e."
+    },
+    {
+      "id": "word_0236",
+      "translation": "bajar",
+      "phonetic": "",
+      "example": "Jiyana bajêrê mezin."
+    },
+    {
+      "id": "word_0237",
+      "translation": "welat",
+      "phonetic": "",
+      "example": "Erdnîgariya welatê bedew."
+    },
+    {
+      "id": "word_0238",
+      "translation": "kolan",
+      "phonetic": "",
+      "example": "Kolanê derbas bike."
+    },
+    {
+      "id": "word_0239",
+      "translation": "rê",
+      "phonetic": "",
+      "example": "Rêyek dirêj li pêş."
+    },
+    {
+      "id": "word_0240",
+      "translation": "otomobîl",
+      "phonetic": "",
+      "example": "Otomobîla nû kirî."
+    },
+    {
+      "id": "word_0241",
+      "translation": "otobus",
+      "phonetic": "",
+      "example": "Otobusê bigire."
+    },
+    {
+      "id": "word_0242",
+      "translation": "trên",
+      "phonetic": "",
+      "example": "Trênê bidî dest."
+    },
+    {
+      "id": "word_0243",
+      "translation": "balafir",
+      "phonetic": "",
+      "example": "Balafir bilind difire."
+    },
+    {
+      "id": "word_0244",
+      "translation": "dikan",
+      "phonetic": "",
+      "example": "Dikanê serdana bike."
+    },
+    {
+      "id": "word_0245",
+      "translation": "firotgeh",
+      "phonetic": "",
+      "example": "Firotgeh her tiştî difiroşe."
+    },
+    {
+      "id": "word_0246",
+      "translation": "bazar",
+      "phonetic": "",
+      "example": "Bazara cotkar şemî."
+    },
+    {
+      "id": "word_0247",
+      "translation": "pere",
+      "phonetic": "",
+      "example": "Pereyên xwe hilanîne."
+    },
+    {
+      "id": "word_0248",
+      "translation": "xwarin",
+      "phonetic": "",
+      "example": "Xwarina saxlem girîng e."
+    },
+    {
+      "id": "word_0249",
+      "translation": "av",
+      "phonetic": "",
+      "example": "Ava paqij vexwe."
+    },
+    {
+      "id": "word_0250",
+      "translation": "nan",
+      "phonetic": "",
+      "example": "Her roj nanê teze."
+    },
+    {
+      "id": "word_0251",
+      "translation": "goşt",
+      "phonetic": "",
+      "example": "Goştê bipeje."
+    },
+    {
+      "id": "word_0252",
+      "translation": "masî",
+      "phonetic": "",
+      "example": "Masiya teze bixwe."
+    },
+    {
+      "id": "word_0253",
+      "translation": "birinc",
+      "phonetic": "",
+      "example": "Birinca sipî bipeje."
+    },
+    {
+      "id": "word_0254",
+      "translation": "sebze",
+      "phonetic": "",
+      "example": "Zêdetir sebze bixwe."
+    },
+    {
+      "id": "word_0255",
+      "translation": "fêkî",
+      "phonetic": "",
+      "example": "Fêkiya teze saxlem e."
+    },
+    {
+      "id": "word_0256",
+      "translation": "sêv",
+      "phonetic": "",
+      "example": "Sêva sor şirîn e."
+    },
+    {
+      "id": "word_0257",
+      "translation": "hêk",
+      "phonetic": "",
+      "example": "Hêkê bikelandin."
+    },
+    {
+      "id": "word_0258",
+      "translation": "şîr",
+      "phonetic": "",
+      "example": "Şîrê sar vexwe."
+    },
+    {
+      "id": "word_0259",
+      "translation": "qehwe",
+      "phonetic": "",
+      "example": "Sibehê qehweya germ."
+    },
+    {
+      "id": "word_0260",
+      "translation": "çay",
+      "phonetic": "",
+      "example": "Çaya kesk saxlem e."
+    },
+    {
+      "id": "word_0261",
+      "translation": "taştê",
+      "phonetic": "",
+      "example": "Taştiya baş bixwe."
+    },
+    {
+      "id": "word_0262",
+      "translation": "nîvro",
+      "phonetic": "",
+      "example": "Nîvroja bisekinê."
+    },
+    {
+      "id": "word_0263",
+      "translation": "şîvanê",
+      "phonetic": "",
+      "example": "Malbat pêkve şîvanê."
+    },
+    {
+      "id": "word_0264",
+      "translation": "xwarin",
+      "phonetic": "",
+      "example": "Xwarina saxlem girîng e."
+    },
+    {
+      "id": "word_0265",
+      "translation": "vexwarin",
+      "phonetic": "",
+      "example": "Vexwarinek sar feheş."
+    },
+    {
+      "id": "word_0266",
+      "translation": "fîncan",
+      "phonetic": "",
+      "example": "Fîncanê tijî bike."
+    },
+    {
+      "id": "word_0267",
+      "translation": "glas",
+      "phonetic": "",
+      "example": "Glasek av."
+    },
+    {
+      "id": "word_0268",
+      "translation": "teşt",
+      "phonetic": "",
+      "example": "Teşta vala paqij bike."
+    },
+    {
+      "id": "word_0269",
+      "translation": "kêr",
+      "phonetic": "",
+      "example": "Kêra tûj awayê."
+    },
+    {
+      "id": "word_0270",
+      "translation": "çetel",
+      "phonetic": "",
+      "example": "Çetelê bikar bîne."
+    },
+    {
+      "id": "word_0271",
+      "translation": "kevçî",
+      "phonetic": "",
+      "example": "Bi kevçî bixwe."
+    },
+    {
+      "id": "word_0272",
+      "translation": "cil",
+      "phonetic": "",
+      "example": "Cilên xwe bishû."
+    },
+    {
+      "id": "word_0273",
+      "translation": "kiras",
+      "phonetic": "",
+      "example": "Kirasa sipî paqij e."
+    },
+    {
+      "id": "word_0274",
+      "translation": "pantol",
+      "phonetic": "",
+      "example": "Pantola şîn rehet e."
+    },
+    {
+      "id": "word_0275",
+      "translation": "kiras",
+      "phonetic": "",
+      "example": "Kirasa bedew sor."
+    },
+    {
+      "id": "word_0276",
+      "translation": "pêlav",
+      "phonetic": "",
+      "example": "Pêlavên xwe girê bide."
+    },
+    {
+      "id": "word_0277",
+      "translation": "kûmik",
+      "phonetic": "",
+      "example": "Kûmika rojê li xwe bike."
+    },
+    {
+      "id": "word_0278",
+      "translation": "paltok",
+      "phonetic": "",
+      "example": "Paltoka germê ya zivistanê."
+    },
+    {
+      "id": "word_0279",
+      "translation": "reng",
+      "phonetic": "",
+      "example": "Rengê bijarte şîn e."
+    },
+    {
+      "id": "word_0280",
+      "translation": "sor",
+      "phonetic": "",
+      "example": "Gula sor bedew e."
+    },
+    {
+      "id": "word_0281",
+      "translation": "şîn",
+      "phonetic": "",
+      "example": "Esman şîn zelal e."
+    },
+    {
+      "id": "word_0282",
+      "translation": "kesk",
+      "phonetic": "",
+      "example": "Giya kesk teze ye."
+    },
+    {
+      "id": "word_0283",
+      "translation": "zer",
+      "phonetic": "",
+      "example": "Rojê zer ronahî ye."
+    },
+    {
+      "id": "word_0284",
+      "translation": "sipî",
+      "phonetic": "",
+      "example": "Berf sipî paqij e."
+    },
+    {
+      "id": "word_0285",
+      "translation": "reş",
+      "phonetic": "",
+      "example": "Qehweya reş bihêz e."
+    },
+    {
+      "id": "word_0286",
+      "translation": "mezin",
+      "phonetic": "",
+      "example": "Xaniya mezin fireh e."
+    },
+    {
+      "id": "word_0287",
+      "translation": "piçûk",
+      "phonetic": "",
+      "example": "Odaya piçûk rehet e."
+    },
+    {
+      "id": "word_0288",
+      "translation": "mezin",
+      "phonetic": "",
+      "example": "Pîzaya mezin parvekirin."
+    },
+    {
+      "id": "word_0289",
+      "translation": "biçûk",
+      "phonetic": "",
+      "example": "Pitika biçûk delal e."
+    },
+    {
+      "id": "word_0290",
+      "translation": "dirêj",
+      "phonetic": "",
+      "example": "Rêya dirêj bêdawî ye."
+    },
+    {
+      "id": "word_0291",
+      "translation": "kurt",
+      "phonetic": "",
+      "example": "Sekindineke kurt zû."
+    },
+    {
+      "id": "word_0292",
+      "translation": "bilind",
+      "phonetic": "",
+      "example": "Çiya bilind dirêj e."
+    },
+    {
+      "id": "word_0293",
+      "translation": "nizm",
+      "phonetic": "",
+      "example": "Bihaya nizm gihandî ye."
+    },
+    {
+      "id": "word_0294",
+      "translation": "germ",
+      "phonetic": "",
+      "example": "Roja havînê germ."
+    },
+    {
+      "id": "word_0295",
+      "translation": "sar",
+      "phonetic": "",
+      "example": "Şeva zivistanê sar."
+    },
+    {
+      "id": "word_0296",
+      "translation": "germ",
+      "phonetic": "",
+      "example": "Hewa germê ya tav."
+    },
+    {
+      "id": "word_0297",
+      "translation": "hênik",
+      "phonetic": "",
+      "example": "Baya bihar hênik e."
+    },
+    {
+      "id": "word_0298",
+      "translation": "pîr",
+      "phonetic": "",
+      "example": "Mêrê pîr aqil e."
+    },
+    {
+      "id": "word_0299",
+      "translation": "ciwan",
+      "phonetic": "",
+      "example": "Zaroka ciwan enerjîk e."
+    },
+    {
+      "id": "word_0300",
+      "translation": "kêfxweş",
+      "phonetic": "",
+      "example": "Rûyê ken didin kêfxweş e."
+    },
+    {
+      "id": "word_0301",
+      "translation": "xemgîn",
+      "phonetic": "",
+      "example": "Hêstirên xemgîn diherike."
+    },
+    {
+      "id": "word_0302",
+      "translation": "hirs",
+      "phonetic": "",
+      "example": "Rûyê sor hirs."
+    },
+    {
+      "id": "word_0303",
+      "translation": "westiyayî",
+      "phonetic": "",
+      "example": "Çavên westiyayî xewnalî."
+    },
+    {
+      "id": "word_0304",
+      "translation": "nexweş",
+      "phonetic": "",
+      "example": "Nexweş di nivînê de ye."
+    },
+    {
+      "id": "word_0305",
+      "translation": "saxlem",
+      "phonetic": "",
+      "example": "Bedena saxlem bihêz."
+    },
+    {
+      "id": "word_0306",
+      "translation": "bilez",
+      "phonetic": "",
+      "example": "Leza revînê bilez."
+    },
+    {
+      "id": "word_0307",
+      "translation": "hêdî",
+      "phonetic": "",
+      "example": "Meşa hêdî."
+    },
+    {
+      "id": "word_0308",
+      "translation": "hêsan",
+      "phonetic": "",
+      "example": "Kara hêsan sade."
+    },
+    {
+      "id": "word_0309",
+      "translation": "dijwar",
+      "phonetic": "",
+      "example": "Pirsgirêka dijwar."
+    },
+    {
+      "id": "word_0310",
+      "translation": "rast",
+      "phonetic": "",
+      "example": "Bersiva rast."
+    },
+    {
+      "id": "word_0311",
+      "translation": "şaş",
+      "phonetic": "",
+      "example": "Bijartina şaş."
+    },
+    {
+      "id": "word_0312",
+      "translation": "rast",
+      "phonetic": "",
+      "example": "Daxuyaniya rast."
+    },
+    {
+      "id": "word_0313",
+      "translation": "derewîn",
+      "phonetic": "",
+      "example": "Îddîaya derewîn."
+    },
+    {
+      "id": "word_0314",
+      "translation": "heman",
+      "phonetic": "",
+      "example": "Civîna heman."
+    },
+    {
+      "id": "word_0315",
+      "translation": "cuda",
+      "phonetic": "",
+      "example": "Şêweya bêhempa."
+    },
+    {
+      "id": "word_0316",
+      "translation": "nêzî",
+      "phonetic": "",
+      "example": "Dûriya nêzî."
+    },
+    {
+      "id": "word_0317",
+      "translation": "dûr",
+      "phonetic": "",
+      "example": "Cihê dûr."
+    },
+    {
+      "id": "word_0318",
+      "translation": "zû",
+      "phonetic": "",
+      "example": "Rojhilata sibehê zû."
+    },
+    {
+      "id": "word_0319",
+      "translation": "dereng",
+      "phonetic": "",
+      "example": "Gihaştina şevê dereng."
+    },
+    {
+      "id": "word_0320",
+      "translation": "din",
+      "phonetic": "",
+      "example": "Gavê pêşve yê din."
+    },
+    {
+      "id": "word_0321",
+      "translation": "dawî",
+      "phonetic": "",
+      "example": "Şansa dawî."
+    },
+    {
+      "id": "word_0322",
+      "translation": "tijî",
+      "phonetic": "",
+      "example": "Tanka tijî."
+    },
+    {
+      "id": "word_0323",
+      "translation": "vala",
+      "phonetic": "",
+      "example": "Odaya vala."
+    },
+    {
+      "id": "word_0324",
+      "translation": "paqij",
+      "phonetic": "",
+      "example": "Erdê paqij."
+    },
+    {
+      "id": "word_0325",
+      "translation": "pîs",
+      "phonetic": "",
+      "example": "Pêlavên qurçikî pîs."
+    },
+    {
+      "id": "word_0326",
+      "translation": "ewle",
+      "phonetic": "",
+      "example": "Cihê ewle."
+    },
+    {
+      "id": "word_0327",
+      "translation": "xetere",
+      "phonetic": "",
+      "example": "Rewşa xetere."
+    },
+    {
+      "id": "word_0328",
+      "translation": "bedew",
+      "phonetic": "",
+      "example": "Gula bedew."
+    },
+    {
+      "id": "word_0329",
+      "translation": "nebaş",
+      "phonetic": "",
+      "example": "Avahiya nebaş."
+    },
+    {
+      "id": "word_0330",
+      "translation": "xweş",
+      "phonetic": "",
+      "example": "Kesê xweş."
+    },
+    {
+      "id": "word_0331",
+      "translation": "xerab",
+      "phonetic": "",
+      "example": "Hewa xerab."
+    },
+    {
+      "id": "word_0332",
+      "translation": "baştir",
+      "phonetic": "",
+      "example": "Versiyona baştir."
+    },
+    {
+      "id": "word_0333",
+      "translation": "baştirîn",
+      "phonetic": "",
+      "example": "Kalîteya herî baş."
+    },
+    {
+      "id": "word_0334",
+      "translation": "xerabtir",
+      "phonetic": "",
+      "example": "Rewşa xerabtir."
+    },
+    {
+      "id": "word_0335",
+      "translation": "xerabtirîn",
+      "phonetic": "",
+      "example": "Performansa xerabtirîn."
+    },
+    {
+      "id": "word_0336",
+      "translation": "girîng",
+      "phonetic": "",
+      "example": "Babeta girîng."
+    },
+    {
+      "id": "word_0337",
+      "translation": "balkêş",
+      "phonetic": "",
+      "example": "Çîroka balkêş."
+    },
+    {
+      "id": "word_0338",
+      "translation": "dijwar",
+      "phonetic": "",
+      "example": "Kara dijwar."
+    },
+    {
+      "id": "word_0339",
+      "translation": "mimkin",
+      "phonetic": "",
+      "example": "Armanca gihîştbar."
+    },
+    {
+      "id": "word_0340",
+      "translation": "mimkin nine",
+      "phonetic": "",
+      "example": "Xewna negihîştbar."
+    },
+    {
+      "id": "word_0341",
+      "translation": "pêwîst",
+      "phonetic": "",
+      "example": "Tiştê pêwîst."
+    },
+    {
+      "id": "word_0342",
+      "translation": "taybet",
+      "phonetic": "",
+      "example": "Lemeya bêhempa."
+    },
+    {
+      "id": "word_0343",
+      "translation": "bê guman",
+      "phonetic": "",
+      "example": "Rastiya bê guman."
+    },
+    {
+      "id": "word_0344",
+      "translation": "zelal",
+      "phonetic": "",
+      "example": "Ava zelal."
+    },
+    {
+      "id": "word_0345",
+      "translation": "amade",
+      "phonetic": "",
+      "example": "Rewşa amade."
+    },
+    {
+      "id": "word_0346",
+      "translation": "sade",
+      "phonetic": "",
+      "example": "Plana sade."
+    },
+    {
+      "id": "word_0347",
+      "translation": "meşxûl",
+      "phonetic": "",
+      "example": "Bernameyê meşxûl."
+    },
+    {
+      "id": "word_0348",
+      "translation": "azad",
+      "phonetic": "",
+      "example": "Dema azad."
+    },
+    {
+      "id": "word_0349",
+      "translation": "bêdeng",
+      "phonetic": "",
+      "example": "Odaya bêdeng."
+    },
+    {
+      "id": "word_0350",
+      "translation": "berdeng",
+      "phonetic": "",
+      "example": "Muzîka berdeng."
+    },
+    {
+      "id": "word_0351",
+      "translation": "tarî",
+      "phonetic": "",
+      "example": "Şeva tarî bê heyv."
+    },
+    {
+      "id": "word_0352",
+      "translation": "ronahî",
+      "phonetic": "",
+      "example": "Roja ronahî."
+    },
+    {
+      "id": "word_0353",
+      "translation": "giran",
+      "phonetic": "",
+      "example": "Qutiya giran."
+    },
+    {
+      "id": "word_0354",
+      "translation": "nerm",
+      "phonetic": "",
+      "example": "Balîfê nerm."
+    },
+    {
+      "id": "word_0355",
+      "translation": "bihêz",
+      "phonetic": "",
+      "example": "Masûlka bihêz."
+    },
+    {
+      "id": "word_0356",
+      "translation": "lawaz",
+      "phonetic": "",
+      "example": "Hewildana lawaz."
+    },
+    {
+      "id": "word_0357",
+      "translation": "dewlemend",
+      "phonetic": "",
+      "example": "Kesê dewlemend."
+    },
+    {
+      "id": "word_0358",
+      "translation": "hejar",
+      "phonetic": "",
+      "example": "Malbata hejar."
+    },
+    {
+      "id": "word_0359",
+      "translation": "erzan",
+      "phonetic": "",
+      "example": "Bihaya erzan."
+    },
+    {
+      "id": "word_0360",
+      "translation": "biha",
+      "phonetic": "",
+      "example": "Tiştê biha."
+    },
+    {
+      "id": "word_0361",
+      "translation": "şil",
+      "phonetic": "",
+      "example": "Cilên baranan şil."
+    },
+    {
+      "id": "word_0362",
+      "translation": "zuwa",
+      "phonetic": "",
+      "example": "Çola zuwa."
+    },
+    {
+      "id": "word_0363",
+      "translation": "vekirin",
+      "phonetic": "",
+      "example": "Deriyê vekirin."
+    },
+    {
+      "id": "word_0364",
+      "translation": "girêdayî",
+      "phonetic": "",
+      "example": "Dericika qefelkirî."
+    },
+    {
+      "id": "word_0365",
+      "translation": "fireh",
+      "phonetic": "",
+      "example": "Kolana fireh."
+    },
+    {
+      "id": "word_0366",
+      "translation": "teng",
+      "phonetic": "",
+      "example": "Kûçika teng."
+    },
+    {
+      "id": "word_0367",
+      "translation": "kûr",
+      "phonetic": "",
+      "example": "Binê deryayê kûr."
+    },
+    {
+      "id": "word_0368",
+      "translation": "kêm",
+      "phonetic": "",
+      "example": "Ava hewzê kêm."
+    },
+    {
+      "id": "word_0369",
+      "translation": "stûr",
+      "phonetic": "",
+      "example": "Dargeha stûr."
+    },
+    {
+      "id": "word_0370",
+      "translation": "nazik",
+      "phonetic": "",
+      "example": "Şikila nazik."
+    },
+    {
+      "id": "word_0371",
+      "translation": "qels",
+      "phonetic": "",
+      "example": "Pisîka qels."
+    },
+    {
+      "id": "word_0372",
+      "translation": "birçî",
+      "phonetic": "",
+      "example": "Zikê vala birçî."
+    },
+    {
+      "id": "word_0373",
+      "translation": "tinî",
+      "phonetic": "",
+      "example": "Qirça zuwa tinî."
+    },
+    {
+      "id": "word_0374",
+      "translation": "xewnalî",
+      "phonetic": "",
+      "example": "Çavên diherikin xewnalî."
+    },
+    {
+      "id": "word_0375",
+      "translation": "weşyar",
+      "phonetic": "",
+      "example": "Hişê weşyar."
+    },
+    {
+      "id": "word_0376",
+      "translation": "zindî",
+      "phonetic": "",
+      "example": "Heywana zindî."
+    },
+    {
+      "id": "word_0377",
+      "translation": "mirî",
+      "phonetic": "",
+      "example": "Bedena bêcan mirî."
+    },
+    {
+      "id": "word_0378",
+      "translation": "zewicî",
+      "phonetic": "",
+      "example": "Cûtiya kêfxweş zewicî."
+    },
+    {
+      "id": "word_0379",
+      "translation": "serbixwe",
+      "phonetic": "",
+      "example": "Kesê serbixwe."
+    },
+    {
+      "id": "word_0380",
+      "translation": "bi tenê",
+      "phonetic": "",
+      "example": "Şixsê bi tenê."
+    },
+    {
+      "id": "word_0381",
+      "translation": "pêkve",
+      "phonetic": "",
+      "example": "Komela yekbûyî pêkve."
+    },
+    {
+      "id": "word_0382",
+      "translation": "xwarin",
+      "phonetic": "",
+      "example": "Xwarina saxlem bixwe."
+    },
+    {
+      "id": "word_0383",
+      "translation": "razîn",
+      "phonetic": "",
+      "example": "Şevê baş razê."
+    },
+    {
+      "id": "word_0384",
+      "translation": "rabûn",
+      "phonetic": "",
+      "example": "Zû rabe."
+    },
+    {
+      "id": "word_0385",
+      "translation": "meşîn",
+      "phonetic": "",
+      "example": "Di baxçeyê de meşîne."
+    },
+    {
+      "id": "word_0386",
+      "translation": "revîn",
+      "phonetic": "",
+      "example": "Di pêşbaziyê de bilez revîne."
+    },
+    {
+      "id": "word_0387",
+      "translation": "rûniştin",
+      "phonetic": "",
+      "example": "Ji kerema xwe rûne."
+    },
+    {
+      "id": "word_0388",
+      "translation": "rawestîn",
+      "phonetic": "",
+      "example": "Rast raweste."
+    },
+    {
+      "id": "word_0389",
+      "translation": "razîn",
+      "phonetic": "",
+      "example": "Razê bisekine."
+    },
+    {
+      "id": "word_0390",
+      "translation": "xwendin",
+      "phonetic": "",
+      "example": "Pirtûkên baş bixwîne."
+    },
+    {
+      "id": "word_0391",
+      "translation": "nivîsîn",
+      "phonetic": "",
+      "example": "Nîşanên zelal binivîse."
+    },
+    {
+      "id": "word_0392",
+      "translation": "axaftin",
+      "phonetic": "",
+      "example": "Ji kerema xwe hêdî bipeyive."
+    },
+    {
+      "id": "word_0393",
+      "translation": "qisekirina",
+      "phonetic": "",
+      "example": "Derbarê jiyanê axive."
+    },
+    {
+      "id": "word_0394",
+      "translation": "guhdarîkirin",
+      "phonetic": "",
+      "example": "Niha bi baldarî guhdarî bike."
+    },
+    {
+      "id": "word_0395",
+      "translation": "bihîstin",
+      "phonetic": "",
+      "example": "Muzîkê bibihîze."
+    },
+    {
+      "id": "word_0396",
+      "translation": "temaşekirin",
+      "phonetic": "",
+      "example": "Fîlmê temaşe bike."
+    },
+    {
+      "id": "word_0397",
+      "translation": "lîstin",
+      "phonetic": "",
+      "example": "Zarok li derve bilîzin."
+    },
+    {
+      "id": "word_0398",
+      "translation": "kirrîn",
+      "phonetic": "",
+      "example": "Sebzeya teze bikire."
+    },
+    {
+      "id": "word_0399",
+      "translation": "firotin",
+      "phonetic": "",
+      "example": "Tiştên kevn bifiroşe."
+    },
+    {
+      "id": "word_0400",
+      "translation": "peredayîn",
+      "phonetic": "",
+      "example": "Hesabê bide."
+    },
+    {
+      "id": "word_0401",
+      "translation": "biha",
+      "phonetic": "",
+      "example": "Pir biha heye."
+    },
+    {
+      "id": "word_0402",
+      "translation": "girtin",
+      "phonetic": "",
+      "example": "Pirtûkê bigire."
+    },
+    {
+      "id": "word_0403",
+      "translation": "destpêkirin",
+      "phonetic": "",
+      "example": "Motora dest pê bike."
+    },
+    {
+      "id": "word_0404",
+      "translation": "rawestandin",
+      "phonetic": "",
+      "example": "Otomobîlê raweste."
+    },
+    {
+      "id": "word_0405",
+      "translation": "qedandin",
+      "phonetic": "",
+      "example": "Karê xwe yê malê qedîne."
+    },
+    {
+      "id": "word_0406",
+      "translation": "dîtin",
+      "phonetic": "",
+      "example": "Bersivê bibîne."
+    },
+    {
+      "id": "word_0407",
+      "translation": "windakirin",
+      "phonetic": "",
+      "example": "Rêya xwe winda bike."
+    },
+    {
+      "id": "word_0408",
+      "translation": "qezenc",
+      "phonetic": "",
+      "example": "Lîstikê qezenc bike."
+    },
+    {
+      "id": "word_0409",
+      "translation": "hewl",
+      "phonetic": "",
+      "example": "Baştirîn xwe hewl bide."
+    },
+    {
+      "id": "word_0410",
+      "translation": "pêwîst",
+      "phonetic": "",
+      "example": "Hindek alîkariyê pêwîst e."
+    },
+    {
+      "id": "word_0411",
+      "translation": "alîkarî",
+      "phonetic": "",
+      "example": "Hevdû alîkarî bikin."
+    },
+    {
+      "id": "word_0412",
+      "translation": "bang",
+      "phonetic": "",
+      "example": "Sibe bang min bike."
+    },
+    {
+      "id": "word_0413",
+      "translation": "pirskirin",
+      "phonetic": "",
+      "example": "Her pirsê bipirse."
+    },
+    {
+      "id": "word_0414",
+      "translation": "vegotin",
+      "phonetic": "",
+      "example": "Çîrokek ji min re veje."
+    },
+    {
+      "id": "word_0415",
+      "translation": "bersivdan",
+      "phonetic": "",
+      "example": "Telefonê bersivê bide."
+    },
+    {
+      "id": "word_0416",
+      "translation": "hestkirîn",
+      "phonetic": "",
+      "example": "Pir baş hîs bike."
+    },
+    {
+      "id": "word_0417",
+      "translation": "bûn",
+      "phonetic": "",
+      "example": "Bibe mamosteyekî."
+    },
+    {
+      "id": "word_0418",
+      "translation": "hiştin",
+      "phonetic": "",
+      "example": "Niha derkeve."
+    },
+    {
+      "id": "word_0419",
+      "translation": "anîn",
+      "phonetic": "",
+      "example": "Hevalê xwe bîne."
+    },
+    {
+      "id": "word_0420",
+      "translation": "qewimîn",
+      "phonetic": "",
+      "example": "Pir xurt qewimî."
+    },
+    {
+      "id": "word_0421",
+      "translation": "nîşandan",
+      "phonetic": "",
+      "example": "Nîşanê min bide ka çawa."
+    },
+    {
+      "id": "word_0422",
+      "translation": "dihêlin",
+      "phonetic": "",
+      "example": "Bila ez biceribînim."
+    },
+    {
+      "id": "word_0423",
+      "translation": "hilanîn",
+      "phonetic": "",
+      "example": "Ew ewle hilîne."
+    },
+    {
+      "id": "word_0424",
+      "translation": "destpêkirin",
+      "phonetic": "",
+      "example": "Dersa dest pê bike."
+    },
+    {
+      "id": "word_0425",
+      "translation": "xuyanî",
+      "phonetic": "",
+      "example": "Pir xweş xuya dibe."
+    },
+    {
+      "id": "word_0426",
+      "translation": "rastîn",
+      "phonetic": "",
+      "example": "Bi kesên nû re rast bibe."
+    },
+    {
+      "id": "word_0427",
+      "translation": "hînbûn",
+      "phonetic": "",
+      "example": "Her roj hîn bibe."
+    },
+    {
+      "id": "word_0428",
+      "translation": "hînkirin",
+      "phonetic": "",
+      "example": "Bi tehemul hîn bike."
+    },
+    {
+      "id": "word_0429",
+      "translation": "xwendin",
+      "phonetic": "",
+      "example": "Her tim dijwar bixwîne."
+    },
+    {
+      "id": "word_0430",
+      "translation": "têgihiştin",
+      "phonetic": "",
+      "example": "Konseptê têbigihîje."
+    },
+    {
+      "id": "word_0431",
+      "translation": "bîranîn",
+      "phonetic": "",
+      "example": "Dîrokên girîng bîr bîne."
+    },
+    {
+      "id": "word_0432",
+      "translation": "ji bîr kirin",
+      "phonetic": "",
+      "example": "Bîranînên xerab ji bîr bike."
+    },
+    {
+      "id": "word_0433",
+      "translation": "rawestan",
+      "phonetic": "",
+      "example": "Li nöbeta xwe raweste."
+    },
+    {
+      "id": "word_0434",
+      "translation": "man",
+      "phonetic": "",
+      "example": "Ji kerema xwe li vir bimîne."
+    },
+    {
+      "id": "word_0435",
+      "translation": "jiyan",
+      "phonetic": "",
+      "example": "Jiyaneke kêfxweş bijî."
+    },
+    {
+      "id": "word_0436",
+      "translation": "mirin",
+      "phonetic": "",
+      "example": "Rojekê bi aramiyê bimire."
+    },
+    {
+      "id": "word_0437",
+      "translation": "evîn",
+      "phonetic": "",
+      "example": "Malbata xwe hez bike."
+    },
+    {
+      "id": "word_0438",
+      "translation": "nefret",
+      "phonetic": "",
+      "example": "Ji helwesta bêrehm nefret bike."
+    },
+    {
+      "id": "word_0439",
+      "translation": "hêvî",
+      "phonetic": "",
+      "example": "Ji bo baştirîn hêvî bike."
+    },
+    {
+      "id": "word_0440",
+      "translation": "hêvî",
+      "phonetic": "",
+      "example": "Li ser stêrê hêvî bike."
+    },
+    {
+      "id": "word_0441",
+      "translation": "bawerî",
+      "phonetic": "",
+      "example": "Bi xwe bawer bike."
+    },
+    {
+      "id": "word_0442",
+      "translation": "biryar",
+      "phonetic": "",
+      "example": "Niha biryar bide."
+    },
+    {
+      "id": "word_0443",
+      "translation": "hilbijartin",
+      "phonetic": "",
+      "example": "Her tim bi aqil hilbijêre."
+    },
+    {
+      "id": "word_0444",
+      "translation": "şandin",
+      "phonetic": "",
+      "example": "Mesajê bişîne."
+    },
+    {
+      "id": "word_0445",
+      "translation": "stendin",
+      "phonetic": "",
+      "example": "Bi xêrhatineke germ bistîne."
+    },
+    {
+      "id": "word_0446",
+      "translation": "danîn",
+      "phonetic": "",
+      "example": "Li wir danîne."
+    },
+    {
+      "id": "word_0447",
+      "translation": "girtin",
+      "phonetic": "",
+      "example": "Destê min bigire."
+    },
+    {
+      "id": "word_0448",
+      "translation": "girtin",
+      "phonetic": "",
+      "example": "Topê bigire."
+    },
+    {
+      "id": "word_0449",
+      "translation": "avêtin",
+      "phonetic": "",
+      "example": "Ew bavêje."
+    },
+    {
+      "id": "word_0450",
+      "translation": "tixandin",
+      "phonetic": "",
+      "example": "Derî bitixîne."
+    },
+    {
+      "id": "word_0451",
+      "translation": "kişandin",
+      "phonetic": "",
+      "example": "Hevî bikişîne."
+    },
+    {
+      "id": "word_0452",
+      "translation": "şikandin",
+      "phonetic": "",
+      "example": "Rekordê bişikîne."
+    },
+    {
+      "id": "word_0453",
+      "translation": "birîn",
+      "phonetic": "",
+      "example": "Kêka bibirre."
+    },
+    {
+      "id": "word_0454",
+      "translation": "şûştin",
+      "phonetic": "",
+      "example": "Destên xwe bishû."
+    },
+    {
+      "id": "word_0455",
+      "translation": "pijandin",
+      "phonetic": "",
+      "example": "Xwarina lezîz bipeje."
+    },
+    {
+      "id": "word_0456",
+      "translation": "li xwe kirin",
+      "phonetic": "",
+      "example": "Cilên germ li xwe bike."
+    },
+    {
+      "id": "word_0457",
+      "translation": "çêkirin",
+      "phonetic": "",
+      "example": "Bingeha bihêz çêke."
+    },
+    {
+      "id": "word_0458",
+      "translation": "mezinkirin",
+      "phonetic": "",
+      "example": "Darên dirêj mezin bike."
+    },
+    {
+      "id": "word_0459",
+      "translation": "guhertin",
+      "phonetic": "",
+      "example": "Ji bo baştirî biguhere."
+    },
+    {
+      "id": "word_0460",
+      "translation": "zivirîn",
+      "phonetic": "",
+      "example": "Li vir bi rastê bixe."
+    },
+    {
+      "id": "word_0461",
+      "translation": "livan",
+      "phonetic": "",
+      "example": "Hêdî pêşve biçe."
+    },
+    {
+      "id": "word_0462",
+      "translation": "birdin",
+      "phonetic": "",
+      "example": "Barê giran bibe."
+    },
+    {
+      "id": "word_0463",
+      "translation": "ajotîn",
+      "phonetic": "",
+      "example": "Her tim ewle biajote."
+    },
+    {
+      "id": "word_0464",
+      "translation": "siwarbûn",
+      "phonetic": "",
+      "example": "Li ser bîsiklêta xwe siwar bibe."
+    },
+    {
+      "id": "word_0465",
+      "translation": "firîn",
+      "phonetic": "",
+      "example": "Wekî çûkan bifire."
+    },
+    {
+      "id": "word_0466",
+      "translation": "avjenîn",
+      "phonetic": "",
+      "example": "Di deryayê de avjene."
+    },
+    {
+      "id": "word_0467",
+      "translation": "stranan",
+      "phonetic": "",
+      "example": "Strana bedew bistirîne."
+    },
+    {
+      "id": "word_0468",
+      "translation": "şayîkirin",
+      "phonetic": "",
+      "example": "Bi şahiyê şayî bike."
+    },
+    {
+      "id": "word_0469",
+      "translation": "kenîn",
+      "phonetic": "",
+      "example": "Dengê bilind kene."
+    },
+    {
+      "id": "word_0470",
+      "translation": "girîn",
+      "phonetic": "",
+      "example": "Dema xemgînî bigrî."
+    },
+    {
+      "id": "word_0471",
+      "translation": "ken",
+      "phonetic": "",
+      "example": "Her roj kene."
+    },
+    {
+      "id": "word_0472",
+      "translation": "hejmar",
+      "phonetic": "",
+      "example": "Hejmara xweşbext heft."
+    },
+    {
+      "id": "word_0473",
+      "translation": "sifir",
+      "phonetic": "",
+      "example": "Ji sifirê dest pê bike."
+    },
+    {
+      "id": "word_0474",
+      "translation": "sê",
+      "phonetic": "",
+      "example": "Sê berazên biçûk."
+    },
+    {
+      "id": "word_0475",
+      "translation": "çar",
+      "phonetic": "",
+      "example": "Çar demsalên salê."
+    },
+    {
+      "id": "word_0476",
+      "translation": "pênc",
+      "phonetic": "",
+      "example": "Pênc tiliyên destê."
+    },
+    {
+      "id": "word_0477",
+      "translation": "şeş",
+      "phonetic": "",
+      "example": "Şeş aliyan qutî."
+    },
+    {
+      "id": "word_0478",
+      "translation": "heft",
+      "phonetic": "",
+      "example": "Heft rojên hefteyê."
+    },
+    {
+      "id": "word_0479",
+      "translation": "heşt",
+      "phonetic": "",
+      "example": "Heşt saetan razê."
+    },
+    {
+      "id": "word_0480",
+      "translation": "neh",
+      "phonetic": "",
+      "example": "Neh jiyanên pişîkê."
+    },
+    {
+      "id": "word_0481",
+      "translation": "deh",
+      "phonetic": "",
+      "example": "Deh tiliyên piyê."
+    },
+    {
+      "id": "word_0482",
+      "translation": "yazdeh",
+      "phonetic": "",
+      "example": "Yazdeh lîstikvanên tîmê."
+    },
+    {
+      "id": "word_0483",
+      "translation": "diwanzde",
+      "phonetic": "",
+      "example": "Diwanzde mehên salê."
+    },
+    {
+      "id": "word_0484",
+      "translation": "sêzde",
+      "phonetic": "",
+      "example": "Sêzde hejmara bêxweşbext."
+    },
+    {
+      "id": "word_0485",
+      "translation": "çarde",
+      "phonetic": "",
+      "example": "Çarde rojan dû heftî."
+    },
+    {
+      "id": "word_0486",
+      "translation": "pazde",
+      "phonetic": "",
+      "example": "Pazde deqe çarekê."
+    },
+    {
+      "id": "word_0487",
+      "translation": "şazde",
+      "phonetic": "",
+      "example": "Şazde salî."
+    },
+    {
+      "id": "word_0488",
+      "translation": "hevde",
+      "phonetic": "",
+      "example": "Partiya jidayîkbûnê hevde salî."
+    },
+    {
+      "id": "word_0489",
+      "translation": "hejde",
+      "phonetic": "",
+      "example": "Hejde salî mezin."
+    },
+    {
+      "id": "word_0490",
+      "translation": "nozde",
+      "phonetic": "",
+      "example": "Sala nozde û nod."
+    },
+    {
+      "id": "word_0491",
+      "translation": "bîst",
+      "phonetic": "",
+      "example": "Bîst dolaran pule."
+    },
+    {
+      "id": "word_0492",
+      "translation": "sî",
+      "phonetic": "",
+      "example": "Sî rojên mehê."
+    },
+    {
+      "id": "word_0493",
+      "translation": "çil",
+      "phonetic": "",
+      "example": "Çil xewên hênik."
+    },
+    {
+      "id": "word_0494",
+      "translation": "pêncî",
+      "phonetic": "",
+      "example": "Pêncî ji sedî nîv."
+    },
+    {
+      "id": "word_0495",
+      "translation": "şêst",
+      "phonetic": "",
+      "example": "Şêst çirkeyan deqeyê."
+    },
+    {
+      "id": "word_0496",
+      "translation": "heftê",
+      "phonetic": "",
+      "example": "Heftê salî."
+    },
+    {
+      "id": "word_0497",
+      "translation": "heştê",
+      "phonetic": "",
+      "example": "Heştê pîle germ."
+    },
+    {
+      "id": "word_0498",
+      "translation": "newed",
+      "phonetic": "",
+      "example": "Newed û neh şûşe."
+    },
+    {
+      "id": "word_0499",
+      "translation": "sed",
+      "phonetic": "",
+      "example": "Sed ji sedî."
+    },
+    {
+      "id": "word_0500",
+      "translation": "hezar",
+      "phonetic": "",
+      "example": "Hezar peyv."
+    },
+    {
+      "id": "word_0501",
+      "translation": "mîlyon",
+      "phonetic": "",
+      "example": "Mîlyonek dolar."
+    },
+    {
+      "id": "word_0502",
+      "translation": "duyemîn",
+      "phonetic": "",
+      "example": "Derfeta duyemîn hate dayîn."
+    },
+    {
+      "id": "word_0503",
+      "translation": "sêyemîn",
+      "phonetic": "",
+      "example": "Cara sêyemîn xweşbext."
+    },
+    {
+      "id": "word_0504",
+      "translation": "heywan",
+      "phonetic": "",
+      "example": "Heywana kovî ya daristanê."
+    },
+    {
+      "id": "word_0505",
+      "translation": "kûçik",
+      "phonetic": "",
+      "example": "Kûçika wefadar heval e."
+    },
+    {
+      "id": "word_0506",
+      "translation": "pisîk",
+      "phonetic": "",
+      "example": "Pisîka ciwan miyaw dike."
+    },
+    {
+      "id": "word_0507",
+      "translation": "çûk",
+      "phonetic": "",
+      "example": "Çûka firrîn li ezmanê."
+    },
+    {
+      "id": "word_0508",
+      "translation": "hesp",
+      "phonetic": "",
+      "example": "Hespa reviyan bilez e."
+    },
+    {
+      "id": "word_0509",
+      "translation": "çêlek",
+      "phonetic": "",
+      "example": "Şîr ji çêlekê."
+    },
+    {
+      "id": "word_0510",
+      "translation": "beraz",
+      "phonetic": "",
+      "example": "Beraza pembe ya çanê."
+    },
+    {
+      "id": "word_0511",
+      "translation": "mirîşk",
+      "phonetic": "",
+      "example": "Hêk ji mirîşkê."
+    },
+    {
+      "id": "word_0512",
+      "translation": "mî",
+      "phonetic": "",
+      "example": "Mîya sipî hirî."
+    },
+    {
+      "id": "word_0513",
+      "translation": "dar",
+      "phonetic": "",
+      "example": "Dara bilind a kesk."
+    },
+    {
+      "id": "word_0514",
+      "translation": "gul",
+      "phonetic": "",
+      "example": "Gula sor a xweşik."
+    },
+    {
+      "id": "word_0515",
+      "translation": "giya",
+      "phonetic": "",
+      "example": "Giyayê kesk ê çemenê."
+    },
+    {
+      "id": "word_0516",
+      "translation": "nebat",
+      "phonetic": "",
+      "example": "Nebata mezin dibe di dûrikê de."
+    },
+    {
+      "id": "word_0517",
+      "translation": "roj",
+      "phonetic": "",
+      "example": "Roja zelal a zer."
+    },
+    {
+      "id": "word_0518",
+      "translation": "heyv",
+      "phonetic": "",
+      "example": "Heyva temam a sipî."
+    },
+    {
+      "id": "word_0519",
+      "translation": "stêrk",
+      "phonetic": "",
+      "example": "Stêrka çirûsik a şevê."
+    },
+    {
+      "id": "word_0520",
+      "translation": "ezman",
+      "phonetic": "",
+      "example": "Ezmana şîn a zelal."
+    },
+    {
+      "id": "word_0521",
+      "translation": "ewr",
+      "phonetic": "",
+      "example": "Ewrên sipî yên nerm."
+    },
+    {
+      "id": "word_0522",
+      "translation": "baran",
+      "phonetic": "",
+      "example": "Barana giran didibare."
+    },
+    {
+      "id": "word_0523",
+      "translation": "berf",
+      "phonetic": "",
+      "example": "Berfê sipî sar e."
+    },
+    {
+      "id": "word_0524",
+      "translation": "ba",
+      "phonetic": "",
+      "example": "Bayê hêz dikişîne."
+    },
+    {
+      "id": "word_0525",
+      "translation": "agir",
+      "phonetic": "",
+      "example": "Agira sor a germ."
+    },
+    {
+      "id": "word_0526",
+      "translation": "hewa",
+      "phonetic": "",
+      "example": "Hewaya pak a zelal."
+    },
+    {
+      "id": "word_0527",
+      "translation": "erd",
+      "phonetic": "",
+      "example": "Gerstêrka Erd mal e."
+    },
+    {
+      "id": "word_0528",
+      "translation": "ax",
+      "phonetic": "",
+      "example": "Axa hişk erdê."
+    },
+    {
+      "id": "word_0529",
+      "translation": "derya",
+      "phonetic": "",
+      "example": "Deryaya kûr a şîn."
+    },
+    {
+      "id": "word_0530",
+      "translation": "okyanûs",
+      "phonetic": "",
+      "example": "Okyanûsa Pacîfîk fireħ e."
+    },
+    {
+      "id": "word_0531",
+      "translation": "çem",
+      "phonetic": "",
+      "example": "Ava çemê diherikit."
+    },
+    {
+      "id": "word_0532",
+      "translation": "gol",
+      "phonetic": "",
+      "example": "Gola hêdî ya bêdeng."
+    },
+    {
+      "id": "word_0533",
+      "translation": "çiya",
+      "phonetic": "",
+      "example": "Çiyayê bilind ê berfî."
+    },
+    {
+      "id": "word_0534",
+      "translation": "gir",
+      "phonetic": "",
+      "example": "Girê kesk ê geravî."
+    },
+    {
+      "id": "word_0535",
+      "translation": "daristan",
+      "phonetic": "",
+      "example": "Daristana stûr a tarî."
+    },
+    {
+      "id": "word_0536",
+      "translation": "zevî",
+      "phonetic": "",
+      "example": "Zeviya vekirî ya giyayî."
+    },
+    {
+      "id": "word_0537",
+      "translation": "baxçe",
+      "phonetic": "",
+      "example": "Baxçeya gulan a xweşik."
+    },
+    {
+      "id": "word_0538",
+      "translation": "çan",
+      "phonetic": "",
+      "example": "Çana şîrê ya xebitînê."
+    },
+    {
+      "id": "word_0539",
+      "translation": "gund",
+      "phonetic": "",
+      "example": "Gundê biçûk ê hêdî."
+    },
+    {
+      "id": "word_0540",
+      "translation": "bajar",
+      "phonetic": "",
+      "example": "Bajara mezin dibe a mijûl."
+    },
+    {
+      "id": "word_0541",
+      "translation": "avahî",
+      "phonetic": "",
+      "example": "Avahiya bilind a ofîsê."
+    },
+    {
+      "id": "word_0542",
+      "translation": "nexweşxane",
+      "phonetic": "",
+      "example": "Nexweşxaneya giştî ya bajêr."
+    },
+    {
+      "id": "word_0543",
+      "translation": "bank",
+      "phonetic": "",
+      "example": "Banka neteweyî ya hewldanê."
+    },
+    {
+      "id": "word_0544",
+      "translation": "restoran",
+      "phonetic": "",
+      "example": "Restorana xwarinên îtalî."
+    },
+    {
+      "id": "word_0545",
+      "translation": "otel",
+      "phonetic": "",
+      "example": "Otela pênc stêrkan a lûks."
+    },
+    {
+      "id": "word_0546",
+      "translation": "dêr",
+      "phonetic": "",
+      "example": "Dêra kevn a berdî."
+    },
+    {
+      "id": "word_0547",
+      "translation": "park",
+      "phonetic": "",
+      "example": "Parka giştî ya kesk."
+    },
+    {
+      "id": "word_0548",
+      "translation": "pir",
+      "phonetic": "",
+      "example": "Pira dirêj a polayî."
+    },
+    {
+      "id": "word_0549",
+      "translation": "îstasyon",
+      "phonetic": "",
+      "example": "Îstasyona sereke ya trenê."
+    },
+    {
+      "id": "word_0550",
+      "translation": "balafirxane",
+      "phonetic": "",
+      "example": "Balafirxaneya navneteweyî mijûl e."
+    },
+    {
+      "id": "word_0551",
+      "translation": "mûze",
+      "phonetic": "",
+      "example": "Mûzeya dîrokê ya neteweyî."
+    },
+    {
+      "id": "word_0552",
+      "translation": "pirtûkxane",
+      "phonetic": "",
+      "example": "Pirtûkxaneya giştî ya bajêr."
+    },
+    {
+      "id": "word_0553",
+      "translation": "zanîngehê",
+      "phonetic": "",
+      "example": "Zanîngeha navdar a kevn."
+    },
+    {
+      "id": "word_0554",
+      "translation": "hukûmet",
+      "phonetic": "",
+      "example": "Hukûmeta demokratîk a hilbijartî."
+    },
+    {
+      "id": "word_0555",
+      "translation": "zagon",
+      "phonetic": "",
+      "example": "Zagona adalet a ewle."
+    },
+    {
+      "id": "word_0556",
+      "translation": "polîs",
+      "phonetic": "",
+      "example": "Îstasyona polîsê ya herêmî."
+    },
+    {
+      "id": "word_0557",
+      "translation": "eşkere",
+      "phonetic": "",
+      "example": "Eşkereya parastina neteweyî."
+    },
+    {
+      "id": "word_0558",
+      "translation": "şer",
+      "phonetic": "",
+      "example": "Şerê xirab ê vêranker."
+    },
+    {
+      "id": "word_0559",
+      "translation": "aştî",
+      "phonetic": "",
+      "example": "Aştiya cîhanê ya mayînde."
+    },
+    {
+      "id": "word_0560",
+      "translation": "pirsgirêk",
+      "phonetic": "",
+      "example": "Pirsgirêka dijwar a matematîkê."
+    },
+    {
+      "id": "word_0561",
+      "translation": "pirs",
+      "phonetic": "",
+      "example": "Pirsa girîng a ciddî."
+    },
+    {
+      "id": "word_0562",
+      "translation": "ramane",
+      "phonetic": "",
+      "example": "Ramana zana ya afirandinê."
+    },
+    {
+      "id": "word_0563",
+      "translation": "sedem",
+      "phonetic": "",
+      "example": "Sedema baş a derbasdar."
+    },
+    {
+      "id": "word_0564",
+      "translation": "mînak",
+      "phonetic": "",
+      "example": "Mînaka bêkêmasî ya zelal."
+    },
+    {
+      "id": "word_0565",
+      "translation": "rastî",
+      "phonetic": "",
+      "example": "Rastiya zanayî ya îsbatkî."
+    },
+    {
+      "id": "word_0566",
+      "translation": "rast",
+      "phonetic": "",
+      "example": "Rasta temam a rasteqîne."
+    },
+    {
+      "id": "word_0567",
+      "translation": "çîrok",
+      "phonetic": "",
+      "example": "Çîroka balkêş a kurt."
+    },
+    {
+      "id": "word_0568",
+      "translation": "nûçe",
+      "phonetic": "",
+      "example": "Nûçeyên nû yên dawî."
+    },
+    {
+      "id": "word_0569",
+      "translation": "agahdarî",
+      "phonetic": "",
+      "example": "Agahdariya bikêr a girîng."
+    },
+    {
+      "id": "word_0570",
+      "translation": "peyv",
+      "phonetic": "",
+      "example": "Peyva nû ya ferhengê."
+    },
+    {
+      "id": "word_0571",
+      "translation": "hevok",
+      "phonetic": "",
+      "example": "Hevoka temam a rêzimankî."
+    },
+    {
+      "id": "word_0572",
+      "translation": "ziman",
+      "phonetic": "",
+      "example": "Zimana duyemîn a biyanî."
+    },
+    {
+      "id": "word_0573",
+      "translation": "name",
+      "phonetic": "",
+      "example": "Nameya kesane ya bi dest."
+    },
+    {
+      "id": "word_0574",
+      "translation": "deng",
+      "phonetic": "",
+      "example": "Dengê bihêz ê ecêb."
+    },
+    {
+      "id": "word_0575",
+      "translation": "aheng",
+      "phonetic": "",
+      "example": "Ahenga xweşik a stranê."
+    },
+    {
+      "id": "word_0576",
+      "translation": "mûzîk",
+      "phonetic": "",
+      "example": "Mûzîka klasîk a orkestrayê."
+    },
+    {
+      "id": "word_0577",
+      "translation": "stran",
+      "phonetic": "",
+      "example": "Strana navdar a şayî."
+    },
+    {
+      "id": "word_0578",
+      "translation": "wêne",
+      "phonetic": "",
+      "example": "Wêneya malbatê ya xweşik."
+    },
+    {
+      "id": "word_0579",
+      "translation": "fotoğraf",
+      "phonetic": "",
+      "example": "Fotoğrafa kevn a reş û spî."
+    },
+    {
+      "id": "word_0580",
+      "translation": "fîlm",
+      "phonetic": "",
+      "example": "Fîlma xelat wergirtî."
+    },
+    {
+      "id": "word_0581",
+      "translation": "sînema",
+      "phonetic": "",
+      "example": "Sînema sergerî û macera."
+    },
+    {
+      "id": "word_0582",
+      "translation": "lîstik",
+      "phonetic": "",
+      "example": "Lîstikê kevala şahî ya şahî."
+    },
+    {
+      "id": "word_0583",
+      "translation": "werziş",
+      "phonetic": "",
+      "example": "Werzişa tîmê ya navdar."
+    },
+    {
+      "id": "word_0584",
+      "translation": "tîm",
+      "phonetic": "",
+      "example": "Tîma şampiyonayê ya serkeftî."
+    },
+    {
+      "id": "word_0585",
+      "translation": "lîstikvan",
+      "phonetic": "",
+      "example": "Lîstikvana profesyonel a futbolê."
+    },
+    {
+      "id": "word_0586",
+      "translation": "top",
+      "phonetic": "",
+      "example": "Topê giravî yê bazdan."
+    },
+    {
+      "id": "word_0587",
+      "translation": "şahî",
+      "phonetic": "",
+      "example": "Şahiya rojbûnê ya pîrozkirinê."
+    },
+    {
+      "id": "word_0588",
+      "translation": "diyarî",
+      "phonetic": "",
+      "example": "Diyariya xeyir a dilovan."
+    },
+    {
+      "id": "word_0589",
+      "translation": "kado",
+      "phonetic": "",
+      "example": "Kadoya sürprîz a pêçayî."
+    },
+    {
+      "id": "word_0590",
+      "translation": "bawik",
+      "phonetic": "",
+      "example": "Bawika zarokan a bijartin."
+    },
+    {
+      "id": "word_0591",
+      "translation": "têlefon",
+      "phonetic": "",
+      "example": "Têlefona zekirî ya mobîl."
+    },
+    {
+      "id": "word_0592",
+      "translation": "kompûter",
+      "phonetic": "",
+      "example": "Kompûtera kesane ya laptopê."
+    },
+    {
+      "id": "word_0593",
+      "translation": "televîzyon",
+      "phonetic": "",
+      "example": "Televîzyona dîmenderê ya flat."
+    },
+    {
+      "id": "word_0594",
+      "translation": "radyo",
+      "phonetic": "",
+      "example": "Radyoya kevn a hilberî."
+    },
+    {
+      "id": "word_0595",
+      "translation": "kamera",
+      "phonetic": "",
+      "example": "Kameraya dîjîtal a fotografiyê."
+    },
+    {
+      "id": "word_0596",
+      "translation": "seet",
+      "phonetic": "",
+      "example": "Seeta antîk a dîwarê."
+    },
+    {
+      "id": "word_0597",
+      "translation": "senduq",
+      "phonetic": "",
+      "example": "Senduqa kartolan a hilanînê."
+    },
+    {
+      "id": "word_0598",
+      "translation": "çente",
+      "phonetic": "",
+      "example": "Çenteya çirmî ya kirînê."
+    },
+    {
+      "id": "word_0599",
+      "translation": "gîrfan",
+      "phonetic": "",
+      "example": "Gîrfana kûr a pêşê."
+    },
+    {
+      "id": "word_0600",
+      "translation": "mift",
+      "phonetic": "",
+      "example": "Mifta mehekî ya derî."
+    },
+    {
+      "id": "word_0601",
+      "translation": "mûm",
+      "phonetic": "",
+      "example": "Mûma bihnek a xweşbûn."
+    },
+    {
+      "id": "word_0602",
+      "translation": "erd",
+      "phonetic": "",
+      "example": "Erda hişk a darî."
+    },
+    {
+      "id": "word_0603",
+      "translation": "dîwar",
+      "phonetic": "",
+      "example": "Dîwara sipî ya boyayî."
+    },
+    {
+      "id": "word_0604",
+      "translation": "banî",
+      "phonetic": "",
+      "example": "Baniya sor a keramisê."
+    },
+    {
+      "id": "word_0605",
+      "translation": "avdestxane",
+      "phonetic": "",
+      "example": "Avdestxaneya pak a taybet."
+    },
+    {
+      "id": "word_0606",
+      "translation": "metbex",
+      "phonetic": "",
+      "example": "Metbexa modern a amadekirî."
+    },
+    {
+      "id": "word_0607",
+      "translation": "odeya xewê",
+      "phonetic": "",
+      "example": "Odeya xewê ya fireh ya sere."
+    },
+    {
+      "id": "word_0608",
+      "translation": "jiyan",
+      "phonetic": "",
+      "example": "Odeya rûniştinê ya hêsûde."
+    },
+    {
+      "id": "word_0609",
+      "translation": "dastavdank",
+      "phonetic": "",
+      "example": "Dastavdanka pak a giştî."
+    },
+    {
+      "id": "word_0610",
+      "translation": "duş",
+      "phonetic": "",
+      "example": "Duşa germ a sibehê."
+    },
+    {
+      "id": "word_0611",
+      "translation": "hemam",
+      "phonetic": "",
+      "example": "Hemama şil a balûnkan."
+    },
+    {
+      "id": "word_0612",
+      "translation": "sabûn",
+      "phonetic": "",
+      "example": "Sabûna destê ya bihnek."
+    },
+    {
+      "id": "word_0613",
+      "translation": "hewlî",
+      "phonetic": "",
+      "example": "Hewliya nerm a pak."
+    },
+    {
+      "id": "word_0614",
+      "translation": "neynik",
+      "phonetic": "",
+      "example": "Neynika mezin a avdestxaneyê."
+    },
+    {
+      "id": "word_0615",
+      "translation": "firçe",
+      "phonetic": "",
+      "example": "Firçeya didan a hişk."
+    },
+    {
+      "id": "word_0616",
+      "translation": "şane",
+      "phonetic": "",
+      "example": "Şaneya porê ya nerm."
+    },
+    {
+      "id": "word_0617",
+      "translation": "derman",
+      "phonetic": "",
+      "example": "Dermana rojane ya rêçepkirî."
+    },
+    {
+      "id": "word_0618",
+      "translation": "bijîşk",
+      "phonetic": "",
+      "example": "Bijîşka malbatê ya ezmûn."
+    },
+    {
+      "id": "word_0619",
+      "translation": "hemşîre",
+      "phonetic": "",
+      "example": "Hemşîra nexweşxaneyê ya bi dil."
+    },
+    {
+      "id": "word_0620",
+      "translation": "nexweş",
+      "phonetic": "",
+      "example": "Nexweşê baş dibe ê nexweş."
+    },
+    {
+      "id": "word_0621",
+      "translation": "tenduristî",
+      "phonetic": "",
+      "example": "Tendurustiya laşî ya baş."
+    },
+    {
+      "id": "word_0622",
+      "translation": "nexweşî",
+      "phonetic": "",
+      "example": "Nexweşiya belavbûyî ya veguherî."
+    },
+    {
+      "id": "word_0623",
+      "translation": "jan",
+      "phonetic": "",
+      "example": "Jana tûj a giran."
+    },
+    {
+      "id": "word_0624",
+      "translation": "xûn",
+      "phonetic": "",
+      "example": "Xûna sor a di herikînê de."
+    },
+    {
+      "id": "word_0625",
+      "translation": "temen",
+      "phonetic": "",
+      "example": "Temena pîr a pêşketî."
+    },
+    {
+      "id": "word_0626",
+      "translation": "jidayîkbûn",
+      "phonetic": "",
+      "example": "Jidayîkbûna zarokê ya şa."
+    },
+    {
+      "id": "word_0627",
+      "translation": "mirin",
+      "phonetic": "",
+      "example": "Mirina aramî ya xwezayî."
+    },
+    {
+      "id": "word_0628",
+      "translation": "jiyan",
+      "phonetic": "",
+      "example": "Jiyana xweşik a hêja."
+    },
+    {
+      "id": "word_0629",
+      "translation": "deqe",
+      "phonetic": "",
+      "example": "Tenê yek deqe."
+    },
+    {
+      "id": "word_0630",
+      "translation": "saet",
+      "phonetic": "",
+      "example": "Nîv saet."
+    },
+    {
+      "id": "word_0631",
+      "translation": "dem",
+      "phonetic": "",
+      "example": "Dema bêkêmasî ya taybetî."
+    },
+    {
+      "id": "word_0632",
+      "translation": "dîrok",
+      "phonetic": "",
+      "example": "Dîroka kevn a cîhanê."
+    },
+    {
+      "id": "word_0633",
+      "translation": "dahat",
+      "phonetic": "",
+      "example": "Dahata ronî ya soz."
+    },
+    {
+      "id": "word_0634",
+      "translation": "borî",
+      "phonetic": "",
+      "example": "Boriya dûr a ji bîr çûyî."
+    },
+    {
+      "id": "word_0635",
+      "translation": "dewlet",
+      "phonetic": "",
+      "example": "Dewleta niha ya heyî."
+    },
+    {
+      "id": "word_0636",
+      "translation": "netewe",
+      "phonetic": "",
+      "example": "Neteweyên serbixwe yên serbilind."
+    },
+    {
+      "id": "word_0637",
+      "translation": "hêz",
+      "phonetic": "",
+      "example": "Hêza mezin a siyasî."
+    },
+    {
+      "id": "word_0638",
+      "translation": "serok",
+      "phonetic": "",
+      "example": "Serokê neteweyî yê hilbijartî."
+    },
+    {
+      "id": "word_0639",
+      "translation": "padişah",
+      "phonetic": "",
+      "example": "Padişahê bihêz ê ferman."
+    },
+    {
+      "id": "word_0640",
+      "translation": "şahbanu",
+      "phonetic": "",
+      "example": "Şahbanuyê malê ya evîndar."
+    },
+    {
+      "id": "word_0641",
+      "translation": "mîr",
+      "phonetic": "",
+      "example": "Mîrê ciwan ê xweşik."
+    },
+    {
+      "id": "word_0642",
+      "translation": "mîrza",
+      "phonetic": "",
+      "example": "Mîrza xweşik a dilovan."
+    },
+    {
+      "id": "word_0643",
+      "translation": "civak",
+      "phonetic": "",
+      "example": "Civaka modern a şarist."
+    },
+    {
+      "id": "word_0644",
+      "translation": "çand",
+      "phonetic": "",
+      "example": "Çanda dewlemend a cihê."
+    },
+    {
+      "id": "word_0645",
+      "translation": "huner",
+      "phonetic": "",
+      "example": "Hunera xweşik a dîtbarî."
+    },
+    {
+      "id": "word_0646",
+      "translation": "zanist",
+      "phonetic": "",
+      "example": "Zanista pêşketî ya modern."
+    },
+    {
+      "id": "word_0647",
+      "translation": "teknolojî",
+      "phonetic": "",
+      "example": "Teknolojiya dawî ya dîjîtal."
+    },
+    {
+      "id": "word_0648",
+      "translation": "karsazî",
+      "phonetic": "",
+      "example": "Karsaziya serkeftî ya navneteweyî."
+    },
+    {
+      "id": "word_0649",
+      "translation": "pargîdanî",
+      "phonetic": "",
+      "example": "Pargîdaniya mezin a pirneteweyî."
+    },
+    {
+      "id": "word_0650",
+      "translation": "xizmet",
+      "phonetic": "",
+      "example": "Xizmeta hêja ya xerîdar."
+    },
+    {
+      "id": "word_0651",
+      "translation": "hilber",
+      "phonetic": "",
+      "example": "Hilbera kalîteyê ya çêkirî."
+    },
+    {
+      "id": "word_0652",
+      "translation": "biha",
+      "phonetic": "",
+      "example": "Bihayê dadperwer ê guncan."
+    },
+    {
+      "id": "word_0653",
+      "translation": "nirx",
+      "phonetic": "",
+      "example": "Nirxa mezin a darayî."
+    },
+    {
+      "id": "word_0654",
+      "translation": "bac",
+      "phonetic": "",
+      "example": "Baca salane ya hatinê."
+    },
+    {
+      "id": "word_0655",
+      "translation": "fiyde",
+      "phonetic": "",
+      "example": "Fiydeyê bilind ê bankê."
+    },
+    {
+      "id": "word_0656",
+      "translation": "rêkkeftin",
+      "phonetic": "",
+      "example": "Rêkkewtina karsazî ya mezin."
+    },
+    {
+      "id": "word_0657",
+      "translation": "lihevkirîn",
+      "phonetic": "",
+      "example": "Lihevkirina nivîskî ya hevpar."
+    },
+    {
+      "id": "word_0658",
+      "translation": "peyman",
+      "phonetic": "",
+      "example": "Peymana ewledar a yasayî."
+    },
+    {
+      "id": "word_0659",
+      "translation": "plan",
+      "phonetic": "",
+      "example": "Plana stratejîk a hûrgulî."
+    },
+    {
+      "id": "word_0660",
+      "translation": "proje",
+      "phonetic": "",
+      "example": "Proja dibistanê ya girîng."
+    },
+    {
+      "id": "word_0661",
+      "translation": "bername",
+      "phonetic": "",
+      "example": "Bernameya perwerdehiyê ya rahênanê."
+    },
+    {
+      "id": "word_0662",
+      "translation": "pergal",
+      "phonetic": "",
+      "example": "Pergala tevlihevî ya xebitandinê."
+    },
+    {
+      "id": "word_0663",
+      "translation": "rêbaz",
+      "phonetic": "",
+      "example": "Rêbaza bandor a hînkirinê."
+    },
+    {
+      "id": "word_0664",
+      "translation": "pêvajo",
+      "phonetic": "",
+      "example": "Pêvajoya dirêj a çêkirinê."
+    },
+    {
+      "id": "word_0665",
+      "translation": "encam",
+      "phonetic": "",
+      "example": "Encama erênî ya serkeftî."
+    },
+    {
+      "id": "word_0666",
+      "translation": "bandor",
+      "phonetic": "",
+      "example": "Bandora zû ya xuya."
+    },
+    {
+      "id": "word_0667",
+      "translation": "sebeb",
+      "phonetic": "",
+      "example": "Sebebê sereke yê bingeh."
+    },
+    {
+      "id": "word_0668",
+      "translation": "şans",
+      "phonetic": "",
+      "example": "Şansa duyemîn a xweşbext."
+    },
+    {
+      "id": "word_0669",
+      "translation": "bijare",
+      "phonetic": "",
+      "example": "Bijareya dijwar a zor."
+    },
+    {
+      "id": "word_0670",
+      "translation": "biryar",
+      "phonetic": "",
+      "example": "Biryara girîng a dawî."
+    },
+    {
+      "id": "word_0671",
+      "translation": "tevger",
+      "phonetic": "",
+      "example": "Tevgera bilez a biryardar."
+    },
+    {
+      "id": "word_0672",
+      "translation": "çalakî",
+      "phonetic": "",
+      "example": "Çalakiya laşî ya derveyî."
+    },
+    {
+      "id": "word_0673",
+      "translation": "ezmûn",
+      "phonetic": "",
+      "example": "Ezmûna hêja ya jiyanê."
+    },
+    {
+      "id": "word_0674",
+      "translation": "zanîn",
+      "phonetic": "",
+      "example": "Zanîna kûr a berfireh."
+    },
+    {
+      "id": "word_0675",
+      "translation": "jêhatî",
+      "phonetic": "",
+      "example": "Jêhatiya taybetî ya teknîk."
+    },
+    {
+      "id": "word_0676",
+      "translation": "şiyan",
+      "phonetic": "",
+      "example": "Şiyana xwezayî ya xwedayî."
+    },
+    {
+      "id": "word_0677",
+      "translation": "hewl",
+      "phonetic": "",
+      "example": "Hewla mezin a hevpar."
+    },
+    {
+      "id": "word_0678",
+      "translation": "serkeftin",
+      "phonetic": "",
+      "example": "Serkeftina bi hêja ya şayisteyî."
+    },
+    {
+      "id": "word_0679",
+      "translation": "têkçûn",
+      "phonetic": "",
+      "example": "Têkçûna demkî ya biçûk."
+    },
+    {
+      "id": "word_0680",
+      "translation": "şaşî",
+      "phonetic": "",
+      "example": "Şaşiya hevpar a hêsan."
+    },
+    {
+      "id": "word_0681",
+      "translation": "xeletî",
+      "phonetic": "",
+      "example": "Xeletiya biçûk a hesabê."
+    },
+    {
+      "id": "word_0682",
+      "translation": "xeter",
+      "phonetic": "",
+      "example": "Xetera ciddî ya nêzîk."
+    },
+    {
+      "id": "word_0683",
+      "translation": "rîsk",
+      "phonetic": "",
+      "example": "Rîska bilind a darayî."
+    },
+    {
+      "id": "word_0684",
+      "translation": "baxt",
+      "phonetic": "",
+      "example": "Baxta pak a baş."
+    },
+    {
+      "id": "word_0685",
+      "translation": "dewlemendî",
+      "phonetic": "",
+      "example": "Dewlemendiya mezin a kesane."
+    },
+    {
+      "id": "word_0686",
+      "translation": "çareser",
+      "phonetic": "",
+      "example": "Çaresera nenas a bêbawer."
+    },
+    {
+      "id": "word_0687",
+      "translation": "armanc",
+      "phonetic": "",
+      "example": "Armanca zelal a sereke."
+    },
+    {
+      "id": "word_0688",
+      "translation": "hedef",
+      "phonetic": "",
+      "example": "Hedefa pêkan a realîst."
+    },
+    {
+      "id": "word_0689",
+      "translation": "mebest",
+      "phonetic": "",
+      "example": "Mebesta pêşîn a dawî."
+    },
+    {
+      "id": "word_0690",
+      "translation": "dawî",
+      "phonetic": "",
+      "example": "Dawiya dawî ya tij."
+    },
+    {
+      "id": "word_0691",
+      "translation": "destpêk",
+      "phonetic": "",
+      "example": "Destpêka nû ya teze."
+    },
+    {
+      "id": "word_0692",
+      "translation": "navîn",
+      "phonetic": "",
+      "example": "Navîna tam a rast."
+    },
+    {
+      "id": "word_0693",
+      "translation": "jor",
+      "phonetic": "",
+      "example": "Jorê herî bilind."
+    },
+    {
+      "id": "word_0694",
+      "translation": "bin",
+      "phonetic": "",
+      "example": "Binê herî jêr."
+    },
+    {
+      "id": "word_0695",
+      "translation": "alî",
+      "phonetic": "",
+      "example": "Aliyê çepê yê destî."
+    },
+    {
+      "id": "word_0696",
+      "translation": "pêş",
+      "phonetic": "",
+      "example": "Rast li pêş."
+    },
+    {
+      "id": "word_0697",
+      "translation": "paş",
+      "phonetic": "",
+      "example": "Tenê rast li paş."
+    },
+    {
+      "id": "word_0698",
+      "translation": "jor",
+      "phonetic": "",
+      "example": "Bilind li jor."
+    },
+    {
+      "id": "word_0699",
+      "translation": "jêr",
+      "phonetic": "",
+      "example": "Dûr li jêr."
+    },
+    {
+      "id": "word_0700",
+      "translation": "hundur",
+      "phonetic": "",
+      "example": "Kûr li hundur."
+    },
+    {
+      "id": "word_0701",
+      "translation": "derveyî",
+      "phonetic": "",
+      "example": "Rast li derveyî."
+    },
+    {
+      "id": "word_0702",
+      "translation": "navbera",
+      "phonetic": "",
+      "example": "Rast li navbera."
+    },
+    {
+      "id": "word_0703",
+      "translation": "di nav",
+      "phonetic": "",
+      "example": "Veşartî di nav komê de."
+    },
+    {
+      "id": "word_0704",
+      "translation": "beramber",
+      "phonetic": "",
+      "example": "Rast rasterast beramber."
+    },
+    {
+      "id": "word_0705",
+      "translation": "bi",
+      "phonetic": "",
+      "example": "Bi hemî re."
+    },
+    {
+      "id": "word_0706",
+      "translation": "di dema",
+      "phonetic": "",
+      "example": "Tenê di dema rojê de."
+    },
+    {
+      "id": "word_0707",
+      "translation": "berî",
+      "phonetic": "",
+      "example": "Rast berî."
+    },
+    {
+      "id": "word_0708",
+      "translation": "ji",
+      "phonetic": "",
+      "example": "Ji hingê vir ve."
+    },
+    {
+      "id": "word_0709",
+      "translation": "heta",
+      "phonetic": "",
+      "example": "Bisekine heta."
+    },
+    {
+      "id": "word_0710",
+      "translation": "dema ku",
+      "phonetic": "",
+      "example": "Ewle bimîne dema ku."
+    },
+    {
+      "id": "word_0711",
+      "translation": "her çend",
+      "phonetic": "",
+      "example": "Rast her çend dijwar."
+    },
+    {
+      "id": "word_0712",
+      "translation": "lêbelê",
+      "phonetic": "",
+      "example": "Rast lêbelê şaş."
+    },
+    {
+      "id": "word_0713",
+      "translation": "ji ber vê",
+      "phonetic": "",
+      "example": "Rast ji ber vê derbasdar."
+    },
+    {
+      "id": "word_0714",
+      "translation": "wiha",
+      "phonetic": "",
+      "example": "Rast wiha rast."
+    },
+    {
+      "id": "word_0715",
+      "translation": "wekî din",
+      "phonetic": "",
+      "example": "Baş wekî din kêrhatî."
+    },
+    {
+      "id": "word_0716",
+      "translation": "ji bilî vê",
+      "phonetic": "",
+      "example": "Rast ji bilî vê drust."
+    },
+    {
+      "id": "word_0717",
+      "translation": "wekî ne",
+      "phonetic": "",
+      "example": "Were wekî ne here."
+    },
+    {
+      "id": "word_0718",
+      "translation": "li şûna",
+      "phonetic": "",
+      "example": "Ev li şûna wê."
+    },
+    {
+      "id": "word_0719",
+      "translation": "ji bilî",
+      "phonetic": "",
+      "example": "Baş ji bilî bikêr."
+    },
+    {
+      "id": "word_0720",
+      "translation": "ji bilî",
+      "phonetic": "",
+      "example": "Hemî ji bilî yek."
+    },
+    {
+      "id": "word_0721",
+      "translation": "bê",
+      "phonetic": "",
+      "example": "Jiyan bê avê."
+    },
+    {
+      "id": "word_0722",
+      "translation": "di nav",
+      "phonetic": "",
+      "example": "Li hundur bimîne."
+    },
+    {
+      "id": "word_0723",
+      "translation": "dijî",
+      "phonetic": "",
+      "example": "Xwe bide dijî."
+    },
+    {
+      "id": "word_0724",
+      "translation": "ber bi",
+      "phonetic": "",
+      "example": "Bi ber bi were."
+    },
+    {
+      "id": "word_0725",
+      "translation": "li ser",
+      "phonetic": "",
+      "example": "Li ser rûne."
+    },
+    {
+      "id": "word_0726",
+      "translation": "ji",
+      "phonetic": "",
+      "example": "Ji jor berde."
+    },
+    {
+      "id": "word_0727",
+      "translation": "jêr",
+      "phonetic": "",
+      "example": "Bi jêr were."
+    },
+    {
+      "id": "word_0728",
+      "translation": "dor û ber",
+      "phonetic": "",
+      "example": "Li hemî dor û ber binêre."
+    },
+    {
+      "id": "word_0729",
+      "translation": "bi dirêjahî",
+      "phonetic": "",
+      "example": "Bi dirêjahî meşe."
+    },
+    {
+      "id": "word_0730",
+      "translation": "dûr",
+      "phonetic": "",
+      "example": "Dûr binêre."
+    },
+    {
+      "id": "word_0731",
+      "translation": "beramber",
+      "phonetic": "",
+      "example": "Rasterast beramber rûne."
+    },
+    {
+      "id": "word_0732",
+      "translation": "her çend",
+      "phonetic": "",
+      "example": "Serkeftin her çend dijwarî."
+    },
+    {
+      "id": "word_0733",
+      "translation": "li ber",
+      "phonetic": "",
+      "example": "Li ber rûne."
+    },
+    {
+      "id": "word_0734",
+      "translation": "bi tevahî",
+      "phonetic": "",
+      "example": "Bi tevahî cîhanê tê nasîn."
+    },
+    {
+      "id": "word_0735",
+      "translation": "li bin",
+      "phonetic": "",
+      "example": "Li bin veşartî."
+    },
+    {
+      "id": "word_0736",
+      "translation": "der barê",
+      "phonetic": "",
+      "example": "Pirs der barê mijarê."
+    },
+    {
+      "id": "word_0737",
+      "translation": "der heqê",
+      "phonetic": "",
+      "example": "Agahdarî der heqê pirsgirêkê."
+    },
+    {
+      "id": "word_0738",
+      "translation": "li gorî",
+      "phonetic": "",
+      "example": "Li gorî planê."
+    },
+    {
+      "id": "word_0739",
+      "translation": "bi zarokan",
+      "phonetic": "",
+      "example": "Hemî bi zarokan re."
+    },
+    {
+      "id": "word_0740",
+      "translation": "li pey",
+      "phonetic": "",
+      "example": "Li pey van rêberiyan."
+    },
+    {
+      "id": "word_0741",
+      "translation": "bi ber çavan",
+      "phonetic": "",
+      "example": "Bi ber çavan girtina hemî tiştan."
+    },
+    {
+      "id": "word_0742",
+      "translation": "bi rêzgirtin",
+      "phonetic": "",
+      "example": "Bi rêzgirtina ramanên te."
+    },
+    {
+      "id": "word_0743",
+      "translation": "spas",
+      "phonetic": "",
+      "example": "Spasên gelek ên rasteqîne."
+    },
+    {
+      "id": "word_0744",
+      "translation": "pîrozbahî",
+      "phonetic": "",
+      "example": "Pîrozbaîyên germ ên ji dilî."
+    },
+    {
+      "id": "word_0745",
+      "translation": "baldar",
+      "phonetic": "",
+      "example": "Baldariya temam a tam."
+    },
+    {
+      "id": "word_0746",
+      "translation": "lێ baş bike",
+      "phonetic": "",
+      "example": "Lê baş bike ji xwe re."
+    },
+    {
+      "id": "word_0747",
+      "translation": "rêz",
+      "phonetic": "",
+      "example": "Rêza kûr a hevbeş."
+    },
+    {
+      "id": "word_0748",
+      "translation": "rûmet",
+      "phonetic": "",
+      "example": "Rûmeta mezin a kesane."
+    },
+    {
+      "id": "word_0749",
+      "translation": "şeref",
+      "phonetic": "",
+      "example": "Şerefa mezin a kesane."
+    },
+    {
+      "id": "word_0750",
+      "translation": "şerm",
+      "phonetic": "",
+      "example": "Şerma kûr a kesane."
+    },
+    {
+      "id": "word_0751",
+      "translation": "tirs",
+      "phonetic": "",
+      "example": "Tirsa mezin a dagirtî."
+    },
+    {
+      "id": "word_0752",
+      "translation": "îman",
+      "phonetic": "",
+      "example": "Îmana bihêz a hişk."
+    },
+    {
+      "id": "word_0753",
+      "translation": "pêbawer",
+      "phonetic": "",
+      "example": "Pêbawera tevahî a bêkêmasî."
+    },
+    {
+      "id": "word_0754",
+      "translation": "bawer",
+      "phonetic": "",
+      "example": "Bawera xwe ya bihêz."
+    },
+    {
+      "id": "word_0755",
+      "translation": "guman",
+      "phonetic": "",
+      "example": "Gumana ciddî ya aqilane."
+    },
+    {
+      "id": "word_0756",
+      "translation": "xem",
+      "phonetic": "",
+      "example": "Xema domdar a bêpêdivî."
+    },
+    {
+      "id": "word_0757",
+      "translation": "xemgînî",
+      "phonetic": "",
+      "example": "Xemgîniya mezin a ciddî."
+    },
+    {
+      "id": "word_0758",
+      "translation": "raberî",
+      "phonetic": "",
+      "example": "Raberiya kesane ya rast."
+    },
+    {
+      "id": "word_0759",
+      "translation": "nêrîn",
+      "phonetic": "",
+      "example": "Nêrîna cuda ya taybetî."
+    },
+    {
+      "id": "word_0760",
+      "translation": "hest",
+      "phonetic": "",
+      "example": "Hesta bihêz a hundir."
+    },
+    {
+      "id": "word_0761",
+      "translation": "hestî",
+      "phonetic": "",
+      "example": "Hestiya bihêz a xav."
+    },
+    {
+      "id": "word_0762",
+      "translation": "hîş",
+      "phonetic": "",
+      "example": "Hîşa baş a hevpar."
+    },
+    {
+      "id": "word_0763",
+      "translation": "hîş",
+      "phonetic": "",
+      "example": "Hîşa tûj a gelek zelal."
+    },
+    {
+      "id": "word_0764",
+      "translation": "bîr",
+      "phonetic": "",
+      "example": "Bîra zelal a rûn."
+    },
+    {
+      "id": "word_0765",
+      "translation": "xewn",
+      "phonetic": "",
+      "example": "Xewna bedew a xweş."
+    },
+    {
+      "id": "word_0766",
+      "translation": "xeyal",
+      "phonetic": "",
+      "example": "Xeyala kor a rengîn."
+    },
+    {
+      "id": "word_0767",
+      "translation": "rastî",
+      "phonetic": "",
+      "example": "Rastiya dijwar a sar."
+    },
+    {
+      "id": "word_0768",
+      "translation": "xuyanî",
+      "phonetic": "",
+      "example": "Xuyaniya laşî ya derve."
+    },
+    {
+      "id": "word_0769",
+      "translation": "şikil",
+      "phonetic": "",
+      "example": "Şikila gilover a zerav."
+    },
+    {
+      "id": "word_0770",
+      "translation": "mezinahî",
+      "phonetic": "",
+      "example": "Mezinahiya mezin a gewre."
+    },
+    {
+      "id": "word_0771",
+      "translation": "dirêjahî",
+      "phonetic": "",
+      "example": "Dirêjahiya tevahî a bêkêmasî."
+    },
+    {
+      "id": "word_0772",
+      "translation": "firehî",
+      "phonetic": "",
+      "example": "Firehiya tevahî a temamî."
+    },
+    {
+      "id": "word_0773",
+      "translation": "bilindahî",
+      "phonetic": "",
+      "example": "Bilindahiya herî zêde."
+    },
+    {
+      "id": "word_0774",
+      "translation": "kûrahî",
+      "phonetic": "",
+      "example": "Kûrahiya mezin a fireh."
+    },
+    {
+      "id": "word_0775",
+      "translation": "giranî",
+      "phonetic": "",
+      "example": "Giraniya giran a tevahî."
+    },
+    {
+      "id": "word_0776",
+      "translation": "lez",
+      "phonetic": "",
+      "example": "Leza bilind a herî zêde."
+    },
+    {
+      "id": "word_0777",
+      "translation": "dûrî",
+      "phonetic": "",
+      "example": "Dûriya dirêj a tevahî."
+    },
+    {
+      "id": "word_0778",
+      "translation": "alî",
+      "phonetic": "",
+      "example": "Aliya rast a rast."
+    },
+    {
+      "id": "word_0779",
+      "translation": "cî",
+      "phonetic": "",
+      "example": "Cîa niha ya tam."
+    },
+    {
+      "id": "word_0780",
+      "translation": "rewş",
+      "phonetic": "",
+      "example": "Rewşa niha ya heyî."
+    },
+    {
+      "id": "word_0781",
+      "translation": "rewş",
+      "phonetic": "",
+      "example": "Rewşa baş a hêja."
+    },
+    {
+      "id": "word_0782",
+      "translation": "kalîte",
+      "phonetic": "",
+      "example": "Kalîteya bilind a başbûnî."
+    },
+    {
+      "id": "word_0783",
+      "translation": "hejmar",
+      "phonetic": "",
+      "example": "Hejmara mezin a têr."
+    },
+    {
+      "id": "word_0784",
+      "translation": "pîle",
+      "phonetic": "",
+      "example": "Pîleya bilind a akademîk."
+    },
+    {
+      "id": "word_0785",
+      "translation": "ast",
+      "phonetic": "",
+      "example": "Asta pêşkeftî ya pisporî."
+    },
+    {
+      "id": "word_0786",
+      "translation": "qonaxa",
+      "phonetic": "",
+      "example": "Qonaxa dawî ya paşîn."
+    },
+    {
+      "id": "word_0787",
+      "translation": "gav",
+      "phonetic": "",
+      "example": "Gava yekem a destpêkê."
+    },
+    {
+      "id": "word_0788",
+      "translation": "xal",
+      "phonetic": "",
+      "example": "Xala girîng a bingehîn."
+    },
+    {
+      "id": "word_0789",
+      "translation": "xet",
+      "phonetic": "",
+      "example": "Xeta rast a ufqî."
+    },
+    {
+      "id": "word_0790",
+      "translation": "dewir",
+      "phonetic": "",
+      "example": "Dewira temamî a bêkêmasî."
+    },
+    {
+      "id": "word_0791",
+      "translation": "çargoşe",
+      "phonetic": "",
+      "example": "Çargoşeya temamî ya wekhev."
+    },
+    {
+      "id": "word_0792",
+      "translation": "sêgoşe",
+      "phonetic": "",
+      "example": "Sêgoşeya bi goşeya rast."
+    },
+    {
+      "id": "word_0793",
+      "translation": "goşe",
+      "phonetic": "",
+      "example": "Goşeya tûj a zirav."
+    },
+    {
+      "id": "word_0794",
+      "translation": "kunc",
+      "phonetic": "",
+      "example": "Kunca rast a tûj."
+    },
+    {
+      "id": "word_0795",
+      "translation": "kenar",
+      "phonetic": "",
+      "example": "Kenara tûj a birîn."
+    },
+    {
+      "id": "word_0796",
+      "translation": "rûber",
+      "phonetic": "",
+      "example": "Rûbera nerm a hêvir."
+    },
+    {
+      "id": "word_0797",
+      "translation": "navend",
+      "phonetic": "",
+      "example": "Navenda tam a rast."
+    },
+    {
+      "id": "word_0798",
+      "translation": "beş",
+      "phonetic": "",
+      "example": "Beşa girîng a bingehîn."
+    },
+    {
+      "id": "word_0799",
+      "translation": "parçe",
+      "phonetic": "",
+      "example": "Parçeya biçûk a hindik."
+    },
+    {
+      "id": "word_0800",
+      "translation": "pir",
+      "phonetic": "",
+      "example": "Pira hindik a biçûk."
+    },
+    {
+      "id": "word_0801",
+      "translation": "qism",
+      "phonetic": "",
+      "example": "Qisma veqetandî ya cuda."
+    },
+    {
+      "id": "word_0802",
+      "translation": "herêm",
+      "phonetic": "",
+      "example": "Herêma mezin a vekirî."
+    },
+    {
+      "id": "word_0803",
+      "translation": "mintiqe",
+      "phonetic": "",
+      "example": "Mintiqeya dûr a veqetiyayî."
+    },
+    {
+      "id": "word_0804",
+      "translation": "devera",
+      "phonetic": "",
+      "example": "Devera sînorkirî ya qedexekirî."
+    },
+    {
+      "id": "word_0805",
+      "translation": "cih",
+      "phonetic": "",
+      "example": "Ciha vala a bêkes."
+    },
+    {
+      "id": "word_0806",
+      "translation": "şop",
+      "phonetic": "",
+      "example": "Şopa temamî ya îdeal."
+    },
+    {
+      "id": "word_0807",
+      "translation": "cî",
+      "phonetic": "",
+      "example": "Cîa dîrokî ya girîng."
+    },
+    {
+      "id": "word_0808",
+      "translation": "şûn",
+      "phonetic": "",
+      "example": "Şûna başbûnî ya navendî."
+    },
+    {
+      "id": "word_0809",
+      "translation": "navnîşan",
+      "phonetic": "",
+      "example": "Navnîşana malê ya domdar."
+    },
+    {
+      "id": "word_0810",
+      "translation": "xerîte",
+      "phonetic": "",
+      "example": "Xerîteya hûrgulî ya rast."
+    },
+    {
+      "id": "word_0811",
+      "translation": "bakur",
+      "phonetic": "",
+      "example": "Bakurê rast a magnetîk."
+    },
+    {
+      "id": "word_0812",
+      "translation": "başûr",
+      "phonetic": "",
+      "example": "Başûrê kûr a dûr."
+    },
+    {
+      "id": "word_0813",
+      "translation": "rojhilat",
+      "phonetic": "",
+      "example": "Rojhilata dûr a veqetiyayî."
+    },
+    {
+      "id": "word_0814",
+      "translation": "rojava",
+      "phonetic": "",
+      "example": "Rojava kor a Amerîkî."
+    },
+    {
+      "id": "word_0815",
+      "translation": "çep",
+      "phonetic": "",
+      "example": "Bi tûjî bizivre çepê."
+    },
+    {
+      "id": "word_0816",
+      "translation": "rast",
+      "phonetic": "",
+      "example": "Rast here pêşve."
+    },
+    {
+      "id": "word_0817",
+      "translation": "pêşve",
+      "phonetic": "",
+      "example": "Bi domdarî here pêşve."
+    },
+    {
+      "id": "word_0818",
+      "translation": "paşve",
+      "phonetic": "",
+      "example": "Bi baldarî gaveke paşve."
+    },
+    {
+      "id": "word_0819",
+      "translation": "jor",
+      "phonetic": "",
+      "example": "Rasterast li jor binihêre."
+    },
+    {
+      "id": "word_0820",
+      "translation": "xwar",
+      "phonetic": "",
+      "example": "Bi lez li xwar binihêre."
+    },
+    {
+      "id": "word_0821",
+      "translation": "alikan",
+      "phonetic": "",
+      "example": "Hindik here alikan."
+    },
+    {
+      "id": "word_0822",
+      "translation": "vir",
+      "phonetic": "",
+      "example": "Rast were vir."
+    },
+    {
+      "id": "word_0823",
+      "translation": "kû",
+      "phonetic": "",
+      "example": "Ji min re bibêje kû."
+    },
+    {
+      "id": "word_0824",
+      "translation": "li her derê",
+      "phonetic": "",
+      "example": "Li her derê binihêre."
+    },
+    {
+      "id": "word_0825",
+      "translation": "li hîç derê",
+      "phonetic": "",
+      "example": "Li hîç derê nehate dîtin."
+    },
+    {
+      "id": "word_0826",
+      "translation": "li dereke",
+      "phonetic": "",
+      "example": "Li dereke winda kir."
+    },
+    {
+      "id": "word_0827",
+      "translation": "li her cihî",
+      "phonetic": "",
+      "example": "Nikare li her cihî bibîne."
+    },
+    {
+      "id": "word_0828",
+      "translation": "her dem",
+      "phonetic": "",
+      "example": "Her dem hetanî her dem bi bîr bîne."
+    },
+    {
+      "id": "word_0829",
+      "translation": "qet",
+      "phonetic": "",
+      "example": "Qet dev jê bernedin."
+    },
+    {
+      "id": "word_0830",
+      "translation": "carna",
+      "phonetic": "",
+      "example": "Carna min serdana bike."
+    },
+    {
+      "id": "word_0831",
+      "translation": "pir car",
+      "phonetic": "",
+      "example": "Pir car were serdanê."
+    },
+    {
+      "id": "word_0832",
+      "translation": "kêm",
+      "phonetic": "",
+      "example": "Hindik gelek kêm."
+    },
+    {
+      "id": "word_0833",
+      "translation": "bi qasî kêm",
+      "phonetic": "",
+      "example": "Hema qet bi qasî kêm."
+    },
+    {
+      "id": "word_0834",
+      "translation": "bi gelemperî",
+      "phonetic": "",
+      "example": "Bi gelemperî her tim dereng."
+    },
+    {
+      "id": "word_0835",
+      "translation": "normal",
+      "phonetic": "",
+      "example": "Normal gelek dem li ser."
+    },
+    {
+      "id": "word_0836",
+      "translation": "bi giştî",
+      "phonetic": "",
+      "example": "Bi giştî axaftinê rast e."
+    },
+    {
+      "id": "word_0837",
+      "translation": "bi tipîk",
+      "phonetic": "",
+      "example": "Bi tipîk ev qewimîne."
+    },
+    {
+      "id": "word_0838",
+      "translation": "pir car",
+      "phonetic": "",
+      "example": "Gelek pir car qewimîne."
+    },
+    {
+      "id": "word_0839",
+      "translation": "demdemî",
+      "phonetic": "",
+      "example": "Tenê demdemî qewimîne."
+    },
+    {
+      "id": "word_0840",
+      "translation": "pêdat",
+      "phonetic": "",
+      "example": "Her tim pêdat diguhere."
+    },
+    {
+      "id": "word_0841",
+      "translation": "berdewam",
+      "phonetic": "",
+      "example": "Her roj berdewam başbûnê."
+    },
+    {
+      "id": "word_0842",
+      "translation": "domdar",
+      "phonetic": "",
+      "example": "Her roj domdar warziş bike."
+    },
+    {
+      "id": "word_0843",
+      "translation": "tavildan",
+      "phonetic": "",
+      "example": "Rast tavildan here."
+    },
+    {
+      "id": "word_0844",
+      "translation": "zûtir",
+      "phonetic": "",
+      "example": "Hema zûtir qewimî."
+    },
+    {
+      "id": "word_0845",
+      "translation": "di nû de",
+      "phonetic": "",
+      "example": "Gelek di nû de rawest."
+    },
+    {
+      "id": "word_0846",
+      "translation": "zû",
+      "phonetic": "",
+      "example": "Gelek zû here."
+    },
+    {
+      "id": "word_0847",
+      "translation": "hêdî",
+      "phonetic": "",
+      "example": "Zêdetir hêdî meşe."
+    },
+    {
+      "id": "word_0848",
+      "translation": "hêdî hêdî",
+      "phonetic": "",
+      "example": "Hêdî hêdî başbûnê."
+    },
+    {
+      "id": "word_0849",
+      "translation": "bi lez",
+      "phonetic": "",
+      "example": "Gelek bi lez mezin dibe."
+    },
+    {
+      "id": "word_0850",
+      "translation": "zû",
+      "phonetic": "",
+      "example": "Zû vedigerîne."
+    },
+    {
+      "id": "word_0851",
+      "translation": "nû de",
+      "phonetic": "",
+      "example": "Nû de zêdetir qewimîne."
+    },
+    {
+      "id": "word_0852",
+      "translation": "nemaze",
+      "phonetic": "",
+      "example": "Nemaze gelek dest pê kir."
+    },
+    {
+      "id": "word_0853",
+      "translation": "niha",
+      "phonetic": "",
+      "example": "Niha di avahiyê de ye."
+    },
+    {
+      "id": "word_0854",
+      "translation": "naha",
+      "phonetic": "",
+      "example": "Naha amade nîne."
+    },
+    {
+      "id": "word_0855",
+      "translation": "dîsa",
+      "phonetic": "",
+      "example": "Dê dîsa qewime."
+    },
+    {
+      "id": "word_0856",
+      "translation": "di dawiyê de",
+      "phonetic": "",
+      "example": "Di dawiyê de gihîşt şûnî."
+    },
+    {
+      "id": "word_0857",
+      "translation": "di dawiyê de",
+      "phonetic": "",
+      "example": "Di dawiyê de dixwazim bibêjim."
+    },
+    {
+      "id": "word_0858",
+      "translation": "pêşî",
+      "phonetic": "",
+      "example": "Pêşî divê li hev bîne."
+    },
+    {
+      "id": "word_0859",
+      "translation": "duyemîn",
+      "phonetic": "",
+      "example": "Duyemîn hewce ye nirxandin bike."
+    },
+    {
+      "id": "word_0860",
+      "translation": "bi qismî",
+      "phonetic": "",
+      "example": "Tenê bi qismî rast e."
+    },
+    {
+      "id": "word_0861",
+      "translation": "bi piranî",
+      "phonetic": "",
+      "example": "Bi piranî gelek rast e."
+    },
+    {
+      "id": "word_0862",
+      "translation": "hema",
+      "phonetic": "",
+      "example": "Hema hema temamî."
+    },
+    {
+      "id": "word_0863",
+      "translation": "hema",
+      "phonetic": "",
+      "example": "Hema bi temamî qediya."
+    },
+    {
+      "id": "word_0864",
+      "translation": "gelek",
+      "phonetic": "",
+      "example": "Gelek gelek baş e."
+    },
+    {
+      "id": "word_0865",
+      "translation": "hindik",
+      "phonetic": "",
+      "example": "Hindik zêdetir dijwar."
+    },
+    {
+      "id": "word_0866",
+      "translation": "hema",
+      "phonetic": "",
+      "example": "Hema hema temamî."
+    },
+    {
+      "id": "word_0867",
+      "translation": "têra xwe",
+      "phonetic": "",
+      "example": "Têra xwe gelek hêsan."
+    },
+    {
+      "id": "word_0868",
+      "translation": "gelek",
+      "phonetic": "",
+      "example": "Gelek pir spas."
+    },
+    {
+      "id": "word_0869",
+      "translation": "zêde",
+      "phonetic": "",
+      "example": "Zêde gelek biha."
+    },
+    {
+      "id": "word_0870",
+      "translation": "bes",
+      "phonetic": "",
+      "example": "Baş zêdetir bes."
+    },
+    {
+      "id": "word_0871",
+      "translation": "gelek zêde",
+      "phonetic": "",
+      "example": "Gelek zêde gelek germ."
+    },
+    {
+      "id": "word_0872",
+      "translation": "bi giranî",
+      "phonetic": "",
+      "example": "Bi giranî gelek raweşt."
+    },
+    {
+      "id": "word_0873",
+      "translation": "bi temamî",
+      "phonetic": "",
+      "example": "Bi temamî bi tevahî temamî."
+    },
+    {
+      "id": "word_0874",
+      "translation": "bi tevahî",
+      "phonetic": "",
+      "example": "Bi tevahî bi temamî razî."
+    },
+    {
+      "id": "word_0875",
+      "translation": "bi temamî",
+      "phonetic": "",
+      "example": "Bi temamî erênî guman tune."
+    },
+    {
+      "id": "word_0876",
+      "translation": "bi temamî",
+      "phonetic": "",
+      "example": "Bi temamî bi tevahî rast."
+    },
+    {
+      "id": "word_0877",
+      "translation": "bi tevahî",
+      "phonetic": "",
+      "example": "Bi tevahî bi temamî cuda."
+    },
+    {
+      "id": "word_0878",
+      "translation": "bi tevahî",
+      "phonetic": "",
+      "example": "Bi tevahî bi temamî amade."
+    },
+    {
+      "id": "word_0879",
+      "translation": "bi tevahî",
+      "phonetic": "",
+      "example": "Bi tevahî bi temamî peyvend."
+    },
+    {
+      "id": "word_0880",
+      "translation": "hindik",
+      "phonetic": "",
+      "example": "Hindik hindik baştir."
+    },
+    {
+      "id": "word_0881",
+      "translation": "hindik",
+      "phonetic": "",
+      "example": "Hindik hindik dijwar."
+    },
+    {
+      "id": "word_0882",
+      "translation": "hema bi zehmetî",
+      "phonetic": "",
+      "example": "Hema bi zehmetî hema xuya dike."
+    },
+    {
+      "id": "word_0883",
+      "translation": "hema",
+      "phonetic": "",
+      "example": "Hema hema têbînî nabe."
+    },
+    {
+      "id": "word_0884",
+      "translation": "hema bi zehmetî",
+      "phonetic": "",
+      "example": "Hema bi zehmetî hema têr."
+    },
+    {
+      "id": "word_0885",
+      "translation": "tenê",
+      "phonetic": "",
+      "example": "Tenê tenê sade."
+    },
+    {
+      "id": "word_0886",
+      "translation": "tenê",
+      "phonetic": "",
+      "example": "Tenê tenê bingehîn."
+    },
+    {
+      "id": "word_0887",
+      "translation": "bi bingehî",
+      "phonetic": "",
+      "example": "Bi bingehî bingehîn rast e."
+    },
+    {
+      "id": "word_0888",
+      "translation": "bi eslê xwe",
+      "phonetic": "",
+      "example": "Bi eslê xwe bi bingehî heman."
+    },
+    {
+      "id": "word_0889",
+      "translation": "bi bingehî",
+      "phonetic": "",
+      "example": "Bi bingehî bi eslê xwe girîng."
+    },
+    {
+      "id": "word_0890",
+      "translation": "bi sereke",
+      "phonetic": "",
+      "example": "Bi sereke bi piranî balkêş."
+    },
+    {
+      "id": "word_0891",
+      "translation": "bi piranî",
+      "phonetic": "",
+      "example": "Bi piranî bi sereke xemgîn."
+    },
+    {
+      "id": "word_0892",
+      "translation": "bi piranî",
+      "phonetic": "",
+      "example": "Bi piranî bi sereke berpirsiyar."
+    },
+    {
+      "id": "word_0893",
+      "translation": "bi firehî",
+      "phonetic": "",
+      "example": "Bi firehî bi piranî serkeftî."
+    },
+    {
+      "id": "word_0894",
+      "translation": "gelek",
+      "phonetic": "",
+      "example": "Gelek gelek spas."
+    },
+    {
+      "id": "word_0895",
+      "translation": "kûr",
+      "phonetic": "",
+      "example": "Kûr kûr hejiyayî."
+    },
+    {
+      "id": "word_0896",
+      "translation": "bi ciddî",
+      "phonetic": "",
+      "example": "Bi ciddî bi rastî xemgîn."
+    },
+    {
+      "id": "word_0897",
+      "translation": "bi eşkere",
+      "phonetic": "",
+      "example": "Bi eşkere bi zelal xuya dike."
+    },
+    {
+      "id": "word_0898",
+      "translation": "bi eşkere",
+      "phonetic": "",
+      "example": "Bi eşkere bi zelal diyar."
+    },
+    {
+      "id": "word_0899",
+      "translation": "bi xuya",
+      "phonetic": "",
+      "example": "Bi xuya weke xuya rast."
+    },
+    {
+      "id": "word_0900",
+      "translation": "bi eşkere",
+      "phonetic": "",
+      "example": "Bi eşkere bi zelal îspat."
+    },
+    {
+      "id": "word_0901",
+      "translation": "bi temamî",
+      "phonetic": "",
+      "example": "Bi temamî di rastî de rast."
+    },
+    {
+      "id": "word_0902",
+      "translation": "bi temamî",
+      "phonetic": "",
+      "example": "Bi temamî bi tevahî guman tune."
+    },
+    {
+      "id": "word_0903",
+      "translation": "bê guman",
+      "phonetic": "",
+      "example": "Bê guman bi temamî rast."
+    },
+    {
+      "id": "word_0904",
+      "translation": "dibe",
+      "phonetic": "",
+      "example": "Dibe herî pirtir."
+    },
+    {
+      "id": "word_0905",
+      "translation": "dibe ku",
+      "phonetic": "",
+      "example": "Dibe ku belkî dibe."
+    },
+    {
+      "id": "word_0906",
+      "translation": "belkî",
+      "phonetic": "",
+      "example": "Belkî dibe dibe ku."
+    },
+    {
+      "id": "word_0907",
+      "translation": "dibe",
+      "phonetic": "",
+      "example": "Dibe belkî rast."
+    },
+    {
+      "id": "word_0908",
+      "translation": "pirtir dibe",
+      "phonetic": "",
+      "example": "Pirtir dibe ehtemal heye."
+    },
+    {
+      "id": "word_0909",
+      "translation": "ehtemala kêm",
+      "phonetic": "",
+      "example": "Gelek ehtemala kêm ehtemal tune."
+    },
+    {
+      "id": "word_0910",
+      "translation": "bi baxtekî",
+      "phonetic": "",
+      "example": "Bi baxtekî bi baxt serkeft."
+    },
+    {
+      "id": "word_0911",
+      "translation": "mixabin",
+      "phonetic": "",
+      "example": "Mixabin bi xemgînî têk çû."
+    },
+    {
+      "id": "word_0912",
+      "translation": "bi baxtekî",
+      "phonetic": "",
+      "example": "Bi baxtekî bi baxtekî ma."
+    },
+    {
+      "id": "word_0913",
+      "translation": "bi kêfxweşî",
+      "phonetic": "",
+      "example": "Bi kêfxweşî bi şahî razî bû."
+    },
+    {
+      "id": "word_0914",
+      "translation": "bi xemgînî",
+      "phonetic": "",
+      "example": "Bi xemgînî mixabin rast."
+    },
+    {
+      "id": "word_0915",
+      "translation": "bi hêvî",
+      "phonetic": "",
+      "example": "Bi hêvî bi erênî serkeve."
+    },
+    {
+      "id": "word_0916",
+      "translation": "bi xwezayî",
+      "phonetic": "",
+      "example": "Bi xwezayî bêguman."
+    },
+    {
+      "id": "word_0917",
+      "translation": "bi kesane",
+      "phonetic": "",
+      "example": "Bi kesane ez bawer dikim."
+    },
+    {
+      "id": "word_0918",
+      "translation": "bi rastgoyî",
+      "phonetic": "",
+      "example": "Bi rastgoyî bi rastî axaftin."
+    },
+    {
+      "id": "word_0919",
+      "translation": "bi aşkera",
+      "phonetic": "",
+      "example": "Bi aşkera bi rastgoyî got."
+    },
+    {
+      "id": "word_0920",
+      "translation": "bi rastî",
+      "phonetic": "",
+      "example": "Bi rastî bi dilê xwe sipasdar."
+    },
+    {
+      "id": "word_0921",
+      "translation": "bi rastî",
+      "phonetic": "",
+      "example": "Bi rastî bi rastî ecêbmayî."
+    },
+    {
+      "id": "word_0922",
+      "translation": "di rastî de",
+      "phonetic": "",
+      "example": "Di rastî de bi rastî qewimî."
+    },
+    {
+      "id": "word_0923",
+      "translation": "di rastî de",
+      "phonetic": "",
+      "example": "Di rastî de bi rastî balkêş."
+    },
+    {
+      "id": "word_0924",
+      "translation": "bêguman",
+      "phonetic": "",
+      "example": "Bêguman bi xwezayî."
+    },
+    {
+      "id": "word_0925",
+      "translation": "temam",
+      "phonetic": "",
+      "example": "Hemû tişt temam e."
+    },
+    {
+      "id": "word_0926",
+      "translation": "baş e",
+      "phonetic": "",
+      "example": "Ew bi temamî baş e."
+    },
+    {
+      "id": "word_0927",
+      "translation": "baş e",
+      "phonetic": "",
+      "example": "Hemû tişt baş e."
+    },
+    {
+      "id": "word_0928",
+      "translation": "baş e",
+      "phonetic": "",
+      "example": "Hemû tişt baş e."
+    },
+    {
+      "id": "word_0929",
+      "translation": "o",
+      "phonetic": "",
+      "example": "O ez dibînim."
+    },
+    {
+      "id": "word_0930",
+      "translation": "a",
+      "phonetic": "",
+      "example": "A niha fêm dikim."
+    },
+    {
+      "id": "word_0931",
+      "translation": "hey",
+      "phonetic": "",
+      "example": "Hey bisekine demek."
+    },
+    {
+      "id": "word_0932",
+      "translation": "way",
+      "phonetic": "",
+      "example": "Way ew ecêbmayî ye."
+    },
+    {
+      "id": "word_0933",
+      "translation": "ey",
+      "phonetic": "",
+      "example": "Ey şaşiya min."
+    },
+    {
+      "id": "word_0934",
+      "translation": "ax",
+      "phonetic": "",
+      "example": "Ax ew dijê."
+    },
+    {
+      "id": "word_0935",
+      "translation": "bijî",
+      "phonetic": "",
+      "example": "Bijî em birîyar bûn."
+    },
+    {
+      "id": "word_0936",
+      "translation": "jêr",
+      "phonetic": "",
+      "example": "Jêr maseyê."
+    },
+    {
+      "id": "word_0937",
+      "translation": "înternet",
+      "phonetic": "",
+      "example": "Ez her roj înternetê bikar tînim."
+    },
+    {
+      "id": "word_0938",
+      "translation": "malper",
+      "phonetic": "",
+      "example": "Ev malper bikêr e."
+    },
+    {
+      "id": "word_0939",
+      "translation": "peyam",
+      "phonetic": "",
+      "example": "Ez peyamek ji te re şand."
+    },
+    {
+      "id": "word_0940",
+      "translation": "nivîs",
+      "phonetic": "",
+      "example": "Dema ku tu gihaştî nivîsek bişîne."
+    },
+    {
+      "id": "word_0941",
+      "translation": "zincîre",
+      "phonetic": "",
+      "example": "Ez zincîreya nû dest pê kir."
+    },
+    {
+      "id": "word_0942",
+      "translation": "kenara derya",
+      "phonetic": "",
+      "example": "Em çûn kenara deryayê."
+    },
+    {
+      "id": "word_0943",
+      "translation": "hewa",
+      "phonetic": "",
+      "example": "Hewaya îro xweş e."
+    },
+    {
+      "id": "word_0944",
+      "translation": "hatiyek",
+      "phonetic": "",
+      "example": "Li derve hatiyek e."
+    },
+    {
+      "id": "word_0945",
+      "translation": "baranok",
+      "phonetic": "",
+      "example": "Îro baranok e."
+    },
+    {
+      "id": "word_0946",
+      "translation": "hewr",
+      "phonetic": "",
+      "example": "Ezman hewr e."
+    },
+    {
+      "id": "word_0947",
+      "translation": "bayok",
+      "phonetic": "",
+      "example": "Bayok û sar e."
+    },
+    {
+      "id": "word_0948",
+      "translation": "karê malê",
+      "phonetic": "",
+      "example": "Ez şevê karê malê heye."
+    },
+    {
+      "id": "word_0949",
+      "translation": "test",
+      "phonetic": "",
+      "example": "Test hêsan bû."
+    },
+    {
+      "id": "word_0950",
+      "translation": "imtîhan",
+      "phonetic": "",
+      "example": "Ew ji imtîhanê derbas bû."
+    },
+    {
+      "id": "word_0951",
+      "translation": "pîle",
+      "phonetic": "",
+      "example": "Pîleya wî bilind e."
+    },
+    {
+      "id": "word_0952",
+      "translation": "ders",
+      "phonetic": "",
+      "example": "Matematîk dersa min a bijarte ye."
+    },
+    {
+      "id": "word_0953",
+      "translation": "geryan",
+      "phonetic": "",
+      "example": "Ez ji geryanan hez dikim."
+    },
+    {
+      "id": "word_0954",
+      "translation": "rêwîtî",
+      "phonetic": "",
+      "example": "Rêwîtî kêfxweş bû."
+    },
+    {
+      "id": "word_0955",
+      "translation": "betlane",
+      "phonetic": "",
+      "example": "Em di betlaneyê de ne."
+    },
+    {
+      "id": "word_0956",
+      "translation": "bilêt",
+      "phonetic": "",
+      "example": "Ez bilêtek kirî."
+    },
+    {
+      "id": "word_0957",
+      "translation": "şîfre",
+      "phonetic": "",
+      "example": "Şîfreya xwe parveke."
+    },
+    {
+      "id": "word_0958",
+      "translation": "ekran",
+      "phonetic": "",
+      "example": "Ekran gelek ronahî ye."
+    },
+    {
+      "id": "word_0959",
+      "translation": "klavye",
+      "phonetic": "",
+      "example": "Klavye nû ye."
+    },
+    {
+      "id": "word_0960",
+      "translation": "mişk",
+      "phonetic": "",
+      "example": "Mişka kompiyûterê reş e."
+    },
+    {
+      "id": "word_0961",
+      "translation": "berîk",
+      "phonetic": "",
+      "example": "Ew berîka xwe ji bîr kir."
+    },
+    {
+      "id": "word_0962",
+      "translation": "pasaport",
+      "phonetic": "",
+      "example": "Pasaporta xwe kontrol bike."
+    },
+    {
+      "id": "word_0963",
+      "translation": "rehet",
+      "phonetic": "",
+      "example": "Ev kursî rehet e."
+    },
+    {
+      "id": "word_0964",
+      "translation": "kêfxweş",
+      "phonetic": "",
+      "example": "Lîstik kêfxweş bû."
+    },
+    {
+      "id": "word_0965",
+      "translation": "bêhêvî",
+      "phonetic": "",
+      "example": "Fîlm bêhêvî bû."
+    },
+    {
+      "id": "word_0966",
+      "translation": "civîn",
+      "phonetic": "",
+      "example": "Em di saet 3an de civînek hene."
+    },
+    {
+      "id": "word_0967",
+      "translation": "pratîk",
+      "phonetic": "",
+      "example": "Her roj pratîk bike."
+    },
+    {
+      "id": "word_0968",
+      "translation": "şef",
+      "phonetic": "",
+      "example": "Şefê wî mehreban e."
+    },
+    {
+      "id": "word_0969",
+      "translation": "heval",
+      "phonetic": "",
+      "example": "Hevalê min alîkariya min kir."
+    },
+    {
+      "id": "word_0970",
+      "translation": "futbol",
+      "phonetic": "",
+      "example": "Ew futbol dilîzin."
+    },
+    {
+      "id": "word_0971",
+      "translation": "basketbol",
+      "phonetic": "",
+      "example": "Basketbol balkêş e."
+    },
+    {
+      "id": "word_0972",
+      "translation": "tenîs",
+      "phonetic": "",
+      "example": "Em yekşemê tenîs dilîzin."
+    },
+    {
+      "id": "word_0973",
+      "translation": "serdana kirin",
+      "phonetic": "",
+      "example": "Em serdana hevalan dikin."
+    },
+    {
+      "id": "word_0974",
+      "translation": "bîsîklet",
+      "phonetic": "",
+      "example": "Bîsîkleta wî nû ye."
+    },
+    {
+      "id": "word_0975",
+      "translation": "tirsiyayî",
+      "phonetic": "",
+      "example": "Ew ji kuçikan ditirse."
+    },
+    {
+      "id": "word_0976",
+      "translation": "heyecanî",
+      "phonetic": "",
+      "example": "Zarok heyecanî ne."
+    },
+    {
+      "id": "word_0977",
+      "translation": "giran",
+      "phonetic": "",
+      "example": "Ez li ser testê giran im."
+    },
+    {
+      "id": "word_0978",
+      "translation": "aramî",
+      "phonetic": "",
+      "example": "Ew niha aramî his dike."
+    },
+    {
+      "id": "word_0979",
+      "translation": "xurttir",
+      "phonetic": "",
+      "example": "Ew xurttir dibe."
+    },
+    {
+      "id": "word_0980",
+      "translation": "lawazir",
+      "phonetic": "",
+      "example": "Sînyala li vir lawazir e."
+    },
+    {
+      "id": "word_0981",
+      "translation": "guh",
+      "phonetic": "",
+      "example": "Guhê min dijê."
+    },
+    {
+      "id": "word_0982",
+      "translation": "poz",
+      "phonetic": "",
+      "example": "Ew poza xwe bi dest xist."
+    },
+    {
+      "id": "word_0983",
+      "translation": "dev",
+      "phonetic": "",
+      "example": "Devê xwe veke."
+    },
+    {
+      "id": "word_0984",
+      "translation": "didan",
+      "phonetic": "",
+      "example": "Ev didan êşdar e."
+    },
+    {
+      "id": "word_0985",
+      "translation": "çante",
+      "phonetic": "",
+      "example": "Çanta wî tijî ye."
+    },
+    {
+      "id": "word_0986",
+      "translation": "defter",
+      "phonetic": "",
+      "example": "Li deftera xwe binivîse."
+    },
+    {
+      "id": "word_0987",
+      "translation": "salnivîs",
+      "phonetic": "",
+      "example": "Li salnivîsê binihêre."
+    },
+    {
+      "id": "word_0988",
+      "translation": "gustîl",
+      "phonetic": "",
+      "example": "Gustîla wê bedew e."
+    },
+    {
+      "id": "word_0989",
+      "translation": "cejn",
+      "phonetic": "",
+      "example": "Cejn sibe ye."
+    },
+    {
+      "id": "word_0990",
+      "translation": "rûpel",
+      "phonetic": "",
+      "example": "Rûpelê zivirîne."
+    },
+    {
+      "id": "word_0991",
+      "translation": "germa",
+      "phonetic": "",
+      "example": "Germa kontrol bike."
+    },
+    {
+      "id": "word_0992",
+      "translation": "enerjî",
+      "phonetic": "",
+      "example": "Min enerjî tune."
+    },
+    {
+      "id": "word_0993",
+      "translation": "elektrîk",
+      "phonetic": "",
+      "example": "Elektrîk girtin."
+    },
+    {
+      "id": "word_0994",
+      "translation": "pîl",
+      "phonetic": "",
+      "example": "Pîla min nizm e."
+    },
+    {
+      "id": "word_0995",
+      "translation": "sîgnal",
+      "phonetic": "",
+      "example": "Sîgnal lawaz e."
+    },
+    {
+      "id": "word_0996",
+      "translation": "girav",
+      "phonetic": "",
+      "example": "Em li giraveke biçûk man."
+    },
+    {
+      "id": "word_0997",
+      "translation": "apartemant",
+      "phonetic": "",
+      "example": "Em di apartementekê de dijîn."
+    },
+    {
+      "id": "word_0998",
+      "translation": "dûrguhez",
+      "phonetic": "",
+      "example": "Ez dûrguhez winda kir."
+    },
+    {
+      "id": "word_0999",
+      "translation": "lihêf",
+      "phonetic": "",
+      "example": "Lihêf germ e."
+    },
+    {
+      "id": "word_1000",
+      "translation": "balîf",
+      "phonetic": "",
+      "example": "Balîf nerm e."
+    }
+  ]
+}

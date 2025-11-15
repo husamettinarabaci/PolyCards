@@ -1,0 +1,6006 @@
+{
+  "language_name": "简体中文",
+  "language_code": "zh",
+  "words": [
+    {
+      "id": "word_0001",
+      "translation": "这个",
+      "phonetic": "",
+      "example": "太阳很亮。"
+    },
+    {
+      "id": "word_0002",
+      "translation": "是",
+      "phonetic": "",
+      "example": "我想要快乐。"
+    },
+    {
+      "id": "word_0003",
+      "translation": "到",
+      "phonetic": "",
+      "example": "我去学校。"
+    },
+    {
+      "id": "word_0004",
+      "translation": "的",
+      "phonetic": "",
+      "example": "天空的颜色。"
+    },
+    {
+      "id": "word_0005",
+      "translation": "和",
+      "phonetic": "",
+      "example": "面包和黄油。"
+    },
+    {
+      "id": "word_0006",
+      "translation": "一个",
+      "phonetic": "",
+      "example": "我看到一只狗。"
+    },
+    {
+      "id": "word_0007",
+      "translation": "在",
+      "phonetic": "",
+      "example": "他在房间里。"
+    },
+    {
+      "id": "word_0008",
+      "translation": "那个",
+      "phonetic": "",
+      "example": "我认为你是对的。"
+    },
+    {
+      "id": "word_0009",
+      "translation": "有",
+      "phonetic": "",
+      "example": "我有两只猫。"
+    },
+    {
+      "id": "word_0010",
+      "translation": "我",
+      "phonetic": "",
+      "example": "我在这里。"
+    },
+    {
+      "id": "word_0011",
+      "translation": "它",
+      "phonetic": "",
+      "example": "今天很冷。"
+    },
+    {
+      "id": "word_0012",
+      "translation": "为了",
+      "phonetic": "",
+      "example": "这是给你的。"
+    },
+    {
+      "id": "word_0013",
+      "translation": "不",
+      "phonetic": "",
+      "example": "我还没准备好。"
+    },
+    {
+      "id": "word_0014",
+      "translation": "在…上",
+      "phonetic": "",
+      "example": "把它放在桌子上。"
+    },
+    {
+      "id": "word_0015",
+      "translation": "和",
+      "phonetic": "",
+      "example": "跟我来。"
+    },
+    {
+      "id": "word_0016",
+      "translation": "他",
+      "phonetic": "",
+      "example": "他很高。"
+    },
+    {
+      "id": "word_0017",
+      "translation": "作为",
+      "phonetic": "",
+      "example": "像狐狸一样聪明。"
+    },
+    {
+      "id": "word_0018",
+      "translation": "你",
+      "phonetic": "",
+      "example": "你很善良。"
+    },
+    {
+      "id": "word_0019",
+      "translation": "做",
+      "phonetic": "",
+      "example": "我尽力而为。"
+    },
+    {
+      "id": "word_0020",
+      "translation": "在",
+      "phonetic": "",
+      "example": "中午见我。"
+    },
+    {
+      "id": "word_0021",
+      "translation": "这",
+      "phonetic": "",
+      "example": "这是我的。"
+    },
+    {
+      "id": "word_0022",
+      "translation": "但是",
+      "phonetic": "",
+      "example": "小但强壮。"
+    },
+    {
+      "id": "word_0023",
+      "translation": "他的",
+      "phonetic": "",
+      "example": "他的车是红色的。"
+    },
+    {
+      "id": "word_0024",
+      "translation": "由",
+      "phonetic": "",
+      "example": "手工制作。"
+    },
+    {
+      "id": "word_0025",
+      "translation": "从",
+      "phonetic": "",
+      "example": "我来自加拿大。"
+    },
+    {
+      "id": "word_0026",
+      "translation": "他们",
+      "phonetic": "",
+      "example": "他们来了。"
+    },
+    {
+      "id": "word_0027",
+      "translation": "我们",
+      "phonetic": "",
+      "example": "我们准备好了。"
+    },
+    {
+      "id": "word_0028",
+      "translation": "说",
+      "phonetic": "",
+      "example": "别那样说。"
+    },
+    {
+      "id": "word_0029",
+      "translation": "她的",
+      "phonetic": "",
+      "example": "她的笑容很美。"
+    },
+    {
+      "id": "word_0030",
+      "translation": "她",
+      "phonetic": "",
+      "example": "她跑得很快。"
+    },
+    {
+      "id": "word_0031",
+      "translation": "或者",
+      "phonetic": "",
+      "example": "左还是右？"
+    },
+    {
+      "id": "word_0032",
+      "translation": "一个",
+      "phonetic": "",
+      "example": "一天一个苹果。"
+    },
+    {
+      "id": "word_0033",
+      "translation": "将",
+      "phonetic": "",
+      "example": "我会尝试。"
+    },
+    {
+      "id": "word_0034",
+      "translation": "我的",
+      "phonetic": "",
+      "example": "我的名字是约翰。"
+    },
+    {
+      "id": "word_0035",
+      "translation": "一",
+      "phonetic": "",
+      "example": "再一次。"
+    },
+    {
+      "id": "word_0036",
+      "translation": "所有",
+      "phonetic": "",
+      "example": "欢迎所有人。"
+    },
+    {
+      "id": "word_0037",
+      "translation": "会",
+      "phonetic": "",
+      "example": "你想要茶吗？"
+    },
+    {
+      "id": "word_0038",
+      "translation": "那里",
+      "phonetic": "",
+      "example": "就在那里！"
+    },
+    {
+      "id": "word_0039",
+      "translation": "他们的",
+      "phonetic": "",
+      "example": "他们的狗在叫。"
+    },
+    {
+      "id": "word_0040",
+      "translation": "什么",
+      "phonetic": "",
+      "example": "这是什么？"
+    },
+    {
+      "id": "word_0041",
+      "translation": "所以",
+      "phonetic": "",
+      "example": "我累了，所以我要睡觉。"
+    },
+    {
+      "id": "word_0042",
+      "translation": "向上",
+      "phonetic": "",
+      "example": "早起。"
+    },
+    {
+      "id": "word_0043",
+      "translation": "出去",
+      "phonetic": "",
+      "example": "现在出去。"
+    },
+    {
+      "id": "word_0044",
+      "translation": "如果",
+      "phonetic": "",
+      "example": "如果你想要，就来。"
+    },
+    {
+      "id": "word_0045",
+      "translation": "关于",
+      "phonetic": "",
+      "example": "谈论生活。"
+    },
+    {
+      "id": "word_0046",
+      "translation": "谁",
+      "phonetic": "",
+      "example": "你是谁？"
+    },
+    {
+      "id": "word_0047",
+      "translation": "得到",
+      "phonetic": "",
+      "example": "休息一下。"
+    },
+    {
+      "id": "word_0048",
+      "translation": "哪个",
+      "phonetic": "",
+      "example": "哪一个是你的？"
+    },
+    {
+      "id": "word_0049",
+      "translation": "去",
+      "phonetic": "",
+      "example": "我们回家吧。"
+    },
+    {
+      "id": "word_0050",
+      "translation": "我",
+      "phonetic": "",
+      "example": "告诉我更多。"
+    },
+    {
+      "id": "word_0051",
+      "translation": "什么时候",
+      "phonetic": "",
+      "example": "你什么时候到的？"
+    },
+    {
+      "id": "word_0052",
+      "translation": "制作",
+      "phonetic": "",
+      "example": "许个愿。"
+    },
+    {
+      "id": "word_0053",
+      "translation": "能够",
+      "phonetic": "",
+      "example": "我可以帮助你。"
+    },
+    {
+      "id": "word_0054",
+      "translation": "喜欢",
+      "phonetic": "",
+      "example": "我喜欢音乐。"
+    },
+    {
+      "id": "word_0055",
+      "translation": "时间",
+      "phonetic": "",
+      "example": "时间过得很快。"
+    },
+    {
+      "id": "word_0056",
+      "translation": "不",
+      "phonetic": "",
+      "example": "没问题。"
+    },
+    {
+      "id": "word_0057",
+      "translation": "只是",
+      "phonetic": "",
+      "example": "就去做吧。"
+    },
+    {
+      "id": "word_0058",
+      "translation": "他",
+      "phonetic": "",
+      "example": "我告诉过他。"
+    },
+    {
+      "id": "word_0059",
+      "translation": "知道",
+      "phonetic": "",
+      "example": "我认识你。"
+    },
+    {
+      "id": "word_0060",
+      "translation": "拿",
+      "phonetic": "",
+      "example": "慢慢来。"
+    },
+    {
+      "id": "word_0061",
+      "translation": "人们",
+      "phonetic": "",
+      "example": "人们在等待。"
+    },
+    {
+      "id": "word_0062",
+      "translation": "进入",
+      "phonetic": "",
+      "example": "跳进水里。"
+    },
+    {
+      "id": "word_0063",
+      "translation": "年",
+      "phonetic": "",
+      "example": "新年快乐！"
+    },
+    {
+      "id": "word_0064",
+      "translation": "你的",
+      "phonetic": "",
+      "example": "现在轮到你了。"
+    },
+    {
+      "id": "word_0065",
+      "translation": "好",
+      "phonetic": "",
+      "example": "早上好！"
+    },
+    {
+      "id": "word_0066",
+      "translation": "一些",
+      "phonetic": "",
+      "example": "有些人同意。"
+    },
+    {
+      "id": "word_0067",
+      "translation": "能够",
+      "phonetic": "",
+      "example": "你能等一下吗？"
+    },
+    {
+      "id": "word_0068",
+      "translation": "他们",
+      "phonetic": "",
+      "example": "我喜欢他们。"
+    },
+    {
+      "id": "word_0069",
+      "translation": "看",
+      "phonetic": "",
+      "example": "我看得很清楚。"
+    },
+    {
+      "id": "word_0070",
+      "translation": "其他",
+      "phonetic": "",
+      "example": "存在其他选择。"
+    },
+    {
+      "id": "word_0071",
+      "translation": "比",
+      "phonetic": "",
+      "example": "比以前更好。"
+    },
+    {
+      "id": "word_0072",
+      "translation": "然后",
+      "phonetic": "",
+      "example": "然后我们离开了。"
+    },
+    {
+      "id": "word_0073",
+      "translation": "现在",
+      "phonetic": "",
+      "example": "现在到这里来。"
+    },
+    {
+      "id": "word_0074",
+      "translation": "看",
+      "phonetic": "",
+      "example": "看两边。"
+    },
+    {
+      "id": "word_0075",
+      "translation": "只有",
+      "phonetic": "",
+      "example": "只剩一个。"
+    },
+    {
+      "id": "word_0076",
+      "translation": "来",
+      "phonetic": "",
+      "example": "和我们一起来。"
+    },
+    {
+      "id": "word_0077",
+      "translation": "它的",
+      "phonetic": "",
+      "example": "狗摇着它的尾巴。"
+    },
+    {
+      "id": "word_0078",
+      "translation": "在…之上",
+      "phonetic": "",
+      "example": "彩虹之上。"
+    },
+    {
+      "id": "word_0079",
+      "translation": "想",
+      "phonetic": "",
+      "example": "说话前先思考。"
+    },
+    {
+      "id": "word_0080",
+      "translation": "也",
+      "phonetic": "",
+      "example": "我也同意。"
+    },
+    {
+      "id": "word_0081",
+      "translation": "回来",
+      "phonetic": "",
+      "example": "快点回来。"
+    },
+    {
+      "id": "word_0082",
+      "translation": "在…之后",
+      "phonetic": "",
+      "example": "午饭后。"
+    },
+    {
+      "id": "word_0083",
+      "translation": "使用",
+      "phonetic": "",
+      "example": "用这支笔。"
+    },
+    {
+      "id": "word_0084",
+      "translation": "二",
+      "phonetic": "",
+      "example": "两个就够了。"
+    },
+    {
+      "id": "word_0085",
+      "translation": "怎么样",
+      "phonetic": "",
+      "example": "你好吗？"
+    },
+    {
+      "id": "word_0086",
+      "translation": "我们的",
+      "phonetic": "",
+      "example": "我们的家庭很大。"
+    },
+    {
+      "id": "word_0087",
+      "translation": "工作",
+      "phonetic": "",
+      "example": "努力工作会有回报。"
+    },
+    {
+      "id": "word_0088",
+      "translation": "第一",
+      "phonetic": "",
+      "example": "第一名获胜者。"
+    },
+    {
+      "id": "word_0089",
+      "translation": "好",
+      "phonetic": "",
+      "example": "今晚睡个好觉。"
+    },
+    {
+      "id": "word_0090",
+      "translation": "方式",
+      "phonetic": "",
+      "example": "请这边走。"
+    },
+    {
+      "id": "word_0091",
+      "translation": "甚至",
+      "phonetic": "",
+      "example": "现在更好了。"
+    },
+    {
+      "id": "word_0092",
+      "translation": "新的",
+      "phonetic": "",
+      "example": "今天的新手机。"
+    },
+    {
+      "id": "word_0093",
+      "translation": "想要",
+      "phonetic": "",
+      "example": "我想要和平。"
+    },
+    {
+      "id": "word_0094",
+      "translation": "因为",
+      "phonetic": "",
+      "example": "因为我这么说。"
+    },
+    {
+      "id": "word_0095",
+      "translation": "任何",
+      "phonetic": "",
+      "example": "有什么问题吗？"
+    },
+    {
+      "id": "word_0096",
+      "translation": "这些",
+      "phonetic": "",
+      "example": "这些是新鲜的。"
+    },
+    {
+      "id": "word_0097",
+      "translation": "给",
+      "phonetic": "",
+      "example": "给我力量。"
+    },
+    {
+      "id": "word_0098",
+      "translation": "天",
+      "phonetic": "",
+      "example": "今天天气真好。"
+    },
+    {
+      "id": "word_0099",
+      "translation": "最",
+      "phonetic": "",
+      "example": "大多数学生通过了。"
+    },
+    {
+      "id": "word_0100",
+      "translation": "我们",
+      "phonetic": "",
+      "example": "请加入我们。"
+    },
+    {
+      "id": "word_0101",
+      "translation": "是",
+      "phonetic": "",
+      "example": "她很快乐。"
+    },
+    {
+      "id": "word_0102",
+      "translation": "是（过去式）",
+      "phonetic": "",
+      "example": "那很棒。"
+    },
+    {
+      "id": "word_0103",
+      "translation": "是",
+      "phonetic": "",
+      "example": "我们是朋友。"
+    },
+    {
+      "id": "word_0104",
+      "translation": "已经",
+      "phonetic": "",
+      "example": "你去过那里吗？"
+    },
+    {
+      "id": "word_0105",
+      "translation": "有",
+      "phonetic": "",
+      "example": "她已经到了。"
+    },
+    {
+      "id": "word_0106",
+      "translation": "有（过去式）",
+      "phonetic": "",
+      "example": "他已经离开了。"
+    },
+    {
+      "id": "word_0107",
+      "translation": "是（过去式）",
+      "phonetic": "",
+      "example": "他们迟到了。"
+    },
+    {
+      "id": "word_0108",
+      "translation": "说（过去式）",
+      "phonetic": "",
+      "example": "他什么也没说。"
+    },
+    {
+      "id": "word_0109",
+      "translation": "做（过去式）",
+      "phonetic": "",
+      "example": "我做到了。"
+    },
+    {
+      "id": "word_0110",
+      "translation": "有（进行时）",
+      "phonetic": "",
+      "example": "今天玩得开心。"
+    },
+    {
+      "id": "word_0111",
+      "translation": "可以",
+      "phonetic": "",
+      "example": "我可以帮忙吗？"
+    },
+    {
+      "id": "word_0112",
+      "translation": "应该",
+      "phonetic": "",
+      "example": "你应该尝试。"
+    },
+    {
+      "id": "word_0113",
+      "translation": "必须",
+      "phonetic": "",
+      "example": "我们必须走了。"
+    },
+    {
+      "id": "word_0114",
+      "translation": "是",
+      "phonetic": "",
+      "example": "我准备好了。"
+    },
+    {
+      "id": "word_0115",
+      "translation": "可能",
+      "phonetic": "",
+      "example": "可能会下雨。"
+    },
+    {
+      "id": "word_0116",
+      "translation": "是（进行时）",
+      "phonetic": "",
+      "example": "诚实很重要。"
+    },
+    {
+      "id": "word_0117",
+      "translation": "做",
+      "phonetic": "",
+      "example": "她练瑜伽。"
+    },
+    {
+      "id": "word_0118",
+      "translation": "完成",
+      "phonetic": "",
+      "example": "工作完成了。"
+    },
+    {
+      "id": "word_0119",
+      "translation": "做（进行时）",
+      "phonetic": "",
+      "example": "你在做什么？"
+    },
+    {
+      "id": "word_0120",
+      "translation": "制作（过去式）",
+      "phonetic": "",
+      "example": "我做了饼干。"
+    },
+    {
+      "id": "word_0121",
+      "translation": "使",
+      "phonetic": "",
+      "example": "熟能生巧。"
+    },
+    {
+      "id": "word_0122",
+      "translation": "制作（进行时）",
+      "phonetic": "",
+      "example": "每天都在进步。"
+    },
+    {
+      "id": "word_0123",
+      "translation": "去（过去式）",
+      "phonetic": "",
+      "example": "我们去购物了。"
+    },
+    {
+      "id": "word_0124",
+      "translation": "去（进行时）",
+      "phonetic": "",
+      "example": "我要回家了。"
+    },
+    {
+      "id": "word_0125",
+      "translation": "去",
+      "phonetic": "",
+      "example": "时间过得很快。"
+    },
+    {
+      "id": "word_0126",
+      "translation": "来（过去式）",
+      "phonetic": "",
+      "example": "她昨天来了。"
+    },
+    {
+      "id": "word_0127",
+      "translation": "来（进行时）",
+      "phonetic": "",
+      "example": "冬天快到了。"
+    },
+    {
+      "id": "word_0128",
+      "translation": "来",
+      "phonetic": "",
+      "example": "帮助很快就会来。"
+    },
+    {
+      "id": "word_0129",
+      "translation": "看见（过去式）",
+      "phonetic": "",
+      "example": "我看见你了。"
+    },
+    {
+      "id": "word_0130",
+      "translation": "看见（完成时）",
+      "phonetic": "",
+      "example": "你看过这个吗？"
+    },
+    {
+      "id": "word_0131",
+      "translation": "看（进行时）",
+      "phonetic": "",
+      "example": "眼见为实。"
+    },
+    {
+      "id": "word_0132",
+      "translation": "看见",
+      "phonetic": "",
+      "example": "每个人都看到了。"
+    },
+    {
+      "id": "word_0133",
+      "translation": "知道（过去式）",
+      "phonetic": "",
+      "example": "我知道那个。"
+    },
+    {
+      "id": "word_0134",
+      "translation": "已知的",
+      "phonetic": "",
+      "example": "众所周知的事实。"
+    },
+    {
+      "id": "word_0135",
+      "translation": "知道（进行时）",
+      "phonetic": "",
+      "example": "知道有助于学习。"
+    },
+    {
+      "id": "word_0136",
+      "translation": "知道",
+      "phonetic": "",
+      "example": "没人知道为什么。"
+    },
+    {
+      "id": "word_0137",
+      "translation": "拿（过去式）",
+      "phonetic": "",
+      "example": "她做了笔记。"
+    },
+    {
+      "id": "word_0138",
+      "translation": "拿（完成时）",
+      "phonetic": "",
+      "example": "所有座位都被占了。"
+    },
+    {
+      "id": "word_0139",
+      "translation": "拿（进行时）",
+      "phonetic": "",
+      "example": "休息一下。"
+    },
+    {
+      "id": "word_0140",
+      "translation": "需要",
+      "phonetic": "",
+      "example": "这需要时间。"
+    },
+    {
+      "id": "word_0141",
+      "translation": "得到（过去式）",
+      "phonetic": "",
+      "example": "我明白了。"
+    },
+    {
+      "id": "word_0142",
+      "translation": "得到（完成时）",
+      "phonetic": "",
+      "example": "你收到消息了吗？"
+    },
+    {
+      "id": "word_0143",
+      "translation": "得到（进行时）",
+      "phonetic": "",
+      "example": "每天都在变好。"
+    },
+    {
+      "id": "word_0144",
+      "translation": "得到",
+      "phonetic": "",
+      "example": "她取得了成果。"
+    },
+    {
+      "id": "word_0145",
+      "translation": "想（过去式）",
+      "phonetic": "",
+      "example": "我就是这么想的。"
+    },
+    {
+      "id": "word_0146",
+      "translation": "思考（进行时）",
+      "phonetic": "",
+      "example": "保持积极思考。"
+    },
+    {
+      "id": "word_0147",
+      "translation": "认为",
+      "phonetic": "",
+      "example": "他的想法不同。"
+    },
+    {
+      "id": "word_0148",
+      "translation": "看（过去式）",
+      "phonetic": "",
+      "example": "我到处找了。"
+    },
+    {
+      "id": "word_0149",
+      "translation": "寻找（进行时）",
+      "phonetic": "",
+      "example": "寻找答案。"
+    },
+    {
+      "id": "word_0150",
+      "translation": "看起来",
+      "phonetic": "",
+      "example": "看起来不错。"
+    },
+    {
+      "id": "word_0151",
+      "translation": "你好",
+      "phonetic": "",
+      "example": "你好，很高兴见到你！"
+    },
+    {
+      "id": "word_0152",
+      "translation": "再见",
+      "phonetic": "",
+      "example": "再见，明天见。"
+    },
+    {
+      "id": "word_0153",
+      "translation": "是的",
+      "phonetic": "",
+      "example": "是的，我同意。"
+    },
+    {
+      "id": "word_0154",
+      "translation": "请",
+      "phonetic": "",
+      "example": "请帮助我。"
+    },
+    {
+      "id": "word_0155",
+      "translation": "感谢",
+      "phonetic": "",
+      "example": "非常感谢你。"
+    },
+    {
+      "id": "word_0156",
+      "translation": "对不起",
+      "phonetic": "",
+      "example": "我很抱歉。"
+    },
+    {
+      "id": "word_0157",
+      "translation": "打扰",
+      "phonetic": "",
+      "example": "请原谅。"
+    },
+    {
+      "id": "word_0158",
+      "translation": "欢迎",
+      "phonetic": "",
+      "example": "欢迎你来这里。"
+    },
+    {
+      "id": "word_0159",
+      "translation": "早晨",
+      "phonetic": "",
+      "example": "大家早上好！"
+    },
+    {
+      "id": "word_0160",
+      "translation": "下午",
+      "phonetic": "",
+      "example": "下午好，先生。"
+    },
+    {
+      "id": "word_0161",
+      "translation": "傍晚",
+      "phonetic": "",
+      "example": "晚上好，女士。"
+    },
+    {
+      "id": "word_0162",
+      "translation": "夜晚",
+      "phonetic": "",
+      "example": "晚安，睡个好觉。"
+    },
+    {
+      "id": "word_0163",
+      "translation": "今天",
+      "phonetic": "",
+      "example": "今天很特别。"
+    },
+    {
+      "id": "word_0164",
+      "translation": "明天",
+      "phonetic": "",
+      "example": "明天见。"
+    },
+    {
+      "id": "word_0165",
+      "translation": "昨天",
+      "phonetic": "",
+      "example": "昨天很有趣。"
+    },
+    {
+      "id": "word_0166",
+      "translation": "星期",
+      "phonetic": "",
+      "example": "下周一。"
+    },
+    {
+      "id": "word_0167",
+      "translation": "月",
+      "phonetic": "",
+      "example": "上个月三月。"
+    },
+    {
+      "id": "word_0168",
+      "translation": "星期一",
+      "phonetic": "",
+      "example": "星期一很忙。"
+    },
+    {
+      "id": "word_0169",
+      "translation": "星期二",
+      "phonetic": "",
+      "example": "星期二安排了会议。"
+    },
+    {
+      "id": "word_0170",
+      "translation": "星期三",
+      "phonetic": "",
+      "example": "星期三是周中。"
+    },
+    {
+      "id": "word_0171",
+      "translation": "星期四",
+      "phonetic": "",
+      "example": "星期四快到周末了。"
+    },
+    {
+      "id": "word_0172",
+      "translation": "星期五",
+      "phonetic": "",
+      "example": "星期五晚上很有趣。"
+    },
+    {
+      "id": "word_0173",
+      "translation": "星期六",
+      "phonetic": "",
+      "example": "星期六不工作。"
+    },
+    {
+      "id": "word_0174",
+      "translation": "星期日",
+      "phonetic": "",
+      "example": "星期日休息日。"
+    },
+    {
+      "id": "word_0175",
+      "translation": "一月",
+      "phonetic": "",
+      "example": "一月很冷。"
+    },
+    {
+      "id": "word_0176",
+      "translation": "二月",
+      "phonetic": "",
+      "example": "二月是短月。"
+    },
+    {
+      "id": "word_0177",
+      "translation": "三月",
+      "phonetic": "",
+      "example": "三月带来春天。"
+    },
+    {
+      "id": "word_0178",
+      "translation": "四月",
+      "phonetic": "",
+      "example": "四月有雨。"
+    },
+    {
+      "id": "word_0179",
+      "translation": "五月",
+      "phonetic": "",
+      "example": "五月鲜花盛开。"
+    },
+    {
+      "id": "word_0180",
+      "translation": "六月",
+      "phonetic": "",
+      "example": "六月很暖和。"
+    },
+    {
+      "id": "word_0181",
+      "translation": "七月",
+      "phonetic": "",
+      "example": "七月非常热。"
+    },
+    {
+      "id": "word_0182",
+      "translation": "八月",
+      "phonetic": "",
+      "example": "八月是假期时间。"
+    },
+    {
+      "id": "word_0183",
+      "translation": "九月",
+      "phonetic": "",
+      "example": "九月开学了。"
+    },
+    {
+      "id": "word_0184",
+      "translation": "十月",
+      "phonetic": "",
+      "example": "十月树叶落下。"
+    },
+    {
+      "id": "word_0185",
+      "translation": "十一月",
+      "phonetic": "",
+      "example": "十一月变冷了。"
+    },
+    {
+      "id": "word_0186",
+      "translation": "十二月",
+      "phonetic": "",
+      "example": "十二月是冬天月份。"
+    },
+    {
+      "id": "word_0187",
+      "translation": "春天",
+      "phonetic": "",
+      "example": "春天带来鲜花。"
+    },
+    {
+      "id": "word_0188",
+      "translation": "夏天",
+      "phonetic": "",
+      "example": "夏天很热。"
+    },
+    {
+      "id": "word_0189",
+      "translation": "秋天",
+      "phonetic": "",
+      "example": "秋天的树叶很美。"
+    },
+    {
+      "id": "word_0190",
+      "translation": "冬天",
+      "phonetic": "",
+      "example": "冬天很冷。"
+    },
+    {
+      "id": "word_0191",
+      "translation": "男人",
+      "phonetic": "",
+      "example": "那个男人在走路。"
+    },
+    {
+      "id": "word_0192",
+      "translation": "女人",
+      "phonetic": "",
+      "example": "那个女人在微笑。"
+    },
+    {
+      "id": "word_0193",
+      "translation": "孩子",
+      "phonetic": "",
+      "example": "孩子在玩耍。"
+    },
+    {
+      "id": "word_0194",
+      "translation": "男孩",
+      "phonetic": "",
+      "example": "一个男孩在跑步。"
+    },
+    {
+      "id": "word_0195",
+      "translation": "女孩",
+      "phonetic": "",
+      "example": "那个女孩在学习。"
+    },
+    {
+      "id": "word_0196",
+      "translation": "婴儿",
+      "phonetic": "",
+      "example": "婴儿在睡觉。"
+    },
+    {
+      "id": "word_0197",
+      "translation": "人",
+      "phonetic": "",
+      "example": "这里有个好人。"
+    },
+    {
+      "id": "word_0198",
+      "translation": "家庭",
+      "phonetic": "",
+      "example": "我的家人爱我。"
+    },
+    {
+      "id": "word_0199",
+      "translation": "朋友",
+      "phonetic": "",
+      "example": "永远的好朋友。"
+    },
+    {
+      "id": "word_0200",
+      "translation": "母亲",
+      "phonetic": "",
+      "example": "我的母亲做饭。"
+    },
+    {
+      "id": "word_0201",
+      "translation": "父亲",
+      "phonetic": "",
+      "example": "他的父亲工作。"
+    },
+    {
+      "id": "word_0202",
+      "translation": "父母",
+      "phonetic": "",
+      "example": "每个父母都关心。"
+    },
+    {
+      "id": "word_0203",
+      "translation": "兄弟",
+      "phonetic": "",
+      "example": "我的兄弟在玩。"
+    },
+    {
+      "id": "word_0204",
+      "translation": "姐妹",
+      "phonetic": "",
+      "example": "她的姐姐在唱歌。"
+    },
+    {
+      "id": "word_0205",
+      "translation": "儿子",
+      "phonetic": "",
+      "example": "他们的儿子在学习。"
+    },
+    {
+      "id": "word_0206",
+      "translation": "女儿",
+      "phonetic": "",
+      "example": "我的女儿在读书。"
+    },
+    {
+      "id": "word_0207",
+      "translation": "丈夫",
+      "phonetic": "",
+      "example": "她的丈夫开车。"
+    },
+    {
+      "id": "word_0208",
+      "translation": "妻子",
+      "phonetic": "",
+      "example": "他的妻子教书。"
+    },
+    {
+      "id": "word_0209",
+      "translation": "名字",
+      "phonetic": "",
+      "example": "你叫什么名字？"
+    },
+    {
+      "id": "word_0210",
+      "translation": "手",
+      "phonetic": "",
+      "example": "举起你的手。"
+    },
+    {
+      "id": "word_0211",
+      "translation": "眼睛",
+      "phonetic": "",
+      "example": "闭上你的眼睛。"
+    },
+    {
+      "id": "word_0212",
+      "translation": "头",
+      "phonetic": "",
+      "example": "点点你的头。"
+    },
+    {
+      "id": "word_0213",
+      "translation": "脸",
+      "phonetic": "",
+      "example": "洗你的脸。"
+    },
+    {
+      "id": "word_0214",
+      "translation": "身体",
+      "phonetic": "",
+      "example": "健康的身体很重要。"
+    },
+    {
+      "id": "word_0215",
+      "translation": "脚",
+      "phonetic": "",
+      "example": "我的脚疼。"
+    },
+    {
+      "id": "word_0216",
+      "translation": "心",
+      "phonetic": "",
+      "example": "善良的心很重要。"
+    },
+    {
+      "id": "word_0217",
+      "translation": "房子",
+      "phonetic": "",
+      "example": "附近的大房子。"
+    },
+    {
+      "id": "word_0218",
+      "translation": "家",
+      "phonetic": "",
+      "example": "现在回家。"
+    },
+    {
+      "id": "word_0219",
+      "translation": "房间",
+      "phonetic": "",
+      "example": "每天打扫房间。"
+    },
+    {
+      "id": "word_0220",
+      "translation": "门",
+      "phonetic": "",
+      "example": "打开门。"
+    },
+    {
+      "id": "word_0221",
+      "translation": "窗户",
+      "phonetic": "",
+      "example": "关上窗户。"
+    },
+    {
+      "id": "word_0222",
+      "translation": "桌子",
+      "phonetic": "",
+      "example": "摆好桌子。"
+    },
+    {
+      "id": "word_0223",
+      "translation": "椅子",
+      "phonetic": "",
+      "example": "坐在椅子上。"
+    },
+    {
+      "id": "word_0224",
+      "translation": "床",
+      "phonetic": "",
+      "example": "整理你的床。"
+    },
+    {
+      "id": "word_0225",
+      "translation": "学校",
+      "phonetic": "",
+      "example": "学校星期一开始。"
+    },
+    {
+      "id": "word_0226",
+      "translation": "班级",
+      "phonetic": "",
+      "example": "今天英语课。"
+    },
+    {
+      "id": "word_0227",
+      "translation": "老师",
+      "phonetic": "",
+      "example": "老师讲得很好。"
+    },
+    {
+      "id": "word_0228",
+      "translation": "学生",
+      "phonetic": "",
+      "example": "每个学生都在学习。"
+    },
+    {
+      "id": "word_0229",
+      "translation": "书",
+      "phonetic": "",
+      "example": "读这本书。"
+    },
+    {
+      "id": "word_0230",
+      "translation": "笔",
+      "phonetic": "",
+      "example": "用蓝色笔。"
+    },
+    {
+      "id": "word_0231",
+      "translation": "纸",
+      "phonetic": "",
+      "example": "在纸上写。"
+    },
+    {
+      "id": "word_0232",
+      "translation": "书桌",
+      "phonetic": "",
+      "example": "清理你的书桌。"
+    },
+    {
+      "id": "word_0233",
+      "translation": "办公室",
+      "phonetic": "",
+      "example": "办公室很早开门。"
+    },
+    {
+      "id": "word_0234",
+      "translation": "工作",
+      "phonetic": "",
+      "example": "今天干得好。"
+    },
+    {
+      "id": "word_0235",
+      "translation": "地方",
+      "phonetic": "",
+      "example": "这里是个好地方。"
+    },
+    {
+      "id": "word_0236",
+      "translation": "城市",
+      "phonetic": "",
+      "example": "大城市生活。"
+    },
+    {
+      "id": "word_0237",
+      "translation": "国家",
+      "phonetic": "",
+      "example": "美丽的乡村风景。"
+    },
+    {
+      "id": "word_0238",
+      "translation": "街道",
+      "phonetic": "",
+      "example": "过马路。"
+    },
+    {
+      "id": "word_0239",
+      "translation": "道路",
+      "phonetic": "",
+      "example": "前方的长路。"
+    },
+    {
+      "id": "word_0240",
+      "translation": "汽车",
+      "phonetic": "",
+      "example": "买了新车。"
+    },
+    {
+      "id": "word_0241",
+      "translation": "公共汽车",
+      "phonetic": "",
+      "example": "乘公共汽车。"
+    },
+    {
+      "id": "word_0242",
+      "translation": "火车",
+      "phonetic": "",
+      "example": "赶火车。"
+    },
+    {
+      "id": "word_0243",
+      "translation": "飞机",
+      "phonetic": "",
+      "example": "飞机飞得很高。"
+    },
+    {
+      "id": "word_0244",
+      "translation": "商店",
+      "phonetic": "",
+      "example": "去商店。"
+    },
+    {
+      "id": "word_0245",
+      "translation": "商店",
+      "phonetic": "",
+      "example": "商店什么都卖。"
+    },
+    {
+      "id": "word_0246",
+      "translation": "市场",
+      "phonetic": "",
+      "example": "星期六农贸市场。"
+    },
+    {
+      "id": "word_0247",
+      "translation": "钱",
+      "phonetic": "",
+      "example": "存你的钱。"
+    },
+    {
+      "id": "word_0248",
+      "translation": "食物",
+      "phonetic": "",
+      "example": "健康的食物很重要。"
+    },
+    {
+      "id": "word_0249",
+      "translation": "水",
+      "phonetic": "",
+      "example": "喝干净的水。"
+    },
+    {
+      "id": "word_0250",
+      "translation": "面包",
+      "phonetic": "",
+      "example": "每天新鲜的面包。"
+    },
+    {
+      "id": "word_0251",
+      "translation": "肉",
+      "phonetic": "",
+      "example": "煮肉。"
+    },
+    {
+      "id": "word_0252",
+      "translation": "鱼",
+      "phonetic": "",
+      "example": "吃新鲜的鱼。"
+    },
+    {
+      "id": "word_0253",
+      "translation": "米饭",
+      "phonetic": "",
+      "example": "煮白米饭。"
+    },
+    {
+      "id": "word_0254",
+      "translation": "蔬菜",
+      "phonetic": "",
+      "example": "多吃蔬菜。"
+    },
+    {
+      "id": "word_0255",
+      "translation": "水果",
+      "phonetic": "",
+      "example": "新鲜水果健康。"
+    },
+    {
+      "id": "word_0256",
+      "translation": "苹果",
+      "phonetic": "",
+      "example": "红苹果很甜。"
+    },
+    {
+      "id": "word_0257",
+      "translation": "蛋",
+      "phonetic": "",
+      "example": "煮鸡蛋。"
+    },
+    {
+      "id": "word_0258",
+      "translation": "牛奶",
+      "phonetic": "",
+      "example": "喝冷牛奶。"
+    },
+    {
+      "id": "word_0259",
+      "translation": "咖啡",
+      "phonetic": "",
+      "example": "早上喝热咖啡。"
+    },
+    {
+      "id": "word_0260",
+      "translation": "茶",
+      "phonetic": "",
+      "example": "绿茶健康。"
+    },
+    {
+      "id": "word_0261",
+      "translation": "早餐",
+      "phonetic": "",
+      "example": "吃好早餐。"
+    },
+    {
+      "id": "word_0262",
+      "translation": "午餐",
+      "phonetic": "",
+      "example": "中午午餐休息。"
+    },
+    {
+      "id": "word_0263",
+      "translation": "晚餐",
+      "phonetic": "",
+      "example": "家人一起吃晚餐。"
+    },
+    {
+      "id": "word_0264",
+      "translation": "餐",
+      "phonetic": "",
+      "example": "健康的饮食很重要。"
+    },
+    {
+      "id": "word_0265",
+      "translation": "饮料",
+      "phonetic": "",
+      "example": "冷饮提神。"
+    },
+    {
+      "id": "word_0266",
+      "translation": "杯子",
+      "phonetic": "",
+      "example": "把杯子装满。"
+    },
+    {
+      "id": "word_0267",
+      "translation": "玻璃杯",
+      "phonetic": "",
+      "example": "一杯水。"
+    },
+    {
+      "id": "word_0268",
+      "translation": "盘子",
+      "phonetic": "",
+      "example": "清理空盘子。"
+    },
+    {
+      "id": "word_0269",
+      "translation": "刀",
+      "phonetic": "",
+      "example": "锋利的刀要小心。"
+    },
+    {
+      "id": "word_0270",
+      "translation": "叉子",
+      "phonetic": "",
+      "example": "用叉子。"
+    },
+    {
+      "id": "word_0271",
+      "translation": "勺子",
+      "phonetic": "",
+      "example": "用勺子吃。"
+    },
+    {
+      "id": "word_0272",
+      "translation": "衣服",
+      "phonetic": "",
+      "example": "洗你的衣服。"
+    },
+    {
+      "id": "word_0273",
+      "translation": "衬衫",
+      "phonetic": "",
+      "example": "白衬衫很干净。"
+    },
+    {
+      "id": "word_0274",
+      "translation": "裤子",
+      "phonetic": "",
+      "example": "蓝色裤子很舒服。"
+    },
+    {
+      "id": "word_0275",
+      "translation": "连衣裙",
+      "phonetic": "",
+      "example": "漂亮的红色连衣裙。"
+    },
+    {
+      "id": "word_0276",
+      "translation": "鞋",
+      "phonetic": "",
+      "example": "系好你的鞋。"
+    },
+    {
+      "id": "word_0277",
+      "translation": "帽子",
+      "phonetic": "",
+      "example": "戴太阳帽。"
+    },
+    {
+      "id": "word_0278",
+      "translation": "外套",
+      "phonetic": "",
+      "example": "温暖的冬季外套。"
+    },
+    {
+      "id": "word_0279",
+      "translation": "颜色",
+      "phonetic": "",
+      "example": "最喜欢的颜色是蓝色。"
+    },
+    {
+      "id": "word_0280",
+      "translation": "红色",
+      "phonetic": "",
+      "example": "红玫瑰很美。"
+    },
+    {
+      "id": "word_0281",
+      "translation": "蓝色",
+      "phonetic": "",
+      "example": "蓝天晴朗。"
+    },
+    {
+      "id": "word_0282",
+      "translation": "绿色",
+      "phonetic": "",
+      "example": "绿草新鲜。"
+    },
+    {
+      "id": "word_0283",
+      "translation": "黄色",
+      "phonetic": "",
+      "example": "黄色太阳很亮。"
+    },
+    {
+      "id": "word_0284",
+      "translation": "白色",
+      "phonetic": "",
+      "example": "白雪纯洁。"
+    },
+    {
+      "id": "word_0285",
+      "translation": "黑色",
+      "phonetic": "",
+      "example": "黑咖啡很浓。"
+    },
+    {
+      "id": "word_0286",
+      "translation": "大",
+      "phonetic": "",
+      "example": "大房子很宽敞。"
+    },
+    {
+      "id": "word_0287",
+      "translation": "小",
+      "phonetic": "",
+      "example": "小房间很舒适。"
+    },
+    {
+      "id": "word_0288",
+      "translation": "大的",
+      "phonetic": "",
+      "example": "大披萨分享。"
+    },
+    {
+      "id": "word_0289",
+      "translation": "小的",
+      "phonetic": "",
+      "example": "小宝宝很可爱。"
+    },
+    {
+      "id": "word_0290",
+      "translation": "长",
+      "phonetic": "",
+      "example": "漫长的道路。"
+    },
+    {
+      "id": "word_0291",
+      "translation": "短",
+      "phonetic": "",
+      "example": "短暂的休息。"
+    },
+    {
+      "id": "word_0292",
+      "translation": "高",
+      "phonetic": "",
+      "example": "高山很高。"
+    },
+    {
+      "id": "word_0293",
+      "translation": "低",
+      "phonetic": "",
+      "example": "低价实惠。"
+    },
+    {
+      "id": "word_0294",
+      "translation": "热",
+      "phonetic": "",
+      "example": "炎热的夏天。"
+    },
+    {
+      "id": "word_0295",
+      "translation": "冷",
+      "phonetic": "",
+      "example": "寒冷的冬夜。"
+    },
+    {
+      "id": "word_0296",
+      "translation": "温暖",
+      "phonetic": "",
+      "example": "温暖的阳光天气。"
+    },
+    {
+      "id": "word_0297",
+      "translation": "凉爽",
+      "phonetic": "",
+      "example": "凉爽的春风。"
+    },
+    {
+      "id": "word_0298",
+      "translation": "老",
+      "phonetic": "",
+      "example": "睿智的老人。"
+    },
+    {
+      "id": "word_0299",
+      "translation": "年轻",
+      "phonetic": "",
+      "example": "精力充沛的年轻孩子。"
+    },
+    {
+      "id": "word_0300",
+      "translation": "快乐",
+      "phonetic": "",
+      "example": "快乐的笑脸。"
+    },
+    {
+      "id": "word_0301",
+      "translation": "悲伤",
+      "phonetic": "",
+      "example": "悲伤的眼泪落下。"
+    },
+    {
+      "id": "word_0302",
+      "translation": "生气",
+      "phonetic": "",
+      "example": "生气的红脸。"
+    },
+    {
+      "id": "word_0303",
+      "translation": "疲倦",
+      "phonetic": "",
+      "example": "疲倦困倦的眼睛。"
+    },
+    {
+      "id": "word_0304",
+      "translation": "生病",
+      "phonetic": "",
+      "example": "躺在床上生病。"
+    },
+    {
+      "id": "word_0305",
+      "translation": "健康",
+      "phonetic": "",
+      "example": "健康强壮的身体。"
+    },
+    {
+      "id": "word_0306",
+      "translation": "快",
+      "phonetic": "",
+      "example": "快速的跑步速度。"
+    },
+    {
+      "id": "word_0307",
+      "translation": "慢",
+      "phonetic": "",
+      "example": "慢慢走的步伐。"
+    },
+    {
+      "id": "word_0308",
+      "translation": "容易",
+      "phonetic": "",
+      "example": "简单的任务。"
+    },
+    {
+      "id": "word_0309",
+      "translation": "困难",
+      "phonetic": "",
+      "example": "困难的问题。"
+    },
+    {
+      "id": "word_0310",
+      "translation": "对",
+      "phonetic": "",
+      "example": "正确的答案。"
+    },
+    {
+      "id": "word_0311",
+      "translation": "错",
+      "phonetic": "",
+      "example": "错误的选择。"
+    },
+    {
+      "id": "word_0312",
+      "translation": "真的",
+      "phonetic": "",
+      "example": "真实的陈述。"
+    },
+    {
+      "id": "word_0313",
+      "translation": "假的",
+      "phonetic": "",
+      "example": "虚假的声称。"
+    },
+    {
+      "id": "word_0314",
+      "translation": "相同",
+      "phonetic": "",
+      "example": "相同的双胞胎。"
+    },
+    {
+      "id": "word_0315",
+      "translation": "不同",
+      "phonetic": "",
+      "example": "不同的独特风格。"
+    },
+    {
+      "id": "word_0316",
+      "translation": "近",
+      "phonetic": "",
+      "example": "近距离。"
+    },
+    {
+      "id": "word_0317",
+      "translation": "远",
+      "phonetic": "",
+      "example": "遥远的地方。"
+    },
+    {
+      "id": "word_0318",
+      "translation": "早",
+      "phonetic": "",
+      "example": "清晨日出。"
+    },
+    {
+      "id": "word_0319",
+      "translation": "晚",
+      "phonetic": "",
+      "example": "深夜到达。"
+    },
+    {
+      "id": "word_0320",
+      "translation": "下一个",
+      "phonetic": "",
+      "example": "下一步。"
+    },
+    {
+      "id": "word_0321",
+      "translation": "最后",
+      "phonetic": "",
+      "example": "最后的机会。"
+    },
+    {
+      "id": "word_0322",
+      "translation": "满",
+      "phonetic": "",
+      "example": "满满的油箱。"
+    },
+    {
+      "id": "word_0323",
+      "translation": "空",
+      "phonetic": "",
+      "example": "空的房间。"
+    },
+    {
+      "id": "word_0324",
+      "translation": "干净",
+      "phonetic": "",
+      "example": "干净的地板。"
+    },
+    {
+      "id": "word_0325",
+      "translation": "脏",
+      "phonetic": "",
+      "example": "脏泥巴鞋。"
+    },
+    {
+      "id": "word_0326",
+      "translation": "安全",
+      "phonetic": "",
+      "example": "安全的地方。"
+    },
+    {
+      "id": "word_0327",
+      "translation": "危险",
+      "phonetic": "",
+      "example": "危险的情况。"
+    },
+    {
+      "id": "word_0328",
+      "translation": "美丽",
+      "phonetic": "",
+      "example": "美丽的花朵。"
+    },
+    {
+      "id": "word_0329",
+      "translation": "丑陋",
+      "phonetic": "",
+      "example": "丑陋的建筑。"
+    },
+    {
+      "id": "word_0330",
+      "translation": "好的",
+      "phonetic": "",
+      "example": "善良的人。"
+    },
+    {
+      "id": "word_0331",
+      "translation": "坏",
+      "phonetic": "",
+      "example": "糟糕的天气。"
+    },
+    {
+      "id": "word_0332",
+      "translation": "更好",
+      "phonetic": "",
+      "example": "改进的版本。"
+    },
+    {
+      "id": "word_0333",
+      "translation": "最好",
+      "phonetic": "",
+      "example": "最高品质。"
+    },
+    {
+      "id": "word_0334",
+      "translation": "更糟",
+      "phonetic": "",
+      "example": "恶化的状况。"
+    },
+    {
+      "id": "word_0335",
+      "translation": "最糟",
+      "phonetic": "",
+      "example": "最差的表现。"
+    },
+    {
+      "id": "word_0336",
+      "translation": "重要",
+      "phonetic": "",
+      "example": "重要的事情。"
+    },
+    {
+      "id": "word_0337",
+      "translation": "有趣",
+      "phonetic": "",
+      "example": "有趣的故事。"
+    },
+    {
+      "id": "word_0338",
+      "translation": "困难",
+      "phonetic": "",
+      "example": "有挑战性的任务。"
+    },
+    {
+      "id": "word_0339",
+      "translation": "可能",
+      "phonetic": "",
+      "example": "可实现的目标。"
+    },
+    {
+      "id": "word_0340",
+      "translation": "不可能",
+      "phonetic": "",
+      "example": "无法实现的梦想。"
+    },
+    {
+      "id": "word_0341",
+      "translation": "必要",
+      "phonetic": "",
+      "example": "必需品。"
+    },
+    {
+      "id": "word_0342",
+      "translation": "特别",
+      "phonetic": "",
+      "example": "特别的时刻。"
+    },
+    {
+      "id": "word_0343",
+      "translation": "确定",
+      "phonetic": "",
+      "example": "确定的事实。"
+    },
+    {
+      "id": "word_0344",
+      "translation": "清楚",
+      "phonetic": "",
+      "example": "清澈的水。"
+    },
+    {
+      "id": "word_0345",
+      "translation": "准备好",
+      "phonetic": "",
+      "example": "准备好的状态。"
+    },
+    {
+      "id": "word_0346",
+      "translation": "简单",
+      "phonetic": "",
+      "example": "简单的计划。"
+    },
+    {
+      "id": "word_0347",
+      "translation": "忙碌",
+      "phonetic": "",
+      "example": "忙碌的日程。"
+    },
+    {
+      "id": "word_0348",
+      "translation": "空闲",
+      "phonetic": "",
+      "example": "空闲的时间。"
+    },
+    {
+      "id": "word_0349",
+      "translation": "安静",
+      "phonetic": "",
+      "example": "安静的房间。"
+    },
+    {
+      "id": "word_0350",
+      "translation": "吵",
+      "phonetic": "",
+      "example": "吵闹的音乐。"
+    },
+    {
+      "id": "word_0351",
+      "translation": "黑暗",
+      "phonetic": "",
+      "example": "黑暗无月的夜晚。"
+    },
+    {
+      "id": "word_0352",
+      "translation": "明亮",
+      "phonetic": "",
+      "example": "明亮的白天。"
+    },
+    {
+      "id": "word_0353",
+      "translation": "重",
+      "phonetic": "",
+      "example": "沉重的箱子。"
+    },
+    {
+      "id": "word_0354",
+      "translation": "软",
+      "phonetic": "",
+      "example": "柔软的枕头。"
+    },
+    {
+      "id": "word_0355",
+      "translation": "强壮",
+      "phonetic": "",
+      "example": "强壮的肌肉。"
+    },
+    {
+      "id": "word_0356",
+      "translation": "虚弱",
+      "phonetic": "",
+      "example": "虚弱的尝试。"
+    },
+    {
+      "id": "word_0357",
+      "translation": "富有",
+      "phonetic": "",
+      "example": "富有的人。"
+    },
+    {
+      "id": "word_0358",
+      "translation": "贫穷",
+      "phonetic": "",
+      "example": "贫穷的家庭。"
+    },
+    {
+      "id": "word_0359",
+      "translation": "便宜",
+      "phonetic": "",
+      "example": "便宜实惠的价格。"
+    },
+    {
+      "id": "word_0360",
+      "translation": "昂贵",
+      "phonetic": "",
+      "example": "昂贵的物品。"
+    },
+    {
+      "id": "word_0361",
+      "translation": "湿",
+      "phonetic": "",
+      "example": "湿的雨衣。"
+    },
+    {
+      "id": "word_0362",
+      "translation": "干",
+      "phonetic": "",
+      "example": "干燥的沙漠。"
+    },
+    {
+      "id": "word_0363",
+      "translation": "开放",
+      "phonetic": "",
+      "example": "开着的门。"
+    },
+    {
+      "id": "word_0364",
+      "translation": "关闭",
+      "phonetic": "",
+      "example": "锁着的门。"
+    },
+    {
+      "id": "word_0365",
+      "translation": "宽",
+      "phonetic": "",
+      "example": "宽阔的街道。"
+    },
+    {
+      "id": "word_0366",
+      "translation": "窄",
+      "phonetic": "",
+      "example": "狭窄的小巷。"
+    },
+    {
+      "id": "word_0367",
+      "translation": "深",
+      "phonetic": "",
+      "example": "深海海底。"
+    },
+    {
+      "id": "word_0368",
+      "translation": "浅",
+      "phonetic": "",
+      "example": "浅的池水。"
+    },
+    {
+      "id": "word_0369",
+      "translation": "厚",
+      "phonetic": "",
+      "example": "茂密的森林。"
+    },
+    {
+      "id": "word_0370",
+      "translation": "薄",
+      "phonetic": "",
+      "example": "苗条的身材。"
+    },
+    {
+      "id": "word_0371",
+      "translation": "胖",
+      "phonetic": "",
+      "example": "胖胖的猫。"
+    },
+    {
+      "id": "word_0372",
+      "translation": "饿",
+      "phonetic": "",
+      "example": "饥饿的肚子。"
+    },
+    {
+      "id": "word_0373",
+      "translation": "渴",
+      "phonetic": "",
+      "example": "口渴的喉咙。"
+    },
+    {
+      "id": "word_0374",
+      "translation": "困",
+      "phonetic": "",
+      "example": "困倦的眼睛。"
+    },
+    {
+      "id": "word_0375",
+      "translation": "醒着",
+      "phonetic": "",
+      "example": "清醒的头脑。"
+    },
+    {
+      "id": "word_0376",
+      "translation": "活着",
+      "phonetic": "",
+      "example": "活着的生命。"
+    },
+    {
+      "id": "word_0377",
+      "translation": "死",
+      "phonetic": "",
+      "example": "死去的身体。"
+    },
+    {
+      "id": "word_0378",
+      "translation": "已婚",
+      "phonetic": "",
+      "example": "幸福的已婚夫妇。"
+    },
+    {
+      "id": "word_0379",
+      "translation": "单身",
+      "phonetic": "",
+      "example": "独立的单身人士。"
+    },
+    {
+      "id": "word_0380",
+      "translation": "独自",
+      "phonetic": "",
+      "example": "孤独的身影。"
+    },
+    {
+      "id": "word_0381",
+      "translation": "一起",
+      "phonetic": "",
+      "example": "团结的团体。"
+    },
+    {
+      "id": "word_0382",
+      "translation": "吃",
+      "phonetic": "",
+      "example": "吃健康的食物。"
+    },
+    {
+      "id": "word_0383",
+      "translation": "睡觉",
+      "phonetic": "",
+      "example": "今晚睡个好觉。"
+    },
+    {
+      "id": "word_0384",
+      "translation": "醒来",
+      "phonetic": "",
+      "example": "早起。"
+    },
+    {
+      "id": "word_0385",
+      "translation": "走",
+      "phonetic": "",
+      "example": "在公园散步。"
+    },
+    {
+      "id": "word_0386",
+      "translation": "跑",
+      "phonetic": "",
+      "example": "快速跑步比赛。"
+    },
+    {
+      "id": "word_0387",
+      "translation": "坐",
+      "phonetic": "",
+      "example": "请坐下。"
+    },
+    {
+      "id": "word_0388",
+      "translation": "站",
+      "phonetic": "",
+      "example": "站直。"
+    },
+    {
+      "id": "word_0389",
+      "translation": "躺",
+      "phonetic": "",
+      "example": "躺下休息。"
+    },
+    {
+      "id": "word_0390",
+      "translation": "读",
+      "phonetic": "",
+      "example": "读好书。"
+    },
+    {
+      "id": "word_0391",
+      "translation": "写",
+      "phonetic": "",
+      "example": "写清楚的笔记。"
+    },
+    {
+      "id": "word_0392",
+      "translation": "讲",
+      "phonetic": "",
+      "example": "请慢慢讲。"
+    },
+    {
+      "id": "word_0393",
+      "translation": "谈论",
+      "phonetic": "",
+      "example": "谈论生活。"
+    },
+    {
+      "id": "word_0394",
+      "translation": "听",
+      "phonetic": "",
+      "example": "现在仔细听。"
+    },
+    {
+      "id": "word_0395",
+      "translation": "听到",
+      "phonetic": "",
+      "example": "听音乐。"
+    },
+    {
+      "id": "word_0396",
+      "translation": "看",
+      "phonetic": "",
+      "example": "看电影。"
+    },
+    {
+      "id": "word_0397",
+      "translation": "玩",
+      "phonetic": "",
+      "example": "孩子们在外面玩。"
+    },
+    {
+      "id": "word_0398",
+      "translation": "买",
+      "phonetic": "",
+      "example": "买新鲜蔬菜。"
+    },
+    {
+      "id": "word_0399",
+      "translation": "卖",
+      "phonetic": "",
+      "example": "卖旧物品。"
+    },
+    {
+      "id": "word_0400",
+      "translation": "付钱",
+      "phonetic": "",
+      "example": "付账单。"
+    },
+    {
+      "id": "word_0401",
+      "translation": "花费",
+      "phonetic": "",
+      "example": "花费太多。"
+    },
+    {
+      "id": "word_0402",
+      "translation": "关闭",
+      "phonetic": "",
+      "example": "合上书。"
+    },
+    {
+      "id": "word_0403",
+      "translation": "开始",
+      "phonetic": "",
+      "example": "启动引擎。"
+    },
+    {
+      "id": "word_0404",
+      "translation": "停止",
+      "phonetic": "",
+      "example": "停车。"
+    },
+    {
+      "id": "word_0405",
+      "translation": "完成",
+      "phonetic": "",
+      "example": "完成你的作业。"
+    },
+    {
+      "id": "word_0406",
+      "translation": "找到",
+      "phonetic": "",
+      "example": "找到答案。"
+    },
+    {
+      "id": "word_0407",
+      "translation": "迷失",
+      "phonetic": "",
+      "example": "迷路了。"
+    },
+    {
+      "id": "word_0408",
+      "translation": "赢",
+      "phonetic": "",
+      "example": "赢得比赛。"
+    },
+    {
+      "id": "word_0409",
+      "translation": "尝试",
+      "phonetic": "",
+      "example": "尽力而为。"
+    },
+    {
+      "id": "word_0410",
+      "translation": "需要",
+      "phonetic": "",
+      "example": "需要一些帮助。"
+    },
+    {
+      "id": "word_0411",
+      "translation": "帮助",
+      "phonetic": "",
+      "example": "互相帮助。"
+    },
+    {
+      "id": "word_0412",
+      "translation": "打电话",
+      "phonetic": "",
+      "example": "明天给我打电话。"
+    },
+    {
+      "id": "word_0413",
+      "translation": "问",
+      "phonetic": "",
+      "example": "问任何问题。"
+    },
+    {
+      "id": "word_0414",
+      "translation": "告诉",
+      "phonetic": "",
+      "example": "给我讲故事。"
+    },
+    {
+      "id": "word_0415",
+      "translation": "回答",
+      "phonetic": "",
+      "example": "接电话。"
+    },
+    {
+      "id": "word_0416",
+      "translation": "感觉",
+      "phonetic": "",
+      "example": "感觉好多了。"
+    },
+    {
+      "id": "word_0417",
+      "translation": "成为",
+      "phonetic": "",
+      "example": "成为一名教师。"
+    },
+    {
+      "id": "word_0418",
+      "translation": "离开",
+      "phonetic": "",
+      "example": "现在就离开。"
+    },
+    {
+      "id": "word_0419",
+      "translation": "带来",
+      "phonetic": "",
+      "example": "带上你的朋友。"
+    },
+    {
+      "id": "word_0420",
+      "translation": "发生",
+      "phonetic": "",
+      "example": "突然发生。"
+    },
+    {
+      "id": "word_0421",
+      "translation": "展示",
+      "phonetic": "",
+      "example": "告诉我怎么做。"
+    },
+    {
+      "id": "word_0422",
+      "translation": "让",
+      "phonetic": "",
+      "example": "让我试试。"
+    },
+    {
+      "id": "word_0423",
+      "translation": "保持",
+      "phonetic": "",
+      "example": "保管好它。"
+    },
+    {
+      "id": "word_0424",
+      "translation": "开始",
+      "phonetic": "",
+      "example": "开始上课。"
+    },
+    {
+      "id": "word_0425",
+      "translation": "似乎",
+      "phonetic": "",
+      "example": "看起来很好。"
+    },
+    {
+      "id": "word_0426",
+      "translation": "遇见",
+      "phonetic": "",
+      "example": "认识新朋友。"
+    },
+    {
+      "id": "word_0427",
+      "translation": "学习",
+      "phonetic": "",
+      "example": "每天学习。"
+    },
+    {
+      "id": "word_0428",
+      "translation": "教",
+      "phonetic": "",
+      "example": "耐心地教。"
+    },
+    {
+      "id": "word_0429",
+      "translation": "学习",
+      "phonetic": "",
+      "example": "总是努力学习。"
+    },
+    {
+      "id": "word_0430",
+      "translation": "理解",
+      "phonetic": "",
+      "example": "理解这个概念。"
+    },
+    {
+      "id": "word_0431",
+      "translation": "记住",
+      "phonetic": "",
+      "example": "记住重要的日期。"
+    },
+    {
+      "id": "word_0432",
+      "translation": "忘记",
+      "phonetic": "",
+      "example": "忘记不好的回忆。"
+    },
+    {
+      "id": "word_0433",
+      "translation": "等待",
+      "phonetic": "",
+      "example": "等你的顺序。"
+    },
+    {
+      "id": "word_0434",
+      "translation": "停留",
+      "phonetic": "",
+      "example": "请留在这里。"
+    },
+    {
+      "id": "word_0435",
+      "translation": "生活",
+      "phonetic": "",
+      "example": "过快乐的生活。"
+    },
+    {
+      "id": "word_0436",
+      "translation": "死亡",
+      "phonetic": "",
+      "example": "有一天安详地离世。"
+    },
+    {
+      "id": "word_0437",
+      "translation": "爱",
+      "phonetic": "",
+      "example": "爱你的家人。"
+    },
+    {
+      "id": "word_0438",
+      "translation": "恨",
+      "phonetic": "",
+      "example": "讨厌残忍的行为。"
+    },
+    {
+      "id": "word_0439",
+      "translation": "希望",
+      "phonetic": "",
+      "example": "希望最好的。"
+    },
+    {
+      "id": "word_0440",
+      "translation": "愿望",
+      "phonetic": "",
+      "example": "对着星星许愿。"
+    },
+    {
+      "id": "word_0441",
+      "translation": "相信",
+      "phonetic": "",
+      "example": "相信你自己。"
+    },
+    {
+      "id": "word_0442",
+      "translation": "决定",
+      "phonetic": "",
+      "example": "现在就决定。"
+    },
+    {
+      "id": "word_0443",
+      "translation": "选择",
+      "phonetic": "",
+      "example": "总是明智地选择。"
+    },
+    {
+      "id": "word_0444",
+      "translation": "发送",
+      "phonetic": "",
+      "example": "发送消息。"
+    },
+    {
+      "id": "word_0445",
+      "translation": "接收",
+      "phonetic": "",
+      "example": "接受热烈欢迎。"
+    },
+    {
+      "id": "word_0446",
+      "translation": "放",
+      "phonetic": "",
+      "example": "把它放在那里。"
+    },
+    {
+      "id": "word_0447",
+      "translation": "握住",
+      "phonetic": "",
+      "example": "握住我的手。"
+    },
+    {
+      "id": "word_0448",
+      "translation": "接住",
+      "phonetic": "",
+      "example": "接住球。"
+    },
+    {
+      "id": "word_0449",
+      "translation": "扔",
+      "phonetic": "",
+      "example": "扔掉它。"
+    },
+    {
+      "id": "word_0450",
+      "translation": "推",
+      "phonetic": "",
+      "example": "推门。"
+    },
+    {
+      "id": "word_0451",
+      "translation": "拉",
+      "phonetic": "",
+      "example": "拉绳子。"
+    },
+    {
+      "id": "word_0452",
+      "translation": "打破",
+      "phonetic": "",
+      "example": "打破记录。"
+    },
+    {
+      "id": "word_0453",
+      "translation": "切",
+      "phonetic": "",
+      "example": "切蛋糕。"
+    },
+    {
+      "id": "word_0454",
+      "translation": "洗",
+      "phonetic": "",
+      "example": "洗手。"
+    },
+    {
+      "id": "word_0455",
+      "translation": "做饭",
+      "phonetic": "",
+      "example": "做美味的饭菜。"
+    },
+    {
+      "id": "word_0456",
+      "translation": "穿",
+      "phonetic": "",
+      "example": "穿暖和的衣服。"
+    },
+    {
+      "id": "word_0457",
+      "translation": "建造",
+      "phonetic": "",
+      "example": "建立坚实的基础。"
+    },
+    {
+      "id": "word_0458",
+      "translation": "生长",
+      "phonetic": "",
+      "example": "长成高大的树木。"
+    },
+    {
+      "id": "word_0459",
+      "translation": "改变",
+      "phonetic": "",
+      "example": "变得更好。"
+    },
+    {
+      "id": "word_0460",
+      "translation": "转",
+      "phonetic": "",
+      "example": "在这里右转。"
+    },
+    {
+      "id": "word_0461",
+      "translation": "移动",
+      "phonetic": "",
+      "example": "慢慢向前移动。"
+    },
+    {
+      "id": "word_0462",
+      "translation": "携带",
+      "phonetic": "",
+      "example": "搬运重物。"
+    },
+    {
+      "id": "word_0463",
+      "translation": "开车",
+      "phonetic": "",
+      "example": "总是安全驾驶。"
+    },
+    {
+      "id": "word_0464",
+      "translation": "骑",
+      "phonetic": "",
+      "example": "骑你的自行车。"
+    },
+    {
+      "id": "word_0465",
+      "translation": "飞",
+      "phonetic": "",
+      "example": "像鸟一样飞。"
+    },
+    {
+      "id": "word_0466",
+      "translation": "游泳",
+      "phonetic": "",
+      "example": "在海里游泳。"
+    },
+    {
+      "id": "word_0467",
+      "translation": "唱歌",
+      "phonetic": "",
+      "example": "唱美丽的歌。"
+    },
+    {
+      "id": "word_0468",
+      "translation": "跳舞",
+      "phonetic": "",
+      "example": "欢快地跳舞。"
+    },
+    {
+      "id": "word_0469",
+      "translation": "笑",
+      "phonetic": "",
+      "example": "大声笑。"
+    },
+    {
+      "id": "word_0470",
+      "translation": "哭",
+      "phonetic": "",
+      "example": "难过时哭。"
+    },
+    {
+      "id": "word_0471",
+      "translation": "微笑",
+      "phonetic": "",
+      "example": "每天微笑。"
+    },
+    {
+      "id": "word_0472",
+      "translation": "数字",
+      "phonetic": "",
+      "example": "幸运数字七。"
+    },
+    {
+      "id": "word_0473",
+      "translation": "零",
+      "phonetic": "",
+      "example": "从零开始。"
+    },
+    {
+      "id": "word_0474",
+      "translation": "三",
+      "phonetic": "",
+      "example": "三只小猪。"
+    },
+    {
+      "id": "word_0475",
+      "translation": "四",
+      "phonetic": "",
+      "example": "一年四季。"
+    },
+    {
+      "id": "word_0476",
+      "translation": "五",
+      "phonetic": "",
+      "example": "一只手五根手指。"
+    },
+    {
+      "id": "word_0477",
+      "translation": "六",
+      "phonetic": "",
+      "example": "立方体六个面。"
+    },
+    {
+      "id": "word_0478",
+      "translation": "七",
+      "phonetic": "",
+      "example": "一周七天。"
+    },
+    {
+      "id": "word_0479",
+      "translation": "八",
+      "phonetic": "",
+      "example": "睡八小时。"
+    },
+    {
+      "id": "word_0480",
+      "translation": "九",
+      "phonetic": "",
+      "example": "猫有九条命。"
+    },
+    {
+      "id": "word_0481",
+      "translation": "十",
+      "phonetic": "",
+      "example": "总共十个脚趾。"
+    },
+    {
+      "id": "word_0482",
+      "translation": "十一",
+      "phonetic": "",
+      "example": "一队十一名球员。"
+    },
+    {
+      "id": "word_0483",
+      "translation": "十二",
+      "phonetic": "",
+      "example": "一年十二个月。"
+    },
+    {
+      "id": "word_0484",
+      "translation": "十三",
+      "phonetic": "",
+      "example": "十三不吉利的数字。"
+    },
+    {
+      "id": "word_0485",
+      "translation": "十四",
+      "phonetic": "",
+      "example": "两周十四天。"
+    },
+    {
+      "id": "word_0486",
+      "translation": "十五",
+      "phonetic": "",
+      "example": "十五分钟一刻钟。"
+    },
+    {
+      "id": "word_0487",
+      "translation": "十六",
+      "phonetic": "",
+      "example": "十六岁。"
+    },
+    {
+      "id": "word_0488",
+      "translation": "十七",
+      "phonetic": "",
+      "example": "十七岁生日派对。"
+    },
+    {
+      "id": "word_0489",
+      "translation": "十八",
+      "phonetic": "",
+      "example": "十八岁成年。"
+    },
+    {
+      "id": "word_0490",
+      "translation": "十九",
+      "phonetic": "",
+      "example": "一九九零年。"
+    },
+    {
+      "id": "word_0491",
+      "translation": "二十",
+      "phonetic": "",
+      "example": "二十美元钞票。"
+    },
+    {
+      "id": "word_0492",
+      "translation": "三十",
+      "phonetic": "",
+      "example": "一月三十天。"
+    },
+    {
+      "id": "word_0493",
+      "translation": "四十",
+      "phonetic": "",
+      "example": "小睡四十分钟。"
+    },
+    {
+      "id": "word_0494",
+      "translation": "五十",
+      "phonetic": "",
+      "example": "百分之五十是一半。"
+    },
+    {
+      "id": "word_0495",
+      "translation": "六十",
+      "phonetic": "",
+      "example": "一分钟六十秒。"
+    },
+    {
+      "id": "word_0496",
+      "translation": "七十",
+      "phonetic": "",
+      "example": "七十岁。"
+    },
+    {
+      "id": "word_0497",
+      "translation": "八十",
+      "phonetic": "",
+      "example": "八十度很热。"
+    },
+    {
+      "id": "word_0498",
+      "translation": "九十",
+      "phonetic": "",
+      "example": "九十九瓶。"
+    },
+    {
+      "id": "word_0499",
+      "translation": "一百",
+      "phonetic": "",
+      "example": "百分之一百。"
+    },
+    {
+      "id": "word_0500",
+      "translation": "一千",
+      "phonetic": "",
+      "example": "一千个字。"
+    },
+    {
+      "id": "word_0501",
+      "translation": "一百万",
+      "phonetic": "",
+      "example": "一百万美元。"
+    },
+    {
+      "id": "word_0502",
+      "translation": "第二",
+      "phonetic": "",
+      "example": "给了第二次机会。"
+    },
+    {
+      "id": "word_0503",
+      "translation": "第三",
+      "phonetic": "",
+      "example": "第三次幸运。"
+    },
+    {
+      "id": "word_0504",
+      "translation": "动物",
+      "phonetic": "",
+      "example": "森林里的野生动物。"
+    },
+    {
+      "id": "word_0505",
+      "translation": "狗",
+      "phonetic": "",
+      "example": "忠诚的狗朋友。"
+    },
+    {
+      "id": "word_0506",
+      "translation": "猫",
+      "phonetic": "",
+      "example": "可爱的猫喵喵叫。"
+    },
+    {
+      "id": "word_0507",
+      "translation": "鸟",
+      "phonetic": "",
+      "example": "在天空飞翔的鸟。"
+    },
+    {
+      "id": "word_0508",
+      "translation": "马",
+      "phonetic": "",
+      "example": "奔跑得很快的马。"
+    },
+    {
+      "id": "word_0509",
+      "translation": "奶牛",
+      "phonetic": "",
+      "example": "来自奶牛的牛奶。"
+    },
+    {
+      "id": "word_0510",
+      "translation": "猪",
+      "phonetic": "",
+      "example": "农场里的粉红猪。"
+    },
+    {
+      "id": "word_0511",
+      "translation": "鸡",
+      "phonetic": "",
+      "example": "来自鸡的蛋。"
+    },
+    {
+      "id": "word_0512",
+      "translation": "绵羊",
+      "phonetic": "",
+      "example": "白色绵羊的羊毛。"
+    },
+    {
+      "id": "word_0513",
+      "translation": "树",
+      "phonetic": "",
+      "example": "高大的绿树。"
+    },
+    {
+      "id": "word_0514",
+      "translation": "花",
+      "phonetic": "",
+      "example": "美丽的红花。"
+    },
+    {
+      "id": "word_0515",
+      "translation": "草",
+      "phonetic": "",
+      "example": "绿色的草坪。"
+    },
+    {
+      "id": "word_0516",
+      "translation": "植物",
+      "phonetic": "",
+      "example": "花盆里生长的植物。"
+    },
+    {
+      "id": "word_0517",
+      "translation": "太阳",
+      "phonetic": "",
+      "example": "明亮的黄色太阳。"
+    },
+    {
+      "id": "word_0518",
+      "translation": "月亮",
+      "phonetic": "",
+      "example": "圆圆的白月亮。"
+    },
+    {
+      "id": "word_0519",
+      "translation": "星星",
+      "phonetic": "",
+      "example": "夜晚闪烁的星星。"
+    },
+    {
+      "id": "word_0520",
+      "translation": "天空",
+      "phonetic": "",
+      "example": "蓝色晴朗的天空。"
+    },
+    {
+      "id": "word_0521",
+      "translation": "云",
+      "phonetic": "",
+      "example": "白色蓬松的云。"
+    },
+    {
+      "id": "word_0522",
+      "translation": "雨",
+      "phonetic": "",
+      "example": "下大雨。"
+    },
+    {
+      "id": "word_0523",
+      "translation": "雪",
+      "phonetic": "",
+      "example": "白色的雪很冷。"
+    },
+    {
+      "id": "word_0524",
+      "translation": "风",
+      "phonetic": "",
+      "example": "强风吹着。"
+    },
+    {
+      "id": "word_0525",
+      "translation": "火",
+      "phonetic": "",
+      "example": "炽热的红色火焰。"
+    },
+    {
+      "id": "word_0526",
+      "translation": "空气",
+      "phonetic": "",
+      "example": "新鲜干净的空气。"
+    },
+    {
+      "id": "word_0527",
+      "translation": "地球",
+      "phonetic": "",
+      "example": "地球是我们的家园。"
+    },
+    {
+      "id": "word_0528",
+      "translation": "陆地",
+      "phonetic": "",
+      "example": "干燥的陆地。"
+    },
+    {
+      "id": "word_0529",
+      "translation": "海",
+      "phonetic": "",
+      "example": "深蓝色的海。"
+    },
+    {
+      "id": "word_0530",
+      "translation": "海洋",
+      "phonetic": "",
+      "example": "广阔的太平洋。"
+    },
+    {
+      "id": "word_0531",
+      "translation": "河流",
+      "phonetic": "",
+      "example": "流动的河水。"
+    },
+    {
+      "id": "word_0532",
+      "translation": "湖",
+      "phonetic": "",
+      "example": "平静安宁的湖。"
+    },
+    {
+      "id": "word_0533",
+      "translation": "山",
+      "phonetic": "",
+      "example": "高高的雪山。"
+    },
+    {
+      "id": "word_0534",
+      "translation": "小山",
+      "phonetic": "",
+      "example": "起伏的绿色小山。"
+    },
+    {
+      "id": "word_0535",
+      "translation": "森林",
+      "phonetic": "",
+      "example": "茂密黑暗的森林。"
+    },
+    {
+      "id": "word_0536",
+      "translation": "田野",
+      "phonetic": "",
+      "example": "开阔的草地田野。"
+    },
+    {
+      "id": "word_0537",
+      "translation": "花园",
+      "phonetic": "",
+      "example": "美丽的花园。"
+    },
+    {
+      "id": "word_0538",
+      "translation": "农场",
+      "phonetic": "",
+      "example": "劳作的奶牛场。"
+    },
+    {
+      "id": "word_0539",
+      "translation": "村庄",
+      "phonetic": "",
+      "example": "安静的小村庄。"
+    },
+    {
+      "id": "word_0540",
+      "translation": "城镇",
+      "phonetic": "",
+      "example": "繁忙发展的城镇。"
+    },
+    {
+      "id": "word_0541",
+      "translation": "建筑物",
+      "phonetic": "",
+      "example": "高大的办公楼。"
+    },
+    {
+      "id": "word_0542",
+      "translation": "医院",
+      "phonetic": "",
+      "example": "市立总医院。"
+    },
+    {
+      "id": "word_0543",
+      "translation": "银行",
+      "phonetic": "",
+      "example": "国家储蓄银行。"
+    },
+    {
+      "id": "word_0544",
+      "translation": "餐厅",
+      "phonetic": "",
+      "example": "意大利餐厅。"
+    },
+    {
+      "id": "word_0545",
+      "translation": "酒店",
+      "phonetic": "",
+      "example": "豪华五星级酒店。"
+    },
+    {
+      "id": "word_0546",
+      "translation": "教堂",
+      "phonetic": "",
+      "example": "古老的石头教堂。"
+    },
+    {
+      "id": "word_0547",
+      "translation": "公园",
+      "phonetic": "",
+      "example": "公共绿色公园。"
+    },
+    {
+      "id": "word_0548",
+      "translation": "桥",
+      "phonetic": "",
+      "example": "长长的钢铁桥。"
+    },
+    {
+      "id": "word_0549",
+      "translation": "车站",
+      "phonetic": "",
+      "example": "主要的火车站。"
+    },
+    {
+      "id": "word_0550",
+      "translation": "机场",
+      "phonetic": "",
+      "example": "繁忙的国际机场。"
+    },
+    {
+      "id": "word_0551",
+      "translation": "博物馆",
+      "phonetic": "",
+      "example": "国家历史博物馆。"
+    },
+    {
+      "id": "word_0552",
+      "translation": "图书馆",
+      "phonetic": "",
+      "example": "公共市图书馆。"
+    },
+    {
+      "id": "word_0553",
+      "translation": "大学",
+      "phonetic": "",
+      "example": "著名的古老大学。"
+    },
+    {
+      "id": "word_0554",
+      "translation": "政府",
+      "phonetic": "",
+      "example": "民主选举的政府。"
+    },
+    {
+      "id": "word_0555",
+      "translation": "法律",
+      "phonetic": "",
+      "example": "公正的法律。"
+    },
+    {
+      "id": "word_0556",
+      "translation": "警察",
+      "phonetic": "",
+      "example": "当地警察局。"
+    },
+    {
+      "id": "word_0557",
+      "translation": "军队",
+      "phonetic": "",
+      "example": "国防军队。"
+    },
+    {
+      "id": "word_0558",
+      "translation": "战争",
+      "phonetic": "",
+      "example": "可怕的破坏性战争。"
+    },
+    {
+      "id": "word_0559",
+      "translation": "和平",
+      "phonetic": "",
+      "example": "世界持久和平。"
+    },
+    {
+      "id": "word_0560",
+      "translation": "问题",
+      "phonetic": "",
+      "example": "困难的数学问题。"
+    },
+    {
+      "id": "word_0561",
+      "translation": "疑问",
+      "phonetic": "",
+      "example": "重要严肃的问题。"
+    },
+    {
+      "id": "word_0562",
+      "translation": "想法",
+      "phonetic": "",
+      "example": "绝妙的创意想法。"
+    },
+    {
+      "id": "word_0563",
+      "translation": "理由",
+      "phonetic": "",
+      "example": "良好有效的理由。"
+    },
+    {
+      "id": "word_0564",
+      "translation": "例子",
+      "phonetic": "",
+      "example": "完美清晰的例子。"
+    },
+    {
+      "id": "word_0565",
+      "translation": "事实",
+      "phonetic": "",
+      "example": "已知证明的事实。"
+    },
+    {
+      "id": "word_0566",
+      "translation": "真相",
+      "phonetic": "",
+      "example": "诚实完整的真相。"
+    },
+    {
+      "id": "word_0567",
+      "translation": "故事",
+      "phonetic": "",
+      "example": "有趣的短篇故事。"
+    },
+    {
+      "id": "word_0568",
+      "translation": "新闻",
+      "phonetic": "",
+      "example": "突发最新新闻。"
+    },
+    {
+      "id": "word_0569",
+      "translation": "信息",
+      "phonetic": "",
+      "example": "有用的重要信息。"
+    },
+    {
+      "id": "word_0570",
+      "translation": "单词",
+      "phonetic": "",
+      "example": "新的词汇单词。"
+    },
+    {
+      "id": "word_0571",
+      "translation": "句子",
+      "phonetic": "",
+      "example": "完整的语法句子。"
+    },
+    {
+      "id": "word_0572",
+      "translation": "语言",
+      "phonetic": "",
+      "example": "外语第二语言。"
+    },
+    {
+      "id": "word_0573",
+      "translation": "信",
+      "phonetic": "",
+      "example": "手写的私人信件。"
+    },
+    {
+      "id": "word_0574",
+      "translation": "声音",
+      "phonetic": "",
+      "example": "响亮奇怪的声音。"
+    },
+    {
+      "id": "word_0575",
+      "translation": "嗓音",
+      "phonetic": "",
+      "example": "优美的歌声。"
+    },
+    {
+      "id": "word_0576",
+      "translation": "音乐",
+      "phonetic": "",
+      "example": "古典管弦乐。"
+    },
+    {
+      "id": "word_0577",
+      "translation": "歌曲",
+      "phonetic": "",
+      "example": "流行热门歌曲。"
+    },
+    {
+      "id": "word_0578",
+      "translation": "图片",
+      "phonetic": "",
+      "example": "美丽的家庭照片。"
+    },
+    {
+      "id": "word_0579",
+      "translation": "照片",
+      "phonetic": "",
+      "example": "旧的黑白照片。"
+    },
+    {
+      "id": "word_0580",
+      "translation": "电影",
+      "phonetic": "",
+      "example": "获奖的电影。"
+    },
+    {
+      "id": "word_0581",
+      "translation": "影片",
+      "phonetic": "",
+      "example": "动作冒险影片。"
+    },
+    {
+      "id": "word_0582",
+      "translation": "游戏",
+      "phonetic": "",
+      "example": "有趣的棋盘游戏。"
+    },
+    {
+      "id": "word_0583",
+      "translation": "运动",
+      "phonetic": "",
+      "example": "流行的团队运动。"
+    },
+    {
+      "id": "word_0584",
+      "translation": "队伍",
+      "phonetic": "",
+      "example": "赢得冠军的队伍。"
+    },
+    {
+      "id": "word_0585",
+      "translation": "球员",
+      "phonetic": "",
+      "example": "职业足球球员。"
+    },
+    {
+      "id": "word_0586",
+      "translation": "球",
+      "phonetic": "",
+      "example": "圆圆弹跳的球。"
+    },
+    {
+      "id": "word_0587",
+      "translation": "派对",
+      "phonetic": "",
+      "example": "生日庆祝派对。"
+    },
+    {
+      "id": "word_0588",
+      "translation": "礼物",
+      "phonetic": "",
+      "example": "体贴慷慨的礼物。"
+    },
+    {
+      "id": "word_0589",
+      "translation": "礼品",
+      "phonetic": "",
+      "example": "包装好的惊喜礼品。"
+    },
+    {
+      "id": "word_0590",
+      "translation": "玩具",
+      "phonetic": "",
+      "example": "孩子们最喜欢的玩具。"
+    },
+    {
+      "id": "word_0591",
+      "translation": "电话",
+      "phonetic": "",
+      "example": "移动智能电话。"
+    },
+    {
+      "id": "word_0592",
+      "translation": "电脑",
+      "phonetic": "",
+      "example": "个人笔记本电脑。"
+    },
+    {
+      "id": "word_0593",
+      "translation": "电视",
+      "phonetic": "",
+      "example": "平板电视。"
+    },
+    {
+      "id": "word_0594",
+      "translation": "收音机",
+      "phonetic": "",
+      "example": "旧的便携式收音机。"
+    },
+    {
+      "id": "word_0595",
+      "translation": "相机",
+      "phonetic": "",
+      "example": "数码摄影相机。"
+    },
+    {
+      "id": "word_0596",
+      "translation": "钟",
+      "phonetic": "",
+      "example": "古董挂钟。"
+    },
+    {
+      "id": "word_0597",
+      "translation": "盒子",
+      "phonetic": "",
+      "example": "纸板储物盒。"
+    },
+    {
+      "id": "word_0598",
+      "translation": "袋子",
+      "phonetic": "",
+      "example": "皮革购物袋。"
+    },
+    {
+      "id": "word_0599",
+      "translation": "口袋",
+      "phonetic": "",
+      "example": "深深的前口袋。"
+    },
+    {
+      "id": "word_0600",
+      "translation": "钥匙",
+      "phonetic": "",
+      "example": "金属门钥匙。"
+    },
+    {
+      "id": "word_0601",
+      "translation": "蜡烛",
+      "phonetic": "",
+      "example": "香味蜡烛。"
+    },
+    {
+      "id": "word_0602",
+      "translation": "地板",
+      "phonetic": "",
+      "example": "木质硬地板。"
+    },
+    {
+      "id": "word_0603",
+      "translation": "墙",
+      "phonetic": "",
+      "example": "白色漆墙。"
+    },
+    {
+      "id": "word_0604",
+      "translation": "屋顶",
+      "phonetic": "",
+      "example": "红色瓦屋顶。"
+    },
+    {
+      "id": "word_0605",
+      "translation": "浴室",
+      "phonetic": "",
+      "example": "干净的私人浴室。"
+    },
+    {
+      "id": "word_0606",
+      "translation": "厨房",
+      "phonetic": "",
+      "example": "现代化设备齐全的厨房。"
+    },
+    {
+      "id": "word_0607",
+      "translation": "卧室",
+      "phonetic": "",
+      "example": "宽敞的主卧室。"
+    },
+    {
+      "id": "word_0608",
+      "translation": "起居",
+      "phonetic": "",
+      "example": "舒适的起居室。"
+    },
+    {
+      "id": "word_0609",
+      "translation": "厕所",
+      "phonetic": "",
+      "example": "干净的公共厕所。"
+    },
+    {
+      "id": "word_0610",
+      "translation": "淋浴",
+      "phonetic": "",
+      "example": "热水早晨淋浴。"
+    },
+    {
+      "id": "word_0611",
+      "translation": "洗澡",
+      "phonetic": "",
+      "example": "放松的泡泡浴。"
+    },
+    {
+      "id": "word_0612",
+      "translation": "肥皂",
+      "phonetic": "",
+      "example": "芳香的洗手皂。"
+    },
+    {
+      "id": "word_0613",
+      "translation": "毛巾",
+      "phonetic": "",
+      "example": "柔软干净的毛巾。"
+    },
+    {
+      "id": "word_0614",
+      "translation": "镜子",
+      "phonetic": "",
+      "example": "大浴室镜子。"
+    },
+    {
+      "id": "word_0615",
+      "translation": "刷子",
+      "phonetic": "",
+      "example": "硬毛牙刷。"
+    },
+    {
+      "id": "word_0616",
+      "translation": "梳子",
+      "phonetic": "",
+      "example": "细齿梳子。"
+    },
+    {
+      "id": "word_0617",
+      "translation": "药",
+      "phonetic": "",
+      "example": "处方日常药物。"
+    },
+    {
+      "id": "word_0618",
+      "translation": "医生",
+      "phonetic": "",
+      "example": "经验丰富的家庭医生。"
+    },
+    {
+      "id": "word_0619",
+      "translation": "护士",
+      "phonetic": "",
+      "example": "关心病人的医院护士。"
+    },
+    {
+      "id": "word_0620",
+      "translation": "病人",
+      "phonetic": "",
+      "example": "正在康复的病人。"
+    },
+    {
+      "id": "word_0621",
+      "translation": "健康",
+      "phonetic": "",
+      "example": "良好的身体健康。"
+    },
+    {
+      "id": "word_0622",
+      "translation": "疾病",
+      "phonetic": "",
+      "example": "传染性疾病。"
+    },
+    {
+      "id": "word_0623",
+      "translation": "疼痛",
+      "phonetic": "",
+      "example": "剧烈的疼痛。"
+    },
+    {
+      "id": "word_0624",
+      "translation": "血",
+      "phonetic": "",
+      "example": "红色流动的血液。"
+    },
+    {
+      "id": "word_0625",
+      "translation": "年龄",
+      "phonetic": "",
+      "example": "高龄。"
+    },
+    {
+      "id": "word_0626",
+      "translation": "出生",
+      "phonetic": "",
+      "example": "快乐的婴儿出生。"
+    },
+    {
+      "id": "word_0627",
+      "translation": "死亡",
+      "phonetic": "",
+      "example": "平静的自然死亡。"
+    },
+    {
+      "id": "word_0628",
+      "translation": "生命",
+      "phonetic": "",
+      "example": "美好珍贵的生命。"
+    },
+    {
+      "id": "word_0629",
+      "translation": "分钟",
+      "phonetic": "",
+      "example": "仅一分钟。"
+    },
+    {
+      "id": "word_0630",
+      "translation": "小时",
+      "phonetic": "",
+      "example": "半小时。"
+    },
+    {
+      "id": "word_0631",
+      "translation": "时刻",
+      "phonetic": "",
+      "example": "完美特别的时刻。"
+    },
+    {
+      "id": "word_0632",
+      "translation": "历史",
+      "phonetic": "",
+      "example": "古代世界历史。"
+    },
+    {
+      "id": "word_0633",
+      "translation": "未来",
+      "phonetic": "",
+      "example": "光明有希望的未来。"
+    },
+    {
+      "id": "word_0634",
+      "translation": "过去",
+      "phonetic": "",
+      "example": "遥远被遗忘的过去。"
+    },
+    {
+      "id": "word_0635",
+      "translation": "状态",
+      "phonetic": "",
+      "example": "当前的状态。"
+    },
+    {
+      "id": "word_0636",
+      "translation": "国家",
+      "phonetic": "",
+      "example": "骄傲的主权国家。"
+    },
+    {
+      "id": "word_0637",
+      "translation": "权力",
+      "phonetic": "",
+      "example": "巨大的政治权力。"
+    },
+    {
+      "id": "word_0638",
+      "translation": "总统",
+      "phonetic": "",
+      "example": "当选的国家总统。"
+    },
+    {
+      "id": "word_0639",
+      "translation": "国王",
+      "phonetic": "",
+      "example": "强大的统治国王。"
+    },
+    {
+      "id": "word_0640",
+      "translation": "女王",
+      "phonetic": "",
+      "example": "深受爱戴的王室女王。"
+    },
+    {
+      "id": "word_0641",
+      "translation": "王子",
+      "phonetic": "",
+      "example": "年轻英俊的王子。"
+    },
+    {
+      "id": "word_0642",
+      "translation": "公主",
+      "phonetic": "",
+      "example": "美丽善良的公主。"
+    },
+    {
+      "id": "word_0643",
+      "translation": "社会",
+      "phonetic": "",
+      "example": "现代文明社会。"
+    },
+    {
+      "id": "word_0644",
+      "translation": "文化",
+      "phonetic": "",
+      "example": "丰富多样的文化。"
+    },
+    {
+      "id": "word_0645",
+      "translation": "艺术",
+      "phonetic": "",
+      "example": "精美的视觉艺术。"
+    },
+    {
+      "id": "word_0646",
+      "translation": "科学",
+      "phonetic": "",
+      "example": "先进的现代科学。"
+    },
+    {
+      "id": "word_0647",
+      "translation": "技术",
+      "phonetic": "",
+      "example": "最新的数字技术。"
+    },
+    {
+      "id": "word_0648",
+      "translation": "商业",
+      "phonetic": "",
+      "example": "成功的国际商业。"
+    },
+    {
+      "id": "word_0649",
+      "translation": "公司",
+      "phonetic": "",
+      "example": "大型跨国公司。"
+    },
+    {
+      "id": "word_0650",
+      "translation": "服务",
+      "phonetic": "",
+      "example": "优质的客户服务。"
+    },
+    {
+      "id": "word_0651",
+      "translation": "产品",
+      "phonetic": "",
+      "example": "优质制造的产品。"
+    },
+    {
+      "id": "word_0652",
+      "translation": "价格",
+      "phonetic": "",
+      "example": "公平合理的价格。"
+    },
+    {
+      "id": "word_0653",
+      "translation": "价值",
+      "phonetic": "",
+      "example": "巨大的货币价值。"
+    },
+    {
+      "id": "word_0654",
+      "translation": "税",
+      "phonetic": "",
+      "example": "年度所得税。"
+    },
+    {
+      "id": "word_0655",
+      "translation": "利息",
+      "phonetic": "",
+      "example": "高银行利息。"
+    },
+    {
+      "id": "word_0656",
+      "translation": "交易",
+      "phonetic": "",
+      "example": "很好的商业交易。"
+    },
+    {
+      "id": "word_0657",
+      "translation": "协议",
+      "phonetic": "",
+      "example": "相互书面协议。"
+    },
+    {
+      "id": "word_0658",
+      "translation": "合同",
+      "phonetic": "",
+      "example": "法律约束性合同。"
+    },
+    {
+      "id": "word_0659",
+      "translation": "计划",
+      "phonetic": "",
+      "example": "详细的战略计划。"
+    },
+    {
+      "id": "word_0660",
+      "translation": "项目",
+      "phonetic": "",
+      "example": "重要的学校项目。"
+    },
+    {
+      "id": "word_0661",
+      "translation": "程序",
+      "phonetic": "",
+      "example": "教育培训程序。"
+    },
+    {
+      "id": "word_0662",
+      "translation": "系统",
+      "phonetic": "",
+      "example": "复杂的操作系统。"
+    },
+    {
+      "id": "word_0663",
+      "translation": "方法",
+      "phonetic": "",
+      "example": "有效的教学方法。"
+    },
+    {
+      "id": "word_0664",
+      "translation": "过程",
+      "phonetic": "",
+      "example": "漫长的制造过程。"
+    },
+    {
+      "id": "word_0665",
+      "translation": "结果",
+      "phonetic": "",
+      "example": "积极成功的结果。"
+    },
+    {
+      "id": "word_0666",
+      "translation": "效果",
+      "phonetic": "",
+      "example": "立即明显的效果。"
+    },
+    {
+      "id": "word_0667",
+      "translation": "原因",
+      "phonetic": "",
+      "example": "主要根本原因。"
+    },
+    {
+      "id": "word_0668",
+      "translation": "机会",
+      "phonetic": "",
+      "example": "幸运的第二次机会。"
+    },
+    {
+      "id": "word_0669",
+      "translation": "选择",
+      "phonetic": "",
+      "example": "困难艰难的选择。"
+    },
+    {
+      "id": "word_0670",
+      "translation": "决定",
+      "phonetic": "",
+      "example": "重要的最终决定。"
+    },
+    {
+      "id": "word_0671",
+      "translation": "行动",
+      "phonetic": "",
+      "example": "快速果断的行动。"
+    },
+    {
+      "id": "word_0672",
+      "translation": "活动",
+      "phonetic": "",
+      "example": "户外体育活动。"
+    },
+    {
+      "id": "word_0673",
+      "translation": "经验",
+      "phonetic": "",
+      "example": "宝贵的人生经验。"
+    },
+    {
+      "id": "word_0674",
+      "translation": "知识",
+      "phonetic": "",
+      "example": "深厚广泛的知识。"
+    },
+    {
+      "id": "word_0675",
+      "translation": "技能",
+      "phonetic": "",
+      "example": "特殊技术技能。"
+    },
+    {
+      "id": "word_0676",
+      "translation": "能力",
+      "phonetic": "",
+      "example": "天生的能力。"
+    },
+    {
+      "id": "word_0677",
+      "translation": "努力",
+      "phonetic": "",
+      "example": "巨大的共同努力。"
+    },
+    {
+      "id": "word_0678",
+      "translation": "成功",
+      "phonetic": "",
+      "example": "当之无愧的成功。"
+    },
+    {
+      "id": "word_0679",
+      "translation": "失败",
+      "phonetic": "",
+      "example": "暂时的小失败。"
+    },
+    {
+      "id": "word_0680",
+      "translation": "错误",
+      "phonetic": "",
+      "example": "常见的简单错误。"
+    },
+    {
+      "id": "word_0681",
+      "translation": "差错",
+      "phonetic": "",
+      "example": "小的计算差错。"
+    },
+    {
+      "id": "word_0682",
+      "translation": "危险",
+      "phonetic": "",
+      "example": "严重迫在眉睫的危险。"
+    },
+    {
+      "id": "word_0683",
+      "translation": "风险",
+      "phonetic": "",
+      "example": "高财务风险。"
+    },
+    {
+      "id": "word_0684",
+      "translation": "运气",
+      "phonetic": "",
+      "example": "纯粹的好运气。"
+    },
+    {
+      "id": "word_0685",
+      "translation": "财富",
+      "phonetic": "",
+      "example": "巨大的个人财富。"
+    },
+    {
+      "id": "word_0686",
+      "translation": "命运",
+      "phonetic": "",
+      "example": "未知不确定的命运。"
+    },
+    {
+      "id": "word_0687",
+      "translation": "目的",
+      "phonetic": "",
+      "example": "明确的主要目的。"
+    },
+    {
+      "id": "word_0688",
+      "translation": "目标",
+      "phonetic": "",
+      "example": "可实现的现实目标。"
+    },
+    {
+      "id": "word_0689",
+      "translation": "目标",
+      "phonetic": "",
+      "example": "首要的最终目标。"
+    },
+    {
+      "id": "word_0690",
+      "translation": "结束",
+      "phonetic": "",
+      "example": "最后痛苦的结束。"
+    },
+    {
+      "id": "word_0691",
+      "translation": "开始",
+      "phonetic": "",
+      "example": "全新的开始。"
+    },
+    {
+      "id": "word_0692",
+      "translation": "中间",
+      "phonetic": "",
+      "example": "准确精确的中间。"
+    },
+    {
+      "id": "word_0693",
+      "translation": "顶部",
+      "phonetic": "",
+      "example": "最高的顶部。"
+    },
+    {
+      "id": "word_0694",
+      "translation": "底部",
+      "phonetic": "",
+      "example": "最低的底部。"
+    },
+    {
+      "id": "word_0695",
+      "translation": "边",
+      "phonetic": "",
+      "example": "左手边。"
+    },
+    {
+      "id": "word_0696",
+      "translation": "前面",
+      "phonetic": "",
+      "example": "就在前面。"
+    },
+    {
+      "id": "word_0697",
+      "translation": "后面",
+      "phonetic": "",
+      "example": "就在后面。"
+    },
+    {
+      "id": "word_0698",
+      "translation": "上方",
+      "phonetic": "",
+      "example": "高高在上。"
+    },
+    {
+      "id": "word_0699",
+      "translation": "下方",
+      "phonetic": "",
+      "example": "远在下方。"
+    },
+    {
+      "id": "word_0700",
+      "translation": "里面",
+      "phonetic": "",
+      "example": "深藏在里面。"
+    },
+    {
+      "id": "word_0701",
+      "translation": "外面",
+      "phonetic": "",
+      "example": "就在外面。"
+    },
+    {
+      "id": "word_0702",
+      "translation": "之间",
+      "phonetic": "",
+      "example": "就在中间。"
+    },
+    {
+      "id": "word_0703",
+      "translation": "在...当中",
+      "phonetic": "",
+      "example": "隐藏在人群当中。"
+    },
+    {
+      "id": "word_0704",
+      "translation": "穿过",
+      "phonetic": "",
+      "example": "径直穿过。"
+    },
+    {
+      "id": "word_0705",
+      "translation": "通过",
+      "phonetic": "",
+      "example": "全部通过。"
+    },
+    {
+      "id": "word_0706",
+      "translation": "在...期间",
+      "phonetic": "",
+      "example": "仅在白天期间。"
+    },
+    {
+      "id": "word_0707",
+      "translation": "在...之前",
+      "phonetic": "",
+      "example": "就在之前。"
+    },
+    {
+      "id": "word_0708",
+      "translation": "自从",
+      "phonetic": "",
+      "example": "从那时起。"
+    },
+    {
+      "id": "word_0709",
+      "translation": "直到",
+      "phonetic": "",
+      "example": "一直等到。"
+    },
+    {
+      "id": "word_0710",
+      "translation": "当...时候",
+      "phonetic": "",
+      "example": "注意安全。"
+    },
+    {
+      "id": "word_0711",
+      "translation": "虽然",
+      "phonetic": "",
+      "example": "虽然困难但真实。"
+    },
+    {
+      "id": "word_0712",
+      "translation": "然而",
+      "phonetic": "",
+      "example": "对却也错。"
+    },
+    {
+      "id": "word_0713",
+      "translation": "因此",
+      "phonetic": "",
+      "example": "真实因此有效。"
+    },
+    {
+      "id": "word_0714",
+      "translation": "从而",
+      "phonetic": "",
+      "example": "真实从而正确。"
+    },
+    {
+      "id": "word_0715",
+      "translation": "而且",
+      "phonetic": "",
+      "example": "好而且有益。"
+    },
+    {
+      "id": "word_0716",
+      "translation": "此外",
+      "phonetic": "",
+      "example": "真实此外准确。"
+    },
+    {
+      "id": "word_0717",
+      "translation": "否则",
+      "phonetic": "",
+      "example": "来否则离开。"
+    },
+    {
+      "id": "word_0718",
+      "translation": "代替",
+      "phonetic": "",
+      "example": "这个代替那个。"
+    },
+    {
+      "id": "word_0719",
+      "translation": "除了",
+      "phonetic": "",
+      "example": "好且有用。"
+    },
+    {
+      "id": "word_0720",
+      "translation": "除...之外",
+      "phonetic": "",
+      "example": "除了一个全部。"
+    },
+    {
+      "id": "word_0721",
+      "translation": "没有",
+      "phonetic": "",
+      "example": "没有水的生命。"
+    },
+    {
+      "id": "word_0722",
+      "translation": "在...之内",
+      "phonetic": "",
+      "example": "保持在内。"
+    },
+    {
+      "id": "word_0723",
+      "translation": "靠着",
+      "phonetic": "",
+      "example": "靠着倾斜。"
+    },
+    {
+      "id": "word_0724",
+      "translation": "朝向",
+      "phonetic": "",
+      "example": "朝向移动。"
+    },
+    {
+      "id": "word_0725",
+      "translation": "在...上面",
+      "phonetic": "",
+      "example": "坐在上面。"
+    },
+    {
+      "id": "word_0726",
+      "translation": "离开",
+      "phonetic": "",
+      "example": "马上离开。"
+    },
+    {
+      "id": "word_0727",
+      "translation": "下来",
+      "phonetic": "",
+      "example": "马上下来。"
+    },
+    {
+      "id": "word_0728",
+      "translation": "周围",
+      "phonetic": "",
+      "example": "环顾四周。"
+    },
+    {
+      "id": "word_0729",
+      "translation": "沿着",
+      "phonetic": "",
+      "example": "沿着走。"
+    },
+    {
+      "id": "word_0730",
+      "translation": "超越",
+      "phonetic": "",
+      "example": "远远超越。"
+    },
+    {
+      "id": "word_0731",
+      "translation": "对面",
+      "phonetic": "",
+      "example": "直接坐在对面。"
+    },
+    {
+      "id": "word_0732",
+      "translation": "尽管",
+      "phonetic": "",
+      "example": "尽管困难仍成功。"
+    },
+    {
+      "id": "word_0733",
+      "translation": "在...旁边",
+      "phonetic": "",
+      "example": "坐在旁边。"
+    },
+    {
+      "id": "word_0734",
+      "translation": "遍及",
+      "phonetic": "",
+      "example": "闻名遍及世界。"
+    },
+    {
+      "id": "word_0735",
+      "translation": "在...下面",
+      "phonetic": "",
+      "example": "藏在下面。"
+    },
+    {
+      "id": "word_0736",
+      "translation": "关于",
+      "phonetic": "",
+      "example": "关于事情的问题。"
+    },
+    {
+      "id": "word_0737",
+      "translation": "有关",
+      "phonetic": "",
+      "example": "有关问题的信息。"
+    },
+    {
+      "id": "word_0738",
+      "translation": "根据",
+      "phonetic": "",
+      "example": "根据计划。"
+    },
+    {
+      "id": "word_0739",
+      "translation": "包括",
+      "phonetic": "",
+      "example": "包括孩子在内的所有人。"
+    },
+    {
+      "id": "word_0740",
+      "translation": "遵循",
+      "phonetic": "",
+      "example": "遵循这些说明。"
+    },
+    {
+      "id": "word_0741",
+      "translation": "考虑到",
+      "phonetic": "",
+      "example": "考虑到所有因素。"
+    },
+    {
+      "id": "word_0742",
+      "translation": "尊重",
+      "phonetic": "",
+      "example": "尊重你的意见。"
+    },
+    {
+      "id": "word_0743",
+      "translation": "感谢",
+      "phonetic": "",
+      "example": "由衷的感谢。"
+    },
+    {
+      "id": "word_0744",
+      "translation": "祝贺",
+      "phonetic": "",
+      "example": "衷心的祝贺。"
+    },
+    {
+      "id": "word_0745",
+      "translation": "注意",
+      "phonetic": "",
+      "example": "全神贯注。"
+    },
+    {
+      "id": "word_0746",
+      "translation": "关心",
+      "phonetic": "",
+      "example": "好好关心。"
+    },
+    {
+      "id": "word_0747",
+      "translation": "尊敬",
+      "phonetic": "",
+      "example": "深深的相互尊敬。"
+    },
+    {
+      "id": "word_0748",
+      "translation": "荣誉",
+      "phonetic": "",
+      "example": "巨大的个人荣誉。"
+    },
+    {
+      "id": "word_0749",
+      "translation": "骄傲",
+      "phonetic": "",
+      "example": "无比的个人骄傲。"
+    },
+    {
+      "id": "word_0750",
+      "translation": "羞耻",
+      "phonetic": "",
+      "example": "深深的个人羞耻。"
+    },
+    {
+      "id": "word_0751",
+      "translation": "恐惧",
+      "phonetic": "",
+      "example": "巨大的压倒性恐惧。"
+    },
+    {
+      "id": "word_0752",
+      "translation": "信念",
+      "phonetic": "",
+      "example": "坚定不移的信念。"
+    },
+    {
+      "id": "word_0753",
+      "translation": "信任",
+      "phonetic": "",
+      "example": "完全绝对的信任。"
+    },
+    {
+      "id": "word_0754",
+      "translation": "信心",
+      "phonetic": "",
+      "example": "强大的自信心。"
+    },
+    {
+      "id": "word_0755",
+      "translation": "怀疑",
+      "phonetic": "",
+      "example": "严重合理的怀疑。"
+    },
+    {
+      "id": "word_0756",
+      "translation": "担心",
+      "phonetic": "",
+      "example": "持续不必要的担心。"
+    },
+    {
+      "id": "word_0757",
+      "translation": "担忧",
+      "phonetic": "",
+      "example": "日益严重的担忧。"
+    },
+    {
+      "id": "word_0758",
+      "translation": "意见",
+      "phonetic": "",
+      "example": "个人真诚的意见。"
+    },
+    {
+      "id": "word_0759",
+      "translation": "观点",
+      "phonetic": "",
+      "example": "不同独特的观点。"
+    },
+    {
+      "id": "word_0760",
+      "translation": "感觉",
+      "phonetic": "",
+      "example": "强烈的内心感觉。"
+    },
+    {
+      "id": "word_0761",
+      "translation": "情感",
+      "phonetic": "",
+      "example": "强大原始的情感。"
+    },
+    {
+      "id": "word_0762",
+      "translation": "感知",
+      "phonetic": "",
+      "example": "良好的常识。"
+    },
+    {
+      "id": "word_0763",
+      "translation": "思维",
+      "phonetic": "",
+      "example": "敏锐聪明的思维。"
+    },
+    {
+      "id": "word_0764",
+      "translation": "记忆",
+      "phonetic": "",
+      "example": "生动清晰的记忆。"
+    },
+    {
+      "id": "word_0765",
+      "translation": "梦想",
+      "phonetic": "",
+      "example": "美好愉快的梦想。"
+    },
+    {
+      "id": "word_0766",
+      "translation": "想象力",
+      "phonetic": "",
+      "example": "狂野生动的想象力。"
+    },
+    {
+      "id": "word_0767",
+      "translation": "现实",
+      "phonetic": "",
+      "example": "严酷冰冷的现实。"
+    },
+    {
+      "id": "word_0768",
+      "translation": "外观",
+      "phonetic": "",
+      "example": "物理外部外观。"
+    },
+    {
+      "id": "word_0769",
+      "translation": "形状",
+      "phonetic": "",
+      "example": "圆形的形状。"
+    },
+    {
+      "id": "word_0770",
+      "translation": "尺寸",
+      "phonetic": "",
+      "example": "巨大的尺寸。"
+    },
+    {
+      "id": "word_0771",
+      "translation": "长度",
+      "phonetic": "",
+      "example": "完整的总长度。"
+    },
+    {
+      "id": "word_0772",
+      "translation": "宽度",
+      "phonetic": "",
+      "example": "完整的宽度。"
+    },
+    {
+      "id": "word_0773",
+      "translation": "高度",
+      "phonetic": "",
+      "example": "最大的高度。"
+    },
+    {
+      "id": "word_0774",
+      "translation": "深度",
+      "phonetic": "",
+      "example": "极大的深度。"
+    },
+    {
+      "id": "word_0775",
+      "translation": "重量",
+      "phonetic": "",
+      "example": "沉重的总重量。"
+    },
+    {
+      "id": "word_0776",
+      "translation": "速度",
+      "phonetic": "",
+      "example": "最高速度。"
+    },
+    {
+      "id": "word_0777",
+      "translation": "距离",
+      "phonetic": "",
+      "example": "长距离。"
+    },
+    {
+      "id": "word_0778",
+      "translation": "方向",
+      "phonetic": "",
+      "example": "正确的方向。"
+    },
+    {
+      "id": "word_0779",
+      "translation": "位置",
+      "phonetic": "",
+      "example": "当前精确的位置。"
+    },
+    {
+      "id": "word_0780",
+      "translation": "情况",
+      "phonetic": "",
+      "example": "当前的情况。"
+    },
+    {
+      "id": "word_0781",
+      "translation": "状况",
+      "phonetic": "",
+      "example": "良好的状况。"
+    },
+    {
+      "id": "word_0782",
+      "translation": "质量",
+      "phonetic": "",
+      "example": "高品质。"
+    },
+    {
+      "id": "word_0783",
+      "translation": "数量",
+      "phonetic": "",
+      "example": "大量的数量。"
+    },
+    {
+      "id": "word_0784",
+      "translation": "学位",
+      "phonetic": "",
+      "example": "高学位。"
+    },
+    {
+      "id": "word_0785",
+      "translation": "等级",
+      "phonetic": "",
+      "example": "高级专家等级。"
+    },
+    {
+      "id": "word_0786",
+      "translation": "阶段",
+      "phonetic": "",
+      "example": "最后的阶段。"
+    },
+    {
+      "id": "word_0787",
+      "translation": "步骤",
+      "phonetic": "",
+      "example": "第一个初步步骤。"
+    },
+    {
+      "id": "word_0788",
+      "translation": "要点",
+      "phonetic": "",
+      "example": "重要的关键要点。"
+    },
+    {
+      "id": "word_0789",
+      "translation": "线",
+      "phonetic": "",
+      "example": "直的水平线。"
+    },
+    {
+      "id": "word_0790",
+      "translation": "圆",
+      "phonetic": "",
+      "example": "完美的圆。"
+    },
+    {
+      "id": "word_0791",
+      "translation": "正方形",
+      "phonetic": "",
+      "example": "完美的正方形。"
+    },
+    {
+      "id": "word_0792",
+      "translation": "三角形",
+      "phonetic": "",
+      "example": "直角三角形。"
+    },
+    {
+      "id": "word_0793",
+      "translation": "角度",
+      "phonetic": "",
+      "example": "锐角角度。"
+    },
+    {
+      "id": "word_0794",
+      "translation": "角落",
+      "phonetic": "",
+      "example": "右边锐角角落。"
+    },
+    {
+      "id": "word_0795",
+      "translation": "边缘",
+      "phonetic": "",
+      "example": "锋利的边缘。"
+    },
+    {
+      "id": "word_0796",
+      "translation": "表面",
+      "phonetic": "",
+      "example": "光滑平坦的表面。"
+    },
+    {
+      "id": "word_0797",
+      "translation": "中心",
+      "phonetic": "",
+      "example": "精确的中心。"
+    },
+    {
+      "id": "word_0798",
+      "translation": "部分",
+      "phonetic": "",
+      "example": "重要的基本部分。"
+    },
+    {
+      "id": "word_0799",
+      "translation": "块",
+      "phonetic": "",
+      "example": "小小的块。"
+    },
+    {
+      "id": "word_0800",
+      "translation": "一点",
+      "phonetic": "",
+      "example": "一点点。"
+    },
+    {
+      "id": "word_0801",
+      "translation": "部分",
+      "phonetic": "",
+      "example": "单独明确的部分。"
+    },
+    {
+      "id": "word_0802",
+      "translation": "区域",
+      "phonetic": "",
+      "example": "大开阔区域。"
+    },
+    {
+      "id": "word_0803",
+      "translation": "地区",
+      "phonetic": "",
+      "example": "遥远的地区。"
+    },
+    {
+      "id": "word_0804",
+      "translation": "区",
+      "phonetic": "",
+      "example": "限制禁止区。"
+    },
+    {
+      "id": "word_0805",
+      "translation": "空间",
+      "phonetic": "",
+      "example": "空的空间。"
+    },
+    {
+      "id": "word_0806",
+      "translation": "地点",
+      "phonetic": "",
+      "example": "完美理想的地点。"
+    },
+    {
+      "id": "word_0807",
+      "translation": "场所",
+      "phonetic": "",
+      "example": "历史重要场所。"
+    },
+    {
+      "id": "word_0808",
+      "translation": "地点",
+      "phonetic": "",
+      "example": "主要中心地点。"
+    },
+    {
+      "id": "word_0809",
+      "translation": "地址",
+      "phonetic": "",
+      "example": "家庭永久地址。"
+    },
+    {
+      "id": "word_0810",
+      "translation": "地图",
+      "phonetic": "",
+      "example": "详细准确的地图。"
+    },
+    {
+      "id": "word_0811",
+      "translation": "北",
+      "phonetic": "",
+      "example": "真北。"
+    },
+    {
+      "id": "word_0812",
+      "translation": "南",
+      "phonetic": "",
+      "example": "深远的南方。"
+    },
+    {
+      "id": "word_0813",
+      "translation": "东",
+      "phonetic": "",
+      "example": "遥远的东方。"
+    },
+    {
+      "id": "word_0814",
+      "translation": "西",
+      "phonetic": "",
+      "example": "狂野的美国西部。"
+    },
+    {
+      "id": "word_0815",
+      "translation": "左",
+      "phonetic": "",
+      "example": "急转左。"
+    },
+    {
+      "id": "word_0816",
+      "translation": "直",
+      "phonetic": "",
+      "example": "直走。"
+    },
+    {
+      "id": "word_0817",
+      "translation": "前进",
+      "phonetic": "",
+      "example": "稳步前进。"
+    },
+    {
+      "id": "word_0818",
+      "translation": "后退",
+      "phonetic": "",
+      "example": "小心后退。"
+    },
+    {
+      "id": "word_0819",
+      "translation": "向上",
+      "phonetic": "",
+      "example": "直接向上看。"
+    },
+    {
+      "id": "word_0820",
+      "translation": "向下",
+      "phonetic": "",
+      "example": "快速向下看。"
+    },
+    {
+      "id": "word_0821",
+      "translation": "侧向",
+      "phonetic": "",
+      "example": "稍微侧向移动。"
+    },
+    {
+      "id": "word_0822",
+      "translation": "这里",
+      "phonetic": "",
+      "example": "来这里。"
+    },
+    {
+      "id": "word_0823",
+      "translation": "哪里",
+      "phonetic": "",
+      "example": "告诉我哪里。"
+    },
+    {
+      "id": "word_0824",
+      "translation": "到处",
+      "phonetic": "",
+      "example": "到处看看。"
+    },
+    {
+      "id": "word_0825",
+      "translation": "无处",
+      "phonetic": "",
+      "example": "绝对找不到。"
+    },
+    {
+      "id": "word_0826",
+      "translation": "某处",
+      "phonetic": "",
+      "example": "在某处丢了它。"
+    },
+    {
+      "id": "word_0827",
+      "translation": "任何地方",
+      "phonetic": "",
+      "example": "任何地方都找不到。"
+    },
+    {
+      "id": "word_0828",
+      "translation": "总是",
+      "phonetic": "",
+      "example": "永远记住。"
+    },
+    {
+      "id": "word_0829",
+      "translation": "从不",
+      "phonetic": "",
+      "example": "永不放弃。"
+    },
+    {
+      "id": "word_0830",
+      "translation": "有时候",
+      "phonetic": "",
+      "example": "有时候来看我。"
+    },
+    {
+      "id": "word_0831",
+      "translation": "经常",
+      "phonetic": "",
+      "example": "经常来访。"
+    },
+    {
+      "id": "word_0832",
+      "translation": "很少",
+      "phonetic": "",
+      "example": "很少很少。"
+    },
+    {
+      "id": "word_0833",
+      "translation": "罕见",
+      "phonetic": "",
+      "example": "几乎从不罕见。"
+    },
+    {
+      "id": "word_0834",
+      "translation": "通常",
+      "phonetic": "",
+      "example": "通常总是迟到。"
+    },
+    {
+      "id": "word_0835",
+      "translation": "正常地",
+      "phonetic": "",
+      "example": "正常地非常准时。"
+    },
+    {
+      "id": "word_0836",
+      "translation": "一般来说",
+      "phonetic": "",
+      "example": "一般来说是真的。"
+    },
+    {
+      "id": "word_0837",
+      "translation": "通常",
+      "phonetic": "",
+      "example": "通常会发生这种情况。"
+    },
+    {
+      "id": "word_0838",
+      "translation": "频繁地",
+      "phonetic": "",
+      "example": "相当频繁地发生。"
+    },
+    {
+      "id": "word_0839",
+      "translation": "偶尔",
+      "phonetic": "",
+      "example": "只是偶尔发生。"
+    },
+    {
+      "id": "word_0840",
+      "translation": "不断地",
+      "phonetic": "",
+      "example": "不断地变化。"
+    },
+    {
+      "id": "word_0841",
+      "translation": "持续地",
+      "phonetic": "",
+      "example": "每天持续改进。"
+    },
+    {
+      "id": "word_0842",
+      "translation": "定期地",
+      "phonetic": "",
+      "example": "每天定期锻炼。"
+    },
+    {
+      "id": "word_0843",
+      "translation": "立即",
+      "phonetic": "",
+      "example": "立即离开。"
+    },
+    {
+      "id": "word_0844",
+      "translation": "瞬间",
+      "phonetic": "",
+      "example": "几乎瞬间发生。"
+    },
+    {
+      "id": "word_0845",
+      "translation": "突然",
+      "phonetic": "",
+      "example": "非常突然地停止。"
+    },
+    {
+      "id": "word_0846",
+      "translation": "迅速地",
+      "phonetic": "",
+      "example": "非常迅速地移动。"
+    },
+    {
+      "id": "word_0847",
+      "translation": "慢慢地",
+      "phonetic": "",
+      "example": "慢慢地走。"
+    },
+    {
+      "id": "word_0848",
+      "translation": "逐渐地",
+      "phonetic": "",
+      "example": "逐渐地慢慢改进。"
+    },
+    {
+      "id": "word_0849",
+      "translation": "迅速地",
+      "phonetic": "",
+      "example": "非常迅速地增长。"
+    },
+    {
+      "id": "word_0850",
+      "translation": "很快",
+      "phonetic": "",
+      "example": "很快回来。"
+    },
+    {
+      "id": "word_0851",
+      "translation": "最近",
+      "phonetic": "",
+      "example": "最近发生得更多。"
+    },
+    {
+      "id": "word_0852",
+      "translation": "近期",
+      "phonetic": "",
+      "example": "最近才开始。"
+    },
+    {
+      "id": "word_0853",
+      "translation": "目前",
+      "phonetic": "",
+      "example": "目前正在建设中。"
+    },
+    {
+      "id": "word_0854",
+      "translation": "当前",
+      "phonetic": "",
+      "example": "当前无法使用。"
+    },
+    {
+      "id": "word_0855",
+      "translation": "最终",
+      "phonetic": "",
+      "example": "最终会发生的。"
+    },
+    {
+      "id": "word_0856",
+      "translation": "终于",
+      "phonetic": "",
+      "example": "终于到达目的地。"
+    },
+    {
+      "id": "word_0857",
+      "translation": "最后",
+      "phonetic": "",
+      "example": "最后想说。"
+    },
+    {
+      "id": "word_0858",
+      "translation": "首先",
+      "phonetic": "",
+      "example": "首先必须考虑。"
+    },
+    {
+      "id": "word_0859",
+      "translation": "其次",
+      "phonetic": "",
+      "example": "其次需要评估。"
+    },
+    {
+      "id": "word_0860",
+      "translation": "部分地",
+      "phonetic": "",
+      "example": "只是部分正确。"
+    },
+    {
+      "id": "word_0861",
+      "translation": "大部分",
+      "phonetic": "",
+      "example": "大部分很准确。"
+    },
+    {
+      "id": "word_0862",
+      "translation": "几乎",
+      "phonetic": "",
+      "example": "几乎快完成了。"
+    },
+    {
+      "id": "word_0863",
+      "translation": "差不多",
+      "phonetic": "",
+      "example": "差不多完全完成了。"
+    },
+    {
+      "id": "word_0864",
+      "translation": "相当",
+      "phonetic": "",
+      "example": "相当不错。"
+    },
+    {
+      "id": "word_0865",
+      "translation": "颇为",
+      "phonetic": "",
+      "example": "颇为困难。"
+    },
+    {
+      "id": "word_0866",
+      "translation": "相当",
+      "phonetic": "",
+      "example": "相当完成了。"
+    },
+    {
+      "id": "word_0867",
+      "translation": "还算",
+      "phonetic": "",
+      "example": "还算容易。"
+    },
+    {
+      "id": "word_0868",
+      "translation": "非常",
+      "phonetic": "",
+      "example": "非常感谢。"
+    },
+    {
+      "id": "word_0869",
+      "translation": "太",
+      "phonetic": "",
+      "example": "太贵了。"
+    },
+    {
+      "id": "word_0870",
+      "translation": "足够",
+      "phonetic": "",
+      "example": "已经足够好了。"
+    },
+    {
+      "id": "word_0871",
+      "translation": "极其",
+      "phonetic": "",
+      "example": "极其炎热。"
+    },
+    {
+      "id": "word_0872",
+      "translation": "高度",
+      "phonetic": "",
+      "example": "高度推荐。"
+    },
+    {
+      "id": "word_0873",
+      "translation": "完全",
+      "phonetic": "",
+      "example": "完全完成了。"
+    },
+    {
+      "id": "word_0874",
+      "translation": "全部",
+      "phonetic": "",
+      "example": "全部同意。"
+    },
+    {
+      "id": "word_0875",
+      "translation": "绝对",
+      "phonetic": "",
+      "example": "绝对肯定。"
+    },
+    {
+      "id": "word_0876",
+      "translation": "完美地",
+      "phonetic": "",
+      "example": "完美正确。"
+    },
+    {
+      "id": "word_0877",
+      "translation": "完整地",
+      "phonetic": "",
+      "example": "完整不同。"
+    },
+    {
+      "id": "word_0878",
+      "translation": "充分地",
+      "phonetic": "",
+      "example": "充分准备好了。"
+    },
+    {
+      "id": "word_0879",
+      "translation": "完全地",
+      "phonetic": "",
+      "example": "完全投入。"
+    },
+    {
+      "id": "word_0880",
+      "translation": "稍微",
+      "phonetic": "",
+      "example": "稍微好一点。"
+    },
+    {
+      "id": "word_0881",
+      "translation": "有些",
+      "phonetic": "",
+      "example": "有些困难。"
+    },
+    {
+      "id": "word_0882",
+      "translation": "勉强",
+      "phonetic": "",
+      "example": "勉强可见。"
+    },
+    {
+      "id": "word_0883",
+      "translation": "几乎不",
+      "phonetic": "",
+      "example": "几乎不明显。"
+    },
+    {
+      "id": "word_0884",
+      "translation": "几乎没有",
+      "phonetic": "",
+      "example": "几乎没有足够。"
+    },
+    {
+      "id": "word_0885",
+      "translation": "仅仅",
+      "phonetic": "",
+      "example": "仅仅很简单。"
+    },
+    {
+      "id": "word_0886",
+      "translation": "只是",
+      "phonetic": "",
+      "example": "只是基本的。"
+    },
+    {
+      "id": "word_0887",
+      "translation": "基本上",
+      "phonetic": "",
+      "example": "基本上是真的。"
+    },
+    {
+      "id": "word_0888",
+      "translation": "本质上",
+      "phonetic": "",
+      "example": "本质上是一样的。"
+    },
+    {
+      "id": "word_0889",
+      "translation": "根本上",
+      "phonetic": "",
+      "example": "根本上很重要。"
+    },
+    {
+      "id": "word_0890",
+      "translation": "主要地",
+      "phonetic": "",
+      "example": "主要地关注。"
+    },
+    {
+      "id": "word_0891",
+      "translation": "主要",
+      "phonetic": "",
+      "example": "主要关心。"
+    },
+    {
+      "id": "word_0892",
+      "translation": "首要",
+      "phonetic": "",
+      "example": "首要负责。"
+    },
+    {
+      "id": "word_0893",
+      "translation": "在很大程度上",
+      "phonetic": "",
+      "example": "在很大程度上成功。"
+    },
+    {
+      "id": "word_0894",
+      "translation": "极大地",
+      "phonetic": "",
+      "example": "极大地感谢。"
+    },
+    {
+      "id": "word_0895",
+      "translation": "深深地",
+      "phonetic": "",
+      "example": "深深地感动。"
+    },
+    {
+      "id": "word_0896",
+      "translation": "认真地",
+      "phonetic": "",
+      "example": "认真地关心。"
+    },
+    {
+      "id": "word_0897",
+      "translation": "清楚地",
+      "phonetic": "",
+      "example": "清楚地可见。"
+    },
+    {
+      "id": "word_0898",
+      "translation": "明显地",
+      "phonetic": "",
+      "example": "明显地可见。"
+    },
+    {
+      "id": "word_0899",
+      "translation": "显然",
+      "phonetic": "",
+      "example": "显然是真的。"
+    },
+    {
+      "id": "word_0900",
+      "translation": "显而易见",
+      "phonetic": "",
+      "example": "显而易见已证明。"
+    },
+    {
+      "id": "word_0901",
+      "translation": "当然",
+      "phonetic": "",
+      "example": "当然是真的。"
+    },
+    {
+      "id": "word_0902",
+      "translation": "肯定",
+      "phonetic": "",
+      "example": "肯定确定。"
+    },
+    {
+      "id": "word_0903",
+      "translation": "必定",
+      "phonetic": "",
+      "example": "必定是真的。"
+    },
+    {
+      "id": "word_0904",
+      "translation": "可能",
+      "phonetic": "",
+      "example": "最有可能。"
+    },
+    {
+      "id": "word_0905",
+      "translation": "或许",
+      "phonetic": "",
+      "example": "或许也许可能。"
+    },
+    {
+      "id": "word_0906",
+      "translation": "也许",
+      "phonetic": "",
+      "example": "也许可能。"
+    },
+    {
+      "id": "word_0907",
+      "translation": "可能",
+      "phonetic": "",
+      "example": "可能是真的。"
+    },
+    {
+      "id": "word_0908",
+      "translation": "有可能",
+      "phonetic": "",
+      "example": "最有可能的。"
+    },
+    {
+      "id": "word_0909",
+      "translation": "不太可能",
+      "phonetic": "",
+      "example": "非常不太可能。"
+    },
+    {
+      "id": "word_0910",
+      "translation": "幸运地",
+      "phonetic": "",
+      "example": "幸运地成功了。"
+    },
+    {
+      "id": "word_0911",
+      "translation": "不幸地",
+      "phonetic": "",
+      "example": "不幸地失败了。"
+    },
+    {
+      "id": "word_0912",
+      "translation": "幸好",
+      "phonetic": "",
+      "example": "幸好幸存了。"
+    },
+    {
+      "id": "word_0913",
+      "translation": "高兴地",
+      "phonetic": "",
+      "example": "高兴地同意了。"
+    },
+    {
+      "id": "word_0914",
+      "translation": "遗憾地",
+      "phonetic": "",
+      "example": "遗憾地是真的。"
+    },
+    {
+      "id": "word_0915",
+      "translation": "希望地",
+      "phonetic": "",
+      "example": "希望地成功。"
+    },
+    {
+      "id": "word_0916",
+      "translation": "自然地",
+      "phonetic": "",
+      "example": "自然地当然。"
+    },
+    {
+      "id": "word_0917",
+      "translation": "个人而言",
+      "phonetic": "",
+      "example": "个人而言我相信。"
+    },
+    {
+      "id": "word_0918",
+      "translation": "老实说",
+      "phonetic": "",
+      "example": "老实说。"
+    },
+    {
+      "id": "word_0919",
+      "translation": "坦白说",
+      "phonetic": "",
+      "example": "坦白说了。"
+    },
+    {
+      "id": "word_0920",
+      "translation": "真正地",
+      "phonetic": "",
+      "example": "真正地感激。"
+    },
+    {
+      "id": "word_0921",
+      "translation": "真的",
+      "phonetic": "",
+      "example": "真的很棒。"
+    },
+    {
+      "id": "word_0922",
+      "translation": "实际上",
+      "phonetic": "",
+      "example": "实际上发生了。"
+    },
+    {
+      "id": "word_0923",
+      "translation": "确实",
+      "phonetic": "",
+      "example": "确实非凡。"
+    },
+    {
+      "id": "word_0924",
+      "translation": "课程",
+      "phonetic": "",
+      "example": "当然自然地。"
+    },
+    {
+      "id": "word_0925",
+      "translation": "好的",
+      "phonetic": "",
+      "example": "一切都好。"
+    },
+    {
+      "id": "word_0926",
+      "translation": "好",
+      "phonetic": "",
+      "example": "那完全没问题。"
+    },
+    {
+      "id": "word_0927",
+      "translation": "好",
+      "phonetic": "",
+      "example": "一切都很好。"
+    },
+    {
+      "id": "word_0928",
+      "translation": "没问题",
+      "phonetic": "",
+      "example": "一切都没问题。"
+    },
+    {
+      "id": "word_0929",
+      "translation": "哦",
+      "phonetic": "",
+      "example": "哦我明白了。"
+    },
+    {
+      "id": "word_0930",
+      "translation": "啊",
+      "phonetic": "",
+      "example": "啊现在明白了。"
+    },
+    {
+      "id": "word_0931",
+      "translation": "嘿",
+      "phonetic": "",
+      "example": "嘿等一下。"
+    },
+    {
+      "id": "word_0932",
+      "translation": "哇",
+      "phonetic": "",
+      "example": "哇那太棒了。"
+    },
+    {
+      "id": "word_0933",
+      "translation": "哎呀",
+      "phonetic": "",
+      "example": "哎呀我的错。"
+    },
+    {
+      "id": "word_0934",
+      "translation": "哎哟",
+      "phonetic": "",
+      "example": "哎哟好疼。"
+    },
+    {
+      "id": "word_0935",
+      "translation": "万岁",
+      "phonetic": "",
+      "example": "万岁我们赢了。"
+    },
+    {
+      "id": "word_0936",
+      "translation": "在...下面",
+      "phonetic": "",
+      "example": "在桌子下面。"
+    },
+    {
+      "id": "word_0937",
+      "translation": "互联网",
+      "phonetic": "",
+      "example": "我每天都使用互联网。"
+    },
+    {
+      "id": "word_0938",
+      "translation": "网站",
+      "phonetic": "",
+      "example": "这个网站很有用。"
+    },
+    {
+      "id": "word_0939",
+      "translation": "消息",
+      "phonetic": "",
+      "example": "我给你发了消息。"
+    },
+    {
+      "id": "word_0940",
+      "translation": "短信",
+      "phonetic": "",
+      "example": "到达时给我发短信。"
+    },
+    {
+      "id": "word_0941",
+      "translation": "系列",
+      "phonetic": "",
+      "example": "我开始了一个新系列。"
+    },
+    {
+      "id": "word_0942",
+      "translation": "海滩",
+      "phonetic": "",
+      "example": "我们去了海滩。"
+    },
+    {
+      "id": "word_0943",
+      "translation": "天气",
+      "phonetic": "",
+      "example": "今天天气很好。"
+    },
+    {
+      "id": "word_0944",
+      "translation": "晴朗的",
+      "phonetic": "",
+      "example": "外面阳光明媚。"
+    },
+    {
+      "id": "word_0945",
+      "translation": "多雨的",
+      "phonetic": "",
+      "example": "今天下雨。"
+    },
+    {
+      "id": "word_0946",
+      "translation": "多云的",
+      "phonetic": "",
+      "example": "天空多云。"
+    },
+    {
+      "id": "word_0947",
+      "translation": "有风的",
+      "phonetic": "",
+      "example": "又有风又冷。"
+    },
+    {
+      "id": "word_0948",
+      "translation": "家庭作业",
+      "phonetic": "",
+      "example": "我今晚有家庭作业。"
+    },
+    {
+      "id": "word_0949",
+      "translation": "测试",
+      "phonetic": "",
+      "example": "测试很容易。"
+    },
+    {
+      "id": "word_0950",
+      "translation": "考试",
+      "phonetic": "",
+      "example": "她通过了考试。"
+    },
+    {
+      "id": "word_0951",
+      "translation": "分数",
+      "phonetic": "",
+      "example": "他的分数很高。"
+    },
+    {
+      "id": "word_0952",
+      "translation": "科目",
+      "phonetic": "",
+      "example": "数学是我最喜欢的科目。"
+    },
+    {
+      "id": "word_0953",
+      "translation": "旅行",
+      "phonetic": "",
+      "example": "我喜欢旅行。"
+    },
+    {
+      "id": "word_0954",
+      "translation": "旅程",
+      "phonetic": "",
+      "example": "这次旅程很有趣。"
+    },
+    {
+      "id": "word_0955",
+      "translation": "假期",
+      "phonetic": "",
+      "example": "我们正在度假。"
+    },
+    {
+      "id": "word_0956",
+      "translation": "票",
+      "phonetic": "",
+      "example": "我买了一张票。"
+    },
+    {
+      "id": "word_0957",
+      "translation": "密码",
+      "phonetic": "",
+      "example": "不要分享你的密码。"
+    },
+    {
+      "id": "word_0958",
+      "translation": "屏幕",
+      "phonetic": "",
+      "example": "屏幕太亮了。"
+    },
+    {
+      "id": "word_0959",
+      "translation": "键盘",
+      "phonetic": "",
+      "example": "键盘是新的。"
+    },
+    {
+      "id": "word_0960",
+      "translation": "鼠标",
+      "phonetic": "",
+      "example": "电脑鼠标是黑色的。"
+    },
+    {
+      "id": "word_0961",
+      "translation": "钱包",
+      "phonetic": "",
+      "example": "他忘记了钱包。"
+    },
+    {
+      "id": "word_0962",
+      "translation": "护照",
+      "phonetic": "",
+      "example": "检查你的护照。"
+    },
+    {
+      "id": "word_0963",
+      "translation": "舒适的",
+      "phonetic": "",
+      "example": "这把椅子很舒适。"
+    },
+    {
+      "id": "word_0964",
+      "translation": "有趣的",
+      "phonetic": "",
+      "example": "游戏很有趣。"
+    },
+    {
+      "id": "word_0965",
+      "translation": "无聊的",
+      "phonetic": "",
+      "example": "电影很无聊。"
+    },
+    {
+      "id": "word_0966",
+      "translation": "会议",
+      "phonetic": "",
+      "example": "我们三点开会。"
+    },
+    {
+      "id": "word_0967",
+      "translation": "练习",
+      "phonetic": "",
+      "example": "每天练习。"
+    },
+    {
+      "id": "word_0968",
+      "translation": "老板",
+      "phonetic": "",
+      "example": "他的老板很友善。"
+    },
+    {
+      "id": "word_0969",
+      "translation": "同事",
+      "phonetic": "",
+      "example": "我的同事帮助了我。"
+    },
+    {
+      "id": "word_0970",
+      "translation": "足球",
+      "phonetic": "",
+      "example": "他们踢足球。"
+    },
+    {
+      "id": "word_0971",
+      "translation": "篮球",
+      "phonetic": "",
+      "example": "篮球很刺激。"
+    },
+    {
+      "id": "word_0972",
+      "translation": "网球",
+      "phonetic": "",
+      "example": "我们星期天打网球。"
+    },
+    {
+      "id": "word_0973",
+      "translation": "拜访",
+      "phonetic": "",
+      "example": "我们拜访朋友。"
+    },
+    {
+      "id": "word_0974",
+      "translation": "自行车",
+      "phonetic": "",
+      "example": "他的自行车是新的。"
+    },
+    {
+      "id": "word_0975",
+      "translation": "害怕的",
+      "phonetic": "",
+      "example": "他害怕狗。"
+    },
+    {
+      "id": "word_0976",
+      "translation": "兴奋的",
+      "phonetic": "",
+      "example": "孩子们很兴奋。"
+    },
+    {
+      "id": "word_0977",
+      "translation": "紧张的",
+      "phonetic": "",
+      "example": "我对考试感到紧张。"
+    },
+    {
+      "id": "word_0978",
+      "translation": "放松的",
+      "phonetic": "",
+      "example": "她现在感到放松。"
+    },
+    {
+      "id": "word_0979",
+      "translation": "更强壮",
+      "phonetic": "",
+      "example": "他变得更强壮了。"
+    },
+    {
+      "id": "word_0980",
+      "translation": "更弱",
+      "phonetic": "",
+      "example": "这里的信号更弱。"
+    },
+    {
+      "id": "word_0981",
+      "translation": "耳朵",
+      "phonetic": "",
+      "example": "我的耳朵疼。"
+    },
+    {
+      "id": "word_0982",
+      "translation": "鼻子",
+      "phonetic": "",
+      "example": "她摸了摸鼻子。"
+    },
+    {
+      "id": "word_0983",
+      "translation": "嘴",
+      "phonetic": "",
+      "example": "张开你的嘴。"
+    },
+    {
+      "id": "word_0984",
+      "translation": "牙齿",
+      "phonetic": "",
+      "example": "这颗牙齿很疼。"
+    },
+    {
+      "id": "word_0985",
+      "translation": "背包",
+      "phonetic": "",
+      "example": "他的背包满了。"
+    },
+    {
+      "id": "word_0986",
+      "translation": "笔记本",
+      "phonetic": "",
+      "example": "把它写在笔记本上。"
+    },
+    {
+      "id": "word_0987",
+      "translation": "日历",
+      "phonetic": "",
+      "example": "查看日历。"
+    },
+    {
+      "id": "word_0988",
+      "translation": "戒指",
+      "phonetic": "",
+      "example": "她的戒指很漂亮。"
+    },
+    {
+      "id": "word_0989",
+      "translation": "节日",
+      "phonetic": "",
+      "example": "节日在明天。"
+    },
+    {
+      "id": "word_0990",
+      "translation": "页",
+      "phonetic": "",
+      "example": "翻页。"
+    },
+    {
+      "id": "word_0991",
+      "translation": "温度",
+      "phonetic": "",
+      "example": "检查温度。"
+    },
+    {
+      "id": "word_0992",
+      "translation": "能量",
+      "phonetic": "",
+      "example": "我没有能量了。"
+    },
+    {
+      "id": "word_0993",
+      "translation": "电",
+      "phonetic": "",
+      "example": "停电了。"
+    },
+    {
+      "id": "word_0994",
+      "translation": "电池",
+      "phonetic": "",
+      "example": "我的电池电量低。"
+    },
+    {
+      "id": "word_0995",
+      "translation": "信号",
+      "phonetic": "",
+      "example": "信号很弱。"
+    },
+    {
+      "id": "word_0996",
+      "translation": "岛",
+      "phonetic": "",
+      "example": "我们住在一个小岛上。"
+    },
+    {
+      "id": "word_0997",
+      "translation": "公寓",
+      "phonetic": "",
+      "example": "我们住在公寓里。"
+    },
+    {
+      "id": "word_0998",
+      "translation": "遥控器",
+      "phonetic": "",
+      "example": "我弄丢了遥控器。"
+    },
+    {
+      "id": "word_0999",
+      "translation": "毯子",
+      "phonetic": "",
+      "example": "毯子很暖和。"
+    },
+    {
+      "id": "word_1000",
+      "translation": "枕头",
+      "phonetic": "",
+      "example": "枕头很柔软。"
+    }
+  ]
+}

@@ -1,0 +1,6006 @@
+{
+  "language_name": "Türkçe",
+  "language_code": "tr",
+  "words": [
+    {
+      "id": "word_0001",
+      "translation": "bu",
+      "phonetic": "",
+      "example": "Güneş parlak."
+    },
+    {
+      "id": "word_0002",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Mutlu olmak istiyorum."
+    },
+    {
+      "id": "word_0003",
+      "translation": "e",
+      "phonetic": "",
+      "example": "Okula gidiyorum."
+    },
+    {
+      "id": "word_0004",
+      "translation": "nin",
+      "phonetic": "",
+      "example": "Gökyüzünün rengi."
+    },
+    {
+      "id": "word_0005",
+      "translation": "ve",
+      "phonetic": "",
+      "example": "Ekmek ve tereyağı."
+    },
+    {
+      "id": "word_0006",
+      "translation": "bir",
+      "phonetic": "",
+      "example": "Bir köpek gördüm."
+    },
+    {
+      "id": "word_0007",
+      "translation": "içinde",
+      "phonetic": "",
+      "example": "O odada."
+    },
+    {
+      "id": "word_0008",
+      "translation": "şu",
+      "phonetic": "",
+      "example": "Sanırım haklısın."
+    },
+    {
+      "id": "word_0009",
+      "translation": "sahip olmak",
+      "phonetic": "",
+      "example": "İki kedim var."
+    },
+    {
+      "id": "word_0010",
+      "translation": "ben",
+      "phonetic": "",
+      "example": "Ben buradayım."
+    },
+    {
+      "id": "word_0011",
+      "translation": "o",
+      "phonetic": "",
+      "example": "Bugün hava soğuk."
+    },
+    {
+      "id": "word_0012",
+      "translation": "için",
+      "phonetic": "",
+      "example": "Bu senin için."
+    },
+    {
+      "id": "word_0013",
+      "translation": "değil",
+      "phonetic": "",
+      "example": "Hazır değilim."
+    },
+    {
+      "id": "word_0014",
+      "translation": "üzerinde",
+      "phonetic": "",
+      "example": "Masanın üzerine koy."
+    },
+    {
+      "id": "word_0015",
+      "translation": "ile",
+      "phonetic": "",
+      "example": "Benimle gel."
+    },
+    {
+      "id": "word_0016",
+      "translation": "o",
+      "phonetic": "",
+      "example": "O uzun boylu."
+    },
+    {
+      "id": "word_0017",
+      "translation": "gibi",
+      "phonetic": "",
+      "example": "Tilki gibi zeki."
+    },
+    {
+      "id": "word_0018",
+      "translation": "sen",
+      "phonetic": "",
+      "example": "Sen naziksin."
+    },
+    {
+      "id": "word_0019",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Elimden geleni yaparım."
+    },
+    {
+      "id": "word_0020",
+      "translation": "de",
+      "phonetic": "",
+      "example": "Öğlen benimle buluş."
+    },
+    {
+      "id": "word_0021",
+      "translation": "bu",
+      "phonetic": "",
+      "example": "Bu benim."
+    },
+    {
+      "id": "word_0022",
+      "translation": "ama",
+      "phonetic": "",
+      "example": "Küçük ama güçlü."
+    },
+    {
+      "id": "word_0023",
+      "translation": "onun",
+      "phonetic": "",
+      "example": "Onun arabası kırmızı."
+    },
+    {
+      "id": "word_0024",
+      "translation": "tarafından",
+      "phonetic": "",
+      "example": "Elle yapılmış."
+    },
+    {
+      "id": "word_0025",
+      "translation": "den",
+      "phonetic": "",
+      "example": "Ben Kanadalıyım."
+    },
+    {
+      "id": "word_0026",
+      "translation": "onlar",
+      "phonetic": "",
+      "example": "Onlar geliyorlar."
+    },
+    {
+      "id": "word_0027",
+      "translation": "biz",
+      "phonetic": "",
+      "example": "Biz hazırız."
+    },
+    {
+      "id": "word_0028",
+      "translation": "söylemek",
+      "phonetic": "",
+      "example": "Bunu söyleme."
+    },
+    {
+      "id": "word_0029",
+      "translation": "onun",
+      "phonetic": "",
+      "example": "Onun gülümsemesi güzel."
+    },
+    {
+      "id": "word_0030",
+      "translation": "o",
+      "phonetic": "",
+      "example": "O hızlı koşar."
+    },
+    {
+      "id": "word_0031",
+      "translation": "veya",
+      "phonetic": "",
+      "example": "Sol mu sağ mı?"
+    },
+    {
+      "id": "word_0032",
+      "translation": "bir",
+      "phonetic": "",
+      "example": "Günde bir elma."
+    },
+    {
+      "id": "word_0033",
+      "translation": "gelecek",
+      "phonetic": "",
+      "example": "Deneyeceğim."
+    },
+    {
+      "id": "word_0034",
+      "translation": "benim",
+      "phonetic": "",
+      "example": "Benim adım John."
+    },
+    {
+      "id": "word_0035",
+      "translation": "bir",
+      "phonetic": "",
+      "example": "Bir kez daha."
+    },
+    {
+      "id": "word_0036",
+      "translation": "tüm",
+      "phonetic": "",
+      "example": "Tüm insanlar hoş geldin."
+    },
+    {
+      "id": "word_0037",
+      "translation": "isterdi",
+      "phonetic": "",
+      "example": "Çay ister misiniz?"
+    },
+    {
+      "id": "word_0038",
+      "translation": "orada",
+      "phonetic": "",
+      "example": "İşte orada!"
+    },
+    {
+      "id": "word_0039",
+      "translation": "onların",
+      "phonetic": "",
+      "example": "Onların köpeği havlar."
+    },
+    {
+      "id": "word_0040",
+      "translation": "ne",
+      "phonetic": "",
+      "example": "Bu ne?"
+    },
+    {
+      "id": "word_0041",
+      "translation": "bu yüzden",
+      "phonetic": "",
+      "example": "Yorgunum, bu yüzden uyuyacağım."
+    },
+    {
+      "id": "word_0042",
+      "translation": "yukarı",
+      "phonetic": "",
+      "example": "Erken kalk."
+    },
+    {
+      "id": "word_0043",
+      "translation": "dışarı",
+      "phonetic": "",
+      "example": "Şimdi dışarı çık."
+    },
+    {
+      "id": "word_0044",
+      "translation": "eğer",
+      "phonetic": "",
+      "example": "İstersen gel."
+    },
+    {
+      "id": "word_0045",
+      "translation": "hakkında",
+      "phonetic": "",
+      "example": "Hayat hakkında konuş."
+    },
+    {
+      "id": "word_0046",
+      "translation": "kim",
+      "phonetic": "",
+      "example": "Sen kimsin?"
+    },
+    {
+      "id": "word_0047",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Biraz dinlen."
+    },
+    {
+      "id": "word_0048",
+      "translation": "hangi",
+      "phonetic": "",
+      "example": "Hangisi senin?"
+    },
+    {
+      "id": "word_0049",
+      "translation": "gitmek",
+      "phonetic": "",
+      "example": "Hadi eve gidelim."
+    },
+    {
+      "id": "word_0050",
+      "translation": "bana",
+      "phonetic": "",
+      "example": "Bana daha fazlasını anlat."
+    },
+    {
+      "id": "word_0051",
+      "translation": "ne zaman",
+      "phonetic": "",
+      "example": "Ne zaman geldin?"
+    },
+    {
+      "id": "word_0052",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Bir dilek tut."
+    },
+    {
+      "id": "word_0053",
+      "translation": "abilmek",
+      "phonetic": "",
+      "example": "Sana yardım edebilirim."
+    },
+    {
+      "id": "word_0054",
+      "translation": "sevmek",
+      "phonetic": "",
+      "example": "Müziği severim."
+    },
+    {
+      "id": "word_0055",
+      "translation": "zaman",
+      "phonetic": "",
+      "example": "Zaman hızlı uçar."
+    },
+    {
+      "id": "word_0056",
+      "translation": "hayır",
+      "phonetic": "",
+      "example": "Sorun değil."
+    },
+    {
+      "id": "word_0057",
+      "translation": "sadece",
+      "phonetic": "",
+      "example": "Sadece yap."
+    },
+    {
+      "id": "word_0058",
+      "translation": "ona",
+      "phonetic": "",
+      "example": "Ona söyledim."
+    },
+    {
+      "id": "word_0059",
+      "translation": "bilmek",
+      "phonetic": "",
+      "example": "Seni tanıyorum."
+    },
+    {
+      "id": "word_0060",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Acele etme."
+    },
+    {
+      "id": "word_0061",
+      "translation": "insanlar",
+      "phonetic": "",
+      "example": "İnsanlar bekliyor."
+    },
+    {
+      "id": "word_0062",
+      "translation": "içine",
+      "phonetic": "",
+      "example": "Suya atla."
+    },
+    {
+      "id": "word_0063",
+      "translation": "yıl",
+      "phonetic": "",
+      "example": "Mutlu yıllar!"
+    },
+    {
+      "id": "word_0064",
+      "translation": "senin",
+      "phonetic": "",
+      "example": "Şimdi senin sıran."
+    },
+    {
+      "id": "word_0065",
+      "translation": "iyi",
+      "phonetic": "",
+      "example": "Günaydın!"
+    },
+    {
+      "id": "word_0066",
+      "translation": "bazı",
+      "phonetic": "",
+      "example": "Bazı insanlar katılıyor."
+    },
+    {
+      "id": "word_0067",
+      "translation": "ebilir",
+      "phonetic": "",
+      "example": "Bekleyebilir misin?"
+    },
+    {
+      "id": "word_0068",
+      "translation": "onları",
+      "phonetic": "",
+      "example": "Onları severim."
+    },
+    {
+      "id": "word_0069",
+      "translation": "görmek",
+      "phonetic": "",
+      "example": "Net görüyorum."
+    },
+    {
+      "id": "word_0070",
+      "translation": "diğer",
+      "phonetic": "",
+      "example": "Başka seçenekler var."
+    },
+    {
+      "id": "word_0071",
+      "translation": "den",
+      "phonetic": "",
+      "example": "Öncekinden daha iyi."
+    },
+    {
+      "id": "word_0072",
+      "translation": "sonra",
+      "phonetic": "",
+      "example": "Sonra ayrıldık."
+    },
+    {
+      "id": "word_0073",
+      "translation": "şimdi",
+      "phonetic": "",
+      "example": "Şimdi buraya gel."
+    },
+    {
+      "id": "word_0074",
+      "translation": "bakmak",
+      "phonetic": "",
+      "example": "İki tarafa da bak."
+    },
+    {
+      "id": "word_0075",
+      "translation": "sadece",
+      "phonetic": "",
+      "example": "Sadece bir tane kaldı."
+    },
+    {
+      "id": "word_0076",
+      "translation": "gelmek",
+      "phonetic": "",
+      "example": "Bizimle gel."
+    },
+    {
+      "id": "word_0077",
+      "translation": "onun",
+      "phonetic": "",
+      "example": "Köpek kuyruğunu salladı."
+    },
+    {
+      "id": "word_0078",
+      "translation": "üzerinde",
+      "phonetic": "",
+      "example": "Gökkuşağının üzerinde."
+    },
+    {
+      "id": "word_0079",
+      "translation": "düşünmek",
+      "phonetic": "",
+      "example": "Konuşmadan önce düşün."
+    },
+    {
+      "id": "word_0080",
+      "translation": "ayrıca",
+      "phonetic": "",
+      "example": "Ben de katılıyorum."
+    },
+    {
+      "id": "word_0081",
+      "translation": "geri",
+      "phonetic": "",
+      "example": "Yakında geri gel."
+    },
+    {
+      "id": "word_0082",
+      "translation": "sonra",
+      "phonetic": "",
+      "example": "Öğle yemeğinden sonra."
+    },
+    {
+      "id": "word_0083",
+      "translation": "kullanmak",
+      "phonetic": "",
+      "example": "Bu kalemi kullan."
+    },
+    {
+      "id": "word_0084",
+      "translation": "iki",
+      "phonetic": "",
+      "example": "İki yeterli."
+    },
+    {
+      "id": "word_0085",
+      "translation": "nasıl",
+      "phonetic": "",
+      "example": "Nasılsın?"
+    },
+    {
+      "id": "word_0086",
+      "translation": "bizim",
+      "phonetic": "",
+      "example": "Ailemiz büyük."
+    },
+    {
+      "id": "word_0087",
+      "translation": "çalışmak",
+      "phonetic": "",
+      "example": "Sıkı çalışma karşılığını verir."
+    },
+    {
+      "id": "word_0088",
+      "translation": "ilk",
+      "phonetic": "",
+      "example": "Birinci yer kazananı."
+    },
+    {
+      "id": "word_0089",
+      "translation": "iyi",
+      "phonetic": "",
+      "example": "Bu gece iyi uyu."
+    },
+    {
+      "id": "word_0090",
+      "translation": "yol",
+      "phonetic": "",
+      "example": "Bu taraftan lütfen."
+    },
+    {
+      "id": "word_0091",
+      "translation": "hatta",
+      "phonetic": "",
+      "example": "Şimdi daha da iyi."
+    },
+    {
+      "id": "word_0092",
+      "translation": "yeni",
+      "phonetic": "",
+      "example": "Bugün yeni telefon."
+    },
+    {
+      "id": "word_0093",
+      "translation": "istemek",
+      "phonetic": "",
+      "example": "Huzur istiyorum."
+    },
+    {
+      "id": "word_0094",
+      "translation": "çünkü",
+      "phonetic": "",
+      "example": "Çünkü ben öyle söyledim."
+    },
+    {
+      "id": "word_0095",
+      "translation": "herhangi",
+      "phonetic": "",
+      "example": "Soru var mı?"
+    },
+    {
+      "id": "word_0096",
+      "translation": "bunlar",
+      "phonetic": "",
+      "example": "Bunlar taze."
+    },
+    {
+      "id": "word_0097",
+      "translation": "vermek",
+      "phonetic": "",
+      "example": "Bana güç ver."
+    },
+    {
+      "id": "word_0098",
+      "translation": "gün",
+      "phonetic": "",
+      "example": "Bugün güzel bir gün."
+    },
+    {
+      "id": "word_0099",
+      "translation": "en çok",
+      "phonetic": "",
+      "example": "Öğrencilerin çoğu geçti."
+    },
+    {
+      "id": "word_0100",
+      "translation": "bize",
+      "phonetic": "",
+      "example": "Lütfen bize katıl."
+    },
+    {
+      "id": "word_0101",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "O mutlu."
+    },
+    {
+      "id": "word_0102",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Harikaydı."
+    },
+    {
+      "id": "word_0103",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Biz arkadaşız."
+    },
+    {
+      "id": "word_0104",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Orada bulundun mu?"
+    },
+    {
+      "id": "word_0105",
+      "translation": "sahip olmak",
+      "phonetic": "",
+      "example": "O geldi."
+    },
+    {
+      "id": "word_0106",
+      "translation": "sahip olmak",
+      "phonetic": "",
+      "example": "O gitmişti."
+    },
+    {
+      "id": "word_0107",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Onlar geç kaldılar."
+    },
+    {
+      "id": "word_0108",
+      "translation": "söylemek",
+      "phonetic": "",
+      "example": "Hiçbir şey söylemedi."
+    },
+    {
+      "id": "word_0109",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Ben yaptım."
+    },
+    {
+      "id": "word_0110",
+      "translation": "sahip olmak",
+      "phonetic": "",
+      "example": "Bugün eğleniyorum."
+    },
+    {
+      "id": "word_0111",
+      "translation": "olabilir",
+      "phonetic": "",
+      "example": "Yardım edebilir miyim?"
+    },
+    {
+      "id": "word_0112",
+      "translation": "meli",
+      "phonetic": "",
+      "example": "Denemelisin."
+    },
+    {
+      "id": "word_0113",
+      "translation": "meli",
+      "phonetic": "",
+      "example": "Gitmeliyiz."
+    },
+    {
+      "id": "word_0114",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Hazırım."
+    },
+    {
+      "id": "word_0115",
+      "translation": "olabilir",
+      "phonetic": "",
+      "example": "Yağmur yağabilir."
+    },
+    {
+      "id": "word_0116",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Dürüst olmak önemlidir."
+    },
+    {
+      "id": "word_0117",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "O yoga yapıyor."
+    },
+    {
+      "id": "word_0118",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "İş bitti."
+    },
+    {
+      "id": "word_0119",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Ne yapıyorsun?"
+    },
+    {
+      "id": "word_0120",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Kurabiye yaptım."
+    },
+    {
+      "id": "word_0121",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Pratik mükemmel yapar."
+    },
+    {
+      "id": "word_0122",
+      "translation": "yapmak",
+      "phonetic": "",
+      "example": "Her gün ilerleme kaydediyorum."
+    },
+    {
+      "id": "word_0123",
+      "translation": "gitmek",
+      "phonetic": "",
+      "example": "Alışverişe gittik."
+    },
+    {
+      "id": "word_0124",
+      "translation": "gitmek",
+      "phonetic": "",
+      "example": "Eve gidiyorum."
+    },
+    {
+      "id": "word_0125",
+      "translation": "gitmek",
+      "phonetic": "",
+      "example": "Zaman hızlı geçiyor."
+    },
+    {
+      "id": "word_0126",
+      "translation": "gelmek",
+      "phonetic": "",
+      "example": "Dün geldi."
+    },
+    {
+      "id": "word_0127",
+      "translation": "gelmek",
+      "phonetic": "",
+      "example": "Kış geliyor."
+    },
+    {
+      "id": "word_0128",
+      "translation": "gelmek",
+      "phonetic": "",
+      "example": "Yardım yakında gelir."
+    },
+    {
+      "id": "word_0129",
+      "translation": "görmek",
+      "phonetic": "",
+      "example": "Seni gördüm."
+    },
+    {
+      "id": "word_0130",
+      "translation": "görmek",
+      "phonetic": "",
+      "example": "Bunu gördün mü?"
+    },
+    {
+      "id": "word_0131",
+      "translation": "görmek",
+      "phonetic": "",
+      "example": "Görmek inanmaktır."
+    },
+    {
+      "id": "word_0132",
+      "translation": "görmek",
+      "phonetic": "",
+      "example": "Herkes bunu görüyor."
+    },
+    {
+      "id": "word_0133",
+      "translation": "bilmek",
+      "phonetic": "",
+      "example": "Bunu biliyordum."
+    },
+    {
+      "id": "word_0134",
+      "translation": "bilmek",
+      "phonetic": "",
+      "example": "İyi bilinen gerçek."
+    },
+    {
+      "id": "word_0135",
+      "translation": "bilmek",
+      "phonetic": "",
+      "example": "Bilmek öğrenmeye yardımcı olur."
+    },
+    {
+      "id": "word_0136",
+      "translation": "bilmek",
+      "phonetic": "",
+      "example": "Kimse nedenini bilmiyor."
+    },
+    {
+      "id": "word_0137",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Not aldı."
+    },
+    {
+      "id": "word_0138",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Tüm koltuklar dolu."
+    },
+    {
+      "id": "word_0139",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Mola veriyorum."
+    },
+    {
+      "id": "word_0140",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Zaman alır."
+    },
+    {
+      "id": "word_0141",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Anladım."
+    },
+    {
+      "id": "word_0142",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Haber aldın mı?"
+    },
+    {
+      "id": "word_0143",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Her gün daha iyi oluyor."
+    },
+    {
+      "id": "word_0144",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "O sonuç alır."
+    },
+    {
+      "id": "word_0145",
+      "translation": "düşünmek",
+      "phonetic": "",
+      "example": "Öyle düşünmüştüm."
+    },
+    {
+      "id": "word_0146",
+      "translation": "düşünmek",
+      "phonetic": "",
+      "example": "Pozitif düşünmeye devam et."
+    },
+    {
+      "id": "word_0147",
+      "translation": "düşünmek",
+      "phonetic": "",
+      "example": "O farklı düşünür."
+    },
+    {
+      "id": "word_0148",
+      "translation": "bakmak",
+      "phonetic": "",
+      "example": "Her yere baktım."
+    },
+    {
+      "id": "word_0149",
+      "translation": "bakmak",
+      "phonetic": "",
+      "example": "Cevap arıyorum."
+    },
+    {
+      "id": "word_0150",
+      "translation": "bakmak",
+      "phonetic": "",
+      "example": "İyi görünüyor."
+    },
+    {
+      "id": "word_0151",
+      "translation": "merhaba",
+      "phonetic": "",
+      "example": "Merhaba, tanıştığımıza memnun oldum!"
+    },
+    {
+      "id": "word_0152",
+      "translation": "güle güle",
+      "phonetic": "",
+      "example": "Güle güle, yarın görüşürüz."
+    },
+    {
+      "id": "word_0153",
+      "translation": "evet",
+      "phonetic": "",
+      "example": "Evet, katılıyorum."
+    },
+    {
+      "id": "word_0154",
+      "translation": "lütfen",
+      "phonetic": "",
+      "example": "Lütfen bana yardım et."
+    },
+    {
+      "id": "word_0155",
+      "translation": "teşekkür etmek",
+      "phonetic": "",
+      "example": "Çok teşekkür ederim."
+    },
+    {
+      "id": "word_0156",
+      "translation": "üzgün",
+      "phonetic": "",
+      "example": "Çok üzgünüm."
+    },
+    {
+      "id": "word_0157",
+      "translation": "affedersiniz",
+      "phonetic": "",
+      "example": "Affedersiniz lütfen."
+    },
+    {
+      "id": "word_0158",
+      "translation": "hoş geldiniz",
+      "phonetic": "",
+      "example": "Buraya hoş geldiniz."
+    },
+    {
+      "id": "word_0159",
+      "translation": "sabah",
+      "phonetic": "",
+      "example": "Herkese günaydın!"
+    },
+    {
+      "id": "word_0160",
+      "translation": "öğleden sonra",
+      "phonetic": "",
+      "example": "İyi günler efendim."
+    },
+    {
+      "id": "word_0161",
+      "translation": "akşam",
+      "phonetic": "",
+      "example": "İyi akşamlar hanımefendi."
+    },
+    {
+      "id": "word_0162",
+      "translation": "gece",
+      "phonetic": "",
+      "example": "İyi geceler iyi uykular."
+    },
+    {
+      "id": "word_0163",
+      "translation": "bugün",
+      "phonetic": "",
+      "example": "Bugün özel."
+    },
+    {
+      "id": "word_0164",
+      "translation": "yarın",
+      "phonetic": "",
+      "example": "Yarın görüşürüz."
+    },
+    {
+      "id": "word_0165",
+      "translation": "dün",
+      "phonetic": "",
+      "example": "Dün eğlenceliydi."
+    },
+    {
+      "id": "word_0166",
+      "translation": "hafta",
+      "phonetic": "",
+      "example": "Gelecek hafta pazartesi."
+    },
+    {
+      "id": "word_0167",
+      "translation": "ay",
+      "phonetic": "",
+      "example": "Geçen ay mart."
+    },
+    {
+      "id": "word_0168",
+      "translation": "Pazartesi",
+      "phonetic": "",
+      "example": "Pazartesi yoğun."
+    },
+    {
+      "id": "word_0169",
+      "translation": "Salı",
+      "phonetic": "",
+      "example": "Salı toplantısı planlandı."
+    },
+    {
+      "id": "word_0170",
+      "translation": "Çarşamba",
+      "phonetic": "",
+      "example": "Çarşamba haftanın ortası."
+    },
+    {
+      "id": "word_0171",
+      "translation": "Perşembe",
+      "phonetic": "",
+      "example": "Perşembe neredeyse hafta sonu."
+    },
+    {
+      "id": "word_0172",
+      "translation": "Cuma",
+      "phonetic": "",
+      "example": "Cuma gecesi eğlenceli."
+    },
+    {
+      "id": "word_0173",
+      "translation": "Cumartesi",
+      "phonetic": "",
+      "example": "Cumartesi iş yok."
+    },
+    {
+      "id": "word_0174",
+      "translation": "Pazar",
+      "phonetic": "",
+      "example": "Pazar dinlenme günü."
+    },
+    {
+      "id": "word_0175",
+      "translation": "Ocak",
+      "phonetic": "",
+      "example": "Ocak soğuk."
+    },
+    {
+      "id": "word_0176",
+      "translation": "Şubat",
+      "phonetic": "",
+      "example": "Şubat kısa ay."
+    },
+    {
+      "id": "word_0177",
+      "translation": "Mart",
+      "phonetic": "",
+      "example": "Mart baharı getirir."
+    },
+    {
+      "id": "word_0178",
+      "translation": "Nisan",
+      "phonetic": "",
+      "example": "Nisan yağmurlu."
+    },
+    {
+      "id": "word_0179",
+      "translation": "Mayıs",
+      "phonetic": "",
+      "example": "Mayıs çiçekler açar."
+    },
+    {
+      "id": "word_0180",
+      "translation": "Haziran",
+      "phonetic": "",
+      "example": "Haziran ılık."
+    },
+    {
+      "id": "word_0181",
+      "translation": "Temmuz",
+      "phonetic": "",
+      "example": "Temmuz çok sıcak."
+    },
+    {
+      "id": "word_0182",
+      "translation": "Ağustos",
+      "phonetic": "",
+      "example": "Ağustos tatil zamanı."
+    },
+    {
+      "id": "word_0183",
+      "translation": "Eylül",
+      "phonetic": "",
+      "example": "Eylül okul başlar."
+    },
+    {
+      "id": "word_0184",
+      "translation": "Ekim",
+      "phonetic": "",
+      "example": "Ekim yapraklar düşer."
+    },
+    {
+      "id": "word_0185",
+      "translation": "Kasım",
+      "phonetic": "",
+      "example": "Kasım soğumaya başlar."
+    },
+    {
+      "id": "word_0186",
+      "translation": "Aralık",
+      "phonetic": "",
+      "example": "Aralık kış ayı."
+    },
+    {
+      "id": "word_0187",
+      "translation": "ilkbahar",
+      "phonetic": "",
+      "example": "İlkbahar çiçek getirir."
+    },
+    {
+      "id": "word_0188",
+      "translation": "yaz",
+      "phonetic": "",
+      "example": "Yaz sıcak."
+    },
+    {
+      "id": "word_0189",
+      "translation": "sonbahar",
+      "phonetic": "",
+      "example": "Sonbahar yaprakları güzel."
+    },
+    {
+      "id": "word_0190",
+      "translation": "kış",
+      "phonetic": "",
+      "example": "Kış soğuk."
+    },
+    {
+      "id": "word_0191",
+      "translation": "adam",
+      "phonetic": "",
+      "example": "Adam yürüyor."
+    },
+    {
+      "id": "word_0192",
+      "translation": "kadın",
+      "phonetic": "",
+      "example": "O kadın gülümsüyor."
+    },
+    {
+      "id": "word_0193",
+      "translation": "çocuk",
+      "phonetic": "",
+      "example": "Çocuk oynuyor."
+    },
+    {
+      "id": "word_0194",
+      "translation": "erkek çocuk",
+      "phonetic": "",
+      "example": "Bir erkek çocuk koşuyor."
+    },
+    {
+      "id": "word_0195",
+      "translation": "kız çocuk",
+      "phonetic": "",
+      "example": "Kız çocuk çalışıyor."
+    },
+    {
+      "id": "word_0196",
+      "translation": "bebek",
+      "phonetic": "",
+      "example": "Bebek uyuyor."
+    },
+    {
+      "id": "word_0197",
+      "translation": "kişi",
+      "phonetic": "",
+      "example": "Burada güzel kişi."
+    },
+    {
+      "id": "word_0198",
+      "translation": "aile",
+      "phonetic": "",
+      "example": "Ailem beni seviyor."
+    },
+    {
+      "id": "word_0199",
+      "translation": "arkadaş",
+      "phonetic": "",
+      "example": "En iyi arkadaş sonsuza kadar."
+    },
+    {
+      "id": "word_0200",
+      "translation": "anne",
+      "phonetic": "",
+      "example": "Annem yemek yapar."
+    },
+    {
+      "id": "word_0201",
+      "translation": "baba",
+      "phonetic": "",
+      "example": "Babası çalışıyor."
+    },
+    {
+      "id": "word_0202",
+      "translation": "ebeveyn",
+      "phonetic": "",
+      "example": "Her ebeveyn önemser."
+    },
+    {
+      "id": "word_0203",
+      "translation": "erkek kardeş",
+      "phonetic": "",
+      "example": "Erkek kardeşim oynuyor."
+    },
+    {
+      "id": "word_0204",
+      "translation": "kız kardeş",
+      "phonetic": "",
+      "example": "Kız kardeşi şarkı söylüyor."
+    },
+    {
+      "id": "word_0205",
+      "translation": "oğul",
+      "phonetic": "",
+      "example": "Oğulları çalışıyor."
+    },
+    {
+      "id": "word_0206",
+      "translation": "kız",
+      "phonetic": "",
+      "example": "Kızım okuyor."
+    },
+    {
+      "id": "word_0207",
+      "translation": "koca",
+      "phonetic": "",
+      "example": "Kocası araba kullanıyor."
+    },
+    {
+      "id": "word_0208",
+      "translation": "eş",
+      "phonetic": "",
+      "example": "Eşi öğretmenlik yapıyor."
+    },
+    {
+      "id": "word_0209",
+      "translation": "isim",
+      "phonetic": "",
+      "example": "Adın ne?"
+    },
+    {
+      "id": "word_0210",
+      "translation": "el",
+      "phonetic": "",
+      "example": "Elini kaldır."
+    },
+    {
+      "id": "word_0211",
+      "translation": "göz",
+      "phonetic": "",
+      "example": "Gözlerini kapat."
+    },
+    {
+      "id": "word_0212",
+      "translation": "baş",
+      "phonetic": "",
+      "example": "Başını salla."
+    },
+    {
+      "id": "word_0213",
+      "translation": "yüz",
+      "phonetic": "",
+      "example": "Yüzünü yıka."
+    },
+    {
+      "id": "word_0214",
+      "translation": "vücut",
+      "phonetic": "",
+      "example": "Sağlıklı vücut önemli."
+    },
+    {
+      "id": "word_0215",
+      "translation": "ayak",
+      "phonetic": "",
+      "example": "Ayağım ağrıyor."
+    },
+    {
+      "id": "word_0216",
+      "translation": "kalp",
+      "phonetic": "",
+      "example": "Nazik kalp önemlidir."
+    },
+    {
+      "id": "word_0217",
+      "translation": "ev",
+      "phonetic": "",
+      "example": "Yakında büyük ev."
+    },
+    {
+      "id": "word_0218",
+      "translation": "ev",
+      "phonetic": "",
+      "example": "Şimdi eve gidiyorum."
+    },
+    {
+      "id": "word_0219",
+      "translation": "oda",
+      "phonetic": "",
+      "example": "Her gün odayı temizle."
+    },
+    {
+      "id": "word_0220",
+      "translation": "kapı",
+      "phonetic": "",
+      "example": "Kapıyı aç."
+    },
+    {
+      "id": "word_0221",
+      "translation": "pencere",
+      "phonetic": "",
+      "example": "Pencereyi kapat."
+    },
+    {
+      "id": "word_0222",
+      "translation": "masa",
+      "phonetic": "",
+      "example": "Masayı kur."
+    },
+    {
+      "id": "word_0223",
+      "translation": "sandalye",
+      "phonetic": "",
+      "example": "Sandalyeye otur."
+    },
+    {
+      "id": "word_0224",
+      "translation": "yatak",
+      "phonetic": "",
+      "example": "Yatağını topla."
+    },
+    {
+      "id": "word_0225",
+      "translation": "okul",
+      "phonetic": "",
+      "example": "Okul pazartesi başlıyor."
+    },
+    {
+      "id": "word_0226",
+      "translation": "sınıf",
+      "phonetic": "",
+      "example": "Bugün İngilizce dersi."
+    },
+    {
+      "id": "word_0227",
+      "translation": "öğretmen",
+      "phonetic": "",
+      "example": "Öğretmen iyi açıklıyor."
+    },
+    {
+      "id": "word_0228",
+      "translation": "öğrenci",
+      "phonetic": "",
+      "example": "Her öğrenci öğrenir."
+    },
+    {
+      "id": "word_0229",
+      "translation": "kitap",
+      "phonetic": "",
+      "example": "Bu kitabı oku."
+    },
+    {
+      "id": "word_0230",
+      "translation": "kalem",
+      "phonetic": "",
+      "example": "Mavi kalem kullan."
+    },
+    {
+      "id": "word_0231",
+      "translation": "kağıt",
+      "phonetic": "",
+      "example": "Kağıda yaz."
+    },
+    {
+      "id": "word_0232",
+      "translation": "sıra",
+      "phonetic": "",
+      "example": "Sıranı temizle."
+    },
+    {
+      "id": "word_0233",
+      "translation": "ofis",
+      "phonetic": "",
+      "example": "Ofis erken açılır."
+    },
+    {
+      "id": "word_0234",
+      "translation": "iş",
+      "phonetic": "",
+      "example": "Bugün güzel iş."
+    },
+    {
+      "id": "word_0235",
+      "translation": "yer",
+      "phonetic": "",
+      "example": "Burası güzel yer."
+    },
+    {
+      "id": "word_0236",
+      "translation": "şehir",
+      "phonetic": "",
+      "example": "Büyük şehir hayatı."
+    },
+    {
+      "id": "word_0237",
+      "translation": "ülke",
+      "phonetic": "",
+      "example": "Güzel ülke manzarası."
+    },
+    {
+      "id": "word_0238",
+      "translation": "cadde",
+      "phonetic": "",
+      "example": "Caddeyi geç."
+    },
+    {
+      "id": "word_0239",
+      "translation": "yol",
+      "phonetic": "",
+      "example": "Önümüzde uzun yol."
+    },
+    {
+      "id": "word_0240",
+      "translation": "araba",
+      "phonetic": "",
+      "example": "Yeni araba alındı."
+    },
+    {
+      "id": "word_0241",
+      "translation": "otobüs",
+      "phonetic": "",
+      "example": "Otobüse bin."
+    },
+    {
+      "id": "word_0242",
+      "translation": "tren",
+      "phonetic": "",
+      "example": "Trene yetiş."
+    },
+    {
+      "id": "word_0243",
+      "translation": "uçak",
+      "phonetic": "",
+      "example": "Uçak yüksekte uçar."
+    },
+    {
+      "id": "word_0244",
+      "translation": "dükkan",
+      "phonetic": "",
+      "example": "Dükkana git."
+    },
+    {
+      "id": "word_0245",
+      "translation": "mağaza",
+      "phonetic": "",
+      "example": "Mağaza her şeyi satıyor."
+    },
+    {
+      "id": "word_0246",
+      "translation": "pazar",
+      "phonetic": "",
+      "example": "Cumartesi çiftçi pazarı."
+    },
+    {
+      "id": "word_0247",
+      "translation": "para",
+      "phonetic": "",
+      "example": "Paranı biriktir."
+    },
+    {
+      "id": "word_0248",
+      "translation": "yemek",
+      "phonetic": "",
+      "example": "Sağlıklı yemek önemli."
+    },
+    {
+      "id": "word_0249",
+      "translation": "su",
+      "phonetic": "",
+      "example": "Temiz su iç."
+    },
+    {
+      "id": "word_0250",
+      "translation": "ekmek",
+      "phonetic": "",
+      "example": "Her gün taze ekmek."
+    },
+    {
+      "id": "word_0251",
+      "translation": "et",
+      "phonetic": "",
+      "example": "Eti pişir."
+    },
+    {
+      "id": "word_0252",
+      "translation": "balık",
+      "phonetic": "",
+      "example": "Taze balık ye."
+    },
+    {
+      "id": "word_0253",
+      "translation": "pirinç",
+      "phonetic": "",
+      "example": "Beyaz pirinç pişir."
+    },
+    {
+      "id": "word_0254",
+      "translation": "sebze",
+      "phonetic": "",
+      "example": "Daha fazla sebze ye."
+    },
+    {
+      "id": "word_0255",
+      "translation": "meyve",
+      "phonetic": "",
+      "example": "Taze meyve sağlıklı."
+    },
+    {
+      "id": "word_0256",
+      "translation": "elma",
+      "phonetic": "",
+      "example": "Kırmızı elma tatlı."
+    },
+    {
+      "id": "word_0257",
+      "translation": "yumurta",
+      "phonetic": "",
+      "example": "Yumurtayı kaynat."
+    },
+    {
+      "id": "word_0258",
+      "translation": "süt",
+      "phonetic": "",
+      "example": "Soğuk süt iç."
+    },
+    {
+      "id": "word_0259",
+      "translation": "kahve",
+      "phonetic": "",
+      "example": "Sabah sıcak kahve."
+    },
+    {
+      "id": "word_0260",
+      "translation": "çay",
+      "phonetic": "",
+      "example": "Yeşil çay sağlıklı."
+    },
+    {
+      "id": "word_0261",
+      "translation": "kahvaltı",
+      "phonetic": "",
+      "example": "İyi kahvaltı yap."
+    },
+    {
+      "id": "word_0262",
+      "translation": "öğle yemeği",
+      "phonetic": "",
+      "example": "Öğlen öğle yemeği molası."
+    },
+    {
+      "id": "word_0263",
+      "translation": "akşam yemeği",
+      "phonetic": "",
+      "example": "Aile akşam yemeği birlikte."
+    },
+    {
+      "id": "word_0264",
+      "translation": "yemek",
+      "phonetic": "",
+      "example": "Sağlıklı yemek önemli."
+    },
+    {
+      "id": "word_0265",
+      "translation": "içecek",
+      "phonetic": "",
+      "example": "Soğuk içecek ferahlatıcı."
+    },
+    {
+      "id": "word_0266",
+      "translation": "fincan",
+      "phonetic": "",
+      "example": "Fincanı doldur."
+    },
+    {
+      "id": "word_0267",
+      "translation": "bardak",
+      "phonetic": "",
+      "example": "Bir bardak su."
+    },
+    {
+      "id": "word_0268",
+      "translation": "tabak",
+      "phonetic": "",
+      "example": "Boş tabağı temizle."
+    },
+    {
+      "id": "word_0269",
+      "translation": "bıçak",
+      "phonetic": "",
+      "example": "Keskin bıçak dikkat."
+    },
+    {
+      "id": "word_0270",
+      "translation": "çatal",
+      "phonetic": "",
+      "example": "Çatalı kullan."
+    },
+    {
+      "id": "word_0271",
+      "translation": "kaşık",
+      "phonetic": "",
+      "example": "Kaşıkla ye."
+    },
+    {
+      "id": "word_0272",
+      "translation": "kıyafetler",
+      "phonetic": "",
+      "example": "Kıyafetlerini yıka."
+    },
+    {
+      "id": "word_0273",
+      "translation": "gömlek",
+      "phonetic": "",
+      "example": "Beyaz gömlek temiz."
+    },
+    {
+      "id": "word_0274",
+      "translation": "pantolon",
+      "phonetic": "",
+      "example": "Mavi pantolon rahat."
+    },
+    {
+      "id": "word_0275",
+      "translation": "elbise",
+      "phonetic": "",
+      "example": "Güzel kırmızı elbise."
+    },
+    {
+      "id": "word_0276",
+      "translation": "ayakkabı",
+      "phonetic": "",
+      "example": "Ayakkabını bağla."
+    },
+    {
+      "id": "word_0277",
+      "translation": "şapka",
+      "phonetic": "",
+      "example": "Güneş şapkası tak."
+    },
+    {
+      "id": "word_0278",
+      "translation": "palto",
+      "phonetic": "",
+      "example": "Sıcak kış paltosu."
+    },
+    {
+      "id": "word_0279",
+      "translation": "renk",
+      "phonetic": "",
+      "example": "En sevdiğim renk mavi."
+    },
+    {
+      "id": "word_0280",
+      "translation": "kırmızı",
+      "phonetic": "",
+      "example": "Kırmızı gül güzel."
+    },
+    {
+      "id": "word_0281",
+      "translation": "mavi",
+      "phonetic": "",
+      "example": "Mavi gökyüzü açık."
+    },
+    {
+      "id": "word_0282",
+      "translation": "yeşil",
+      "phonetic": "",
+      "example": "Yeşil çimen taze."
+    },
+    {
+      "id": "word_0283",
+      "translation": "sarı",
+      "phonetic": "",
+      "example": "Sarı güneş parlak."
+    },
+    {
+      "id": "word_0284",
+      "translation": "beyaz",
+      "phonetic": "",
+      "example": "Beyaz kar saf."
+    },
+    {
+      "id": "word_0285",
+      "translation": "siyah",
+      "phonetic": "",
+      "example": "Siyah kahve güçlü."
+    },
+    {
+      "id": "word_0286",
+      "translation": "büyük",
+      "phonetic": "",
+      "example": "Büyük ev ferah."
+    },
+    {
+      "id": "word_0287",
+      "translation": "küçük",
+      "phonetic": "",
+      "example": "Küçük oda rahat."
+    },
+    {
+      "id": "word_0288",
+      "translation": "geniş",
+      "phonetic": "",
+      "example": "Geniş pizza paylaşıldı."
+    },
+    {
+      "id": "word_0289",
+      "translation": "küçücük",
+      "phonetic": "",
+      "example": "Küçücük bebek sevimli."
+    },
+    {
+      "id": "word_0290",
+      "translation": "uzun",
+      "phonetic": "",
+      "example": "Uzun yol sonsuz."
+    },
+    {
+      "id": "word_0291",
+      "translation": "kısa",
+      "phonetic": "",
+      "example": "Kısa mola hızlı."
+    },
+    {
+      "id": "word_0292",
+      "translation": "yüksek",
+      "phonetic": "",
+      "example": "Yüksek dağ uzun."
+    },
+    {
+      "id": "word_0293",
+      "translation": "alçak",
+      "phonetic": "",
+      "example": "Düşük fiyat uygun."
+    },
+    {
+      "id": "word_0294",
+      "translation": "sıcak",
+      "phonetic": "",
+      "example": "Sıcak yaz günü."
+    },
+    {
+      "id": "word_0295",
+      "translation": "soğuk",
+      "phonetic": "",
+      "example": "Soğuk kış gecesi."
+    },
+    {
+      "id": "word_0296",
+      "translation": "ılık",
+      "phonetic": "",
+      "example": "Ilık güneşli hava."
+    },
+    {
+      "id": "word_0297",
+      "translation": "serin",
+      "phonetic": "",
+      "example": "Serin bahar esintisi."
+    },
+    {
+      "id": "word_0298",
+      "translation": "yaşlı",
+      "phonetic": "",
+      "example": "Yaşlı bilge adam."
+    },
+    {
+      "id": "word_0299",
+      "translation": "genç",
+      "phonetic": "",
+      "example": "Genç enerjik çocuk."
+    },
+    {
+      "id": "word_0300",
+      "translation": "mutlu",
+      "phonetic": "",
+      "example": "Mutlu gülen yüz."
+    },
+    {
+      "id": "word_0301",
+      "translation": "üzgün",
+      "phonetic": "",
+      "example": "Üzgün gözyaşları akıyor."
+    },
+    {
+      "id": "word_0302",
+      "translation": "kızgın",
+      "phonetic": "",
+      "example": "Kızgın kıpkırmızı yüz."
+    },
+    {
+      "id": "word_0303",
+      "translation": "yorgun",
+      "phonetic": "",
+      "example": "Yorgun uykulu gözler."
+    },
+    {
+      "id": "word_0304",
+      "translation": "hasta",
+      "phonetic": "",
+      "example": "Hasta yatakta."
+    },
+    {
+      "id": "word_0305",
+      "translation": "sağlıklı",
+      "phonetic": "",
+      "example": "Sağlıklı güçlü vücut."
+    },
+    {
+      "id": "word_0306",
+      "translation": "hızlı",
+      "phonetic": "",
+      "example": "Hızlı koşu temposu."
+    },
+    {
+      "id": "word_0307",
+      "translation": "yavaş",
+      "phonetic": "",
+      "example": "Yavaş yürüme hızı."
+    },
+    {
+      "id": "word_0308",
+      "translation": "kolay",
+      "phonetic": "",
+      "example": "Kolay basit görev."
+    },
+    {
+      "id": "word_0309",
+      "translation": "zor",
+      "phonetic": "",
+      "example": "Zor güç problem."
+    },
+    {
+      "id": "word_0310",
+      "translation": "doğru",
+      "phonetic": "",
+      "example": "Doğru cevap."
+    },
+    {
+      "id": "word_0311",
+      "translation": "yanlış",
+      "phonetic": "",
+      "example": "Yanlış hatalı seçim."
+    },
+    {
+      "id": "word_0312",
+      "translation": "doğru",
+      "phonetic": "",
+      "example": "Doğru dürüst ifade."
+    },
+    {
+      "id": "word_0313",
+      "translation": "yanlış",
+      "phonetic": "",
+      "example": "Yanlış gerçek dışı iddia."
+    },
+    {
+      "id": "word_0314",
+      "translation": "aynı",
+      "phonetic": "",
+      "example": "Aynı özdeş ikiz."
+    },
+    {
+      "id": "word_0315",
+      "translation": "farklı",
+      "phonetic": "",
+      "example": "Farklı benzersiz stil."
+    },
+    {
+      "id": "word_0316",
+      "translation": "yakın",
+      "phonetic": "",
+      "example": "Yakın mesafe."
+    },
+    {
+      "id": "word_0317",
+      "translation": "uzak",
+      "phonetic": "",
+      "example": "Uzak yer."
+    },
+    {
+      "id": "word_0318",
+      "translation": "erken",
+      "phonetic": "",
+      "example": "Erken sabah gün doğumu."
+    },
+    {
+      "id": "word_0319",
+      "translation": "geç",
+      "phonetic": "",
+      "example": "Geç gece varış."
+    },
+    {
+      "id": "word_0320",
+      "translation": "sonraki",
+      "phonetic": "",
+      "example": "Sonraki adım."
+    },
+    {
+      "id": "word_0321",
+      "translation": "son",
+      "phonetic": "",
+      "example": "Son şans."
+    },
+    {
+      "id": "word_0322",
+      "translation": "dolu",
+      "phonetic": "",
+      "example": "Dolu depo."
+    },
+    {
+      "id": "word_0323",
+      "translation": "boş",
+      "phonetic": "",
+      "example": "Boş oda."
+    },
+    {
+      "id": "word_0324",
+      "translation": "temiz",
+      "phonetic": "",
+      "example": "Temiz zemin."
+    },
+    {
+      "id": "word_0325",
+      "translation": "kirli",
+      "phonetic": "",
+      "example": "Kirli çamurlu ayakkabılar."
+    },
+    {
+      "id": "word_0326",
+      "translation": "güvenli",
+      "phonetic": "",
+      "example": "Güvenli yer."
+    },
+    {
+      "id": "word_0327",
+      "translation": "tehlikeli",
+      "phonetic": "",
+      "example": "Tehlikeli riskli durum."
+    },
+    {
+      "id": "word_0328",
+      "translation": "güzel",
+      "phonetic": "",
+      "example": "Güzel çiçek."
+    },
+    {
+      "id": "word_0329",
+      "translation": "çirkin",
+      "phonetic": "",
+      "example": "Çirkin bina."
+    },
+    {
+      "id": "word_0330",
+      "translation": "güzel",
+      "phonetic": "",
+      "example": "Güzel nazik kişi."
+    },
+    {
+      "id": "word_0331",
+      "translation": "kötü",
+      "phonetic": "",
+      "example": "Kötü hava."
+    },
+    {
+      "id": "word_0332",
+      "translation": "daha iyi",
+      "phonetic": "",
+      "example": "Daha iyi gelişmiş versiyon."
+    },
+    {
+      "id": "word_0333",
+      "translation": "en iyi",
+      "phonetic": "",
+      "example": "En iyi kalite."
+    },
+    {
+      "id": "word_0334",
+      "translation": "daha kötü",
+      "phonetic": "",
+      "example": "Daha kötü azalan durum."
+    },
+    {
+      "id": "word_0335",
+      "translation": "en kötü",
+      "phonetic": "",
+      "example": "En kötü performans."
+    },
+    {
+      "id": "word_0336",
+      "translation": "önemli",
+      "phonetic": "",
+      "example": "Önemli kritik konu."
+    },
+    {
+      "id": "word_0337",
+      "translation": "ilginç",
+      "phonetic": "",
+      "example": "İlginç büyüleyici hikaye."
+    },
+    {
+      "id": "word_0338",
+      "translation": "zor",
+      "phonetic": "",
+      "example": "Zor görev."
+    },
+    {
+      "id": "word_0339",
+      "translation": "mümkün",
+      "phonetic": "",
+      "example": "Mümkün ulaşılabilir hedef."
+    },
+    {
+      "id": "word_0340",
+      "translation": "imkansız",
+      "phonetic": "",
+      "example": "İmkansız ulaşılamaz rüya."
+    },
+    {
+      "id": "word_0341",
+      "translation": "gerekli",
+      "phonetic": "",
+      "example": "Gerekli önemli öğe."
+    },
+    {
+      "id": "word_0342",
+      "translation": "özel",
+      "phonetic": "",
+      "example": "Özel benzersiz an."
+    },
+    {
+      "id": "word_0343",
+      "translation": "emin",
+      "phonetic": "",
+      "example": "Emin kesin gerçek."
+    },
+    {
+      "id": "word_0344",
+      "translation": "açık",
+      "phonetic": "",
+      "example": "Açık şeffaf su."
+    },
+    {
+      "id": "word_0345",
+      "translation": "hazır",
+      "phonetic": "",
+      "example": "Hazır durum."
+    },
+    {
+      "id": "word_0346",
+      "translation": "basit",
+      "phonetic": "",
+      "example": "Basit plan."
+    },
+    {
+      "id": "word_0347",
+      "translation": "meşgul",
+      "phonetic": "",
+      "example": "Meşgul program."
+    },
+    {
+      "id": "word_0348",
+      "translation": "boş",
+      "phonetic": "",
+      "example": "Boş zaman."
+    },
+    {
+      "id": "word_0349",
+      "translation": "sessiz",
+      "phonetic": "",
+      "example": "Sessiz oda."
+    },
+    {
+      "id": "word_0350",
+      "translation": "gürültülü",
+      "phonetic": "",
+      "example": "Gürültülü müzik."
+    },
+    {
+      "id": "word_0351",
+      "translation": "karanlık",
+      "phonetic": "",
+      "example": "Karanlık aysız gece."
+    },
+    {
+      "id": "word_0352",
+      "translation": "aydınlık",
+      "phonetic": "",
+      "example": "Oda çok aydınlık."
+    },
+    {
+      "id": "word_0353",
+      "translation": "ağır",
+      "phonetic": "",
+      "example": "Bu kutu çok ağır."
+    },
+    {
+      "id": "word_0354",
+      "translation": "yumuşak",
+      "phonetic": "",
+      "example": "Yumuşak yastık."
+    },
+    {
+      "id": "word_0355",
+      "translation": "güçlü",
+      "phonetic": "",
+      "example": "O çok güçlü."
+    },
+    {
+      "id": "word_0356",
+      "translation": "zayıf",
+      "phonetic": "",
+      "example": "Zayıf sinyal."
+    },
+    {
+      "id": "word_0357",
+      "translation": "zengin",
+      "phonetic": "",
+      "example": "Zengin bir aile."
+    },
+    {
+      "id": "word_0358",
+      "translation": "fakir",
+      "phonetic": "",
+      "example": "Fakir insanlar."
+    },
+    {
+      "id": "word_0359",
+      "translation": "ucuz",
+      "phonetic": "",
+      "example": "Ucuz bir araba."
+    },
+    {
+      "id": "word_0360",
+      "translation": "pahalı",
+      "phonetic": "",
+      "example": "Çok pahalı."
+    },
+    {
+      "id": "word_0361",
+      "translation": "ıslak",
+      "phonetic": "",
+      "example": "Islak saçlar."
+    },
+    {
+      "id": "word_0362",
+      "translation": "kuru",
+      "phonetic": "",
+      "example": "Kuru havlu."
+    },
+    {
+      "id": "word_0363",
+      "translation": "açık",
+      "phonetic": "",
+      "example": "Kapı açık."
+    },
+    {
+      "id": "word_0364",
+      "translation": "kapalı",
+      "phonetic": "",
+      "example": "Mağaza kapalı."
+    },
+    {
+      "id": "word_0365",
+      "translation": "geniş",
+      "phonetic": "",
+      "example": "Geniş yol."
+    },
+    {
+      "id": "word_0366",
+      "translation": "dar",
+      "phonetic": "",
+      "example": "Dar sokak."
+    },
+    {
+      "id": "word_0367",
+      "translation": "derin",
+      "phonetic": "",
+      "example": "Derin su."
+    },
+    {
+      "id": "word_0368",
+      "translation": "sığ",
+      "phonetic": "",
+      "example": "Sığ havuz."
+    },
+    {
+      "id": "word_0369",
+      "translation": "kalın",
+      "phonetic": "",
+      "example": "Kalın kitap."
+    },
+    {
+      "id": "word_0370",
+      "translation": "ince",
+      "phonetic": "",
+      "example": "İnce kağıt."
+    },
+    {
+      "id": "word_0371",
+      "translation": "şişman",
+      "phonetic": "",
+      "example": "Şişman kedi."
+    },
+    {
+      "id": "word_0372",
+      "translation": "aç",
+      "phonetic": "",
+      "example": "Çok açım."
+    },
+    {
+      "id": "word_0373",
+      "translation": "susuz",
+      "phonetic": "",
+      "example": "Susuzum."
+    },
+    {
+      "id": "word_0374",
+      "translation": "uykulu",
+      "phonetic": "",
+      "example": "Çok uykluyum."
+    },
+    {
+      "id": "word_0375",
+      "translation": "uyanık",
+      "phonetic": "",
+      "example": "Tamamen uyanığım."
+    },
+    {
+      "id": "word_0376",
+      "translation": "canlı",
+      "phonetic": "",
+      "example": "Hala canlı."
+    },
+    {
+      "id": "word_0377",
+      "translation": "ölü",
+      "phonetic": "",
+      "example": "Ölü yapraklar."
+    },
+    {
+      "id": "word_0378",
+      "translation": "evli",
+      "phonetic": "",
+      "example": "Evli bir çift."
+    },
+    {
+      "id": "word_0379",
+      "translation": "bekar",
+      "phonetic": "",
+      "example": "Ben bekarım."
+    },
+    {
+      "id": "word_0380",
+      "translation": "yalnız",
+      "phonetic": "",
+      "example": "Yalnız hissediyorum."
+    },
+    {
+      "id": "word_0381",
+      "translation": "birlikte",
+      "phonetic": "",
+      "example": "Birlikte çalışıyoruz."
+    },
+    {
+      "id": "word_0382",
+      "translation": "yemek",
+      "phonetic": "",
+      "example": "Yemek yiyorum."
+    },
+    {
+      "id": "word_0383",
+      "translation": "uyumak",
+      "phonetic": "",
+      "example": "Uyumaya ihtiyacım var."
+    },
+    {
+      "id": "word_0384",
+      "translation": "uyanmak",
+      "phonetic": "",
+      "example": "Erken uyanırım."
+    },
+    {
+      "id": "word_0385",
+      "translation": "yürümek",
+      "phonetic": "",
+      "example": "Parkta yürüyorum."
+    },
+    {
+      "id": "word_0386",
+      "translation": "koşmak",
+      "phonetic": "",
+      "example": "Her gün koşarım."
+    },
+    {
+      "id": "word_0387",
+      "translation": "oturmak",
+      "phonetic": "",
+      "example": "Sandalyede oturuyorum."
+    },
+    {
+      "id": "word_0388",
+      "translation": "ayakta durmak",
+      "phonetic": "",
+      "example": "Ayakta duruyorum."
+    },
+    {
+      "id": "word_0389",
+      "translation": "yatmak",
+      "phonetic": "",
+      "example": "Yatakta yatıyorum."
+    },
+    {
+      "id": "word_0390",
+      "translation": "okumak",
+      "phonetic": "",
+      "example": "Kitap okuyorum."
+    },
+    {
+      "id": "word_0391",
+      "translation": "yazmak",
+      "phonetic": "",
+      "example": "Mektup yazıyorum."
+    },
+    {
+      "id": "word_0392",
+      "translation": "konuşmak",
+      "phonetic": "",
+      "example": "Türkçe konuşuyorum."
+    },
+    {
+      "id": "word_0393",
+      "translation": "konuşmak",
+      "phonetic": "",
+      "example": "Seninle konuşmak istiyorum."
+    },
+    {
+      "id": "word_0394",
+      "translation": "dinlemek",
+      "phonetic": "",
+      "example": "Müzik dinliyorum."
+    },
+    {
+      "id": "word_0395",
+      "translation": "duymak",
+      "phonetic": "",
+      "example": "Seni duyuyorum."
+    },
+    {
+      "id": "word_0396",
+      "translation": "izlemek",
+      "phonetic": "",
+      "example": "Film izliyorum."
+    },
+    {
+      "id": "word_0397",
+      "translation": "oynamak",
+      "phonetic": "",
+      "example": "Çocuklar oynuyor."
+    },
+    {
+      "id": "word_0398",
+      "translation": "satın almak",
+      "phonetic": "",
+      "example": "Ekmek satın alıyorum."
+    },
+    {
+      "id": "word_0399",
+      "translation": "satmak",
+      "phonetic": "",
+      "example": "Arabamı satıyorum."
+    },
+    {
+      "id": "word_0400",
+      "translation": "ödemek",
+      "phonetic": "",
+      "example": "Nakit ödeyeceğim."
+    },
+    {
+      "id": "word_0401",
+      "translation": "mal olmak",
+      "phonetic": "",
+      "example": "Çok pahalıya mal oldu."
+    },
+    {
+      "id": "word_0402",
+      "translation": "kapatmak",
+      "phonetic": "",
+      "example": "Kitabı kapat."
+    },
+    {
+      "id": "word_0403",
+      "translation": "başlamak",
+      "phonetic": "",
+      "example": "Motoru çalıştır."
+    },
+    {
+      "id": "word_0404",
+      "translation": "durmak",
+      "phonetic": "",
+      "example": "Arabayı durdur."
+    },
+    {
+      "id": "word_0405",
+      "translation": "bitirmek",
+      "phonetic": "",
+      "example": "Ödevini bitir."
+    },
+    {
+      "id": "word_0406",
+      "translation": "bulmak",
+      "phonetic": "",
+      "example": "Cevabı bul."
+    },
+    {
+      "id": "word_0407",
+      "translation": "kaybetmek",
+      "phonetic": "",
+      "example": "Yolunu kaybet."
+    },
+    {
+      "id": "word_0408",
+      "translation": "kazanmak",
+      "phonetic": "",
+      "example": "Oyunu kazan."
+    },
+    {
+      "id": "word_0409",
+      "translation": "denemek",
+      "phonetic": "",
+      "example": "Elinden geleni dene."
+    },
+    {
+      "id": "word_0410",
+      "translation": "ihtiyaç duymak",
+      "phonetic": "",
+      "example": "Biraz yardıma ihtiyacım var."
+    },
+    {
+      "id": "word_0411",
+      "translation": "yardım etmek",
+      "phonetic": "",
+      "example": "Birbirinize yardım edin."
+    },
+    {
+      "id": "word_0412",
+      "translation": "aramak",
+      "phonetic": "",
+      "example": "Yarın beni ara."
+    },
+    {
+      "id": "word_0413",
+      "translation": "sormak",
+      "phonetic": "",
+      "example": "Herhangi bir soru sor."
+    },
+    {
+      "id": "word_0414",
+      "translation": "anlatmak",
+      "phonetic": "",
+      "example": "Bana hikaye anlat."
+    },
+    {
+      "id": "word_0415",
+      "translation": "cevap vermek",
+      "phonetic": "",
+      "example": "Telefona cevap ver."
+    },
+    {
+      "id": "word_0416",
+      "translation": "hissetmek",
+      "phonetic": "",
+      "example": "Çok daha iyi hissediyorum."
+    },
+    {
+      "id": "word_0417",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Öğretmen ol."
+    },
+    {
+      "id": "word_0418",
+      "translation": "ayrılmak",
+      "phonetic": "",
+      "example": "Hemen ayrıl."
+    },
+    {
+      "id": "word_0419",
+      "translation": "getirmek",
+      "phonetic": "",
+      "example": "Arkadaşını getir."
+    },
+    {
+      "id": "word_0420",
+      "translation": "olmak",
+      "phonetic": "",
+      "example": "Çok aniden oldu."
+    },
+    {
+      "id": "word_0421",
+      "translation": "göstermek",
+      "phonetic": "",
+      "example": "Bana nasıl olduğunu göster."
+    },
+    {
+      "id": "word_0422",
+      "translation": "izin vermek",
+      "phonetic": "",
+      "example": "Denememe izin ver."
+    },
+    {
+      "id": "word_0423",
+      "translation": "saklamak",
+      "phonetic": "",
+      "example": "Onu güvende sakla."
+    },
+    {
+      "id": "word_0424",
+      "translation": "başlamak",
+      "phonetic": "",
+      "example": "Derse başla."
+    },
+    {
+      "id": "word_0425",
+      "translation": "görünmek",
+      "phonetic": "",
+      "example": "Çok hoş görünüyor."
+    },
+    {
+      "id": "word_0426",
+      "translation": "tanışmak",
+      "phonetic": "",
+      "example": "Yeni insanlarla tanış."
+    },
+    {
+      "id": "word_0427",
+      "translation": "öğrenmek",
+      "phonetic": "",
+      "example": "Her gün öğren."
+    },
+    {
+      "id": "word_0428",
+      "translation": "öğretmek",
+      "phonetic": "",
+      "example": "Sabırla öğret."
+    },
+    {
+      "id": "word_0429",
+      "translation": "çalışmak",
+      "phonetic": "",
+      "example": "Her zaman çok çalış."
+    },
+    {
+      "id": "word_0430",
+      "translation": "anlamak",
+      "phonetic": "",
+      "example": "Kavramı anla."
+    },
+    {
+      "id": "word_0431",
+      "translation": "hatırlamak",
+      "phonetic": "",
+      "example": "Önemli tarihleri hatırla."
+    },
+    {
+      "id": "word_0432",
+      "translation": "unutmak",
+      "phonetic": "",
+      "example": "Kötü anıları unut."
+    },
+    {
+      "id": "word_0433",
+      "translation": "beklemek",
+      "phonetic": "",
+      "example": "Sıranı bekle."
+    },
+    {
+      "id": "word_0434",
+      "translation": "kalmak",
+      "phonetic": "",
+      "example": "Lütfen burada kal."
+    },
+    {
+      "id": "word_0435",
+      "translation": "yaşamak",
+      "phonetic": "",
+      "example": "Mutlu bir hayat yaşa."
+    },
+    {
+      "id": "word_0436",
+      "translation": "ölmek",
+      "phonetic": "",
+      "example": "Bir gün huzurla öl."
+    },
+    {
+      "id": "word_0437",
+      "translation": "sevmek",
+      "phonetic": "",
+      "example": "Aileni sev."
+    },
+    {
+      "id": "word_0438",
+      "translation": "nefret etmek",
+      "phonetic": "",
+      "example": "Zalim davranıştan nefret et."
+    },
+    {
+      "id": "word_0439",
+      "translation": "ummak",
+      "phonetic": "",
+      "example": "En iyisini um."
+    },
+    {
+      "id": "word_0440",
+      "translation": "dilek tutmak",
+      "phonetic": "",
+      "example": "Yıldıza dilek tut."
+    },
+    {
+      "id": "word_0441",
+      "translation": "inanmak",
+      "phonetic": "",
+      "example": "Kendine inan."
+    },
+    {
+      "id": "word_0442",
+      "translation": "karar vermek",
+      "phonetic": "",
+      "example": "Hemen karar ver."
+    },
+    {
+      "id": "word_0443",
+      "translation": "seçmek",
+      "phonetic": "",
+      "example": "Her zaman akıllıca seç."
+    },
+    {
+      "id": "word_0444",
+      "translation": "göndermek",
+      "phonetic": "",
+      "example": "Mesajı gönder."
+    },
+    {
+      "id": "word_0445",
+      "translation": "almak",
+      "phonetic": "",
+      "example": "Sıcak karşılama al."
+    },
+    {
+      "id": "word_0446",
+      "translation": "koymak",
+      "phonetic": "",
+      "example": "Onu oraya koy."
+    },
+    {
+      "id": "word_0447",
+      "translation": "tutmak",
+      "phonetic": "",
+      "example": "Elimi tut."
+    },
+    {
+      "id": "word_0448",
+      "translation": "yakalamak",
+      "phonetic": "",
+      "example": "Topu yakala."
+    },
+    {
+      "id": "word_0449",
+      "translation": "atmak",
+      "phonetic": "",
+      "example": "Onu at."
+    },
+    {
+      "id": "word_0450",
+      "translation": "itmek",
+      "phonetic": "",
+      "example": "Kapıyı it."
+    },
+    {
+      "id": "word_0451",
+      "translation": "çekmek",
+      "phonetic": "",
+      "example": "İpi çek."
+    },
+    {
+      "id": "word_0452",
+      "translation": "kırmak",
+      "phonetic": "",
+      "example": "Camı kırma."
+    },
+    {
+      "id": "word_0453",
+      "translation": "kesmek",
+      "phonetic": "",
+      "example": "Kağıdı kes."
+    },
+    {
+      "id": "word_0454",
+      "translation": "yıkamak",
+      "phonetic": "",
+      "example": "Ellerini yıka."
+    },
+    {
+      "id": "word_0455",
+      "translation": "pişirmek",
+      "phonetic": "",
+      "example": "Akşam yemeği pişir."
+    },
+    {
+      "id": "word_0456",
+      "translation": "giymek",
+      "phonetic": "",
+      "example": "Palto giy."
+    },
+    {
+      "id": "word_0457",
+      "translation": "inşa etmek",
+      "phonetic": "",
+      "example": "Ev inşa et."
+    },
+    {
+      "id": "word_0458",
+      "translation": "büyümek",
+      "phonetic": "",
+      "example": "Hızlı büyü."
+    },
+    {
+      "id": "word_0459",
+      "translation": "değiştirmek",
+      "phonetic": "",
+      "example": "Fikrini değiştir."
+    },
+    {
+      "id": "word_0460",
+      "translation": "dönmek",
+      "phonetic": "",
+      "example": "Sola dön."
+    },
+    {
+      "id": "word_0461",
+      "translation": "hareket etmek",
+      "phonetic": "",
+      "example": "İleri hareket et."
+    },
+    {
+      "id": "word_0462",
+      "translation": "taşımak",
+      "phonetic": "",
+      "example": "Çantayı taşı."
+    },
+    {
+      "id": "word_0463",
+      "translation": "sürmek",
+      "phonetic": "",
+      "example": "Araba sür."
+    },
+    {
+      "id": "word_0464",
+      "translation": "binmek",
+      "phonetic": "",
+      "example": "Bisiklete bin."
+    },
+    {
+      "id": "word_0465",
+      "translation": "uçmak",
+      "phonetic": "",
+      "example": "Kuşlar uçuyor."
+    },
+    {
+      "id": "word_0466",
+      "translation": "yüzmek",
+      "phonetic": "",
+      "example": "Havuzda yüz."
+    },
+    {
+      "id": "word_0467",
+      "translation": "şarkı söylemek",
+      "phonetic": "",
+      "example": "Güzel şarkı söyle."
+    },
+    {
+      "id": "word_0468",
+      "translation": "dans etmek",
+      "phonetic": "",
+      "example": "Birlikte dans edelim."
+    },
+    {
+      "id": "word_0469",
+      "translation": "gülmek",
+      "phonetic": "",
+      "example": "Yüksek sesle gül."
+    },
+    {
+      "id": "word_0470",
+      "translation": "ağlamak",
+      "phonetic": "",
+      "example": "Ağlama lütfen."
+    },
+    {
+      "id": "word_0471",
+      "translation": "gülümsemek",
+      "phonetic": "",
+      "example": "Bana gülümse."
+    },
+    {
+      "id": "word_0472",
+      "translation": "sayı",
+      "phonetic": "",
+      "example": "Telefon numarası."
+    },
+    {
+      "id": "word_0473",
+      "translation": "sıfır",
+      "phonetic": "",
+      "example": "Sıfırdan başla."
+    },
+    {
+      "id": "word_0474",
+      "translation": "üç",
+      "phonetic": "",
+      "example": "Üç elma."
+    },
+    {
+      "id": "word_0475",
+      "translation": "dört",
+      "phonetic": "",
+      "example": "Dört mevsim."
+    },
+    {
+      "id": "word_0476",
+      "translation": "beş",
+      "phonetic": "",
+      "example": "Beş parmak."
+    },
+    {
+      "id": "word_0477",
+      "translation": "altı",
+      "phonetic": "",
+      "example": "Altı ay."
+    },
+    {
+      "id": "word_0478",
+      "translation": "yedi",
+      "phonetic": "",
+      "example": "Yedi gün."
+    },
+    {
+      "id": "word_0479",
+      "translation": "sekiz",
+      "phonetic": "",
+      "example": "Sekiz saat."
+    },
+    {
+      "id": "word_0480",
+      "translation": "dokuz",
+      "phonetic": "",
+      "example": "Dokuz sayfa."
+    },
+    {
+      "id": "word_0481",
+      "translation": "on",
+      "phonetic": "",
+      "example": "On kişi."
+    },
+    {
+      "id": "word_0482",
+      "translation": "on bir",
+      "phonetic": "",
+      "example": "On bir yaşında."
+    },
+    {
+      "id": "word_0483",
+      "translation": "on iki",
+      "phonetic": "",
+      "example": "On iki ay."
+    },
+    {
+      "id": "word_0484",
+      "translation": "on üç",
+      "phonetic": "",
+      "example": "On üç yaş."
+    },
+    {
+      "id": "word_0485",
+      "translation": "on dört",
+      "phonetic": "",
+      "example": "On dört gün."
+    },
+    {
+      "id": "word_0486",
+      "translation": "on beş",
+      "phonetic": "",
+      "example": "On beş dakika."
+    },
+    {
+      "id": "word_0487",
+      "translation": "on altı",
+      "phonetic": "",
+      "example": "On altı yaş."
+    },
+    {
+      "id": "word_0488",
+      "translation": "on yedi",
+      "phonetic": "",
+      "example": "On yedi öğrenci."
+    },
+    {
+      "id": "word_0489",
+      "translation": "on sekiz",
+      "phonetic": "",
+      "example": "On sekiz yaş."
+    },
+    {
+      "id": "word_0490",
+      "translation": "on dokuz",
+      "phonetic": "",
+      "example": "On dokuz yıl."
+    },
+    {
+      "id": "word_0491",
+      "translation": "yirmi",
+      "phonetic": "",
+      "example": "Yirmi lira."
+    },
+    {
+      "id": "word_0492",
+      "translation": "otuz",
+      "phonetic": "",
+      "example": "Otuz dakika."
+    },
+    {
+      "id": "word_0493",
+      "translation": "kırk",
+      "phonetic": "",
+      "example": "Kırk yaş."
+    },
+    {
+      "id": "word_0494",
+      "translation": "elli",
+      "phonetic": "",
+      "example": "Elli kişi."
+    },
+    {
+      "id": "word_0495",
+      "translation": "altmış",
+      "phonetic": "",
+      "example": "Altmış saniye."
+    },
+    {
+      "id": "word_0496",
+      "translation": "yetmiş",
+      "phonetic": "",
+      "example": "Yetmiş kilometre."
+    },
+    {
+      "id": "word_0497",
+      "translation": "seksen",
+      "phonetic": "",
+      "example": "Seksen sayfa."
+    },
+    {
+      "id": "word_0498",
+      "translation": "doksan",
+      "phonetic": "",
+      "example": "Doksan derece."
+    },
+    {
+      "id": "word_0499",
+      "translation": "yüz",
+      "phonetic": "",
+      "example": "Yüz lira."
+    },
+    {
+      "id": "word_0500",
+      "translation": "bin",
+      "phonetic": "",
+      "example": "Bin kişi."
+    },
+    {
+      "id": "word_0501",
+      "translation": "milyon",
+      "phonetic": "",
+      "example": "Bir milyon kişi."
+    },
+    {
+      "id": "word_0502",
+      "translation": "ikinci",
+      "phonetic": "",
+      "example": "İkinci kat."
+    },
+    {
+      "id": "word_0503",
+      "translation": "üçüncü",
+      "phonetic": "",
+      "example": "Üçüncü sınıf."
+    },
+    {
+      "id": "word_0504",
+      "translation": "hayvan",
+      "phonetic": "",
+      "example": "Vahşi hayvanlar."
+    },
+    {
+      "id": "word_0505",
+      "translation": "köpek",
+      "phonetic": "",
+      "example": "Sevimli köpek."
+    },
+    {
+      "id": "word_0506",
+      "translation": "kedi",
+      "phonetic": "",
+      "example": "Tembel kedi."
+    },
+    {
+      "id": "word_0507",
+      "translation": "kuş",
+      "phonetic": "",
+      "example": "Renkli kuş."
+    },
+    {
+      "id": "word_0508",
+      "translation": "at",
+      "phonetic": "",
+      "example": "Hızlı at."
+    },
+    {
+      "id": "word_0509",
+      "translation": "inek",
+      "phonetic": "",
+      "example": "Büyük inek."
+    },
+    {
+      "id": "word_0510",
+      "translation": "domuz",
+      "phonetic": "",
+      "example": "Pembe domuz."
+    },
+    {
+      "id": "word_0511",
+      "translation": "tavuk",
+      "phonetic": "",
+      "example": "Yumurtlayan tavuk."
+    },
+    {
+      "id": "word_0512",
+      "translation": "koyun",
+      "phonetic": "",
+      "example": "Beyaz koyun."
+    },
+    {
+      "id": "word_0513",
+      "translation": "ağaç",
+      "phonetic": "",
+      "example": "Yüksek ağaç."
+    },
+    {
+      "id": "word_0514",
+      "translation": "çiçek",
+      "phonetic": "",
+      "example": "Güzel çiçek."
+    },
+    {
+      "id": "word_0515",
+      "translation": "çim",
+      "phonetic": "",
+      "example": "Yeşil çim."
+    },
+    {
+      "id": "word_0516",
+      "translation": "bitki",
+      "phonetic": "",
+      "example": "Ev bitkisi."
+    },
+    {
+      "id": "word_0517",
+      "translation": "güneş",
+      "phonetic": "",
+      "example": "Parlak güneş."
+    },
+    {
+      "id": "word_0518",
+      "translation": "ay",
+      "phonetic": "",
+      "example": "Dolunay."
+    },
+    {
+      "id": "word_0519",
+      "translation": "yıldız",
+      "phonetic": "",
+      "example": "Parlayan yıldız."
+    },
+    {
+      "id": "word_0520",
+      "translation": "gökyüzü",
+      "phonetic": "",
+      "example": "Mavi gökyüzü."
+    },
+    {
+      "id": "word_0521",
+      "translation": "bulut",
+      "phonetic": "",
+      "example": "Beyaz bulut."
+    },
+    {
+      "id": "word_0522",
+      "translation": "yağmur",
+      "phonetic": "",
+      "example": "Şiddetli yağmur."
+    },
+    {
+      "id": "word_0523",
+      "translation": "kar",
+      "phonetic": "",
+      "example": "Beyaz kar."
+    },
+    {
+      "id": "word_0524",
+      "translation": "rüzgar",
+      "phonetic": "",
+      "example": "Güçlü rüzgar."
+    },
+    {
+      "id": "word_0525",
+      "translation": "ateş",
+      "phonetic": "",
+      "example": "Sıcak ateş."
+    },
+    {
+      "id": "word_0526",
+      "translation": "hava",
+      "phonetic": "",
+      "example": "Temiz hava."
+    },
+    {
+      "id": "word_0527",
+      "translation": "dünya",
+      "phonetic": "",
+      "example": "Mavi gezegen dünya."
+    },
+    {
+      "id": "word_0528",
+      "translation": "kara",
+      "phonetic": "",
+      "example": "Kara parçası."
+    },
+    {
+      "id": "word_0529",
+      "translation": "deniz",
+      "phonetic": "",
+      "example": "Geniş deniz."
+    },
+    {
+      "id": "word_0530",
+      "translation": "okyanus",
+      "phonetic": "",
+      "example": "Büyük okyanus."
+    },
+    {
+      "id": "word_0531",
+      "translation": "nehir",
+      "phonetic": "",
+      "example": "Uzun nehir."
+    },
+    {
+      "id": "word_0532",
+      "translation": "göl",
+      "phonetic": "",
+      "example": "Sakin göl."
+    },
+    {
+      "id": "word_0533",
+      "translation": "dağ",
+      "phonetic": "",
+      "example": "Yüksek dağ."
+    },
+    {
+      "id": "word_0534",
+      "translation": "tepe",
+      "phonetic": "",
+      "example": "Küçük tepe."
+    },
+    {
+      "id": "word_0535",
+      "translation": "orman",
+      "phonetic": "",
+      "example": "Yoğun orman."
+    },
+    {
+      "id": "word_0536",
+      "translation": "tarla",
+      "phonetic": "",
+      "example": "Buğday tarlası."
+    },
+    {
+      "id": "word_0537",
+      "translation": "bahçe",
+      "phonetic": "",
+      "example": "Sebze bahçesi."
+    },
+    {
+      "id": "word_0538",
+      "translation": "çiftlik",
+      "phonetic": "",
+      "example": "Büyük çiftlik."
+    },
+    {
+      "id": "word_0539",
+      "translation": "köy",
+      "phonetic": "",
+      "example": "Küçük köy."
+    },
+    {
+      "id": "word_0540",
+      "translation": "kasaba",
+      "phonetic": "",
+      "example": "Sakin kasaba."
+    },
+    {
+      "id": "word_0541",
+      "translation": "bina",
+      "phonetic": "",
+      "example": "Yüksek bina."
+    },
+    {
+      "id": "word_0542",
+      "translation": "hastane",
+      "phonetic": "",
+      "example": "Devlet hastanesi."
+    },
+    {
+      "id": "word_0543",
+      "translation": "banka",
+      "phonetic": "",
+      "example": "Ulusal banka."
+    },
+    {
+      "id": "word_0544",
+      "translation": "restoran",
+      "phonetic": "",
+      "example": "İtalyan restoranı."
+    },
+    {
+      "id": "word_0545",
+      "translation": "otel",
+      "phonetic": "",
+      "example": "Lüks otel."
+    },
+    {
+      "id": "word_0546",
+      "translation": "kilise",
+      "phonetic": "",
+      "example": "Eski kilise."
+    },
+    {
+      "id": "word_0547",
+      "translation": "park",
+      "phonetic": "",
+      "example": "Şehir parkı."
+    },
+    {
+      "id": "word_0548",
+      "translation": "köprü",
+      "phonetic": "",
+      "example": "Uzun köprü."
+    },
+    {
+      "id": "word_0549",
+      "translation": "istasyon",
+      "phonetic": "",
+      "example": "Tren istasyonu."
+    },
+    {
+      "id": "word_0550",
+      "translation": "havalimanı",
+      "phonetic": "",
+      "example": "Uluslararası havalimanı."
+    },
+    {
+      "id": "word_0551",
+      "translation": "müze",
+      "phonetic": "",
+      "example": "Arkeoloji müzesi."
+    },
+    {
+      "id": "word_0552",
+      "translation": "kütüphane",
+      "phonetic": "",
+      "example": "Halk kütüphanesi."
+    },
+    {
+      "id": "word_0553",
+      "translation": "üniversite",
+      "phonetic": "",
+      "example": "Devlet üniversitesi."
+    },
+    {
+      "id": "word_0554",
+      "translation": "hükümet",
+      "phonetic": "",
+      "example": "Yeni hükümet."
+    },
+    {
+      "id": "word_0555",
+      "translation": "kanun",
+      "phonetic": "",
+      "example": "Yeni kanun."
+    },
+    {
+      "id": "word_0556",
+      "translation": "polis",
+      "phonetic": "",
+      "example": "Polis memuru."
+    },
+    {
+      "id": "word_0557",
+      "translation": "ordu",
+      "phonetic": "",
+      "example": "Güçlü ordu."
+    },
+    {
+      "id": "word_0558",
+      "translation": "savaş",
+      "phonetic": "",
+      "example": "Dünya savaşı."
+    },
+    {
+      "id": "word_0559",
+      "translation": "barış",
+      "phonetic": "",
+      "example": "Dünya barışı."
+    },
+    {
+      "id": "word_0560",
+      "translation": "sorun",
+      "phonetic": "",
+      "example": "Büyük sorun."
+    },
+    {
+      "id": "word_0561",
+      "translation": "soru",
+      "phonetic": "",
+      "example": "Zor soru."
+    },
+    {
+      "id": "word_0562",
+      "translation": "fikir",
+      "phonetic": "",
+      "example": "İyi fikir."
+    },
+    {
+      "id": "word_0563",
+      "translation": "sebep",
+      "phonetic": "",
+      "example": "Ana sebep."
+    },
+    {
+      "id": "word_0564",
+      "translation": "örnek",
+      "phonetic": "",
+      "example": "İyi örnek."
+    },
+    {
+      "id": "word_0565",
+      "translation": "gerçek",
+      "phonetic": "",
+      "example": "Gerçek bilgi."
+    },
+    {
+      "id": "word_0566",
+      "translation": "doğru",
+      "phonetic": "",
+      "example": "Doğruyu söyle."
+    },
+    {
+      "id": "word_0567",
+      "translation": "hikaye",
+      "phonetic": "",
+      "example": "İlginç hikaye."
+    },
+    {
+      "id": "word_0568",
+      "translation": "haber",
+      "phonetic": "",
+      "example": "Son haberler."
+    },
+    {
+      "id": "word_0569",
+      "translation": "bilgi",
+      "phonetic": "",
+      "example": "Yararlı bilgi."
+    },
+    {
+      "id": "word_0570",
+      "translation": "kelime",
+      "phonetic": "",
+      "example": "Yeni kelime."
+    },
+    {
+      "id": "word_0571",
+      "translation": "cümle",
+      "phonetic": "",
+      "example": "Uzun cümle."
+    },
+    {
+      "id": "word_0572",
+      "translation": "dil",
+      "phonetic": "",
+      "example": "Yabancı dil."
+    },
+    {
+      "id": "word_0573",
+      "translation": "mektup",
+      "phonetic": "",
+      "example": "Aşk mektubu."
+    },
+    {
+      "id": "word_0574",
+      "translation": "ses",
+      "phonetic": "",
+      "example": "Yüksek ses."
+    },
+    {
+      "id": "word_0575",
+      "translation": "ses",
+      "phonetic": "",
+      "example": "Güzel ses."
+    },
+    {
+      "id": "word_0576",
+      "translation": "müzik",
+      "phonetic": "",
+      "example": "Klasik müzik."
+    },
+    {
+      "id": "word_0577",
+      "translation": "şarkı",
+      "phonetic": "",
+      "example": "Sevdiğim şarkı."
+    },
+    {
+      "id": "word_0578",
+      "translation": "resim",
+      "phonetic": "",
+      "example": "Güzel resim."
+    },
+    {
+      "id": "word_0579",
+      "translation": "fotoğraf",
+      "phonetic": "",
+      "example": "Aile fotoğrafı."
+    },
+    {
+      "id": "word_0580",
+      "translation": "film",
+      "phonetic": "",
+      "example": "Belgesel film."
+    },
+    {
+      "id": "word_0581",
+      "translation": "sinema filmi",
+      "phonetic": "",
+      "example": "Aksiyon filmi."
+    },
+    {
+      "id": "word_0582",
+      "translation": "oyun",
+      "phonetic": "",
+      "example": "Eğlenceli oyun."
+    },
+    {
+      "id": "word_0583",
+      "translation": "spor",
+      "phonetic": "",
+      "example": "Takım sporu."
+    },
+    {
+      "id": "word_0584",
+      "translation": "takım",
+      "phonetic": "",
+      "example": "Futbol takımı."
+    },
+    {
+      "id": "word_0585",
+      "translation": "oyuncu",
+      "phonetic": "",
+      "example": "İyi oyuncu."
+    },
+    {
+      "id": "word_0586",
+      "translation": "top",
+      "phonetic": "",
+      "example": "Futbol topu."
+    },
+    {
+      "id": "word_0587",
+      "translation": "parti",
+      "phonetic": "",
+      "example": "Doğum günü partisi."
+    },
+    {
+      "id": "word_0588",
+      "translation": "hediye",
+      "phonetic": "",
+      "example": "Güzel hediye."
+    },
+    {
+      "id": "word_0589",
+      "translation": "hediye",
+      "phonetic": "",
+      "example": "Sürpriz hediye."
+    },
+    {
+      "id": "word_0590",
+      "translation": "oyuncak",
+      "phonetic": "",
+      "example": "Çocuk oyuncağı."
+    },
+    {
+      "id": "word_0591",
+      "translation": "telefon",
+      "phonetic": "",
+      "example": "Cep telefonu."
+    },
+    {
+      "id": "word_0592",
+      "translation": "bilgisayar",
+      "phonetic": "",
+      "example": "Dizüstü bilgisayar."
+    },
+    {
+      "id": "word_0593",
+      "translation": "televizyon",
+      "phonetic": "",
+      "example": "Yeni televizyon."
+    },
+    {
+      "id": "word_0594",
+      "translation": "radyo",
+      "phonetic": "",
+      "example": "Eski radyo."
+    },
+    {
+      "id": "word_0595",
+      "translation": "kamera",
+      "phonetic": "",
+      "example": "Dijital kamera."
+    },
+    {
+      "id": "word_0596",
+      "translation": "saat",
+      "phonetic": "",
+      "example": "Duvar saati."
+    },
+    {
+      "id": "word_0597",
+      "translation": "kutu",
+      "phonetic": "",
+      "example": "Karton kutu."
+    },
+    {
+      "id": "word_0598",
+      "translation": "çanta",
+      "phonetic": "",
+      "example": "Okul çantası."
+    },
+    {
+      "id": "word_0599",
+      "translation": "cep",
+      "phonetic": "",
+      "example": "Arka cep."
+    },
+    {
+      "id": "word_0600",
+      "translation": "anahtar",
+      "phonetic": "",
+      "example": "Ev anahtarı."
+    },
+    {
+      "id": "word_0601",
+      "translation": "mum",
+      "phonetic": "",
+      "example": "Yanan mum."
+    },
+    {
+      "id": "word_0602",
+      "translation": "zemin",
+      "phonetic": "",
+      "example": "Temiz zemin."
+    },
+    {
+      "id": "word_0603",
+      "translation": "duvar",
+      "phonetic": "",
+      "example": "Beyaz duvar."
+    },
+    {
+      "id": "word_0604",
+      "translation": "çatı",
+      "phonetic": "",
+      "example": "Kırmızı çatı."
+    },
+    {
+      "id": "word_0605",
+      "translation": "banyo",
+      "phonetic": "",
+      "example": "Temiz banyo."
+    },
+    {
+      "id": "word_0606",
+      "translation": "mutfak",
+      "phonetic": "",
+      "example": "Modern mutfak."
+    },
+    {
+      "id": "word_0607",
+      "translation": "yatak odası",
+      "phonetic": "",
+      "example": "Rahat yatak odası."
+    },
+    {
+      "id": "word_0608",
+      "translation": "oturma",
+      "phonetic": "",
+      "example": "Oturma odası."
+    },
+    {
+      "id": "word_0609",
+      "translation": "tuvalet",
+      "phonetic": "",
+      "example": "Umumi tuvalet."
+    },
+    {
+      "id": "word_0610",
+      "translation": "duş",
+      "phonetic": "",
+      "example": "Sıcak duş."
+    },
+    {
+      "id": "word_0611",
+      "translation": "banyo",
+      "phonetic": "",
+      "example": "Banyo yapmak."
+    },
+    {
+      "id": "word_0612",
+      "translation": "sabun",
+      "phonetic": "",
+      "example": "Kokulu sabun."
+    },
+    {
+      "id": "word_0613",
+      "translation": "havlu",
+      "phonetic": "",
+      "example": "Yumuşak havlu."
+    },
+    {
+      "id": "word_0614",
+      "translation": "ayna",
+      "phonetic": "",
+      "example": "Büyük ayna."
+    },
+    {
+      "id": "word_0615",
+      "translation": "fırça",
+      "phonetic": "",
+      "example": "Diş fırçası."
+    },
+    {
+      "id": "word_0616",
+      "translation": "tarak",
+      "phonetic": "",
+      "example": "Saç tarağı."
+    },
+    {
+      "id": "word_0617",
+      "translation": "ilaç",
+      "phonetic": "",
+      "example": "Ağrı ilacı."
+    },
+    {
+      "id": "word_0618",
+      "translation": "doktor",
+      "phonetic": "",
+      "example": "Aile doktoru."
+    },
+    {
+      "id": "word_0619",
+      "translation": "hemşire",
+      "phonetic": "",
+      "example": "Hastane hemşiresi."
+    },
+    {
+      "id": "word_0620",
+      "translation": "hasta",
+      "phonetic": "",
+      "example": "Yaşlı hasta."
+    },
+    {
+      "id": "word_0621",
+      "translation": "sağlık",
+      "phonetic": "",
+      "example": "İyi sağlık."
+    },
+    {
+      "id": "word_0622",
+      "translation": "hastalık",
+      "phonetic": "",
+      "example": "Ciddi hastalık."
+    },
+    {
+      "id": "word_0623",
+      "translation": "ağrı",
+      "phonetic": "",
+      "example": "Şiddetli ağrı."
+    },
+    {
+      "id": "word_0624",
+      "translation": "kan",
+      "phonetic": "",
+      "example": "Kırmızı kan."
+    },
+    {
+      "id": "word_0625",
+      "translation": "yaş",
+      "phonetic": "",
+      "example": "Genç yaş."
+    },
+    {
+      "id": "word_0626",
+      "translation": "doğum",
+      "phonetic": "",
+      "example": "Doğum tarihi."
+    },
+    {
+      "id": "word_0627",
+      "translation": "ölüm",
+      "phonetic": "",
+      "example": "Ani ölüm."
+    },
+    {
+      "id": "word_0628",
+      "translation": "hayat",
+      "phonetic": "",
+      "example": "Mutlu hayat."
+    },
+    {
+      "id": "word_0629",
+      "translation": "dakika",
+      "phonetic": "",
+      "example": "Beş dakika."
+    },
+    {
+      "id": "word_0630",
+      "translation": "saat",
+      "phonetic": "",
+      "example": "İki saat."
+    },
+    {
+      "id": "word_0631",
+      "translation": "an",
+      "phonetic": "",
+      "example": "Özel an."
+    },
+    {
+      "id": "word_0632",
+      "translation": "tarih",
+      "phonetic": "",
+      "example": "Dünya tarihi."
+    },
+    {
+      "id": "word_0633",
+      "translation": "gelecek",
+      "phonetic": "",
+      "example": "Parlak gelecek."
+    },
+    {
+      "id": "word_0634",
+      "translation": "geçmiş",
+      "phonetic": "",
+      "example": "Uzak geçmiş."
+    },
+    {
+      "id": "word_0635",
+      "translation": "devlet",
+      "phonetic": "",
+      "example": "Güçlü devlet."
+    },
+    {
+      "id": "word_0636",
+      "translation": "ulus",
+      "phonetic": "",
+      "example": "Birleşmiş Milletler."
+    },
+    {
+      "id": "word_0637",
+      "translation": "güç",
+      "phonetic": "",
+      "example": "Büyük güç."
+    },
+    {
+      "id": "word_0638",
+      "translation": "başkan",
+      "phonetic": "",
+      "example": "Cumhurbaşkanı."
+    },
+    {
+      "id": "word_0639",
+      "translation": "kral",
+      "phonetic": "",
+      "example": "Eski kral."
+    },
+    {
+      "id": "word_0640",
+      "translation": "kraliçe",
+      "phonetic": "",
+      "example": "İngiliz kraliçesi."
+    },
+    {
+      "id": "word_0641",
+      "translation": "prens",
+      "phonetic": "",
+      "example": "Genç prens."
+    },
+    {
+      "id": "word_0642",
+      "translation": "prenses",
+      "phonetic": "",
+      "example": "Güzel prenses."
+    },
+    {
+      "id": "word_0643",
+      "translation": "toplum",
+      "phonetic": "",
+      "example": "Modern toplum."
+    },
+    {
+      "id": "word_0644",
+      "translation": "kültür",
+      "phonetic": "",
+      "example": "Zengin kültür."
+    },
+    {
+      "id": "word_0645",
+      "translation": "sanat",
+      "phonetic": "",
+      "example": "Güzel sanatlar."
+    },
+    {
+      "id": "word_0646",
+      "translation": "bilim",
+      "phonetic": "",
+      "example": "Doğa bilimi."
+    },
+    {
+      "id": "word_0647",
+      "translation": "teknoloji",
+      "phonetic": "",
+      "example": "Yeni teknoloji."
+    },
+    {
+      "id": "word_0648",
+      "translation": "iş",
+      "phonetic": "",
+      "example": "Büyük iş."
+    },
+    {
+      "id": "word_0649",
+      "translation": "şirket",
+      "phonetic": "",
+      "example": "Uluslararası şirket."
+    },
+    {
+      "id": "word_0650",
+      "translation": "hizmet",
+      "phonetic": "",
+      "example": "Müşteri hizmeti."
+    },
+    {
+      "id": "word_0651",
+      "translation": "ürün",
+      "phonetic": "",
+      "example": "Yeni ürün."
+    },
+    {
+      "id": "word_0652",
+      "translation": "fiyat",
+      "phonetic": "",
+      "example": "Uygun fiyat."
+    },
+    {
+      "id": "word_0653",
+      "translation": "değer",
+      "phonetic": "",
+      "example": "Yüksek değer."
+    },
+    {
+      "id": "word_0654",
+      "translation": "vergi",
+      "phonetic": "",
+      "example": "Gelir vergisi."
+    },
+    {
+      "id": "word_0655",
+      "translation": "faiz",
+      "phonetic": "",
+      "example": "Yüksek faiz."
+    },
+    {
+      "id": "word_0656",
+      "translation": "anlaşma",
+      "phonetic": "",
+      "example": "İyi anlaşma."
+    },
+    {
+      "id": "word_0657",
+      "translation": "anlaşma",
+      "phonetic": "",
+      "example": "Resmi anlaşma."
+    },
+    {
+      "id": "word_0658",
+      "translation": "sözleşme",
+      "phonetic": "",
+      "example": "İş sözleşmesi."
+    },
+    {
+      "id": "word_0659",
+      "translation": "plan",
+      "phonetic": "",
+      "example": "Gelecek planı."
+    },
+    {
+      "id": "word_0660",
+      "translation": "proje",
+      "phonetic": "",
+      "example": "Büyük proje."
+    },
+    {
+      "id": "word_0661",
+      "translation": "program",
+      "phonetic": "",
+      "example": "Eğitim programı."
+    },
+    {
+      "id": "word_0662",
+      "translation": "sistem",
+      "phonetic": "",
+      "example": "Yeni sistem."
+    },
+    {
+      "id": "word_0663",
+      "translation": "yöntem",
+      "phonetic": "",
+      "example": "Etkili yöntem."
+    },
+    {
+      "id": "word_0664",
+      "translation": "süreç",
+      "phonetic": "",
+      "example": "Uzun süreç."
+    },
+    {
+      "id": "word_0665",
+      "translation": "sonuç",
+      "phonetic": "",
+      "example": "İyi sonuç."
+    },
+    {
+      "id": "word_0666",
+      "translation": "etki",
+      "phonetic": "",
+      "example": "Olumlu etki."
+    },
+    {
+      "id": "word_0667",
+      "translation": "neden",
+      "phonetic": "",
+      "example": "Ana neden."
+    },
+    {
+      "id": "word_0668",
+      "translation": "şans",
+      "phonetic": "",
+      "example": "İyi şans."
+    },
+    {
+      "id": "word_0669",
+      "translation": "seçim",
+      "phonetic": "",
+      "example": "Zor seçim."
+    },
+    {
+      "id": "word_0670",
+      "translation": "karar",
+      "phonetic": "",
+      "example": "Önemli karar."
+    },
+    {
+      "id": "word_0671",
+      "translation": "eylem",
+      "phonetic": "",
+      "example": "Hızlı eylem."
+    },
+    {
+      "id": "word_0672",
+      "translation": "faaliyet",
+      "phonetic": "",
+      "example": "Günlük faaliyet."
+    },
+    {
+      "id": "word_0673",
+      "translation": "deneyim",
+      "phonetic": "",
+      "example": "İş deneyimi."
+    },
+    {
+      "id": "word_0674",
+      "translation": "bilgi",
+      "phonetic": "",
+      "example": "Geniş bilgi."
+    },
+    {
+      "id": "word_0675",
+      "translation": "beceri",
+      "phonetic": "",
+      "example": "Özel beceri."
+    },
+    {
+      "id": "word_0676",
+      "translation": "yetenek",
+      "phonetic": "",
+      "example": "Doğal yetenek."
+    },
+    {
+      "id": "word_0677",
+      "translation": "çaba",
+      "phonetic": "",
+      "example": "Büyük çaba."
+    },
+    {
+      "id": "word_0678",
+      "translation": "başarı",
+      "phonetic": "",
+      "example": "Büyük başarı."
+    },
+    {
+      "id": "word_0679",
+      "translation": "başarısızlık",
+      "phonetic": "",
+      "example": "Acı başarısızlık."
+    },
+    {
+      "id": "word_0680",
+      "translation": "hata",
+      "phonetic": "",
+      "example": "Küçük hata."
+    },
+    {
+      "id": "word_0681",
+      "translation": "yanlış",
+      "phonetic": "",
+      "example": "Yazım yanlışı."
+    },
+    {
+      "id": "word_0682",
+      "translation": "tehlike",
+      "phonetic": "",
+      "example": "Büyük tehlike."
+    },
+    {
+      "id": "word_0683",
+      "translation": "risk",
+      "phonetic": "",
+      "example": "Yüksek risk."
+    },
+    {
+      "id": "word_0684",
+      "translation": "şans",
+      "phonetic": "",
+      "example": "İyi şanslar."
+    },
+    {
+      "id": "word_0685",
+      "translation": "servet",
+      "phonetic": "",
+      "example": "Büyük servet."
+    },
+    {
+      "id": "word_0686",
+      "translation": "kader",
+      "phonetic": "",
+      "example": "İnsanın kaderi."
+    },
+    {
+      "id": "word_0687",
+      "translation": "amaç",
+      "phonetic": "",
+      "example": "Ana amaç."
+    },
+    {
+      "id": "word_0688",
+      "translation": "hedef",
+      "phonetic": "",
+      "example": "Uzun vadeli hedef."
+    },
+    {
+      "id": "word_0689",
+      "translation": "gaye",
+      "phonetic": "",
+      "example": "Nihai gaye."
+    },
+    {
+      "id": "word_0690",
+      "translation": "son",
+      "phonetic": "",
+      "example": "Filmin sonu."
+    },
+    {
+      "id": "word_0691",
+      "translation": "başlangıç",
+      "phonetic": "",
+      "example": "Yeni başlangıç."
+    },
+    {
+      "id": "word_0692",
+      "translation": "orta",
+      "phonetic": "",
+      "example": "Tam ortası."
+    },
+    {
+      "id": "word_0693",
+      "translation": "üst",
+      "phonetic": "",
+      "example": "En üst."
+    },
+    {
+      "id": "word_0694",
+      "translation": "alt",
+      "phonetic": "",
+      "example": "En alt."
+    },
+    {
+      "id": "word_0695",
+      "translation": "yan",
+      "phonetic": "",
+      "example": "Sağ yan."
+    },
+    {
+      "id": "word_0696",
+      "translation": "ön",
+      "phonetic": "",
+      "example": "Ön taraf."
+    },
+    {
+      "id": "word_0697",
+      "translation": "arka",
+      "phonetic": "",
+      "example": "Arka taraf."
+    },
+    {
+      "id": "word_0698",
+      "translation": "yukarı",
+      "phonetic": "",
+      "example": "Yukarıda."
+    },
+    {
+      "id": "word_0699",
+      "translation": "aşağı",
+      "phonetic": "",
+      "example": "Aşağıda."
+    },
+    {
+      "id": "word_0700",
+      "translation": "içinde",
+      "phonetic": "",
+      "example": "Kutunun içinde."
+    },
+    {
+      "id": "word_0701",
+      "translation": "dışında",
+      "phonetic": "",
+      "example": "Evin dışında."
+    },
+    {
+      "id": "word_0702",
+      "translation": "arasında",
+      "phonetic": "",
+      "example": "İkisinin arasında."
+    },
+    {
+      "id": "word_0703",
+      "translation": "arasında",
+      "phonetic": "",
+      "example": "Birçoğunun arasında."
+    },
+    {
+      "id": "word_0704",
+      "translation": "karşısında",
+      "phonetic": "",
+      "example": "Yolun karşısında."
+    },
+    {
+      "id": "word_0705",
+      "translation": "içinden",
+      "phonetic": "",
+      "example": "Ormanın içinden."
+    },
+    {
+      "id": "word_0706",
+      "translation": "sırasında",
+      "phonetic": "",
+      "example": "Ders sırasında."
+    },
+    {
+      "id": "word_0707",
+      "translation": "önce",
+      "phonetic": "",
+      "example": "Akşam yemeğinden önce."
+    },
+    {
+      "id": "word_0708",
+      "translation": "beri",
+      "phonetic": "",
+      "example": "O zamandan beri."
+    },
+    {
+      "id": "word_0709",
+      "translation": "kadar",
+      "phonetic": "",
+      "example": "Akşama kadar."
+    },
+    {
+      "id": "word_0710",
+      "translation": "iken",
+      "phonetic": "",
+      "example": "Çalışırken."
+    },
+    {
+      "id": "word_0711",
+      "translation": "rağmen",
+      "phonetic": "",
+      "example": "Her şeye rağmen."
+    },
+    {
+      "id": "word_0712",
+      "translation": "ancak",
+      "phonetic": "",
+      "example": "Ancak problem var."
+    },
+    {
+      "id": "word_0713",
+      "translation": "bu nedenle",
+      "phonetic": "",
+      "example": "Bu nedenle geldim."
+    },
+    {
+      "id": "word_0714",
+      "translation": "böylece",
+      "phonetic": "",
+      "example": "Böylece başardık."
+    },
+    {
+      "id": "word_0715",
+      "translation": "dahası",
+      "phonetic": "",
+      "example": "Dahası var."
+    },
+    {
+      "id": "word_0716",
+      "translation": "ayrıca",
+      "phonetic": "",
+      "example": "Ayrıca bunlar da."
+    },
+    {
+      "id": "word_0717",
+      "translation": "yoksa",
+      "phonetic": "",
+      "example": "Yoksa geç kalırsın."
+    },
+    {
+      "id": "word_0718",
+      "translation": "yerine",
+      "phonetic": "",
+      "example": "Bunun yerine."
+    },
+    {
+      "id": "word_0719",
+      "translation": "yanında",
+      "phonetic": "",
+      "example": "Bunun yanında."
+    },
+    {
+      "id": "word_0720",
+      "translation": "hariç",
+      "phonetic": "",
+      "example": "Pazartesi hariç."
+    },
+    {
+      "id": "word_0721",
+      "translation": "olmadan",
+      "phonetic": "",
+      "example": "Sen olmadan."
+    },
+    {
+      "id": "word_0722",
+      "translation": "içinde",
+      "phonetic": "",
+      "example": "Sınırlar içinde."
+    },
+    {
+      "id": "word_0723",
+      "translation": "karşı",
+      "phonetic": "",
+      "example": "Kurallara karşı."
+    },
+    {
+      "id": "word_0724",
+      "translation": "doğru",
+      "phonetic": "",
+      "example": "Eve doğru."
+    },
+    {
+      "id": "word_0725",
+      "translation": "üzerine",
+      "phonetic": "",
+      "example": "Masa üzerine."
+    },
+    {
+      "id": "word_0726",
+      "translation": "kapalı",
+      "phonetic": "",
+      "example": "Işıklar kapalı."
+    },
+    {
+      "id": "word_0727",
+      "translation": "aşağı",
+      "phonetic": "",
+      "example": "Aşağı in."
+    },
+    {
+      "id": "word_0728",
+      "translation": "etrafında",
+      "phonetic": "",
+      "example": "Şehrin etrafında."
+    },
+    {
+      "id": "word_0729",
+      "translation": "boyunca",
+      "phonetic": "",
+      "example": "Yol boyunca."
+    },
+    {
+      "id": "word_0730",
+      "translation": "ötesinde",
+      "phonetic": "",
+      "example": "Sınırın ötesinde."
+    },
+    {
+      "id": "word_0731",
+      "translation": "karşısında",
+      "phonetic": "",
+      "example": "Tam karşısında."
+    },
+    {
+      "id": "word_0732",
+      "translation": "rağmen",
+      "phonetic": "",
+      "example": "Zorluklara rağmen."
+    },
+    {
+      "id": "word_0733",
+      "translation": "yanında",
+      "phonetic": "",
+      "example": "Senin yanında."
+    },
+    {
+      "id": "word_0734",
+      "translation": "boyunca",
+      "phonetic": "",
+      "example": "Gün boyunca."
+    },
+    {
+      "id": "word_0735",
+      "translation": "altında",
+      "phonetic": "",
+      "example": "Masanın altında."
+    },
+    {
+      "id": "word_0736",
+      "translation": "ilgili",
+      "phonetic": "",
+      "example": "Bununla ilgili."
+    },
+    {
+      "id": "word_0737",
+      "translation": "hakkında",
+      "phonetic": "",
+      "example": "Konu hakkında."
+    },
+    {
+      "id": "word_0738",
+      "translation": "göre",
+      "phonetic": "",
+      "example": "Plana göre."
+    },
+    {
+      "id": "word_0739",
+      "translation": "dahil",
+      "phonetic": "",
+      "example": "Herkes dahil."
+    },
+    {
+      "id": "word_0740",
+      "translation": "takip eden",
+      "phonetic": "",
+      "example": "Takip eden gün."
+    },
+    {
+      "id": "word_0741",
+      "translation": "göz önüne alarak",
+      "phonetic": "",
+      "example": "Durumu göz önüne alarak."
+    },
+    {
+      "id": "word_0742",
+      "translation": "saygı gösterme",
+      "phonetic": "",
+      "example": "Kurallara saygı gösterme."
+    },
+    {
+      "id": "word_0743",
+      "translation": "teşekkürler",
+      "phonetic": "",
+      "example": "Teşekkürler!"
+    },
+    {
+      "id": "word_0744",
+      "translation": "tebrikler",
+      "phonetic": "",
+      "example": "Tebrikler!"
+    },
+    {
+      "id": "word_0745",
+      "translation": "dikkat",
+      "phonetic": "",
+      "example": "Dikkat et!"
+    },
+    {
+      "id": "word_0746",
+      "translation": "özen",
+      "phonetic": "",
+      "example": "Özenle yap."
+    },
+    {
+      "id": "word_0747",
+      "translation": "saygı",
+      "phonetic": "",
+      "example": "Saygı göster."
+    },
+    {
+      "id": "word_0748",
+      "translation": "onur",
+      "phonetic": "",
+      "example": "Büyük onur."
+    },
+    {
+      "id": "word_0749",
+      "translation": "gurur",
+      "phonetic": "",
+      "example": "Gurur duyuyorum."
+    },
+    {
+      "id": "word_0750",
+      "translation": "utanç",
+      "phonetic": "",
+      "example": "Büyük utanç."
+    },
+    {
+      "id": "word_0751",
+      "translation": "korku",
+      "phonetic": "",
+      "example": "Büyük korku."
+    },
+    {
+      "id": "word_0752",
+      "translation": "inanç",
+      "phonetic": "",
+      "example": "Güçlü inanç."
+    },
+    {
+      "id": "word_0753",
+      "translation": "güven",
+      "phonetic": "",
+      "example": "Tam güven."
+    },
+    {
+      "id": "word_0754",
+      "translation": "özgüven",
+      "phonetic": "",
+      "example": "Yüksek özgüven."
+    },
+    {
+      "id": "word_0755",
+      "translation": "şüphe",
+      "phonetic": "",
+      "example": "Ciddi şüphe."
+    },
+    {
+      "id": "word_0756",
+      "translation": "endişe",
+      "phonetic": "",
+      "example": "Derin endişe."
+    },
+    {
+      "id": "word_0757",
+      "translation": "kaygı",
+      "phonetic": "",
+      "example": "Ana kaygı."
+    },
+    {
+      "id": "word_0758",
+      "translation": "görüş",
+      "phonetic": "",
+      "example": "Kişisel görüş."
+    },
+    {
+      "id": "word_0759",
+      "translation": "bakış",
+      "phonetic": "",
+      "example": "Farklı bakış."
+    },
+    {
+      "id": "word_0760",
+      "translation": "his",
+      "phonetic": "",
+      "example": "Güçlü his."
+    },
+    {
+      "id": "word_0761",
+      "translation": "duygu",
+      "phonetic": "",
+      "example": "Karışık duygular."
+    },
+    {
+      "id": "word_0762",
+      "translation": "anlam",
+      "phonetic": "",
+      "example": "Gerçek anlam."
+    },
+    {
+      "id": "word_0763",
+      "translation": "zihin",
+      "phonetic": "",
+      "example": "Açık zihin."
+    },
+    {
+      "id": "word_0764",
+      "translation": "hafıza",
+      "phonetic": "",
+      "example": "Güçlü hafıza."
+    },
+    {
+      "id": "word_0765",
+      "translation": "rüya",
+      "phonetic": "",
+      "example": "Tatlı rüya."
+    },
+    {
+      "id": "word_0766",
+      "translation": "hayal gücü",
+      "phonetic": "",
+      "example": "Zengin hayal gücü."
+    },
+    {
+      "id": "word_0767",
+      "translation": "gerçeklik",
+      "phonetic": "",
+      "example": "Acı gerçeklik."
+    },
+    {
+      "id": "word_0768",
+      "translation": "görünüş",
+      "phonetic": "",
+      "example": "Dış görünüş."
+    },
+    {
+      "id": "word_0769",
+      "translation": "şekil",
+      "phonetic": "",
+      "example": "Geometrik şekil."
+    },
+    {
+      "id": "word_0770",
+      "translation": "boyut",
+      "phonetic": "",
+      "example": "Büyük boyut."
+    },
+    {
+      "id": "word_0771",
+      "translation": "uzunluk",
+      "phonetic": "",
+      "example": "Tam uzunluk."
+    },
+    {
+      "id": "word_0772",
+      "translation": "genişlik",
+      "phonetic": "",
+      "example": "Yol genişliği."
+    },
+    {
+      "id": "word_0773",
+      "translation": "yükseklik",
+      "phonetic": "",
+      "example": "Dağ yüksekliği."
+    },
+    {
+      "id": "word_0774",
+      "translation": "derinlik",
+      "phonetic": "",
+      "example": "Deniz derinliği."
+    },
+    {
+      "id": "word_0775",
+      "translation": "ağırlık",
+      "phonetic": "",
+      "example": "Toplam ağırlık."
+    },
+    {
+      "id": "word_0776",
+      "translation": "hız",
+      "phonetic": "",
+      "example": "Yüksek hız."
+    },
+    {
+      "id": "word_0777",
+      "translation": "mesafe",
+      "phonetic": "",
+      "example": "Uzun mesafe."
+    },
+    {
+      "id": "word_0778",
+      "translation": "yön",
+      "phonetic": "",
+      "example": "Doğru yön."
+    },
+    {
+      "id": "word_0779",
+      "translation": "konum",
+      "phonetic": "",
+      "example": "Merkezi konum."
+    },
+    {
+      "id": "word_0780",
+      "translation": "durum",
+      "phonetic": "",
+      "example": "Zor durum."
+    },
+    {
+      "id": "word_0781",
+      "translation": "şart",
+      "phonetic": "",
+      "example": "İyi şart."
+    },
+    {
+      "id": "word_0782",
+      "translation": "kalite",
+      "phonetic": "",
+      "example": "Yüksek kalite."
+    },
+    {
+      "id": "word_0783",
+      "translation": "miktar",
+      "phonetic": "",
+      "example": "Büyük miktar."
+    },
+    {
+      "id": "word_0784",
+      "translation": "derece",
+      "phonetic": "",
+      "example": "Yüksek derece."
+    },
+    {
+      "id": "word_0785",
+      "translation": "seviye",
+      "phonetic": "",
+      "example": "İleri seviye."
+    },
+    {
+      "id": "word_0786",
+      "translation": "aşama",
+      "phonetic": "",
+      "example": "Son aşama."
+    },
+    {
+      "id": "word_0787",
+      "translation": "adım",
+      "phonetic": "",
+      "example": "İlk adım."
+    },
+    {
+      "id": "word_0788",
+      "translation": "nokta",
+      "phonetic": "",
+      "example": "Önemli nokta."
+    },
+    {
+      "id": "word_0789",
+      "translation": "çizgi",
+      "phonetic": "",
+      "example": "Düz çizgi."
+    },
+    {
+      "id": "word_0790",
+      "translation": "daire",
+      "phonetic": "",
+      "example": "Tam daire."
+    },
+    {
+      "id": "word_0791",
+      "translation": "kare",
+      "phonetic": "",
+      "example": "Düzgün kare."
+    },
+    {
+      "id": "word_0792",
+      "translation": "üçgen",
+      "phonetic": "",
+      "example": "Eşkenar üçgen."
+    },
+    {
+      "id": "word_0793",
+      "translation": "açı",
+      "phonetic": "",
+      "example": "Dik açı."
+    },
+    {
+      "id": "word_0794",
+      "translation": "köşe",
+      "phonetic": "",
+      "example": "Sağ köşe."
+    },
+    {
+      "id": "word_0795",
+      "translation": "kenar",
+      "phonetic": "",
+      "example": "Keskin kenar."
+    },
+    {
+      "id": "word_0796",
+      "translation": "yüzey",
+      "phonetic": "",
+      "example": "Düz yüzey."
+    },
+    {
+      "id": "word_0797",
+      "translation": "merkez",
+      "phonetic": "",
+      "example": "Şehir merkezi."
+    },
+    {
+      "id": "word_0798",
+      "translation": "parça",
+      "phonetic": "",
+      "example": "Küçük parça."
+    },
+    {
+      "id": "word_0799",
+      "translation": "parça",
+      "phonetic": "",
+      "example": "Bir parça ekmek."
+    },
+    {
+      "id": "word_0800",
+      "translation": "parça",
+      "phonetic": "",
+      "example": "Ufak bir parça."
+    },
+    {
+      "id": "word_0801",
+      "translation": "bölüm",
+      "phonetic": "",
+      "example": "İkinci bölüm."
+    },
+    {
+      "id": "word_0802",
+      "translation": "alan",
+      "phonetic": "",
+      "example": "Geniş alan."
+    },
+    {
+      "id": "word_0803",
+      "translation": "bölge",
+      "phonetic": "",
+      "example": "Kuzey bölgesi."
+    },
+    {
+      "id": "word_0804",
+      "translation": "bölge",
+      "phonetic": "",
+      "example": "Tehlike bölgesi."
+    },
+    {
+      "id": "word_0805",
+      "translation": "boşluk",
+      "phonetic": "",
+      "example": "Açık boşluk."
+    },
+    {
+      "id": "word_0806",
+      "translation": "nokta",
+      "phonetic": "",
+      "example": "Güzel nokta."
+    },
+    {
+      "id": "word_0807",
+      "translation": "site",
+      "phonetic": "",
+      "example": "İnşaat sitesi."
+    },
+    {
+      "id": "word_0808",
+      "translation": "konum",
+      "phonetic": "",
+      "example": "Merkezi konum."
+    },
+    {
+      "id": "word_0809",
+      "translation": "adres",
+      "phonetic": "",
+      "example": "Ev adresi."
+    },
+    {
+      "id": "word_0810",
+      "translation": "harita",
+      "phonetic": "",
+      "example": "Şehir haritası."
+    },
+    {
+      "id": "word_0811",
+      "translation": "kuzey",
+      "phonetic": "",
+      "example": "Kuzeye git."
+    },
+    {
+      "id": "word_0812",
+      "translation": "güney",
+      "phonetic": "",
+      "example": "Güneye bak."
+    },
+    {
+      "id": "word_0813",
+      "translation": "doğu",
+      "phonetic": "",
+      "example": "Doğuya dön."
+    },
+    {
+      "id": "word_0814",
+      "translation": "batı",
+      "phonetic": "",
+      "example": "Batıya yürü."
+    },
+    {
+      "id": "word_0815",
+      "translation": "sol",
+      "phonetic": "",
+      "example": "Sola dön."
+    },
+    {
+      "id": "word_0816",
+      "translation": "düz",
+      "phonetic": "",
+      "example": "Düz git."
+    },
+    {
+      "id": "word_0817",
+      "translation": "ileri",
+      "phonetic": "",
+      "example": "İleri hareket et."
+    },
+    {
+      "id": "word_0818",
+      "translation": "geri",
+      "phonetic": "",
+      "example": "Geri git."
+    },
+    {
+      "id": "word_0819",
+      "translation": "yukarı doğru",
+      "phonetic": "",
+      "example": "Yukarı doğru bak."
+    },
+    {
+      "id": "word_0820",
+      "translation": "aşağı doğru",
+      "phonetic": "",
+      "example": "Aşağı doğru in."
+    },
+    {
+      "id": "word_0821",
+      "translation": "yana doğru",
+      "phonetic": "",
+      "example": "Yana doğru hareket et."
+    },
+    {
+      "id": "word_0822",
+      "translation": "burada",
+      "phonetic": "",
+      "example": "Ben buradayım."
+    },
+    {
+      "id": "word_0823",
+      "translation": "nerede",
+      "phonetic": "",
+      "example": "Neredesin?"
+    },
+    {
+      "id": "word_0824",
+      "translation": "her yerde",
+      "phonetic": "",
+      "example": "Her yerde arıyorum."
+    },
+    {
+      "id": "word_0825",
+      "translation": "hiçbir yerde",
+      "phonetic": "",
+      "example": "Hiçbir yerde yok."
+    },
+    {
+      "id": "word_0826",
+      "translation": "bir yerde",
+      "phonetic": "",
+      "example": "Bir yerde olmalı."
+    },
+    {
+      "id": "word_0827",
+      "translation": "herhangi bir yerde",
+      "phonetic": "",
+      "example": "Herhangi bir yerde ol."
+    },
+    {
+      "id": "word_0828",
+      "translation": "her zaman",
+      "phonetic": "",
+      "example": "Her zaman buradayım."
+    },
+    {
+      "id": "word_0829",
+      "translation": "asla",
+      "phonetic": "",
+      "example": "Asla vazgeçme."
+    },
+    {
+      "id": "word_0830",
+      "translation": "bazen",
+      "phonetic": "",
+      "example": "Bazen yorulurum."
+    },
+    {
+      "id": "word_0831",
+      "translation": "sık sık",
+      "phonetic": "",
+      "example": "Sık sık gelirim."
+    },
+    {
+      "id": "word_0832",
+      "translation": "nadiren",
+      "phonetic": "",
+      "example": "Nadiren giderim."
+    },
+    {
+      "id": "word_0833",
+      "translation": "seyrek",
+      "phonetic": "",
+      "example": "Seyrek görüşürüz."
+    },
+    {
+      "id": "word_0834",
+      "translation": "genellikle",
+      "phonetic": "",
+      "example": "Genellikle evdeyim."
+    },
+    {
+      "id": "word_0835",
+      "translation": "normalde",
+      "phonetic": "",
+      "example": "Normalde çalışırım."
+    },
+    {
+      "id": "word_0836",
+      "translation": "genel olarak",
+      "phonetic": "",
+      "example": "Genel olarak iyiyim."
+    },
+    {
+      "id": "word_0837",
+      "translation": "tipik olarak",
+      "phonetic": "",
+      "example": "Tipik olarak böyledir."
+    },
+    {
+      "id": "word_0838",
+      "translation": "sıkça",
+      "phonetic": "",
+      "example": "Sıkça ziyaret ederim."
+    },
+    {
+      "id": "word_0839",
+      "translation": "ara sıra",
+      "phonetic": "",
+      "example": "Ara sıra gelirim."
+    },
+    {
+      "id": "word_0840",
+      "translation": "sürekli",
+      "phonetic": "",
+      "example": "Sürekli çalışıyorum."
+    },
+    {
+      "id": "word_0841",
+      "translation": "sürekli olarak",
+      "phonetic": "",
+      "example": "Sürekli olarak gelişiyor."
+    },
+    {
+      "id": "word_0842",
+      "translation": "düzenli olarak",
+      "phonetic": "",
+      "example": "Düzenli olarak spor yaparım."
+    },
+    {
+      "id": "word_0843",
+      "translation": "hemen",
+      "phonetic": "",
+      "example": "Hemen gel."
+    },
+    {
+      "id": "word_0844",
+      "translation": "anında",
+      "phonetic": "",
+      "example": "Anında yap."
+    },
+    {
+      "id": "word_0845",
+      "translation": "aniden",
+      "phonetic": "",
+      "example": "Aniden durdu."
+    },
+    {
+      "id": "word_0846",
+      "translation": "hızlıca",
+      "phonetic": "",
+      "example": "Hızlıca koş."
+    },
+    {
+      "id": "word_0847",
+      "translation": "yavaşça",
+      "phonetic": "",
+      "example": "Yavaşça yürü."
+    },
+    {
+      "id": "word_0848",
+      "translation": "kademeli olarak",
+      "phonetic": "",
+      "example": "Kademeli olarak artar."
+    },
+    {
+      "id": "word_0849",
+      "translation": "hızla",
+      "phonetic": "",
+      "example": "Hızla büyüyor."
+    },
+    {
+      "id": "word_0850",
+      "translation": "yakında",
+      "phonetic": "",
+      "example": "Yakında görüşürüz."
+    },
+    {
+      "id": "word_0851",
+      "translation": "son zamanlarda",
+      "phonetic": "",
+      "example": "Son zamanlarda meşgulüm."
+    },
+    {
+      "id": "word_0852",
+      "translation": "yakın zamanda",
+      "phonetic": "",
+      "example": "Yakın zamanda gördüm."
+    },
+    {
+      "id": "word_0853",
+      "translation": "şu anda",
+      "phonetic": "",
+      "example": "Şu anda çalışıyorum."
+    },
+    {
+      "id": "word_0854",
+      "translation": "şu an",
+      "phonetic": "",
+      "example": "Şu an meşgulüm."
+    },
+    {
+      "id": "word_0855",
+      "translation": "sonunda",
+      "phonetic": "",
+      "example": "Sonunda başardık."
+    },
+    {
+      "id": "word_0856",
+      "translation": "nihayet",
+      "phonetic": "",
+      "example": "Nihayet geldin."
+    },
+    {
+      "id": "word_0857",
+      "translation": "son olarak",
+      "phonetic": "",
+      "example": "Son olarak teşekkürler."
+    },
+    {
+      "id": "word_0858",
+      "translation": "öncelikle",
+      "phonetic": "",
+      "example": "Öncelikle bunu yapalım."
+    },
+    {
+      "id": "word_0859",
+      "translation": "ikinci olarak",
+      "phonetic": "",
+      "example": "İkinci olarak bu."
+    },
+    {
+      "id": "word_0860",
+      "translation": "kısmen",
+      "phonetic": "",
+      "example": "Kısmen doğru."
+    },
+    {
+      "id": "word_0861",
+      "translation": "çoğunlukla",
+      "phonetic": "",
+      "example": "Çoğunlukla evdeyim."
+    },
+    {
+      "id": "word_0862",
+      "translation": "neredeyse",
+      "phonetic": "",
+      "example": "Neredeyse bitti."
+    },
+    {
+      "id": "word_0863",
+      "translation": "hemen hemen",
+      "phonetic": "",
+      "example": "Hemen hemen aynı."
+    },
+    {
+      "id": "word_0864",
+      "translation": "oldukça",
+      "phonetic": "",
+      "example": "Oldukça iyi."
+    },
+    {
+      "id": "word_0865",
+      "translation": "daha çok",
+      "phonetic": "",
+      "example": "Daha çok yorgunum."
+    },
+    {
+      "id": "word_0866",
+      "translation": "oldukça",
+      "phonetic": "",
+      "example": "Oldukça güzel."
+    },
+    {
+      "id": "word_0867",
+      "translation": "oldukça",
+      "phonetic": "",
+      "example": "Oldukça kolay."
+    },
+    {
+      "id": "word_0868",
+      "translation": "çok",
+      "phonetic": "",
+      "example": "Çok güzel."
+    },
+    {
+      "id": "word_0869",
+      "translation": "çok fazla",
+      "phonetic": "",
+      "example": "Çok fazla sıcak."
+    },
+    {
+      "id": "word_0870",
+      "translation": "yeterince",
+      "phonetic": "",
+      "example": "Yeterince iyi."
+    },
+    {
+      "id": "word_0871",
+      "translation": "son derece",
+      "phonetic": "",
+      "example": "Son derece önemli."
+    },
+    {
+      "id": "word_0872",
+      "translation": "oldukça",
+      "phonetic": "",
+      "example": "Oldukça başarılı."
+    },
+    {
+      "id": "word_0873",
+      "translation": "tamamen",
+      "phonetic": "",
+      "example": "Tamamen bitti."
+    },
+    {
+      "id": "word_0874",
+      "translation": "tamamen",
+      "phonetic": "",
+      "example": "Tamamen doğru."
+    },
+    {
+      "id": "word_0875",
+      "translation": "kesinlikle",
+      "phonetic": "",
+      "example": "Kesinlikle evet."
+    },
+    {
+      "id": "word_0876",
+      "translation": "mükemmel şekilde",
+      "phonetic": "",
+      "example": "Mükemmel şekilde yaptın."
+    },
+    {
+      "id": "word_0877",
+      "translation": "tamamen",
+      "phonetic": "",
+      "example": "Tamamen farklı."
+    },
+    {
+      "id": "word_0878",
+      "translation": "tamamen",
+      "phonetic": "",
+      "example": "Tamamen dolu."
+    },
+    {
+      "id": "word_0879",
+      "translation": "bütünüyle",
+      "phonetic": "",
+      "example": "Bütünüyle kabul ediyorum."
+    },
+    {
+      "id": "word_0880",
+      "translation": "hafifçe",
+      "phonetic": "",
+      "example": "Hafifçe ıslak."
+    },
+    {
+      "id": "word_0881",
+      "translation": "biraz",
+      "phonetic": "",
+      "example": "Biraz yorgunum."
+    },
+    {
+      "id": "word_0882",
+      "translation": "zar zor",
+      "phonetic": "",
+      "example": "Zar zor gördüm."
+    },
+    {
+      "id": "word_0883",
+      "translation": "güçlükle",
+      "phonetic": "",
+      "example": "Güçlükle yaptım."
+    },
+    {
+      "id": "word_0884",
+      "translation": "hemen hemen hiç",
+      "phonetic": "",
+      "example": "Hemen hemen hiç yok."
+    },
+    {
+      "id": "word_0885",
+      "translation": "sadece",
+      "phonetic": "",
+      "example": "Sadece bu kadar."
+    },
+    {
+      "id": "word_0886",
+      "translation": "basitçe",
+      "phonetic": "",
+      "example": "Basitçe söyle."
+    },
+    {
+      "id": "word_0887",
+      "translation": "temel olarak",
+      "phonetic": "",
+      "example": "Temel olarak aynı."
+    },
+    {
+      "id": "word_0888",
+      "translation": "esasen",
+      "phonetic": "",
+      "example": "Esasen doğru."
+    },
+    {
+      "id": "word_0889",
+      "translation": "temelde",
+      "phonetic": "",
+      "example": "Temelde önemli."
+    },
+    {
+      "id": "word_0890",
+      "translation": "öncelikle",
+      "phonetic": "",
+      "example": "Öncelikle bu."
+    },
+    {
+      "id": "word_0891",
+      "translation": "esas olarak",
+      "phonetic": "",
+      "example": "Esas olarak burada."
+    },
+    {
+      "id": "word_0892",
+      "translation": "özellikle",
+      "phonetic": "",
+      "example": "Özellikle bu."
+    },
+    {
+      "id": "word_0893",
+      "translation": "büyük ölçüde",
+      "phonetic": "",
+      "example": "Büyük ölçüde başarılı."
+    },
+    {
+      "id": "word_0894",
+      "translation": "büyük ölçüde",
+      "phonetic": "",
+      "example": "Büyük ölçüde gelişti."
+    },
+    {
+      "id": "word_0895",
+      "translation": "derinden",
+      "phonetic": "",
+      "example": "Derinden üzgünüm."
+    },
+    {
+      "id": "word_0896",
+      "translation": "ciddi şekilde",
+      "phonetic": "",
+      "example": "Ciddi şekilde düşün."
+    },
+    {
+      "id": "word_0897",
+      "translation": "açıkça",
+      "phonetic": "",
+      "example": "Açıkça söyle."
+    },
+    {
+      "id": "word_0898",
+      "translation": "açıkça",
+      "phonetic": "",
+      "example": "Açıkça görülüyor."
+    },
+    {
+      "id": "word_0899",
+      "translation": "görünüşe göre",
+      "phonetic": "",
+      "example": "Görünüşe göre doğru."
+    },
+    {
+      "id": "word_0900",
+      "translation": "belli ki",
+      "phonetic": "",
+      "example": "Belli ki haklısın."
+    },
+    {
+      "id": "word_0901",
+      "translation": "kesinlikle",
+      "phonetic": "",
+      "example": "Kesinlikle gelirim."
+    },
+    {
+      "id": "word_0902",
+      "translation": "kesinlikle",
+      "phonetic": "",
+      "example": "Kesinlikle doğru."
+    },
+    {
+      "id": "word_0903",
+      "translation": "elbette",
+      "phonetic": "",
+      "example": "Elbette yapabilirim."
+    },
+    {
+      "id": "word_0904",
+      "translation": "muhtemelen",
+      "phonetic": "",
+      "example": "Muhtemelen yağmur yağacak."
+    },
+    {
+      "id": "word_0905",
+      "translation": "olasılıkla",
+      "phonetic": "",
+      "example": "Olasılıkla gelir."
+    },
+    {
+      "id": "word_0906",
+      "translation": "belki",
+      "phonetic": "",
+      "example": "Belki yarın."
+    },
+    {
+      "id": "word_0907",
+      "translation": "belki",
+      "phonetic": "",
+      "example": "Belki gelirim."
+    },
+    {
+      "id": "word_0908",
+      "translation": "muhtemel",
+      "phonetic": "",
+      "example": "Muhtemel sonuç."
+    },
+    {
+      "id": "word_0909",
+      "translation": "olası değil",
+      "phonetic": "",
+      "example": "Olası değil gelsin."
+    },
+    {
+      "id": "word_0910",
+      "translation": "neyse ki",
+      "phonetic": "",
+      "example": "Neyse ki sağlıklı."
+    },
+    {
+      "id": "word_0911",
+      "translation": "ne yazık ki",
+      "phonetic": "",
+      "example": "Ne yazık ki gelemedi."
+    },
+    {
+      "id": "word_0912",
+      "translation": "şans eseri",
+      "phonetic": "",
+      "example": "Şans eseri buldum."
+    },
+    {
+      "id": "word_0913",
+      "translation": "mutlulukla",
+      "phonetic": "",
+      "example": "Mutlulukla kabul ettim."
+    },
+    {
+      "id": "word_0914",
+      "translation": "üzülerek",
+      "phonetic": "",
+      "example": "Üzülerek söylüyorum."
+    },
+    {
+      "id": "word_0915",
+      "translation": "umarım",
+      "phonetic": "",
+      "example": "Umarım gelir."
+    },
+    {
+      "id": "word_0916",
+      "translation": "doğal olarak",
+      "phonetic": "",
+      "example": "Doğal olarak öyle."
+    },
+    {
+      "id": "word_0917",
+      "translation": "şahsen",
+      "phonetic": "",
+      "example": "Şahsen katılıyorum."
+    },
+    {
+      "id": "word_0918",
+      "translation": "dürüstçe",
+      "phonetic": "",
+      "example": "Dürüstçe söyleyeyim."
+    },
+    {
+      "id": "word_0919",
+      "translation": "açıkçası",
+      "phonetic": "",
+      "example": "Açıkçası bilmiyorum."
+    },
+    {
+      "id": "word_0920",
+      "translation": "gerçekten",
+      "phonetic": "",
+      "example": "Gerçekten öyle."
+    },
+    {
+      "id": "word_0921",
+      "translation": "gerçekten",
+      "phonetic": "",
+      "example": "Gerçekten mi?"
+    },
+    {
+      "id": "word_0922",
+      "translation": "aslında",
+      "phonetic": "",
+      "example": "Aslında öyle değil."
+    },
+    {
+      "id": "word_0923",
+      "translation": "gerçekten",
+      "phonetic": "",
+      "example": "Gerçekten güzel."
+    },
+    {
+      "id": "word_0924",
+      "translation": "elbette",
+      "phonetic": "",
+      "example": "Elbette yardım ederim."
+    },
+    {
+      "id": "word_0925",
+      "translation": "tamam",
+      "phonetic": "",
+      "example": "Tamam, gidiyorum."
+    },
+    {
+      "id": "word_0926",
+      "translation": "tamam",
+      "phonetic": "",
+      "example": "Tamam, anladım."
+    },
+    {
+      "id": "word_0927",
+      "translation": "iyi",
+      "phonetic": "",
+      "example": "İyi, kabul."
+    },
+    {
+      "id": "word_0928",
+      "translation": "peki",
+      "phonetic": "",
+      "example": "Peki, öyle olsun."
+    },
+    {
+      "id": "word_0929",
+      "translation": "oh",
+      "phonetic": "",
+      "example": "Oh, anladım."
+    },
+    {
+      "id": "word_0930",
+      "translation": "ah",
+      "phonetic": "",
+      "example": "Ah, hatırladım."
+    },
+    {
+      "id": "word_0931",
+      "translation": "hey",
+      "phonetic": "",
+      "example": "Hey, bekle!"
+    },
+    {
+      "id": "word_0932",
+      "translation": "vay",
+      "phonetic": "",
+      "example": "Vay be!"
+    },
+    {
+      "id": "word_0933",
+      "translation": "eyvah",
+      "phonetic": "",
+      "example": "Eyvah, düştü!"
+    },
+    {
+      "id": "word_0934",
+      "translation": "ay",
+      "phonetic": "",
+      "example": "Ay, acıdı!"
+    },
+    {
+      "id": "word_0935",
+      "translation": "yaşasın",
+      "phonetic": "",
+      "example": "Yaşasın, kazandık!"
+    },
+    {
+      "id": "word_0936",
+      "translation": "altında",
+      "phonetic": "",
+      "example": "Masanın altında."
+    },
+    {
+      "id": "word_0937",
+      "translation": "internet",
+      "phonetic": "",
+      "example": "İnternet bağlantısı."
+    },
+    {
+      "id": "word_0938",
+      "translation": "internet sitesi",
+      "phonetic": "",
+      "example": "Resmi internet sitesi."
+    },
+    {
+      "id": "word_0939",
+      "translation": "mesaj",
+      "phonetic": "",
+      "example": "Yeni mesaj."
+    },
+    {
+      "id": "word_0940",
+      "translation": "metin",
+      "phonetic": "",
+      "example": "Yazılı metin."
+    },
+    {
+      "id": "word_0941",
+      "translation": "dizi",
+      "phonetic": "",
+      "example": "Televizyon dizisi."
+    },
+    {
+      "id": "word_0942",
+      "translation": "plaj",
+      "phonetic": "",
+      "example": "Kumlu plaj."
+    },
+    {
+      "id": "word_0943",
+      "translation": "hava durumu",
+      "phonetic": "",
+      "example": "Hava durumu güzel."
+    },
+    {
+      "id": "word_0944",
+      "translation": "güneşli",
+      "phonetic": "",
+      "example": "Güneşli bir gün."
+    },
+    {
+      "id": "word_0945",
+      "translation": "yağmurlu",
+      "phonetic": "",
+      "example": "Yağmurlu hava."
+    },
+    {
+      "id": "word_0946",
+      "translation": "bulutlu",
+      "phonetic": "",
+      "example": "Bulutlu gökyüzü."
+    },
+    {
+      "id": "word_0947",
+      "translation": "rüzgarlı",
+      "phonetic": "",
+      "example": "Rüzgarlı hava."
+    },
+    {
+      "id": "word_0948",
+      "translation": "ödev",
+      "phonetic": "",
+      "example": "Matematik ödevi."
+    },
+    {
+      "id": "word_0949",
+      "translation": "sınav",
+      "phonetic": "",
+      "example": "Yazılı sınav."
+    },
+    {
+      "id": "word_0950",
+      "translation": "sınav",
+      "phonetic": "",
+      "example": "Final sınavı."
+    },
+    {
+      "id": "word_0951",
+      "translation": "not",
+      "phonetic": "",
+      "example": "Yüksek not."
+    },
+    {
+      "id": "word_0952",
+      "translation": "konu",
+      "phonetic": "",
+      "example": "Ders konusu."
+    },
+    {
+      "id": "word_0953",
+      "translation": "seyahat",
+      "phonetic": "",
+      "example": "Uzun seyahat."
+    },
+    {
+      "id": "word_0954",
+      "translation": "gezi",
+      "phonetic": "",
+      "example": "Okul gezisi."
+    },
+    {
+      "id": "word_0955",
+      "translation": "tatil",
+      "phonetic": "",
+      "example": "Yaz tatili."
+    },
+    {
+      "id": "word_0956",
+      "translation": "bilet",
+      "phonetic": "",
+      "example": "Uçak bileti."
+    },
+    {
+      "id": "word_0957",
+      "translation": "şifre",
+      "phonetic": "",
+      "example": "Güvenli şifre."
+    },
+    {
+      "id": "word_0958",
+      "translation": "ekran",
+      "phonetic": "",
+      "example": "Bilgisayar ekranı."
+    },
+    {
+      "id": "word_0959",
+      "translation": "klavye",
+      "phonetic": "",
+      "example": "Kablosuz klavye."
+    },
+    {
+      "id": "word_0960",
+      "translation": "fare",
+      "phonetic": "",
+      "example": "Bilgisayar faresi."
+    },
+    {
+      "id": "word_0961",
+      "translation": "cüzdan",
+      "phonetic": "",
+      "example": "Deri cüzdan."
+    },
+    {
+      "id": "word_0962",
+      "translation": "pasaport",
+      "phonetic": "",
+      "example": "Geçerli pasaport."
+    },
+    {
+      "id": "word_0963",
+      "translation": "rahat",
+      "phonetic": "",
+      "example": "Rahat koltuk."
+    },
+    {
+      "id": "word_0964",
+      "translation": "eğlenceli",
+      "phonetic": "",
+      "example": "Eğlenceli oyun."
+    },
+    {
+      "id": "word_0965",
+      "translation": "sıkıcı",
+      "phonetic": "",
+      "example": "Sıkıcı film."
+    },
+    {
+      "id": "word_0966",
+      "translation": "toplantı",
+      "phonetic": "",
+      "example": "İş toplantısı."
+    },
+    {
+      "id": "word_0967",
+      "translation": "pratik",
+      "phonetic": "",
+      "example": "Pratik yapıyorum."
+    },
+    {
+      "id": "word_0968",
+      "translation": "patron",
+      "phonetic": "",
+      "example": "Şirket patronu."
+    },
+    {
+      "id": "word_0969",
+      "translation": "meslektaş",
+      "phonetic": "",
+      "example": "İş arkadaşı."
+    },
+    {
+      "id": "word_0970",
+      "translation": "futbol",
+      "phonetic": "",
+      "example": "Futbol maçı."
+    },
+    {
+      "id": "word_0971",
+      "translation": "basketbol",
+      "phonetic": "",
+      "example": "Basketbol topu."
+    },
+    {
+      "id": "word_0972",
+      "translation": "tenis",
+      "phonetic": "",
+      "example": "Tenis raketi."
+    },
+    {
+      "id": "word_0973",
+      "translation": "ziyaret",
+      "phonetic": "",
+      "example": "Müze ziyareti."
+    },
+    {
+      "id": "word_0974",
+      "translation": "bisiklet",
+      "phonetic": "",
+      "example": "Dağ bisikleti."
+    },
+    {
+      "id": "word_0975",
+      "translation": "korkmuş",
+      "phonetic": "",
+      "example": "Çok korkmuşum."
+    },
+    {
+      "id": "word_0976",
+      "translation": "heyecanlı",
+      "phonetic": "",
+      "example": "Çok heyecanlıyım."
+    },
+    {
+      "id": "word_0977",
+      "translation": "gergin",
+      "phonetic": "",
+      "example": "Biraz gerginim."
+    },
+    {
+      "id": "word_0978",
+      "translation": "rahat",
+      "phonetic": "",
+      "example": "Kendimi rahat hissediyorum."
+    },
+    {
+      "id": "word_0979",
+      "translation": "daha güçlü",
+      "phonetic": "",
+      "example": "Daha güçlü ol."
+    },
+    {
+      "id": "word_0980",
+      "translation": "daha zayıf",
+      "phonetic": "",
+      "example": "Daha zayıf kaldı."
+    },
+    {
+      "id": "word_0981",
+      "translation": "kulak",
+      "phonetic": "",
+      "example": "Sağ kulak."
+    },
+    {
+      "id": "word_0982",
+      "translation": "burun",
+      "phonetic": "",
+      "example": "Küçük burun."
+    },
+    {
+      "id": "word_0983",
+      "translation": "ağız",
+      "phonetic": "",
+      "example": "Açık ağız."
+    },
+    {
+      "id": "word_0984",
+      "translation": "diş",
+      "phonetic": "",
+      "example": "Beyaz diş."
+    },
+    {
+      "id": "word_0985",
+      "translation": "sırt çantası",
+      "phonetic": "",
+      "example": "Okul sırt çantası."
+    },
+    {
+      "id": "word_0986",
+      "translation": "defter",
+      "phonetic": "",
+      "example": "Ders defteri."
+    },
+    {
+      "id": "word_0987",
+      "translation": "takvim",
+      "phonetic": "",
+      "example": "Duvar takvimi."
+    },
+    {
+      "id": "word_0988",
+      "translation": "yüzük",
+      "phonetic": "",
+      "example": "Altın yüzük."
+    },
+    {
+      "id": "word_0989",
+      "translation": "festival",
+      "phonetic": "",
+      "example": "Müzik festivali."
+    },
+    {
+      "id": "word_0990",
+      "translation": "sayfa",
+      "phonetic": "",
+      "example": "Kitap sayfası."
+    },
+    {
+      "id": "word_0991",
+      "translation": "sıcaklık",
+      "phonetic": "",
+      "example": "Yüksek sıcaklık."
+    },
+    {
+      "id": "word_0992",
+      "translation": "enerji",
+      "phonetic": "",
+      "example": "Yenilenebilir enerji."
+    },
+    {
+      "id": "word_0993",
+      "translation": "elektrik",
+      "phonetic": "",
+      "example": "Elektrik kesintisi."
+    },
+    {
+      "id": "word_0994",
+      "translation": "pil",
+      "phonetic": "",
+      "example": "Şarj edilebilir pil."
+    },
+    {
+      "id": "word_0995",
+      "translation": "sinyal",
+      "phonetic": "",
+      "example": "Güçlü sinyal."
+    },
+    {
+      "id": "word_0996",
+      "translation": "ada",
+      "phonetic": "",
+      "example": "Tropik ada."
+    },
+    {
+      "id": "word_0997",
+      "translation": "apartman dairesi",
+      "phonetic": "",
+      "example": "Üç odalı daire."
+    },
+    {
+      "id": "word_0998",
+      "translation": "uzaktan kumanda",
+      "phonetic": "",
+      "example": "TV kumandası."
+    },
+    {
+      "id": "word_0999",
+      "translation": "battaniye",
+      "phonetic": "",
+      "example": "Sıcak battaniye."
+    },
+    {
+      "id": "word_1000",
+      "translation": "yastık",
+      "phonetic": "",
+      "example": "Yumuşak yastık."
+    }
+  ]
+}
